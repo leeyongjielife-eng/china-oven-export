@@ -38,11 +38,20 @@
 
 - **Phase:** 0 — 验证期（**Week 2 · Day 3** ✅）
 - **瓶颈:** 买家 **40/50**（80%）；外联草稿 **19/30**；距 Week 2 结束剩 **3 天**
-- **优势:** 40 家均已联系人就绪 + 15 家 A 级 + **Automation 已启用**（一三五 09:00；**7/14 周一首次跑**）
+- **优势:** 40 家均已联系人就绪 + 15 家 A 级 + **每日 Founder Automation 已启用**（每天 09:00 GMT+8；**7/13 首次跑**）
 - **本周必须完成:** 积满 50 买家（不发信）
 - **暂不做:** 外联发信（Week 3）、Gmail MCP（Week 3 前再搭）、问叔叔
 
----
+### Automation（2026-07-12 更新）
+
+| 名称 | 触发 | 仓库 | 状态 |
+|------|------|------|------|
+| **Kamado 每日 Founder — 澳洲** | 每天 09:00 GMT+8 · `main` | [china-oven-export](https://github.com/leeyongjielife-eng/china-oven-export) | ✅ **Active** |
+| ~~Kamado 找买家 — 澳洲~~ | ~~一/三/五 09:00~~ | — | ⏸️ **建议关闭**（与每日 Founder 重复） |
+
+**运行逻辑：** 读 `founder.md` 排期 → 执行 Sales（积买家 + 草稿）→ 写回 Company Brain → 输出漏斗摘要。
+
+**重要：** Automation 读 **GitHub 上的代码**。本地改完文档须 `git commit && git push`，次日 09:00 才能跑到最新状态。
 
 ## 今日排期（2026-07-12 · Founder 排程 · Day 3）✅ 已完成
 
@@ -61,7 +70,7 @@
 | 优先级 | 指派 | 任务 | 目标 |
 |:---:|------|------|------|
 | **P0** | **Sales** | 再找 10 家买家 | **50/50** ✅ Week 2 积买家完成 |
-| **P1** | **Co-founder** | 更新 Automation「跳过名单」→ 当前 **40 家**（避免 7/14 重复） | 可选但建议 |
+| **P1** | **Co-founder** | 关闭旧 Automation「Kamado 找买家」（若仍 Active） | 建议 |
 
 ```text
 Sales ×1：找买家 +10 → 50/50（Week 2 目标达成）
@@ -143,8 +152,9 @@ Sales ×1：找买家 +10 → 50/50（Week 2 目标达成）
 | 日期 | 调度 | 任务 | 结果写回 |
 |------|------|------|----------|
 | 2026-07-10 | — | 项目架构对齐 GPT Company Brain | `lessons.md` |
-| 2026-07-10 | Automation | 每周一三五 09:00 定时找澳洲买家 | Glass Automations 预填 |
-| 2026-07-11 | Co-founder | **Automation 已启用**（Lee 确认） | 下周一 09:00 首次自动跑 |
+| 2026-07-10 | Automation | 每周一三五 09:00 定时找澳洲买家（旧） | Glass Automations 预填 |
+| 2026-07-11 | Co-founder | 旧 Automation「找买家」已启用 | 已由每日 Founder 取代 |
+| 2026-07-12 | Co-founder | **每日 Founder Automation 已启用**（09:00 · main · public repo） | 7/13 首次自动跑 |
 | 2026-07-10 | Sales | 找买家 +10、补联系人 #4–#9、草稿 #4–#9 | `pipeline.md` 20/50 · `outreach-drafts.md` |
 | 2026-07-11 | Founder → Sales | Day 2：+10 买家、草稿 #10–#14 | `pipeline.md` 30/50 · `outreach-drafts.md` 14/30 |
 | 2026-07-11 | Founder | Day 2 复盘 + Day 3 排期 | `founder.md` |
