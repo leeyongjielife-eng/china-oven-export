@@ -65,6 +65,7 @@ Research → Offer → Sales → Quoting → Supplier
 | 竞品零售锚点数据 | `workspace/markets/competitor-benchmark.md` | 指向 |
 | 人机发信政策 | `company/cofounder.md` 分工原则 | 指向 |
 | 子代理角色 / 边界 / 触发 | 对应 `workflows/<agent>.md` | 指向 |
+| **Founder → Sales 当日任务单** | `workspace/dispatch/today.md` | 指向 |
 | 周节奏日历 | `plan/week-0X.md` | 指向 |
 | 单向依赖 + SSOT 硬规定 | 本文件（`README.md`） | 指向 |
 

@@ -15,6 +15,45 @@
 
 为具体买家制作**正式 FOB 报价单**（PI / Quotation）。
 
+---
+
+## 角色边界
+
+### 职责内
+
+| 任务 | 输出位置 |
+|------|----------|
+| 按买家需求生成 FOB 报价单 | `workspace/quotes/[buyer]-[date].md` |
+| 更新买家 Stage → Quoted | `workspace/buyers/pipeline.md` |
+| 同步漏斗 | `company/sales.md` |
+| 列出缺 FOB/证书项 | 报价单内 `[TBD]` + 触发 Supplier 清单 |
+
+### 职责外（不做）
+
+| ❌ 不做 | ✅ 交给 |
+|--------|--------|
+| 改 Offer 战略承诺 | **Offer** |
+| 直接向 YUEFU 询价（真人） | **Supplier** / **Co-founder** |
+| 找买家、外联、跟进关系 | **Sales** |
+| 选市场 | **Research** |
+| 排期 | **Founder** |
+
+### 文件读写权限
+
+| 可读 | 可写 | 禁止写 |
+|------|------|--------|
+| `company/product.md` | `workspace/quotes/*` | `company/product.md` Offer |
+| `company/customers.md` | `workspace/buyers/pipeline.md`（Stage） | `company/founder.md` |
+| `workspace/suppliers/*/product-summary.md` | `company/sales.md` | `company/research.md` |
+| `workspace/buyers/pipeline.md` | | `workspace/dispatch/today.md` |
+
+### 交接规则
+
+- **上游：** Sales 将买家标为 **Qualified** 后，Founder 或用户触发 Quoting。
+- **缺 FOB：** 单向触发 **Supplier**；Supplier 写 `product.md`，Quoting **读文件**，不反向调用 Sales。
+
+---
+
 ## 启动前必读
 
 - `company/product.md`（Offer + 供应商摘要）

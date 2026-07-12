@@ -85,7 +85,8 @@ flowchart LR
 | Research | `workspace/markets/keywords.md`, `learn/export-basics.md` |
 | Supplier | `workspace/suppliers/*/`, `templates/supplier-inquiry.md` |
 | Offer | `learn/export-basics.md` |
-| Sales | `workspace/buyers/pipeline.md`, `templates/outreach.md` |
+| Sales | `workspace/buyers/pipeline.md`, `templates/outreach.md`, **`workspace/dispatch/today.md`** |
+| Founder | **`workspace/dispatch/today.md`**, `plan/week-XX.md` |
 | Quoting | `workspace/suppliers/*/product-summary.md`, `templates/quotation.md` |
 | Content | `workspace/content/`, `company/lessons.md` |
 
@@ -105,6 +106,33 @@ flowchart LR
 **禁止：** 只在聊天里得出结论却不写回文件。
 
 **SSOT + 单向依赖：** 每条信息只写唯一文档，其余指向它；子代理调用/交接单向无环。硬规定与归属表见根 [`README.md`](../README.md#单向依赖dag硬规定)。
+
+---
+
+## 全角色边界总表
+
+> 各角色详细边界见对应 `workflows/<agent>.md`。**人类 Co-founder** 见 [`company/cofounder.md`](../company/cofounder.md)。
+
+| 角色 | 一句话 | 主要写 | 禁止写 | 谁触发 |
+|------|--------|--------|--------|--------|
+| **Founder** | CEO / 排期 / 派发 | `founder.md`, `strategy.md`, `dispatch/today.md`（派发） | `pipeline`, 草稿, 报价 | 默认入口 / Automation 09:00 |
+| **Sales** | 找买家 / 外联 / 漏斗 | `pipeline.md`, `outreach-drafts.md`, `sales.md`, `today.md`（完成） | `founder.md` 排期 | `today.md` pending / 用户 `启动 Sales` |
+| **Research** | 选 1 个目标市场 | `research.md`, `customers.md`, `markets/` | `pipeline`, `sales.md` | Founder / `正式Research` |
+| **Supplier** | 核验 / 询价 / FOB | `product.md` 摘要, `suppliers/` | `pipeline`, 外联 | Founder / Quoting |
+| **Offer** | 卖什么承诺（战略） | `product.md` Offer | 具体买家报价 | Founder |
+| **Quoting** | 给某买家的 FOB 单 | `workspace/quotes/` | Offer 章节 | Sales Qualified 后 |
+| **Content** | 信任内容 W3+ | `workspace/content/` | `pipeline`, 外联 | Founder |
+| **Co-founder（人）** | 资源 / 拍板 / 真人动作 | `cofounder.md` 动作记录 | AI 代写战略 | — |
+
+### 交接链（单向）
+
+```text
+Founder ──派发──► today.md ──执行──► Sales ──Qualified──► Quoting
+   │                                      │
+   ├──► Research ──► customers.md         └──读──► product.md ◄── Supplier
+   ├──► Offer ──► product.md Offer
+   └──► Content（W3+）
+```
 
 ---
 
@@ -131,7 +159,7 @@ flowchart LR
 | 周 | 活跃子代理 | 交接方向（单向） |
 |----|-----------|------------------|
 | Week 1 | Founder → Supplier → Offer | 盘点资源 → 定品类 → 定报价 |
-| Week 2 | Research → Sales | 选市场 → 积 50 买家（不发信） |
+| Week 2 | Research → **Founder → Sales** | 选市场 → **派发 today.md** → 积 50 买家（不发信） |
 | Week 3 | Sales | 外联，要回复不要成交 |
 | Week 4 | Sales → Quoting → Supplier | 有 Qualified 才向下游交接；Quoting 读 `product.md` 取 FOB |
 | Month 2+ | Sales → Quoting → Supplier | 只跟进 Qualified 买家 |

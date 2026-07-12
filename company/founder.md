@@ -46,10 +46,11 @@
 
 | 名称 | 触发 | 仓库 | 状态 |
 |------|------|------|------|
-| **Kamado 每日 Founder — 澳洲** | 每天 09:00 GMT+8 · `main` | [china-oven-export](https://github.com/leeyongjielife-eng/china-oven-export) | ✅ **Active** |
-| ~~Kamado 找买家 — 澳洲~~ | ~~一/三/五 09:00~~ | — | ⏸️ **建议关闭**（与每日 Founder 重复） |
+| **Kamado 每日 Founder — 澳洲** | 每天 **09:00** GMT+8 · `main` | [china-oven-export](https://github.com/leeyongjielife-eng/china-oven-export) | ✅ **Active** |
+| **Kamado 每日 Sales — 澳洲** | 每天 **09:15** GMT+8 · `main` | 同上 | ⏳ 待启用 |
+| ~~Kamado 找买家 — 澳洲~~ | ~~一/三/五 09:00~~ | — | ⏸️ **应关闭** |
 
-**运行逻辑：** 读 `founder.md` 排期 → 执行 Sales（积买家 + 草稿）→ 写回 Company Brain → 输出漏斗摘要。
+**运行逻辑：** Founder 09:00 派发 `dispatch/today.md` → Sales 09:15 执行（见 [`workspace/dispatch/README.md`](../workspace/dispatch/README.md)）。
 
 **重要：** Automation 读 **GitHub 上的代码**。本地改完文档须 `git commit && git push`，次日 09:00 才能跑到最新状态。
 

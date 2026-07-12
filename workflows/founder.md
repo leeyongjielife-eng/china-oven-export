@@ -81,7 +81,53 @@
 | 战略调整 | `company/strategy.md` |
 | 周复盘、教训合成 | `company/lessons.md` |
 | Co-founder 问题 | `founder.md` + `cofounder.md` |
-| 子代理任务单 | 聊天中给出，或触发对应 workflow |
+| 子代理任务单 | [`workspace/dispatch/today.md`](../workspace/dispatch/today.md)（**Founder 写派发 / Sales 写完成态**） |
+
+## 角色边界
+
+> 交接协议详见 [`workspace/dispatch/README.md`](../workspace/dispatch/README.md)。
+
+### 职责内
+
+| 任务 | 输出位置 |
+|------|----------|
+| 阶段判断、本周/今日/明日排期 | `company/founder.md` |
+| 向 Sales **派发**当日任务（仅 Sales 可执行项） | `workspace/dispatch/today.md`（`status: pending`） |
+| 签收 Sales 完成回写 | `today.md`「Founder 签收」+ `founder.md` 调度日志 |
+| 战略调整 | `company/strategy.md` |
+| 周复盘、教训合成 | `company/lessons.md` |
+| 调度日志 | `company/founder.md` |
+| 向 Co-founder 提问 | `founder.md` + `cofounder.md` |
+
+### 职责外（不做）
+
+| ❌ 不做 | ✅ 交给 |
+|--------|--------|
+| 找买家、写 pipeline | **Sales**（读 `today.md` 执行） |
+| 外联草稿 / 发信 | **Sales** |
+| 选市场、竞品宏观研究 | **Research** |
+| 向 YUEFU 询价、索证 | **Supplier** 或 **Co-founder** |
+| 正式 FOB 报价单 | **Quoting** |
+| 改 Offer 承诺 | **Offer** |
+| LinkedIn 长文 | **Content** |
+| 微信/电话问叔叔、付款、验货 | **Co-founder** |
+| 把 Co-founder 任务写入 `today.md` | 只写 `founder.md` / `cofounder.md` |
+
+### 文件读写权限
+
+| 可读 | 可写 | 禁止写 |
+|------|------|--------|
+| `company/` 全部 8 文件 | `company/founder.md` | `workspace/buyers/pipeline.md` |
+| `workspace/dispatch/today.md` | `company/strategy.md` | `workspace/buyers/outreach-drafts.md` |
+| `workspace/` 各目录（验收用） | `workspace/dispatch/today.md`（**仅派发 + 签收**，不写 Sales 完成回写） | `company/sales.md` 漏斗数字 |
+| `plan/week-XX.md` | `company/lessons.md`（复盘合成） | `workspace/quotes/` |
+| | | `company/product.md` / `research.md` / `customers.md` |
+
+### 派发 Sales 的步骤
+
+1. 从 `founder.md` 排期提取 **Sales 可执行** P0/P1 → 写入 `today.md`（`pending`）。
+2. 更新 `founder.md` 调度日志：`Founder → Sales · 已派发 today.md`。
+3. **不**写 pipeline / 草稿；`git push` 后由 Sales Automation 接手。
 
 ## 调度规则
 

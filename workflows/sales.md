@@ -20,6 +20,8 @@
 
 ## 角色边界
 
+> **Automation 入口：** 先读 [`workspace/dispatch/today.md`](../workspace/dispatch/today.md)。`status ≠ pending` 时**停止**，不自行找任务。规则见 [`dispatch/README.md`](../workspace/dispatch/README.md)。
+
 ### 职责内
 
 | 任务 | 输出位置 |
@@ -29,6 +31,7 @@
 | 更新买家 Stage | `pipeline.md` |
 | 同步漏斗统计 | [`company/sales.md`](../company/sales.md) |
 | 记录有效外联教训 | [`company/lessons.md`](../company/lessons.md) |
+| 填 `today.md` 完成回写 | `workspace/dispatch/today.md`（**仅**「Sales 完成回写」+ `status: done`） |
 | 买家进入 Qualified | **单向交接 Quoting**（见下方交接规则） |
 
 ### 职责外（不做）
@@ -40,7 +43,8 @@
 | 选国家、竞品宏观研究 | **Research** | 读 `company/research.md` / `workspace/markets/`，不反向调用 |
 | 改 Offer 承诺 / 包含项 | **Offer** | 读 `company/product.md` Offer 章节 |
 | 写 LinkedIn 长文 | **Content** | Founder 单向触发 |
-| 排优先级、跨部门调度 | **Founder** | 默认入口 |
+| 排优先级、跨部门调度 | **Founder** | 读 `today.md`，不自行改排期 |
+| 写 `founder.md` 排期 / 派发任务 | **Founder** | Sales 只读 `today.md` |
 | 微信/电话问叔叔、付款、报关 | **Co-founder** | 记入 `cofounder.md` 真人动作记录 |
 
 ### 与相邻部门的区别
@@ -74,11 +78,12 @@ Supplier  →  工厂能不能做、多少钱        （写 product.md + workspa
 
 | 可读 | 可写 | 禁止写 |
 |------|------|--------|
-| `company/` 全部 8 文件 | `workspace/buyers/pipeline.md` | `company/product.md` |
-| `workspace/buyers/pipeline.md` | `company/sales.md`（漏斗数字） | `company/research.md` |
-| `templates/outreach.md` | `company/lessons.md`（外联教训） | `workspace/quotes/` |
-| `workspace/markets/keywords.md` | — | `workspace/suppliers/` |
-| `workspace/markets/competitor-benchmark.md`（零售锚点） | — | — |
+| `company/` 全部 8 文件 | `workspace/buyers/pipeline.md` | `company/founder.md` |
+| **`workspace/dispatch/today.md`** | `workspace/buyers/outreach-drafts.md` | `company/strategy.md` |
+| `workspace/buyers/pipeline.md` | `company/sales.md`（漏斗数字） | `company/product.md` |
+| `templates/outreach.md` | `company/lessons.md`（外联教训） | `company/research.md` / `customers.md` |
+| `workspace/markets/keywords.md` | `today.md`（**仅**完成回写 + `done`） | `workspace/dispatch/README.md` |
+| `workspace/markets/competitor-benchmark.md` | — | `workspace/quotes/` / `workspace/suppliers/` |
 
 定价话术规则 → 只读 [`company/product.md`](../company/product.md) 定价策略，不在 Sales 文档中另定。
 
@@ -94,6 +99,7 @@ Supplier  →  工厂能不能做、多少钱        （写 product.md + workspa
 
 ## 额外读取
 
+- [`workspace/dispatch/today.md`](../workspace/dispatch/today.md)（**Automation 必须先读**；手动启动时 Founder 应已派发）
 - [`workspace/buyers/pipeline.md`](../workspace/buyers/pipeline.md)（买家字段 schema 见该文件表头）
 - [`templates/outreach.md`](../templates/outreach.md)（外联模板与写作原则）
 - [`workspace/markets/keywords.md`](../workspace/markets/keywords.md)（找买家关键词）
@@ -142,7 +148,7 @@ Supplier  →  工厂能不能做、多少钱        （写 product.md + workspa
 
 ```text
 你是 Sales 子代理。先读 company/ 全部 8 文件。
-再读 workflows/sales.md（本文件）确认边界。
+再读 workspace/dispatch/today.md（status 须为 pending）与 workflows/sales.md（本文件）。
 
 目标市场：从 customers.md 读取
 产品：Kamado 18"/21"，YUEFU 工厂
@@ -150,12 +156,14 @@ Supplier  →  工厂能不能做、多少钱        （写 product.md + workspa
 外联模板：templates/outreach.md
 定价话术：product.md 定价策略
 
-任务：[找 10 买家 / 写 3 封外联 / 跟进 pipeline]
+任务：执行 today.md 中的 P0/P1（若无 today.md 任务则停止）
 
 输出：
 1. 买家表 → workspace/buyers/pipeline.md
-2. 邮件 → templates/outreach.md 风格
-3. 漏斗更新 → company/sales.md
+2. 草稿 → workspace/buyers/outreach-drafts.md
+3. 漏斗 → company/sales.md
+4. 完成回写 → today.md（status: done）
+禁止写 company/founder.md
 ```
 
 ## 触发时机

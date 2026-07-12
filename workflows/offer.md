@@ -14,6 +14,44 @@
 
 把资源变成**买家能听懂的一单报价**。不是「我们卖烤炉」，而是清晰的承诺 + 边界。
 
+---
+
+## 角色边界
+
+### 职责内
+
+| 任务 | 输出位置 |
+|------|----------|
+| 一句话报价、承诺、Included/Not Included | `company/product.md` Offer 章节 |
+| 定价模式建议 | `company/product.md` |
+| 影响定位的调整 | `company/strategy.md`（若必要） |
+| Offer 实验教训 | `company/lessons.md` |
+
+### 职责外（不做）
+
+| ❌ 不做 | ✅ 交给 |
+|--------|--------|
+| 给**具体买家**的 FOB 报价单 | **Quoting** |
+| 向工厂询价、索证 | **Supplier** |
+| 选国家、买家画像研究 | **Research** |
+| 找买家、外联 | **Sales** |
+| 排期 | **Founder** |
+
+### 文件读写权限
+
+| 可读 | 可写 | 禁止写 |
+|------|------|--------|
+| `company/product.md` | `company/product.md`（**仅 Offer 章节**） | `workspace/buyers/*` |
+| `company/strategy.md` | `company/strategy.md`（若影响定位） | `workspace/quotes/` |
+| `company/customers.md` | `company/lessons.md` | `company/founder.md` / `sales.md` |
+
+### 交接规则
+
+- **上游：** Founder 或选定市场后触发。
+- **下游：** Sales / Quoting **只读** `product.md` Offer；Offer **不**写具体买家价。
+
+---
+
 ## 启动前必读
 
 - `company/product.md`（含 Offer 定义）

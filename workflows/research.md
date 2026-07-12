@@ -33,6 +33,44 @@ find PAIN      →  他们怕什么（价格、认证、易碎运输、保修、
 
 ---
 
+## 角色边界
+
+### 职责内
+
+| 任务 | 输出位置 |
+|------|----------|
+| 选目标国、买家类型、痛点验证 | `company/research.md` |
+| **确定第一个目标市场** | `company/customers.md` |
+| 关键词、评分、竞品锚点 | `workspace/markets/` |
+| 可复用研究教训 | `company/lessons.md` |
+
+### 职责外（不做）
+
+| ❌ 不做 | ✅ 交给 |
+|--------|--------|
+| 找买家、外联、pipeline | **Sales**（读 `customers.md` / `research.md`） |
+| 向 YUEFU 询价 | **Supplier** 或 **Co-founder** |
+| 改 Offer / 定价承诺 | **Offer** |
+| 正式买家报价单 | **Quoting** |
+| 排期、派发 Sales 任务 | **Founder** |
+| 微信问叔叔 | **Co-founder** |
+
+### 文件读写权限
+
+| 可读 | 可写 | 禁止写 |
+|------|------|--------|
+| `company/` 全部 8 文件 | `company/research.md` | `workspace/buyers/pipeline.md` |
+| `workspace/markets/*` | `company/customers.md` | `company/sales.md` |
+| `learn/export-basics.md` | `workspace/markets/*` | `company/founder.md` |
+| | `company/lessons.md`（研究教训） | `workspace/quotes/` / `outreach-drafts.md` |
+
+### 交接规则
+
+- **上游：** Founder 或用户触发；Research **不**反向调用 Founder。
+- **下游：** Sales / Offer **只读** `customers.md`、`research.md`；Research **不**调用 Sales。
+
+---
+
 ## 启动前必读
 
 - `company/` 全部 8 文件（重点：`product.md`, `strategy.md`, `customers.md`, `research.md`, `cofounder.md`）
