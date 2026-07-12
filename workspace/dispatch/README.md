@@ -8,6 +8,7 @@
 > | 周节奏日历 | [`plan/week-0X.md`](../../plan/) |
 > | Sales 角色边界与写法 | [`workflows/sales.md`](../../workflows/sales.md) |
 > | 发信政策 | [`company/cofounder.md`](../../company/cofounder.md) 发信政策 |
+| 阶段与派发规则 | [`company/phases.md`](../../company/phases.md) |
 
 ## 与现有文件的分工（避免重复）
 
@@ -42,15 +43,29 @@ Founder   Founder     Sales       Sales
 | `in_progress` | 执行中 | 继续或完成 |
 | `done` | 已完成 | **停止**，不重复执行 |
 
-## Founder 步骤（09:00 Automation）
+## Research 步骤（周日 09:00 Automation）
 
-1. 读 `company/` 8 文件 + `founder.md` 今日/明日排期。
-2. 从排期提取**仅 Sales 可执行**的 P0/P1 → 写入 `today.md`（`status: pending`）。
-3. 更新 `founder.md` 调度日志一行：`Founder → Sales · 已派发 today.md`。
-4. **禁止**写 `pipeline.md` / 外联草稿。
-5. `git commit && git push`。
+> **轻量复核**，不是 `正式Research`。切换/深研见 [`company/phases.md`](../../company/phases.md)。
 
-## Sales 步骤（09:15 Automation）
+1. 读 `company/` 8 文件 + `phases.md` + `sales.md`（回复率）
+2. 执行 [`company/phases.md`](../../company/phases.md)「轻量复核清单」
+3. 写 `research.md` 周日志（≥5 行）
+4. 若回复率连续 3 周 &lt;5% → 日志建议 Founder 考虑 `W3_RESEARCH_RESET`
+5. **禁止**写 pipeline / 外联 / 改 `customers.md` 目标国（除非 Founder 显式触发正式Research）
+6. git commit && git push
+
+## Founder 步骤（09:00 Automation · 周一至周六）
+
+1. 读 `company/` 8 文件 + **`company/phases.md`** + `founder.md` 排期 + `sales.md` 漏斗
+2. 检查阶段切换门槛 → 若满足，更新 `phases.md` + `founder.md`
+3. 按 `phases.md` 当前 `phase_id` 写 `today.md`（`status: pending`；仅 Sales 任务）
+4. 更新 `founder.md` 调度日志；**禁止**写 pipeline / 草稿
+5. 若刚切换阶段 → 摘要列出 Co-founder 待办（如 Gmail MCP）
+6. `git commit && git push`
+
+## Sales 步骤（10:00 Automation · 周一至周六）
+
+> Cursor 定时器仅支持整点，Sales 排在 Founder **1 小时后**，确保 `today.md` 已 push。
 
 1. 读 `today.md`：若 `status` 不是 `pending`，停止。
 2. 改为 `in_progress`；读 [`workflows/sales.md`](../../workflows/sales.md)。

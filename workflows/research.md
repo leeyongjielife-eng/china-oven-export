@@ -223,8 +223,9 @@ Your goal IS to choose ONE first market.
 | 时机 | 动作 |
 |------|------|
 | Week 2 开始 | 完整跑一遍每周提示词 |
+| **每周日 09:00** | **轻量复核**（Research Automation；见 [`company/phases.md`](../company/phases.md)） |
 | 每周一次 | 更新研究日志，微调关键词 |
-| 连续 3 周外联无回复 | 重新审视目标市场 |
+| 连续 3 周外联无回复 | Founder 切换 `W3_RESEARCH_RESET` 或 **`正式Research`** |
 | 首单成交后 | 评估是否加深该市场 |
 
 ## 不做的事

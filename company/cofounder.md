@@ -102,5 +102,5 @@ Sales / 其他子代理（AI） →  见 workflows/ 各角色边界；**不**替
 | 2026-07-11 | 启用 Cursor Automation「Kamado 找买家 — 澳洲」 | **已取代** → 见下行 |
 | 2026-07-12 | 初始化 GitHub 仓库 + 改 Public | https://github.com/leeyongjielife-eng/china-oven-export |
 | 2026-07-12 | 启用 **「Kamado 每日 Founder — 澳洲」** | **Active**；每天 09:00 · `main` |
-| 2026-07-12 | 新建 **「Kamado 每日 Sales — 澳洲」** | 每天 09:15 · 读 `today.md` 执行；待启用 |
+| 2026-07-12 | 启用三 Automation + `phases.md` 阶段机 | Founder/Sales/Research · GPT-5.5 Medium |
 | — | 向 YUEFU 要正式报价 / 问出口史 | **暂缓**，等有潜在买家询盘或 Qualified 后再问（2026-07-10 战略决定） |

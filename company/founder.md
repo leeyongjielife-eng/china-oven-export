@@ -26,6 +26,7 @@
 | 业务 | 中国 Kamado 陶瓷烤炉出口寻源 |
 | 产品 | 18" / 21" 主推，供应商 YUEFU BBQ（佛山） |
 | 阶段 | Phase 0 验证期，0 客户，**40 家 Lead** |
+| **当前 phase** | **`W2_COLLECT`**（详见 [`phases.md`](phases.md)） |
 | 战略 | 一个资源 → 一个市场 → 一个报价 |
 | 定位 | 寻源顾问，降风险，非最低价噱头 |
 | Co-founder 贡献 | 国内烤炉供应商资源（父亲朋友工厂 YUEFU），可拿货销售、帮开市场 |
@@ -36,21 +37,21 @@
 
 ## 当前阶段判断
 
-- **Phase:** 0 — 验证期（**Week 2 · Day 3** ✅）
+- **Phase:** 0 — **`W2_COLLECT`**（Week 2 积买家 · Day 3 ✅）→ 切换见 [`phases.md`](phases.md)
 - **瓶颈:** 买家 **40/50**（80%）；外联草稿 **19/30**；距 Week 2 结束剩 **3 天**
-- **优势:** 40 家均已联系人就绪 + 15 家 A 级 + **每日 Founder Automation 已启用**（每天 09:00 GMT+8；**7/13 首次跑**）
+- **优势:** 40 家均已联系人就绪 + 15 家 A 级 + **三 Automation 已启用**（Founder 09:00 · Sales 10:00 · Research 周日 09:00）
 - **本周必须完成:** 积满 50 买家（不发信）
 - **暂不做:** 外联发信（Week 3）、Gmail MCP（Week 3 前再搭）、问叔叔
 
-### Automation（2026-07-12 更新）
+### Automation（2026-07-12 · 三件套）
 
-| 名称 | 触发 | 仓库 | 状态 |
+| 名称 | 触发 | 模型 | 状态 |
 |------|------|------|------|
-| **Kamado 每日 Founder — 澳洲** | 每天 **09:00** GMT+8 · `main` | [china-oven-export](https://github.com/leeyongjielife-eng/china-oven-export) | ✅ **Active** |
-| **Kamado 每日 Sales — 澳洲** | 每天 **09:15** GMT+8 · `main` | 同上 | ⏳ 待启用 |
-| ~~Kamado 找买家 — 澳洲~~ | ~~一/三/五 09:00~~ | — | ⏸️ **应关闭** |
+| **Kamado 每日 Founder — 澳洲** | 每天 09:00 · `main` | GPT-5.5 Medium | ✅ Active |
+| **Kamado 每日 Sales — 澳洲** | 每天 10:00 · `main` | GPT-5.5 Medium | ✅ Active |
+| **Kamado 每周 Research — 澳洲** | 每周日 09:00 · `main` | GPT-5.5 Medium | ✅ Active |
 
-**运行逻辑：** Founder 09:00 派发 `dispatch/today.md` → Sales 09:15 执行（见 [`workspace/dispatch/README.md`](../workspace/dispatch/README.md)）。
+**运行逻辑：** 读 [`phases.md`](phases.md) → Founder 派发 `today.md` → Sales 执行；周日 Research 轻量复核。
 
 **重要：** Automation 读 **GitHub 上的代码**。本地改完文档须 `git commit && git push`，次日 09:00 才能跑到最新状态。
 
@@ -155,7 +156,7 @@ Sales ×1：找买家 +10 → 50/50（Week 2 目标达成）
 | 2026-07-10 | — | 项目架构对齐 GPT Company Brain | `lessons.md` |
 | 2026-07-10 | Automation | 每周一三五 09:00 定时找澳洲买家（旧） | Glass Automations 预填 |
 | 2026-07-11 | Co-founder | 旧 Automation「找买家」已启用 | 已由每日 Founder 取代 |
-| 2026-07-12 | Co-founder | **每日 Founder Automation 已启用**（09:00 · main · public repo） | 7/13 首次自动跑 |
+| 2026-07-12 | Co-founder | **双 Automation 启用**（Sales 改 **10:00** 整点） | Founder 09:00 · Sales 10:00 |
 | 2026-07-10 | Sales | 找买家 +10、补联系人 #4–#9、草稿 #4–#9 | `pipeline.md` 20/50 · `outreach-drafts.md` |
 | 2026-07-11 | Founder → Sales | Day 2：+10 买家、草稿 #10–#14 | `pipeline.md` 30/50 · `outreach-drafts.md` 14/30 |
 | 2026-07-11 | Founder | Day 2 复盘 + Day 3 排期 | `founder.md` |

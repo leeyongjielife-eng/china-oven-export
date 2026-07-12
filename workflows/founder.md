@@ -25,7 +25,7 @@
 
 ## 启动前必读
 
-- `company/` **全部 8 个文件**（含 `cofounder.md`）
+- `company/` **全部 8 个文件**（含 `cofounder.md`）+ **`company/phases.md`**
 - `workflows/README.md`（路由表）
 - `plan/week-XX.md`（当前周计划）
 
@@ -122,6 +122,15 @@
 | `workspace/` 各目录（验收用） | `workspace/dispatch/today.md`（**仅派发 + 签收**，不写 Sales 完成回写） | `company/sales.md` 漏斗数字 |
 | `plan/week-XX.md` | `company/lessons.md`（复盘合成） | `workspace/quotes/` |
 | | | `company/product.md` / `research.md` / `customers.md` |
+
+### 阶段切换（Automation 必读）
+
+> SSOT：[`company/phases.md`](../company/phases.md)
+
+1. 读 `phases.md` 当前 `phase_id` + `sales.md` 漏斗
+2. 对照切换门槛 → 满足则更新 `phases.md` 与 `founder.md`
+3. 按 `phases.md`「每日派发规则」写 `today.md`（**不得**在 W3 仍派 W2 的 +10 买家）
+4. 切换时在输出摘要列出 **Co-founder 待办**（如 Gmail MCP）
 
 ### 派发 Sales 的步骤
 

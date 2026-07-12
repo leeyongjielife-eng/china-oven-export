@@ -65,6 +65,7 @@ Research → Offer → Sales → Quoting → Supplier
 | 竞品零售锚点数据 | `workspace/markets/competitor-benchmark.md` | 指向 |
 | 人机发信政策 | `company/cofounder.md` 分工原则 | 指向 |
 | 子代理角色 / 边界 / 触发 | 对应 `workflows/<agent>.md` | 指向 |
+| **阶段状态机、切换门槛、每日派发规则** | `company/phases.md` | 指向 |
 | **Founder → Sales 当日任务单** | `workspace/dispatch/today.md` | 指向 |
 | 周节奏日历 | `plan/week-0X.md` | 指向 |
 | 单向依赖 + SSOT 硬规定 | 本文件（`README.md`） | 指向 |
@@ -79,7 +80,8 @@ Research → Offer → Sales → Quoting → Supplier
 | `cofounder.md` | **你（人类合伙人）** | 你的资源、能/不能做、真人动作记录 |
 | `product.md` | Supplier + Offer 子代理 | 卖什么、Offer、供应商摘要 |
 | `customers.md` | Research 子代理 | 买家画像、目标市场 |
-| `strategy.md` | Founder Agent | 阶段、定位、关键决策 |
+| `phases.md` | **Founder Agent** | 阶段状态机、切换门槛、派发规则 |
+| `strategy.md` | Founder Agent | 定位、长期战略 |
 | `research.md` | Research 子代理 | 市场结论、每周研究 |
 | `sales.md` | Sales 子代理 | 漏斗数字、销售阶段定义 |
 | `lessons.md` | 全员 → Founder 合成 | 实战教训 |
