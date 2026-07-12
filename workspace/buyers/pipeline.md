@@ -50,6 +50,16 @@
 | 38 | Southside Heating Centre | Australia | — | — | ssideheatcentre@gmail.com | — | Pakenham VIC regional; heating centre + BBQ; serves outer Melbourne southeast | Heating/BBQ adjacent | Lead | — | contact-ready: B · channel: email · tel: (03) 5941 6227 |
 | 39 | JK BBQ & Outdoor | Australia | jkbbq.com.au | — | info@jkbbq.com.au | — | Loganholme QLD **Weber Store**; Hyperdome; full Weber range + cooking lessons | Weber | Lead | — | contact-ready: B · channel: email · tel: (07) 3801 2469 |
 | 40 | Beauview BBQ | Australia | beauviewbbq.com.au | — | sales@beauviewbbq.com.au | — | Beaudesert QLD regional; smokers + BBQ; delivers across Australia | Smokers (adjacent) | Lead | — | contact-ready: B · channel: email · tel: 07 5602 0488 |
+| 41 | The BBQ Store Australia | Australia | thebbqstore.com.au | **Gabriel Gewargis (Managing Director)** | sales@thebbqstore.com.au | [Gabriel G.](https://linkedin.com/in/thebbqstore) | Australia's largest **online BBQ & rotisserie specialist** (Prestons NSW, since 2008); own Cyprus Grill charcoal line; imports & ships nationwide | Cyprus Grill (charcoal, own brand) | Lead | — | ⭐ Solid-fuel specialist w/ import experience; contact-ready: A · channel: email · tel: 1300 041 051 |
+| 42 | BBQ Republic | Australia | bbqrepublic.com.au | **Martin (Owner)** | martin@bbqrepublic.com.au | — | Sydney's premier **kamado showroom** (Wetherill Park); Official BGE Platinum Dealer; 9+ yrs cooking/selling kamado; delivers & installs Sydney-wide | BGE | Lead | — | ⭐ Pure kamado specialist; may want entry-price ceramic line; contact-ready: A · channel: email · tel: 0434 010 411 |
+| 43 | Grill Pro Australia (Yoder Smokers AU/NZ) | Australia | yodersmokers.net.au | **David Sprigg (Founder/Director)** | david@grillpro.com.au | — | Adelaide-based **importer/distributor**; imports Yoder pits from US into AU/NZ/Indonesia since 2012; incl. charcoal grills; knows freight & container import | Yoder (pellet/offset/charcoal) | Lead | — | ⭐ Experienced solid-fuel importer; ceramic kamado = natural range add; contact-ready: A · channel: email · tel: 0418 847 111 |
+| 44 | BBQ Adelaide | Australia | bbqadelaide.com.au | — | manager@bbqadelaide.com.au | — | Adelaide **Weber & YETI specialist**; 2 stores (Mile End + Gepps Cross); charcoal range incl. kettles | Weber | Lead | — | contact-ready: B · channel: email · tel: (08) 8166 7599 |
+| 45 | Better BBQ's & More | Australia | betterbbqs.com.au | — | — | [公司](https://linkedin.com/company/better-bbq's-&-more) | **Only Weber specialist in southern Tasmania** (Glenorchy, at Stonemans Garden Centre); premium charcoal kettles; TAS coverage gap | Weber | Lead | — | ⭐ TAS coverage; contact-ready: B · channel: tel · tel: (03) 6273 0611 |
+| 46 | Stagg and Co | Australia | staggandco.com.au | — | info@staggandco.com.au | — | Carrum Downs VIC **wholesale distributor** of BBQ rubs/sauces/accessories to AU retailers; actively recruits wholesale partners; adjacent category | BBQ accessories (wholesale) | Lead | — | Distributor may add hardware line; contact-ready: B · channel: email |
+| 47 | Charcoal Kings | Australia | charcoalkings.com.au | — | — | — | Holden Hill SA **charcoal producer/distributor**; retail + wholesale + food service + **export inquiries**; stockist network across AU | Charcoal fuel (no grills yet) | Lead | — | Fuel distributor adjacent to kamado; contact-ready: B · channel: tel · tel: +61 8 7222 5946 · form: /contact |
+| 48 | Hot Things Barbecues & Heaters | Australia | hotthings.com.au | — | — | — | Perth **premium independent retailer** (Balcatta); authorised BGE agent + stocks Kamado Joe; outdoor kitchens + charcoal/wood BBQs | BGE, KJ | Lead | — | ⭐ WA kamado stockist; contact-ready: B · channel: tel · tel: (08) 9240 7188 |
+| 49 | Barbecue Bazaar | Australia | bbqbazaar.com.au | — | cannington@bbqbazaar.net.au | — | WA family-owned since 1984; **largest WA range** of BBQs/smokers/heaters; Cannington outlet; custom outdoor kitchens | Hark smokers, charcoal | Lead | — | contact-ready: B · channel: email · tel: (08) 9458 5724 |
+| 50 | Hark Enterprises (Big Green Egg Australia) | Australia | biggreenegg.com.au | — | hello@biggreenegg.com.au | — | Dandenong South VIC; **national BGE distributor** + own Hark smoker brand; imports & wholesales solid-fuel cookers to AU dealer network | BGE (exclusive AU), Hark | Lead | — | Importer w/ dealer network; OEM/second-line angle; contact-ready: B · channel: email · tel: (03) 9702 8823 |
 
 **字段说明：**
 
@@ -122,7 +132,7 @@
 
 ## 统计
 
-- Total leads: **40**
+- Total leads: **50** ✅ Week 2 目标达成
 - Contacted: 0
 - Replied: 0
 - Quoted: 0
@@ -130,11 +140,11 @@
 
 *每周日更新统计数字，同步到 `company/sales.md`*
 
-**收集批次：** 2026-07-10 Day 1（#1–20）· 2026-07-11 Day 2（#21–30）· 2026-07-12 Day 3（#31–40）· **未发信**
+**收集批次：** 2026-07-10 Day 1（#1–20）· 2026-07-11 Day 2（#21–30）· 2026-07-12 Day 3（#31–40）· 2026-07-12 Day 4 提前完成（#41–50）· **未发信**
 
-### 当前 pipeline 联系人就绪审计（2026-07-12）
+### 当前 pipeline 联系人就绪审计（2026-07-12 · Day 4 更新）
 
-**40/40 联系人就绪**（均 ≥B）；**15/40 达 A 级**（可个性化）。
+**50/50 联系人就绪**（均 ≥B）；**18/50 达 A 级**（可个性化）。
 
 | # | 公司 | 就绪 | 渠道 | Week 3 |
 |---|------|:---:|---|---|
@@ -143,3 +153,6 @@
 | 16–20 | Gas Works … Primal Hunter | B | email | ✅ |
 | 21–30 | Canberra … Armidale | B/A | email | ✅ |
 | 31–40 | Victorian FP … Beauview | B | email | ✅ |
+| 41–43 | BBQ Store · BBQ Republic · Grill Pro | **A** | email | ✅ ⭐ 高价值 |
+| 44, 46, 49, 50 | BBQ Adelaide · Stagg · Bazaar · Hark | B | email | ✅ |
+| 45, 47, 48 | Better BBQ's · Charcoal Kings · Hot Things | B | tel/form | ⚠️ 电话或表单 |
