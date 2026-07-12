@@ -1,0 +1,13 @@
+# .gitignore
+
+# 供应商敏感资料（合同、底价、个人联系方式）
+workspace/suppliers/*/quotation/
+workspace/suppliers/*/certificates/
+workspace/suppliers/*/*.pdf
+
+# 环境变量
+.env
+.env.*
+
+# macOS
+.DS_Store

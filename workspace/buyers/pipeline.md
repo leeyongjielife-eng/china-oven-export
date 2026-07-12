@@ -1,0 +1,145 @@
+# Buyer Pipeline
+
+> **本文件唯一归属**：买家明细表 + 字段 schema（一行一家公司）。
+>
+> | 需要的信息 | 读取 |
+> |-----------|------|
+> | 销售阶段定义 | [`company/sales.md`](../../company/sales.md) |
+> | 子代理边界与任务 | [`workflows/sales.md`](../../workflows/sales.md) |
+> | 漏斗汇总数字 | [`company/sales.md`](../../company/sales.md)（每周日从此表同步） |
+
+| # | Company | Country | Website | Contact | Email | LinkedIn | Why they need kamado | Competitor signal | Stage | Last Contact | Notes |
+|---|---------|---------|---------|---------|-------|----------|----------------------|-------------------|-------|--------------|-------|
+| 1 | Core Supply Group | Australia | coresupplygroup.com.au | **Garrick Clarkson (Owner)**; Nicola Clarkson (Director) | sales@coresupplygroup.com.au | [公司](https://au.linkedin.com/company/core-supply-group-pty-ltd) | **Wholesale distributor** (Bowral NSW, since 1956); already imports & distributes **The Bastard VX** kamado to AU retailers; B2B stockist program + warehouse stock | The Bastard VX (kamado) | Lead | — | ⭐ Top fit: existing kamado wholesale channel; may want additional SKUs/OEM line |
+| 2 | The Que Club | Australia | thequeclub.com.au | **Andrew Kavanagh (Director)**; Pam Kavanagh (Owner) | bbq@thequeclub.com.au | [Andrew K.](https://linkedin.com/in/andrew-kavanagh-5246a432) | **Imports & wholesales solid-fuel BBQs**; retail + wholesale + cooking school in Brunswick VIC; "Everything BBQ" positioning; Que Wholesale division | JG BBQ (solid fuel) | Lead | — | ⭐ Top fit: importer/wholesaler of charcoal BBQs; wholesale: hello@quewholesale.com.au |
+| 3 | BBQ Spit Rotisseries | Australia | bbqspitrotisseries.com.au | **Rhiannon Peterson (Co-founder, strategy/sourcing)**; Tony Teboneras (Co-founder) | sales@bbqspitrotisseries.com.au | [Rhiannon P.](https://www.linkedin.com/in/rhiannonpeterson) | Sells ceramic kamado (SnS Grills), Primo, KJ; **owns own China plant + Flaming Coals/Auspit brands**; offers distributorships worldwide; 20k+ reviews | Primo, SnS Kamado, KJ | Lead | — | ⭐ Top fit; Rhiannon liaises with intl suppliers; 1300 002 771 |
+| 4 | Wildflame Outdoors | Australia | wildflameoutdoors.com.au | **Louis Alexander (Director/Founder)** | sales@wildflameoutdoors.com.au | [Louis A.](https://www.linkedin.com/in/louis-alexander-579a6833) | **Sole AU wholesaler** for Camp Chef, Broil King, Teton Sports; actively seeking new stockists; Sydney-based outdoor cooking distributor | Camp Chef, Broil King (pellet/gas) | Lead | — | ⭐ Wholesaler; no kamado yet — room for new line; contact-ready: A · channel: email · tel: 1300 690 772 |
+| 5 | Joe's BBQs | Australia | joesbbqs.com.au | **Rod O'Brien (Manager)** | sales@joesbbqs.com.au | [Rod O.](https://au.linkedin.com/in/rod-o-brien-4a579a125) | 38yr Sydney BBQ specialist; sells Kamado Joe; large showroom Silverwater NSW; ships nationwide | Kamado Joe | Lead | — | Major metro retailer; may want alternative/private-label kamado; contact-ready: A · channel: email · tel: (02) 9737 9799 |
+| 6 | BBQs Plus | Australia | bbqsplus.com.au | Tony Spencer (Owner) | portmelb@bbqsplus.com.au | [LinkedIn](https://au.linkedin.com/company/bbqs-plus) | Melbourne specialist since late 1980s; multi-store (Port Melbourne, Moorabbin); stocks premium BBQ brands | BGE, Yoder, Grandfire, Napoleon | Lead | — | bayside@bbqsplus.com / moorabbin@bbqsplus.com; contact-ready: A · channel: email |
+| 7 | My Slice of Life | Australia | mysliceoflife.com.au | **Brent Ibrom (Owner)** | info@mysliceoflife.com.au | — | **BGE Platinum Dealer** Wangaratta VIC; ships AU-wide; site mentions Trade; lifestyle + outdoor cooking retailer | BGE | Lead | — | Regional specialty; may want second kamado line at lower price point; contact-ready: A · channel: email · tel: (03) 5798 3489 |
+| 8 | BBQs of the World | Australia | bbqsoftheworld.com.au | **Doug Walker (Owner/Director)** | info@bbqsoftheworld.com.au | [Doug W.](https://linkedin.com/in/doug-w-8660765) | Perth-based online retailer; sells grills, smokers, fuels AU-wide; expanding outdoor cooking product range | Pellet fuel, smokers | Lead | — | WA coverage; contact-ready: A · channel: email · tel: +61 435 748 634 |
+| 9 | Lifestyle Fires | Australia | lifestylefires.com.au | **Stuart Glover (Owner)** | info@lifestylefires.com.au | — | Geelong VIC BGE authorised dealer; outdoor products + design/install; regional specialty retailer | BGE | Lead | — | contact-ready: A · channel: email · tel: (03) 5229 0844 |
+| 10 | Firebrand BBQ | Australia | firebrandbbq.com.au | — | info@firebrandbbq.com.au | — | NSW professional charcoal & briquette distributor (Arndell Park); supplies retailers/hospitality; adjacent to solid-fuel cooking ecosystem | Charcoal fuel (no kamado yet) | Lead | — | Lower priority; fuel distributor may expand into grills; contact-ready: B · channel: email |
+| 11 | The BBQ King | Australia | thebbqking.com.au | — | sales@thebbqking.com.au | — | Australia's leading **online BBQ specialty** retailer; stocks Kamado Joe, Primo, The Bastard; showroom Silverwater NSW; ships nationwide | KJ, Primo, The Bastard | Lead | — | contact-ready: B · channel: email · tel: (02) 9648 3333 |
+| 12 | Aussie BBQs & Fireplaces | Australia | aussiebbqs.com.au | — | sales@aussiebbqs.com.au | — | Brisbane specialist 25+ yrs; **stocks Grandfire Kamado**; Beefeater & Weber dealer; Murarrie + Capalaba showrooms | Grandfire Kamado, Weber | Lead | — | contact-ready: B · channel: email · tel: 07 3890 4343 |
+| 13 | Tucker Barbecues | Australia | tuckerbbq.com.au | **Raymond Chang (Director)** | sales@tuckerbbq.com.au | [Raymond C.](https://au.linkedin.com/in/raymond-chang-7763b3130) | Sydney stainless-steel BBQ **manufacturer + retailer** since 1983; 3 showrooms; ships AU-wide | Own Tucker brand (gas/stainless) | Lead | — | ⚠️ 低优先：自有产线；contact-ready: A · channel: email · tel: (02) 9748 8368 |
+| 14 | FNQ BBQ & Outdoors | Australia | fnqbbq.com.au | **Mike & Jenny Wadley (Owners)** | sales@fnqbbq.com.au | — | **Weber store** Cairns; regional specialty; outdoor kitchens + cooking classes; ex Atherton Gas & Camping operators | Weber | Lead | — | ⭐ Regional QLD coverage; contact-ready: A · channel: email · tel: 07 4055 8335 |
+| 15 | Boss Hogg & Duchess of Pork | Australia | bosshoggandtheduchessofpork.com.au | — | — | — | Online retailer — wood-fire cooking tools, JG BBQ, pizza accessories; ships AU-wide; Preston VIC | JG BBQ (solid fuel) | Lead | — | contact-ready: C · channel: tel · tel: 0400 115 625 |
+| 16 | Gas Works | Australia | gasworks.net.au | — | modbury@gasworks.net.au | — | Adelaide premium BBQ retailer; Napoleon, Heatlie, Artis wood-fired; Modbury + Morphett Vale stores | Napoleon, pellet/gas | Lead | — | morphettvale@gasworks.net.au; contact-ready: B · channel: email · form: /barbecues |
+| 17 | Smoked & Cured / Misty Gully | Australia | smokedandcured.com.au | **Ben Tantau (Managing Director)** | info@smokedandcured.com.au | [Ben T.](https://www.linkedin.com/in/ben-tantau-93222379) | Melbourne **importer/distributor** BBQ/curing; wholesale + white-label sourcing; 300+ stockists | Misty Gully (fuel/accessories) | Lead | — | Adjacent category; may source grill lines; contact-ready: A · channel: email · tel: 1300 001 796 |
+| 18 | Heat & Grill | Australia | heatgrill.com.au | **Aidan Pivetta (Retail Sales Manager)** | info@heatgrill.com.au | [Aidan P.](https://linkedin.com/in/aidan-pivetta-116a53a5) | Melbourne **Weber specialist**; Richmond + Highpoint stores; smokers, charcoal, outdoor furniture | Weber | Lead | — | contact-ready: A · channel: email · tel: (03) 9429 6888 |
+| 19 | Bespoke Backyards | Australia | bespokebackyards.com.au | — | support@bespokebackyards.com.au | — | Online premium outdoor living; **stocks Primo Ceramic Grills**; price-beat guarantee; ships AU-wide | Primo | Lead | — | contact-ready: B · channel: email · tel: 1300 845 760 |
+| 20 | Primal Hunter | Australia | primalhunter.com.au | — | sales@primalhunter.com.au | — | Melbourne online; hunting/fishing/outdoor cooking; **Primo kamado** distributor; AU-wide delivery | Primo | Lead | — | contact-ready: B · channel: email · tel: (03) 7071 0777 |
+| 21 | Canberra BBQ & Outdoors | Australia | cbrbbq.com.au | — | sales@cbrbbq.com.au | — | **ACT official Weber Store** Fyshwick; family-owned; full Weber range incl. charcoal/smokers; demos in-store | Weber | Lead | — | ⭐ ACT coverage; contact-ready: B · channel: email · tel: (02) 6152 8028 |
+| 22 | Capital Charcoal Supplies | Australia | capitalcharcoal.com.au | — | capitalcharcoal@gmail.com | — | **Official BGE dealer Canberra** (returned 2024); Downer showroom; local warranty + delivery ACT region | BGE | Lead | — | Regional specialty; contact-ready: B · channel: email |
+| 23 | Smoked BBQ Co | Australia | smokedbbqco.com.au | **Trent Barrett (Owner/Chef)** | info@smokedbbqco.com.au | [Trent B.](https://linkedin.com/in/trent-barrett-43600794) | Gold Coast **BBQ specialist** Miami; stocks Kamado + BGE accessories; BBQ classes; family-owned | BGE, Kamado category | Lead | — | ⭐ Specialist; contact-ready: A · channel: email · tel: 07 5572 7790 |
+| 24 | Gold Coast Fireplace & BBQ Super Centre | Australia | gcfire.com.au | — | sales@gcfire.com.au | — | Bundall showroom; **Grandfire kamado** outdoor kitchen modules; fireplaces + BBQ; ships AU | Grandfire Kamado | Lead | — | contact-ready: B · channel: email · tel: 07 5531 6266 |
+| 25 | Barbecue HQ Darwin | Australia | barbecuehq.com.au | — | sales@barbecuehq.com.au | [LinkedIn](https://linkedin.com/company/barbecue-hq-darwin) | **NT specialty** charcoal & low-n-slow BBQ shop; smokers + fuel; regional coverage | Charcoal/smokers | Lead | — | ⭐ NT coverage; contact-ready: B · channel: email · tel: 08 8947 0899 |
+| 26 | BBQ and Fireplace Centre | Australia | bbqandfireplace.com | — | kawana@bbqandfireplace.com | — | **Sunshine Coast Weber Store**; Birtinya + Noosaville; 25+ yrs; outdoor furniture + fireplaces | Weber | Lead | — | noosa@bbqandfireplace.com; contact-ready: B · channel: email · tel: 07 5493 3744 |
+| 27 | The Outdoor Chef | Australia | theoutdoorchef.com.au | — | sales@theoutdoorchef.com.au | — | Perth **Weber Store** Osborne Park + Joondalup (**BGE** at Joondalup); outdoor kitchens; 2 locations | BGE, Weber | Lead | — | shop@theoutdoorchef.com.au; contact-ready: B · channel: email · tel: (08) 9217 7473 |
+| 28 | Heating & Outdoors (Glendale) | Australia | heatingandoutdoors.com.au | — | Sales@heatout.com.au | — | Newcastle/Hunter **Weber specialist** since 1984; Glendale showroom; BBQ + heating + outdoor furniture | Weber | Lead | — | contact-ready: B · channel: email · tel: (02) 4956 7732 |
+| 29 | Life Outdoors Shellharbour | Australia | life-outdoors.com.au | — | shop@life-outdoors.com.au | — | Illawarra/Shoalhaven **Weber stockist**; family-owned since 2016; camping + outdoor cooking; ships regionally | Weber | Lead | — | contact-ready: B · channel: email · tel: (02) 4296 1277 |
+| 30 | Grills and Thrills (BBQs Galore Armidale) | Australia | bbqgalore.com.au/stores/armidale | **Sam Baker (Owner)**; Reece Trickey (Co-owner) | sales@armidalebbqs.com.au | — | **Regional NSW franchise**; locally owned; stocks Kamado Joe, Firehawk, Traeger; freights to New England | KJ, Firehawk, kamado | Lead | — | ⭐ Regional importer potential; contact-ready: A · channel: email · tel: 02 6772 9770 |
+| 31 | Victorian Fireplaces & BBQs | Australia | victorianfireplaces.com.au | — | info@victorianfireplaces.com.au | — | Melbourne west **Weber Store** + fireplace showroom; family-owned since 2003; Taylors Lakes 2nd location | Weber | Lead | — | contact-ready: B · channel: email · tel: (03) 9748 2828 |
+| 32 | CFAB (Classic Fireplaces & BBQs) | Australia | classicfireplacesandbbqs.com.au | — | sales@cfab.com.au | — | Greensborough Melbourne; **BBQ + fireplaces** 45+ yrs; indoor/outdoor living specialist | Weber, gas/charcoal | Lead | — | contact-ready: B · channel: email · tel: (03) 9432 3500 |
+| 33 | Foxy's Appliances | Australia | foxysappliances.com.au | — | sales@foxysappliances.com.au | — | Mornington **Weber Store**; Peninsula; BBQ + heating + YETI; in-store Weber kitchen demos | Weber | Lead | — | contact-ready: B · channel: email · tel: (03) 5976 7343 |
+| 34 | Tackle World Wagga | Australia | tackleworldwagga.com.au | — | info@tackleworldwagga.com.au | — | **Wagga's only Weber specialist dealer**; regional NSW; outdoor lifestyle + BBQ | Weber | Lead | — | ⭐ Regional NSW; contact-ready: B · channel: email · tel: (02) 6922 7600 |
+| 35 | Barbeques Galore North Rockhampton | Australia | bbqgalore.com.au/stores/north-rockhampton | — | bbqrock@bigpond.net.au | — | Regional QLD franchise; BBQ + outdoor furniture + heaters; Yaamba Rd showroom | Weber, KJ brands | Lead | — | contact-ready: B · channel: email · tel: 07 4926 5405 |
+| 36 | Sydney BBQs | Australia | sydbbqs.com.au | — | admin@sydbbqs.com.au | — | Ingleburn NSW; **smokers & BBQ equipment** retailer; Oklahoma Joe's, drum smokers; ships AU | Smokers (adjacent) | Lead | — | contact-ready: B · channel: email · tel: +61 492 278 237 |
+| 37 | Specialized Heating & Cooling | Australia | specializedshepp.com.au | — | info@specializedshepp.com.au | — | Shepparton VIC regional; heating + **BBQ/outdoor**; Euro Fireplaces stockist area | Heating/BBQ adjacent | Lead | — | contact-ready: B · channel: email · tel: (03) 5821 3656 |
+| 38 | Southside Heating Centre | Australia | — | — | ssideheatcentre@gmail.com | — | Pakenham VIC regional; heating centre + BBQ; serves outer Melbourne southeast | Heating/BBQ adjacent | Lead | — | contact-ready: B · channel: email · tel: (03) 5941 6227 |
+| 39 | JK BBQ & Outdoor | Australia | jkbbq.com.au | — | info@jkbbq.com.au | — | Loganholme QLD **Weber Store**; Hyperdome; full Weber range + cooking lessons | Weber | Lead | — | contact-ready: B · channel: email · tel: (07) 3801 2469 |
+| 40 | Beauview BBQ | Australia | beauviewbbq.com.au | — | sales@beauviewbbq.com.au | — | Beaudesert QLD regional; smokers + BBQ; delivers across Australia | Smokers (adjacent) | Lead | — | contact-ready: B · channel: email · tel: 07 5602 0488 |
+
+**字段说明：**
+
+| 字段 | 必填 | 说明 |
+|------|:---:|------|
+| Company / Country / Website | ✅ | 基础信息 |
+| Why they need kamado | ✅ | 可验证的具体观察，非空话 |
+| Competitor signal | 建议 | 是否已卖 BGE/KJ/Primo 等 |
+| Stage | ✅ | 阶段定义见 `company/sales.md` |
+| Contact / Email / LinkedIn | 见下方「联系人就绪」 | 不要求三项全有；见就绪标准 |
+
+---
+
+## 联系人就绪标准（全公司唯一来源）
+
+> Sales 子代理、定时找买家任务、补联系人任务均按此执行。其他文档只指向此处。
+
+### 入 pipeline 门槛（Contact-ready）
+
+一家公司**计入有效 lead**，须同时满足：
+
+| 条件 | 要求 |
+|------|------|
+| 基础信息 | Company + Country + Website + Why they need kamado |
+| **至少一种可触达联系方式** | 以下**任一项**即可（不要求必须有 Email）： |
+
+**可接受的联系方式（任选 ≥1）：**
+
+| 类型 | 示例 | 记入字段 |
+|------|------|----------|
+| Email | `sales@` / `info@` / 个人邮箱 | `Email` |
+| 电话 | 官网/LinkedIn 公开号码 | `Notes`（如 `tel: +61…`） |
+| LinkedIn 个人页 | 可发 InMail/连接请求 | `LinkedIn` |
+| WhatsApp | 官网或名片公开 | `Notes`（如 `wa: +61…`） |
+| 网站联系表单 | 有独立 URL 可验证 | `Notes`（如 `form: /contact`） |
+
+**无效 lead（不入 pipeline）：** 仅有公司名和网站，但找不到任何上述联系方式。
+
+### 质量分级（不挡入 pipeline，影响外联方式）
+
+| 级别 | 条件 | Week 3 外联 |
+|------|------|-------------|
+| **A — 可个性化** | 有 Contact 姓名 + Email（或已知个人 LinkedIn） | 邮件用 `Hi [Name]`，Template 2 风格 |
+| **B — 可触达** | 有公司 Email 或电话，无决策人姓名 | 邮件用 `Hi there` / `Hi team`；或电话前先邮件 |
+| **C — 备选渠道** | 无 Email，仅有 LinkedIn / 电话 / WhatsApp | 不走邮件；LinkedIn 或 Notes 里标注的渠道 |
+| **D — 未就绪** | 无任何可触达方式 | **不得**标为 Lead；继续补联系人或丢弃 |
+
+在 `Notes` 用一行标注就绪级别与主渠道，例如：`contact-ready: A · channel: email` 或 `contact-ready: C · channel: linkedin`。
+
+### 发信前检查（Stage → Contacted）
+
+| 检查项 | 规则 |
+|--------|------|
+| 联系人就绪 | 至少 B 级（有一种可触达方式） |
+| 有 Email | 优先发邮件；无 Email 则用 C 级渠道，并在 `Notes` 写明 |
+| 有决策人姓名 | 推荐；无姓名仍可发 B 级通用外联 |
+| 定价话术 | 见 `company/product.md` 定价策略 |
+| 外联模板 | 见 `templates/outreach.md` |
+
+### 补联系人任务（瀑布式）
+
+1. 官网 Contact / About / Our Team  
+2. LinkedIn 公司页 → People（Owner / Purchasing / Director）  
+3. 若无 Email：记电话 / LinkedIn 个人页 / WhatsApp  
+4. 高价值目标再尝试个人邮箱格式推断  
+
+详细方法 → [`outreach-playbook.md`](outreach-playbook.md) 第五节（只指向，不重复）。
+
+---
+
+## 统计
+
+- Total leads: **40**
+- Contacted: 0
+- Replied: 0
+- Quoted: 0
+- Won: 0
+
+*每周日更新统计数字，同步到 `company/sales.md`*
+
+**收集批次：** 2026-07-10 Day 1（#1–20）· 2026-07-11 Day 2（#21–30）· 2026-07-12 Day 3（#31–40）· **未发信**
+
+### 当前 pipeline 联系人就绪审计（2026-07-12）
+
+**40/40 联系人就绪**（均 ≥B）；**15/40 达 A 级**（可个性化）。
+
+| # | 公司 | 就绪 | 渠道 | Week 3 |
+|---|------|:---:|---|---|
+| 1–14 | （见上） | A/B | email | ✅ |
+| 15 | Boss Hogg | C | tel | ⚠️ 电话 |
+| 16–20 | Gas Works … Primal Hunter | B | email | ✅ |
+| 21–30 | Canberra … Armidale | B/A | email | ✅ |
+| 31–40 | Victorian FP … Beauview | B | email | ✅ |
