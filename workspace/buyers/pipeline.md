@@ -50,6 +50,16 @@
 | 38 | Southside Heating Centre | Australia | — | — | ssideheatcentre@gmail.com | — | Pakenham VIC regional; heating centre + BBQ; serves outer Melbourne southeast | Heating/BBQ adjacent | Lead | — | contact-ready: B · channel: email · tel: (03) 5941 6227 |
 | 39 | JK BBQ & Outdoor | Australia | jkbbq.com.au | — | info@jkbbq.com.au | — | Loganholme QLD **Weber Store**; Hyperdome; full Weber range + cooking lessons | Weber | Lead | — | contact-ready: B · channel: email · tel: (07) 3801 2469 |
 | 40 | Beauview BBQ | Australia | beauviewbbq.com.au | — | sales@beauviewbbq.com.au | — | Beaudesert QLD regional; smokers + BBQ; delivers across Australia | Smokers (adjacent) | Lead | — | contact-ready: B · channel: email · tel: 07 5602 0488 |
+| 41 | BBQ Republic | Australia | bbqrepublic.com.au | **Martin (showroom/contact)** | martin@bbqrepublic.com.au | — | Sydney/Wetherill Park **Big Green Egg Platinum Dealer** and dedicated kamado showroom; free Sydney delivery/install; strong ceramic grill expertise | BGE | Lead | — | ⭐ Specialist kamado retailer; contact-ready: A · channel: email · tel: 0434 010 411 |
+| 42 | The BBQ Store | Australia | thebbqstore.com.au | — | sales@thebbqstore.com.au | — | Large online BBQ and rotisserie specialist in Prestons NSW; sells charcoal/gas BBQs, smokers, outdoor kitchens, pizza ovens nationwide | Kamado Joe, charcoal BBQs | Lead | — | contact-ready: B · channel: email · tel: 1300 041 051 |
+| 43 | BBQ Bazaar | Australia | bbqbazaar.com.au | — | cannington@bbqbazaar.net.au | — | Perth/Cannington BBQ showroom with 100+ BBQs and 16+ brands; sells Kamado Joe and Big Green Egg lines | Kamado Joe, BGE, Napoleon | Lead | — | contact-ready: B · channel: email · tel: (08) 9458 5724 |
+| 44 | Hark Enterprises | Australia | hark.com.au | — | sales@hark.com.au | [公司](https://au.linkedin.com/company/hark-enterprises-pty-ltd) | Melbourne wholesale import/export BBQ company; distributes smokers, fuels, accessories and retailer support nationally | Hark BBQ, BGE AU distributor signal, US smoking brands | Lead | — | ⭐ Importer/distributor profile; contact-ready: B · channel: email · tel: 03 9702 8823 |
+| 45 | Hot Things | Australia | hotthings.com.au | — | info@hotthings.com.au | — | Perth/Balcatta barbecues, heaters and outdoor kitchens retailer; sells BBQ smokers, charcoal/wood barbecues and alfresco kitchen products | BBQ smokers, outdoor kitchens, BGE content signal | Lead | — | contact-ready: B · channel: email · tel: 08 9240 7188 |
+| 46 | Gaganis Bros | Australia | gaganisbros.com.au | — | — | — | Adelaide national distributor/wholesaler/importer with BBQs & charcoal category; imports home/kitchenware from multiple countries including China | Charcoal BBQs, rotisseries, accessories | Lead | — | contact-ready: C · channel: form/tel · form: /Contact · tel: 08 8346 5766 |
+| 47 | Wignells of Melbourne | Australia | wignells.com.au | — | sales@wignells.com.au | — | Blackburn VIC family retailer for wood heaters, cookers, pizza ovens, BBQs and smokers; outdoor cooking adjacent showroom | Pizza ovens, BBQs, smokers | Lead | — | contact-ready: B · channel: email · tel: (03) 9417 3315 |
+| 48 | BBQs and Outdoor | Australia | bbqsandoutdoor.com.au | — | — | — | South Morang VIC flagship Weber Store / outdoor BBQ retailer; complete Weber range and outdoor cooking showroom | Weber | Lead | — | contact-ready: C · channel: form/tel · form: /contact · tel: 03 8456 0055 |
+| 49 | Tagwood BBQ Australia | Australia | tagwoodbbq.com.au | — | sales@tagwoodbbq.com.au | — | Australian branch for premium Argentine charcoal/wood-fired grills; available online and building stockist presence nationwide | Argentine charcoal grills | Lead | — | Adjacent premium charcoal brand; contact-ready: B · channel: email · tel: 1300 170 931 |
+| 50 | Oz BBQ | Australia | bbqs.com.au | — | contact@bbqs.com.au | — | Regional VIC online retailer for premium BBQs, smokers, pizza ovens and outdoor cooking; authorised dealer for global BBQ brands | Kamado Joe, Masterbuilt, smokers | Lead | — | contact-ready: B · channel: email · tel: 03 9088 0386 |
 
 **字段说明：**
 
@@ -122,7 +132,7 @@
 
 ## 统计
 
-- Total leads: **40**
+- Total leads: **50**
 - Contacted: 0
 - Replied: 0
 - Quoted: 0
@@ -130,11 +140,11 @@
 
 *每周日更新统计数字，同步到 `company/sales.md`*
 
-**收集批次：** 2026-07-10 Day 1（#1–20）· 2026-07-11 Day 2（#21–30）· 2026-07-12 Day 3（#31–40）· **未发信**
+**收集批次：** 2026-07-10 Day 1（#1–20）· 2026-07-11 Day 2（#21–30）· 2026-07-12 Day 3（#31–40）· 2026-07-13 Day 4（#41–50）· **未发信**
 
-### 当前 pipeline 联系人就绪审计（2026-07-12）
+### 当前 pipeline 联系人就绪审计（2026-07-13）
 
-**40/40 联系人就绪**（均 ≥B）；**15/40 达 A 级**（可个性化）。
+**50/50 联系人就绪**（均 ≥C，可触达）；**16/50 达 A 级**（可个性化）。
 
 | # | 公司 | 就绪 | 渠道 | Week 3 |
 |---|------|:---:|---|---|
@@ -143,3 +153,6 @@
 | 16–20 | Gas Works … Primal Hunter | B | email | ✅ |
 | 21–30 | Canberra … Armidale | B/A | email | ✅ |
 | 31–40 | Victorian FP … Beauview | B | email | ✅ |
+| 41–45 | BBQ Republic … Hot Things | A/B | email | ✅ |
+| 46 | Gaganis Bros | C | form/tel | ⚠️ 表单/电话 |
+| 47–50 | Wignells … Oz BBQ | B/C | email / form | ✅（#48 表单/电话） |

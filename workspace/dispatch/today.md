@@ -4,8 +4,8 @@
 
 | 字段 | 值 |
 |------|-----|
-| 日期 | — |
-| status | **empty** |
+| 日期 | 2026-07-13 |
+| status | **done** |
 | 派发 | Founder |
 | 执行 | Sales |
 
@@ -24,11 +24,11 @@
 
 ### P0
 
-- [ ] （待 Founder 派发）
+- [x] 新增 **10 家**澳洲 BBQ / outdoor cooking 买家入 pipeline（#41–#50）→ 买家 **50/50**
 
 ### P1
 
-- [ ] （待 Founder 派发）
+- [x] 同步漏斗与 Week 3 草稿待补队列；W2 继续 **0 发信**
 
 ---
 
@@ -44,11 +44,11 @@
 
 | 项 | 值 |
 |----|-----|
-| 完成时间 | — |
-| P0 结果 | — |
-| P1 结果 | — |
-| 漏斗 | 买家 —/50 · 草稿 —/30 · 已发信 0 |
-| 写入文件 | — |
+| 完成时间 | 2026-07-13 |
+| P0 结果 | 已新增 #41–#50：BBQ Republic · The BBQ Store · BBQ Bazaar · Hark Enterprises · Hot Things · Gaganis Bros · Wignells · BBQs and Outdoor · Tagwood BBQ Australia · Oz BBQ |
+| P1 结果 | 已同步 `company/sales.md`；`outreach-drafts.md` 保持未发送，仅更新待补草稿队列 |
+| 漏斗 | 买家 50/50 · 草稿 19/30 · 已发信 0 |
+| 写入文件 | `workspace/buyers/pipeline.md` · `workspace/buyers/outreach-drafts.md` · `company/sales.md` |
 
 ---
 
