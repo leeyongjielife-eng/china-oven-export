@@ -162,6 +162,7 @@ Sales ×1：找买家 +10 → 50/50（Week 2 目标达成）
 | 2026-07-11 | Founder | Day 2 复盘 + Day 3 排期 | `founder.md` |
 | 2026-07-12 | Founder → Sales | Day 3：+10 买家 #31–#40、草稿 #15–#20 | `pipeline.md` 40/50 · `outreach-drafts.md` 19/30 |
 | 2026-07-12 | Founder | Day 3 复盘 + Day 4 排期 | `founder.md` |
+| 2026-07-13 | Founder → Sales | Day 4：已派发 `today.md`（+10 买家 #41–#50 → 50/50；草稿 #20–#22）；phase 仍 `W2_COLLECT`（40<50 未切换） | `dispatch/today.md` `pending` |
 
 ---
 
