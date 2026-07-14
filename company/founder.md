@@ -25,8 +25,8 @@
 |------|----------|
 | 业务 | 中国 Kamado 陶瓷烤炉出口寻源 |
 | 产品 | 18" / 21" 主推，供应商 YUEFU BBQ（佛山） |
-| 阶段 | Phase 0 验证期，0 客户，**40 家 Lead** |
-| **当前 phase** | **`W2_COLLECT`**（详见 [`phases.md`](phases.md)） |
+| 阶段 | Phase 0 验证期，0 客户，**55 家 Lead** |
+| **当前 phase** | **`W3_OUTREACH`**（详见 [`phases.md`](phases.md)） |
 | 战略 | 一个资源 → 一个市场 → 一个报价 |
 | 定位 | 寻源顾问，降风险，非最低价噱头 |
 | Co-founder 贡献 | 国内烤炉供应商资源（父亲朋友工厂 YUEFU），可拿货销售、帮开市场 |
@@ -37,11 +37,11 @@
 
 ## 当前阶段判断
 
-- **Phase:** 0 — **`W2_COLLECT`**（Week 2 积买家 · Day 3 ✅）→ 切换见 [`phases.md`](phases.md)
-- **瓶颈:** 买家 **40/50**（80%）；外联草稿 **19/30**；距 Week 2 结束剩 **3 天**
-- **优势:** 40 家均已联系人就绪 + 15 家 A 级 + **三 Automation 已启用**（Founder 09:00 · Sales 10:00 · Research 周日 09:00）
-- **本周必须完成:** 积满 50 买家（不发信）
-- **暂不做:** 外联发信（Week 3）、Gmail MCP（Week 3 前再搭）、问叔叔
+- **Phase:** 0 — **`W3_OUTREACH`**（Week 3 外联 · Day 1 ✅）→ 切换见 [`phases.md`](phases.md)
+- **瓶颈:** Gmail MCP / 发信通道尚未搭建；已发信 **0/100**
+- **优势:** 买家 **55/100**；外联草稿 **29/30**；50+ lead 均可触达
+- **本周必须完成:** 搭建 Gmail MCP 后启动首批 #1、#2、#4–#12、#14–#20 外联；每天补 5+ 新买家
+- **暂不做:** 问叔叔（等 Replied/Qualified 后再问）；首轮跳过 #3 BBQ Spit、#13 Tucker
 
 ### Automation（2026-07-12 · 三件套）
 
@@ -55,28 +55,30 @@
 
 **重要：** Automation 读 **GitHub 上的代码**。本地改完文档须 `git commit && git push`，次日 09:00 才能跑到最新状态。
 
-## 今日排期（2026-07-12 · Founder 排程 · Day 3）✅ 已完成
+## 今日排期（2026-07-14 · Founder 排程 · W3 Day 1）✅ 已完成
 
-**主题：Week 2 Day 3 — 积买家 + 补草稿**
+**主题：Week 3 Day 1 — 阶段切换 + 首批外联准备**
 
 | 优先级 | 谁 | 任务 | 状态 |
 |:---:|------|------|:---:|
-| **P0** | **Sales** | 再找 **10 家**澳洲买家 → **40/50** | ✅ |
-| **P1** | **Sales** | 外联草稿 #15–#20（#15 电话脚本；跳过 #13） | ✅ **19/30** |
-| ⏸️ | — | 不发信、不问叔叔、不搭 Gmail MCP | ✅ |
+| **P0** | **Sales** | 整理首轮外联队列 #1、#2、#4–#12、#14–#20；补草稿 #21–#30 | ✅ 草稿 29/30；未发信 |
+| **P1** | **Sales** | 新增 5 家澳洲买家 → 55/100 | ✅ |
+| **P1** | **Co-founder** | 搭建 Gmail MCP / 发信通道 | ⏳ 待办 |
+| ⏸️ | — | 不问叔叔；跳过 #3 BBQ Spit、#13 Tucker | ✅ |
 
-**Day 3 新增 #31–#40：** Victorian Fireplaces · CFAB Greensborough · Foxy's Mornington · Tackle World Wagga · BG North Rockhampton · Sydney BBQs · Specialized Shepparton · Southside Heating Pakenham · JK BBQ Loganholme · Beauview BBQ
+**今日新增 #51–#55：** The Modern Cave · Barbeques Galore · Outdoor Elegance · Abbey Fireplaces · BBQs R Us
 
-### 明日排期（2026-07-13 · Day 4）
+### 明日排期（2026-07-15 · W3 Day 2）
 
 | 优先级 | 指派 | 任务 | 目标 |
 |:---:|------|------|------|
-| **P0** | **Sales** | 再找 10 家买家 | **50/50** ✅ Week 2 积买家完成 |
-| **P1** | **Co-founder** | 关闭旧 Automation「Kamado 找买家」（若仍 Active） | 建议 |
+| **P0** | **Sales** | Gmail MCP 就绪后发送首批 15–20 封；否则继续补草稿/发信队列 | 已发信开始计数 |
+| **P1** | **Sales** | 再找 5 家买家 | 60/100 |
+| **P1** | **Co-founder** | 完成 Gmail MCP / 发信账号连接 | 解锁 Contacted 计数 |
 
 ```text
-Sales ×1：找买家 +10 → 50/50（Week 2 目标达成）
-7/14–7/16：补草稿 #21–#30；Top 10 外联队列
+Founder：W2_COLLECT → W3_OUTREACH（买家已达 50）
+Sales：新增 +5 → 55/100；补草稿 #21–#30；未配置 Gmail MCP，不伪造已发信
 ```
 
 ---
@@ -95,7 +97,7 @@ Sales ×1：找买家 +10 → 50/50（Week 2 目标达成）
 
 ## Week 2 剩余计划（Founder · 更新 2026-07-12）
 
-**目标：50 买家 + 0 外联。** 当前 **40/50（80%）**。
+**目标：50 买家 + 0 外联。** 已于 2026-07-13 达成 **50/50**；2026-07-14 自动切换至 W3。
 
 | 日期 | Sales 目标 | 累计 |
 |------|------------|------|
@@ -130,10 +132,10 @@ Sales ×1：找买家 +10 → 50/50（Week 2 目标达成）
 | P0 | Research 体系独立审核 + 按意见修复 | 审核子代理 + Founder | ✅ 完成 |
 | P0 | **问叔叔：YUEFU 出口史** | Co-founder | ⏸️ **暂缓** — Lee 决定先找潜在买家，有询盘/Qualified 后再问（2026-07-10） |
 | P0 | 市场研究，定第一个目标国 | Research | ✅ **澳大利亚**（2026-07-10） |
-| P1 | 积满 **50 买家** | Sales | **40/50** 进行中 |
-| P1 | 外联草稿备齐 | Sales | **19/30** 已写 |
-| P1 | 补联系人 A 级 | Sales | **15/40** 达 A |
-| P1 | 外联 100（定价话术见 `product.md` 定价策略） | Sales | Week 3 |
+| P1 | 积满 **50 买家** | Sales | ✅ 50/50 完成；W3 后目标 100 |
+| P1 | 外联草稿备齐 | Sales | **29/30** 已写 |
+| P1 | 补联系人 A 级 | Sales | **16/55** 达 A |
+| P1 | 外联 100（定价话术见 `product.md` 定价策略） | Sales | W3 进行中；Gmail MCP 待搭 |
 | P2 | 有回复后 → 向 YUEFU 要针对性 FOB | Supplier + Co-founder | 有 Qualified 后 |
 | P3 | 正式报价单 | Quoting | 有需求 + 厂价后 |
 
@@ -141,11 +143,11 @@ Sales ×1：找买家 +10 → 50/50（Week 2 目标达成）
 
 ## 待 Co-founder 决策 / 回答
 
-> 暂无开放问题。下一批问题将在有买家回复或需正式报价时提出。
+> 当前唯一 blocker：W3 已启动，真实发信需要 Co-founder 搭建 Gmail MCP / 发信通道。
 
 | # | 问题 | 影响 | 状态 |
 |---|------|------|------|
-| — | — | — | — |
+| 1 | 搭建 Gmail MCP / 发信账号连接 | 解锁 W3 外联发送与 Contacted 计数 | 待办 |
 
 ---
 
@@ -164,6 +166,8 @@ Sales ×1：找买家 +10 → 50/50（Week 2 目标达成）
 | 2026-07-12 | Founder | Day 3 复盘 + Day 4 排期 | `founder.md` |
 | 2026-07-13 | Founder → Sales | Day 4：派发 +10 澳洲买家（仅 Sales 任务；W2 不发信） | `today.md` pending |
 | 2026-07-13 | Sales | Day 4：新增买家 #41–#50；同步漏斗；未发信 | `pipeline.md` 50/50 · `sales.md` · `today.md` done |
+| 2026-07-14 | Founder | 阶段切换：W2_COLLECT → W3_OUTREACH；派发 W3 Day 1 Sales 任务 | `phases.md` · `today.md` pending |
+| 2026-07-14 | Sales | W3 Day 1：补草稿 #21–#30、新增买家 #51–#55；Gmail MCP 未配置，未发信 | `pipeline.md` 55/100 · `outreach-drafts.md` 29/30 · `sales.md` · `today.md` done |
 
 ---
 

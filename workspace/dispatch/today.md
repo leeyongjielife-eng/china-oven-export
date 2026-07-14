@@ -4,7 +4,7 @@
 
 | 字段 | 值 |
 |------|-----|
-| 日期 | 2026-07-13 |
+| 日期 | 2026-07-14 |
 | status | **done** |
 | 派发 | Founder |
 | 执行 | Sales |
@@ -15,6 +15,7 @@
 
 - 排期来源：[`company/founder.md`](../../company/founder.md)
 - 当前漏斗：[`company/sales.md`](../../company/sales.md)
+- 当前阶段：`W3_OUTREACH`（Week 3 — 外联 100）
 
 ---
 
@@ -24,19 +25,20 @@
 
 ### P0
 
-- [x] 新增 **10 家**澳洲 BBQ / outdoor cooking 买家入 pipeline（#41–#50）→ 买家 **50/50**
+- [x] W3 首批外联队列：整理 #1、#2、#4–#12、#14–#20 为可发送候选；继续跳过 #3 BBQ Spit、#13 Tucker。
+- [x] 补齐外联草稿 #21–#30；邮件发送依赖 Gmail MCP，未伪造 Contacted。
 
 ### P1
 
-- [x] 同步漏斗与 Week 3 草稿待补队列；W2 继续 **0 发信**
+- [x] 新增 **5 家**澳洲 BBQ / outdoor cooking 买家入 pipeline（#51–#55）→ 买家 **55/100**。
 
 ---
 
 ## 约束（Sales 必读）
 
 - 发信政策 → [`company/cofounder.md`](../../company/cofounder.md) 发信政策
-- Week 2：**不发信** · 不问叔叔 · 不搭 Gmail MCP
-- 跳过低优先：#3 BBQ Spit、#13 Tucker
+- Week 3：允许外联；若无 Gmail MCP / 发信通道，不得把未发送邮件标成 Contacted。
+- 不问叔叔；跳过首轮低优先：#3 BBQ Spit、#13 Tucker。
 
 ---
 
@@ -44,10 +46,10 @@
 
 | 项 | 值 |
 |----|-----|
-| 完成时间 | 2026-07-13 |
-| P0 结果 | 已新增 #41–#50：BBQ Republic · The BBQ Store · BBQ Bazaar · Hark Enterprises · Hot Things · Gaganis Bros · Wignells · BBQs and Outdoor · Tagwood BBQ Australia · Oz BBQ |
-| P1 结果 | 已同步 `company/sales.md`；`outreach-drafts.md` 保持未发送，仅更新待补草稿队列 |
-| 漏斗 | 买家 50/50 · 草稿 19/30 · 已发信 0 |
+| 完成时间 | 2026-07-14 |
+| P0 结果 | 已补草稿 #21–#30；首轮发送队列为 #1、#2、#4–#12、#14–#20；因 Gmail MCP 未配置，未实际发信、未改 Contacted。 |
+| P1 结果 | 已新增 #51–#55：The Modern Cave · Barbeques Galore · Outdoor Elegance · Abbey Fireplaces · BBQs R Us。 |
+| 漏斗 | 买家 55/100 · 草稿 29/30 · 已发信 0 |
 | 写入文件 | `workspace/buyers/pipeline.md` · `workspace/buyers/outreach-drafts.md` · `company/sales.md` |
 
 ---
@@ -56,5 +58,5 @@
 
 | 项 | 值 |
 |----|-----|
-| 签收时间 | — |
-| 结论 | — |
+| 签收时间 | 2026-07-14 |
+| 结论 | 已切换 W3；Sales 完成新 lead 与草稿准备。Co-founder 需搭建 Gmail MCP 后才能开始真实发信。 |

@@ -60,6 +60,12 @@
 | 48 | BBQs and Outdoor | Australia | bbqsandoutdoor.com.au | — | — | — | South Morang VIC flagship Weber Store / outdoor BBQ retailer; complete Weber range and outdoor cooking showroom | Weber | Lead | — | contact-ready: C · channel: form/tel · form: /contact · tel: 03 8456 0055 |
 | 49 | Tagwood BBQ Australia | Australia | tagwoodbbq.com.au | — | sales@tagwoodbbq.com.au | — | Australian branch for premium Argentine charcoal/wood-fired grills; available online and building stockist presence nationwide | Argentine charcoal grills | Lead | — | Adjacent premium charcoal brand; contact-ready: B · channel: email · tel: 1300 170 931 |
 | 50 | Oz BBQ | Australia | bbqs.com.au | — | contact@bbqs.com.au | — | Regional VIC online retailer for premium BBQs, smokers, pizza ovens and outdoor cooking; authorised dealer for global BBQ brands | Kamado Joe, Masterbuilt, smokers | Lead | — | contact-ready: B · channel: email · tel: 03 9088 0386 |
+| 51 | The Modern Cave | Australia | themoderncave.com.au | — | support@themoderncave.com.au | — | Australian-owned online retailer for man cave / BBQ zone products; stocks Kamado Joe and The Bastard VX kamado lines with AU-wide shipping | Kamado Joe, The Bastard VX | Lead | — | contact-ready: B · channel: email; support/live chat |
+| 52 | Barbeques Galore | Australia | barbequesgalore.com.au | — | — | — | National BBQ/outdoor retailer; carries Kamado Joe range and has store locator/customer service channels | Kamado Joe, Traeger, Broil King | Lead | — | contact-ready: C · channel: store locator/tel · tel: 1300 301 392; large retailer, use after Gmail MCP ready |
+| 53 | Outdoor Elegance | Australia | outdoorelegance.com.au | Joe (commercial/design enquiries) | info@outdoorelegance.com.au | — | Multi-showroom outdoor furniture retailer; smokers & grills available in selected showrooms and commercial outdoor projects | Hark, Green Mountain Grills, smokers | Lead | — | contact-ready: B · channel: email · commercial: joe@outdoorelegance.com.au · tel: 1300 660 330 |
+| 54 | Abbey Fireplaces | Australia | thefireplace.com.au | — | sales@thefireplace.com.au | — | NSW fireplace/outdoor heating retailer with outdoor fires, cooking and pizza ovens; Grandfire dealer signal | Grandfire BBQs, outdoor cooking | Lead | — | contact-ready: B · channel: email · branch emails: brookvale@ / illawarra@ / centralcoast@thefireplace.com.au |
+| 55 | BBQs R Us | Australia | bbqsrus.com.au | — | bbqrus@bigpond.com | — | Family-owned Australian BBQ specialist since 1978; domestic BBQs, outdoor kitchens, smoking and charcoal/gas spits | Hark smoker, charcoal/gas spits | Lead | — | contact-ready: B · channel: email · tel: (03) 9873 1444 |
+
 
 **字段说明：**
 
@@ -132,7 +138,7 @@
 
 ## 统计
 
-- Total leads: **50**
+- Total leads: **55**
 - Contacted: 0
 - Replied: 0
 - Quoted: 0
@@ -140,11 +146,11 @@
 
 *每周日更新统计数字，同步到 `company/sales.md`*
 
-**收集批次：** 2026-07-10 Day 1（#1–20）· 2026-07-11 Day 2（#21–30）· 2026-07-12 Day 3（#31–40）· 2026-07-13 Day 4（#41–50）· **未发信**
+**收集批次：** 2026-07-10 Day 1（#1–20）· 2026-07-11 Day 2（#21–30）· 2026-07-12 Day 3（#31–40）· 2026-07-13 Day 4（#41–50）· 2026-07-14 W3 Day 1（#51–55）· **未发信**
 
-### 当前 pipeline 联系人就绪审计（2026-07-13）
+### 当前 pipeline 联系人就绪审计（2026-07-14）
 
-**50/50 联系人就绪**（均 ≥C，可触达）；**16/50 达 A 级**（可个性化）。
+**55/55 联系人就绪**（均 ≥C，可触达）；**16/55 达 A 级**（可个性化）。
 
 | # | 公司 | 就绪 | 渠道 | Week 3 |
 |---|------|:---:|---|---|
@@ -156,3 +162,4 @@
 | 41–45 | BBQ Republic … Hot Things | A/B | email | ✅ |
 | 46 | Gaganis Bros | C | form/tel | ⚠️ 表单/电话 |
 | 47–50 | Wignells … Oz BBQ | B/C | email / form | ✅（#48 表单/电话） |
+| 51–55 | The Modern Cave … BBQs R Us | B/C | email / store locator | ✅（#52 大客户先电话/门店渠道） |
