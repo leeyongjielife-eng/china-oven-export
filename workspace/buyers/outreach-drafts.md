@@ -7,16 +7,16 @@
 > 发信政策 → [`../../company/cofounder.md`](../../company/cofounder.md)
 >
 > 状态：**草稿，Week 3 发送**。均按 PAR 结构、75–125 词、首封不报价不带附件、单一 CTA。
-> 2026-07-14：首轮发送队列已整理；因 Gmail MCP 未配置，当前为待发送，未标记 Contacted。
+> 2026-07-15：首轮发送队列已整理；因 Gmail MCP 未配置，当前为待发送，未标记 Contacted。已补 #31–#40 草稿/脚本。
 
 
 ## Week 3 首轮发送队列（2026-07-14）
 
-**优先发送：** #1 Core Supply · #2 The Que Club · #4 Wildflame · #5 Joe's BBQs · #6 BBQs Plus · #7 My Slice of Life · #8 BBQs of the World · #9 Lifestyle Fires · #10 Firebrand · #11 The BBQ King · #12 Aussie BBQs · #14 FNQ BBQ · #16 Gas Works · #17 Smoked & Cured · #18 Heat & Grill · #19 Bespoke Backyards · #20 Primal Hunter
+**优先发送：** #1 Core Supply · #2 The Que Club · #4 Wildflame · #5 Joe's BBQs · #6 BBQs Plus · #7 My Slice of Life · #8 BBQs of the World · #9 Lifestyle Fires · #10 Firebrand · #11 The BBQ King · #12 Aussie BBQs · #14 FNQ BBQ · #16 Gas Works · #17 Smoked & Cured · #18 Heat & Grill · #19 Bespoke Backyards · #20 Primal Hunter · #21–#40（按当天额度继续）
 
 **继续跳过：** #3 BBQ Spit（自有中国工厂）· #13 Tucker（自有产线）
 
-**发送状态：** 未发送；等待 Co-founder 搭建 Gmail MCP / 发信通道。
+**发送状态：** 未发送；等待 Co-founder 搭建 Gmail MCP / 发信通道。当前可用草稿/脚本：**39/40**。
 
 ---
 
@@ -518,6 +518,176 @@ Lee Wing Kit
 
 ---
 
-## 待补充草稿（Week 3 前）
+## #31 Victorian Fireplaces & BBQs — 通用
 
-#31–#40 · #41–#55（继续跳过 #3 BBQ Spit、#13 Tucker 首轮发送）
+**Subject:** Victorian Fireplaces — kamado line?
+
+Hi there,
+
+Victorian Fireplaces & BBQs already serves Melbourne outdoor-cooking customers through Weber and fireplace showrooms, so a ceramic charcoal line could fit buyers building a full backyard setup.
+
+I source kamados direct from a Foshan factory (18"/21" focus, EN1860-1 certified) and support AU retailers with export docs and shipping. Comparable models retail at AUD $2,000–3,000+; FOB pricing on request.
+
+Would a short product overview be useful for your range review?
+
+Best,
+Lee Wing Kit
+
+---
+
+## #32 CFAB / Classic Fireplaces & BBQs — 通用
+
+**Subject:** CFAB — ceramic kamado option
+
+Hi there,
+
+CFAB has served fireplace and BBQ customers in Greensborough for decades, so your showroom already reaches people investing in outdoor living.
+
+I work directly with a Foshan kamado factory (13"–24", EN1860-1 certified) and help AU specialty retailers add a factory-direct ceramic grill line with OEM options. Similar kamados retail locally at AUD $2,000–3,000+; FOB pricing on request.
+
+Worth me sending a one-page product overview?
+
+Best,
+Lee Wing Kit
+
+---
+
+## #33 Foxy's Appliances — 通用
+
+**Subject:** Foxy's — kamado alongside Weber?
+
+Hi there,
+
+Foxy's already serves Mornington BBQ buyers through its Weber Store and outdoor range, so a ceramic charcoal option could give customers another premium cooking style.
+
+I source kamados direct from a verified Foshan factory (18"/21" popular, EN1860-1 certified) and support AU retailers with export docs and shipping. Comparable models retail at AUD $2,000–3,000+; FOB pricing on request.
+
+Would a short overview be useful for your buying team?
+
+Best,
+Lee Wing Kit
+
+---
+
+## #34 Tackle World Wagga — 通用
+
+**Subject:** Wagga BBQ customers — kamado option?
+
+Hi there,
+
+Tackle World Wagga already serves regional outdoor and Weber customers, so a ceramic charcoal grill could fit buyers who want serious low-and-slow cooking beyond standard camping gear.
+
+I work with a Foshan kamado factory (13"–24", EN1860-1 certified) and help AU regional retailers add factory-direct grills with export support. Similar models retail at AUD $2,000–3,000+; FOB pricing on request.
+
+Worth a one-page product overview?
+
+Best,
+Lee Wing Kit
+
+---
+
+## #35 Barbeques Galore North Rockhampton — 通用
+
+**Subject:** North Rockhampton — ceramic kamado range
+
+Hi there,
+
+Your North Rockhampton store serves regional QLD BBQ buyers and already carries serious outdoor cooking brands, including kamado-style options.
+
+I source ceramic kamados direct from a Foshan factory (18"/21" focus, EN1860-1 certified) and help AU retailers add factory-direct lines with export docs and OEM options. Comparable models retail at AUD $2,000–3,000+; FOB pricing on request.
+
+Would a short product overview be useful?
+
+Best,
+Lee Wing Kit
+
+---
+
+## #36 Sydney BBQs — 通用
+
+**Subject:** Sydney BBQs — ceramic grill line?
+
+Hi there,
+
+Sydney BBQs already focuses on smokers and BBQ equipment, so your customers likely understand the value of fuel-efficient charcoal cooking.
+
+I work directly with a Foshan kamado factory (13"–24", EN1860-1 certified) and support AU retailers with export docs, shipping coordination and OEM options. Similar kamados retail at AUD $2,000–3,000+; FOB pricing on request.
+
+Worth me sending a one-page overview for comparison?
+
+Best,
+Lee Wing Kit
+
+---
+
+## #37 Specialized Heating & Cooling — 通用
+
+**Subject:** Shepparton outdoor cooking — kamado option
+
+Hi there,
+
+Specialized Heating & Cooling already covers heating and outdoor living in regional Victoria, so a ceramic kamado line could sit naturally beside BBQ and fireplace products.
+
+I source kamados direct from a Foshan factory (18"/21" popular, EN1860-1 certified) and support AU retailers with export docs and shipping. Comparable models retail at AUD $2,000–3,000+; FOB pricing on request.
+
+Would a short product overview be useful?
+
+Best,
+Lee Wing Kit
+
+---
+
+## #38 Southside Heating Centre — 通用
+
+**Subject:** Southside Heating — outdoor cooking add-on?
+
+Hi there,
+
+Southside Heating Centre already serves Pakenham heating and outdoor-living customers, which often overlaps with BBQ, fire pit and backyard cooking buyers.
+
+I work with a Foshan kamado factory (13"–24", EN1860-1 certified) and help AU retailers source factory-direct ceramic grills with export support. Similar models retail at AUD $2,000–3,000+; FOB pricing on request.
+
+Worth a one-page product overview?
+
+Best,
+Lee Wing Kit
+
+---
+
+## #39 JK BBQ & Outdoor — 通用
+
+**Subject:** JK BBQ — ceramic kamado option
+
+Hi there,
+
+JK BBQ & Outdoor already operates as a Weber and YETI specialist in Loganholme, so your team clearly speaks to serious outdoor-cooking customers every day.
+
+I source ceramic kamados direct from a verified Foshan factory (18"/21" most popular, EN1860-1 certified) and help AU retailers add a factory-direct charcoal line. Comparable models retail at AUD $2,000–3,000+; FOB pricing on request.
+
+Would a short product overview be useful?
+
+Best,
+Lee Wing Kit
+
+---
+
+## #40 Beauview BBQ — 通用
+
+**Subject:** Beauview BBQ — kamado alongside BGE?
+
+Hi there,
+
+Beauview BBQ already serves regional QLD customers with smokers and Big Green Egg packages, so your buyers understand ceramic charcoal cooking.
+
+I work directly with a Foshan kamado factory (13"–24", EN1860-1 certified) and support AU retailers with export docs, OEM options and shipping coordination. Comparable kamados retail at AUD $2,000–3,000+; FOB pricing on request.
+
+Worth me sending a one-page product overview?
+
+Best,
+Lee Wing Kit
+
+---
+
+## 待补充草稿（Week 3）
+
+#41–#60（继续跳过 #3 BBQ Spit、#13 Tucker 首轮发送；#15 保持电话脚本）
