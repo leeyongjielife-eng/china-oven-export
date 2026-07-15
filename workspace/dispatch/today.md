@@ -4,7 +4,7 @@
 
 | 字段 | 值 |
 |------|-----|
-| 日期 | 2026-07-14 |
+| 日期 | 2026-07-15 |
 | status | **done** |
 | 派发 | Founder |
 | 执行 | Sales |
@@ -16,6 +16,7 @@
 - 排期来源：[`company/founder.md`](../../company/founder.md)
 - 当前漏斗：[`company/sales.md`](../../company/sales.md)
 - 当前阶段：`W3_OUTREACH`（Week 3 — 外联 100）
+- Phase 1 派发时状态：`pending`；Phase 2 执行完成后改为 `done`。
 
 ---
 
@@ -25,12 +26,12 @@
 
 ### P0
 
-- [x] W3 首批外联队列：整理 #1、#2、#4–#12、#14–#20 为可发送候选；继续跳过 #3 BBQ Spit、#13 Tucker。
-- [x] 补齐外联草稿 #21–#30；邮件发送依赖 Gmail MCP，未伪造 Contacted。
+- [x] 若 Gmail MCP / 发信通道可用：发送首批 15–20 封（#1、#2、#4–#12、#14、#16–#20；继续跳过 #3 BBQ Spit、#13 Tucker）。
+- [x] 若发信通道不可用：不得标记 Contacted；补下一批 #31–#40 外联草稿/脚本，扩大可发送队列。
 
 ### P1
 
-- [x] 新增 **5 家**澳洲 BBQ / outdoor cooking 买家入 pipeline（#51–#55）→ 买家 **55/100**。
+- [x] 新增 **5 家**澳洲 BBQ / outdoor cooking 买家入 pipeline（#56–#60）→ 买家 **60/100**。
 
 ---
 
@@ -46,10 +47,10 @@
 
 | 项 | 值 |
 |----|-----|
-| 完成时间 | 2026-07-14 |
-| P0 结果 | 已补草稿 #21–#30；首轮发送队列为 #1、#2、#4–#12、#14–#20；因 Gmail MCP 未配置，未实际发信、未改 Contacted。 |
-| P1 结果 | 已新增 #51–#55：The Modern Cave · Barbeques Galore · Outdoor Elegance · Abbey Fireplaces · BBQs R Us。 |
-| 漏斗 | 买家 55/100 · 草稿 29/30 · 已发信 0 |
+| 完成时间 | 2026-07-15 |
+| P0 结果 | 未发现 Gmail/邮件发送 MCP，未实际发信、未改 Contacted；已补 #31–#40 外联草稿/脚本，下一批可发送队列扩大到 #1、#2、#4–#12、#14、#16–#40。 |
+| P1 结果 | 已新增 #56–#60：The Outdoor Outlaws · Barbeques & More · Nash's BBQ & Fire · BBQ Adelaide · Fielder's BBQ & Outdoor。 |
+| 漏斗 | 买家 60/100 · 草稿/脚本 39/40 · 已发信 0 |
 | 写入文件 | `workspace/buyers/pipeline.md` · `workspace/buyers/outreach-drafts.md` · `company/sales.md` |
 
 ---
@@ -58,5 +59,5 @@
 
 | 项 | 值 |
 |----|-----|
-| 签收时间 | 2026-07-14 |
-| 结论 | 已切换 W3；Sales 完成新 lead 与草稿准备。Co-founder 需搭建 Gmail MCP 后才能开始真实发信。 |
+| 签收时间 | — |
+| 结论 | 待 Founder 次日签收；Co-founder 仍需搭建 Gmail MCP 后才能开始真实发信。 |

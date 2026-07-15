@@ -65,6 +65,11 @@
 | 53 | Outdoor Elegance | Australia | outdoorelegance.com.au | Joe (commercial/design enquiries) | info@outdoorelegance.com.au | — | Multi-showroom outdoor furniture retailer; smokers & grills available in selected showrooms and commercial outdoor projects | Hark, Green Mountain Grills, smokers | Lead | — | contact-ready: B · channel: email · commercial: joe@outdoorelegance.com.au · tel: 1300 660 330 |
 | 54 | Abbey Fireplaces | Australia | thefireplace.com.au | — | sales@thefireplace.com.au | — | NSW fireplace/outdoor heating retailer with outdoor fires, cooking and pizza ovens; Grandfire dealer signal | Grandfire BBQs, outdoor cooking | Lead | — | contact-ready: B · channel: email · branch emails: brookvale@ / illawarra@ / centralcoast@thefireplace.com.au |
 | 55 | BBQs R Us | Australia | bbqsrus.com.au | — | bbqrus@bigpond.com | — | Family-owned Australian BBQ specialist since 1978; domestic BBQs, outdoor kitchens, smoking and charcoal/gas spits | Hark smoker, charcoal/gas spits | Lead | — | contact-ready: B · channel: email · tel: (03) 9873 1444 |
+| 56 | The Outdoor Outlaws | Australia | theoutdooroutlaws.com.au | — | admin@theoutdooroutlaws.com.au | — | Townsville independent Weber Store and outdoor lifestyle retailer; stocks Weber BBQs, YETI, EcoSmart fires, outdoor furniture and BBQ accessories | Weber Store, charcoal/wood pellet categories | Lead | — | contact-ready: B · channel: email · tel: 07 4779 7309 |
+| 57 | Barbeques & More | Australia | barbequesandmore.com.au | Garry & Jennifer McFarlane (owners) | info@barbequesandmore.com.au | — | Browns Plains family-owned Weber/YETI specialist; low-and-slow, charcoal, pellet BBQ and outdoor cooking focus | Weber Store, YETI, Gasmate stockist | Lead | — | contact-ready: A · channel: email/form · tel: 07 3809 2955 |
+| 58 | Nash's BBQ & Fire | Australia | bbqandfire.com | — | castlehill@bbqandfire.com | — | Castle Hill Weber Store serving Hills District / Western Sydney; sells Weber BBQs, YETI and runs cooking classes | Weber Store, YETI | Lead | — | contact-ready: B · channel: email · tel: 02 8700 1288 |
+| 59 | BBQ Adelaide | Australia | bbqadelaide.com.au | — | admin@ausbbq.com.au | — | Adelaide Weber Store group at Gepps Cross and Mile End; stocks Weber, YETI, BBQ rubs and outdoor kitchens | Weber Store, YETI | Lead | — | contact-ready: B · channel: email/form · tel: 08 8359 5760 / 08 8166 7599 |
+| 60 | Fielder's BBQ & Outdoor | Australia | fieldersbbq.com.au | — | sales@fieldersbbq.com.au | — | North Lakes BBQ/outdoor retailer; proud Weber BBQ Store with YETI range, in-store demos and outdoor living focus | Weber Store, YETI | Lead | — | contact-ready: B · channel: email · tel: 07 3385 0817 |
 
 
 **字段说明：**
@@ -138,7 +143,7 @@
 
 ## 统计
 
-- Total leads: **55**
+- Total leads: **60**
 - Contacted: 0
 - Replied: 0
 - Quoted: 0
@@ -146,11 +151,11 @@
 
 *每周日更新统计数字，同步到 `company/sales.md`*
 
-**收集批次：** 2026-07-10 Day 1（#1–20）· 2026-07-11 Day 2（#21–30）· 2026-07-12 Day 3（#31–40）· 2026-07-13 Day 4（#41–50）· 2026-07-14 W3 Day 1（#51–55）· **未发信**
+**收集批次：** 2026-07-10 Day 1（#1–20）· 2026-07-11 Day 2（#21–30）· 2026-07-12 Day 3（#31–40）· 2026-07-13 Day 4（#41–#50）· 2026-07-14 W3 Day 1（#51–#55）· 2026-07-15 W3 Day 2（#56–#60）· **未发信**
 
-### 当前 pipeline 联系人就绪审计（2026-07-14）
+### 当前 pipeline 联系人就绪审计（2026-07-15）
 
-**55/55 联系人就绪**（均 ≥C，可触达）；**16/55 达 A 级**（可个性化）。
+**60/60 联系人就绪**（均 ≥C，可触达）；**17/60 达 A 级**（可个性化）。
 
 | # | 公司 | 就绪 | 渠道 | Week 3 |
 |---|------|:---:|---|---|
@@ -163,3 +168,4 @@
 | 46 | Gaganis Bros | C | form/tel | ⚠️ 表单/电话 |
 | 47–50 | Wignells … Oz BBQ | B/C | email / form | ✅（#48 表单/电话） |
 | 51–55 | The Modern Cave … BBQs R Us | B/C | email / store locator | ✅（#52 大客户先电话/门店渠道） |
+| 56–60 | The Outdoor Outlaws … Fielder's BBQ & Outdoor | A/B | email / form | ✅ |
