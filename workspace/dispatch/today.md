@@ -4,7 +4,7 @@
 
 | 字段 | 值 |
 |------|-----|
-| 日期 | 2026-07-15 |
+| 日期 | 2026-07-16 |
 | status | **done** |
 | 派发 | Founder |
 | 执行 | Sales |
@@ -26,12 +26,12 @@
 
 ### P0
 
-- [x] 若 Gmail MCP / 发信通道可用：发送首批 15–20 封（#1、#2、#4–#12、#14、#16–#20；继续跳过 #3 BBQ Spit、#13 Tucker）。
-- [x] 若发信通道不可用：不得标记 Contacted；补下一批 #31–#40 外联草稿/脚本，扩大可发送队列。
+- [x] 若 Gmail MCP / 发信通道可用：发送 15–20 封（优先 #1、#2、#4–#12、#14、#16–#20；继续跳过 #3 BBQ Spit、#13 Tucker）。
+- [x] 若发信通道不可用：不得标记 Contacted；补 #41–#60 外联草稿/脚本，把可发送队列扩大到 60。
 
 ### P1
 
-- [x] 新增 **5 家**澳洲 BBQ / outdoor cooking 买家入 pipeline（#56–#60）→ 买家 **60/100**。
+- [x] 新增 **5 家**澳洲 BBQ / outdoor cooking 买家入 pipeline（#61–#65）→ 买家 **65/100**。
 
 ---
 
@@ -47,10 +47,10 @@
 
 | 项 | 值 |
 |----|-----|
-| 完成时间 | 2026-07-15 |
-| P0 结果 | 未发现 Gmail/邮件发送 MCP，未实际发信、未改 Contacted；已补 #31–#40 外联草稿/脚本，下一批可发送队列扩大到 #1、#2、#4–#12、#14、#16–#40。 |
-| P1 结果 | 已新增 #56–#60：The Outdoor Outlaws · Barbeques & More · Nash's BBQ & Fire · BBQ Adelaide · Fielder's BBQ & Outdoor。 |
-| 漏斗 | 买家 60/100 · 草稿/脚本 39/40 · 已发信 0 |
+| 完成时间 | 2026-07-16 |
+| P0 结果 | 未发现 Gmail/邮件发送 MCP，未实际发信、未改 Contacted；已补 #41–#60 外联草稿/脚本，下一批可发送队列扩大到 #1、#2、#4–#12、#14、#16–#60（#15/#52 电话或门店渠道，#46/#48 表单/电话）。 |
+| P1 结果 | 已新增 #61–#65：The Outdoor Cook · Home Heat & BBQ · SmokeLands · BBQ Smokers & Grills · Moore Park BBQs。 |
+| 漏斗 | 买家 65/100 · 草稿/脚本 59/60 · 已发信 0 |
 | 写入文件 | `workspace/buyers/pipeline.md` · `workspace/buyers/outreach-drafts.md` · `company/sales.md` |
 
 ---
@@ -60,4 +60,4 @@
 | 项 | 值 |
 |----|-----|
 | 签收时间 | — |
-| 结论 | 待 Founder 次日签收；Co-founder 仍需搭建 Gmail MCP 后才能开始真实发信。 |
+| 结论 | — |

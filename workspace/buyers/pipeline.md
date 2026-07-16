@@ -70,6 +70,11 @@
 | 58 | Nash's BBQ & Fire | Australia | bbqandfire.com | — | castlehill@bbqandfire.com | — | Castle Hill Weber Store serving Hills District / Western Sydney; sells Weber BBQs, YETI and runs cooking classes | Weber Store, YETI | Lead | — | contact-ready: B · channel: email · tel: 02 8700 1288 |
 | 59 | BBQ Adelaide | Australia | bbqadelaide.com.au | — | admin@ausbbq.com.au | — | Adelaide Weber Store group at Gepps Cross and Mile End; stocks Weber, YETI, BBQ rubs and outdoor kitchens | Weber Store, YETI | Lead | — | contact-ready: B · channel: email/form · tel: 08 8359 5760 / 08 8166 7599 |
 | 60 | Fielder's BBQ & Outdoor | Australia | fieldersbbq.com.au | — | sales@fieldersbbq.com.au | — | North Lakes BBQ/outdoor retailer; proud Weber BBQ Store with YETI range, in-store demos and outdoor living focus | Weber Store, YETI | Lead | — | contact-ready: B · channel: email · tel: 07 3385 0817 |
+| 61 | The Outdoor Cook | Australia | theoutdoorcook.com.au | — | burleigh@theoutdoorcook.com.au | — | Burleigh Heads independent Weber Store; complete Weber range, in-store demos and outdoor cooking advice for QLD customers | Weber Store, outdoor kitchen retailer | Lead | — | contact-ready: B · channel: email · tel: 07 5568 7654 |
+| 62 | Home Heat & BBQ | Australia | homeheatbbq.com.au | — | sales@homeheatandbbq.com.au | — | Sydney-area Weber Store / BBQ and heating retailer with multiple stores in Marsden Park, Penrith and Eastern Creek; stocks Weber BBQs, YETI and outdoor kitchens | Weber Store, outdoor kitchens | Lead | — | contact-ready: B · channel: email · branch emails: penrith@ / easterncreek@homeheatandbbq.com.au · tel: 02 9056 5545 |
+| 63 | SmokeLands | Australia | smokelands.com.au | — | contact@smokelands.com.au | — | Melbourne-based online retailer for BBQs, charcoal grills, pizza ovens and outdoor cooking accessories; serves customers across Australia | Charcoal grills, pizza ovens | Lead | — | contact-ready: B · channel: email · tel: +61 415 093 828 |
+| 64 | BBQ Smokers & Grills | Australia | bbqsmokersandgrills.com.au | — | sales@bbqsmokersandgrills.com.au | [公司](https://linkedin.com/company/bbq-smokers-&-grills) | Villawood NSW BBQ specialist selling smokers, charcoal grills, fuel, rubs and accessories; carries Big Green Egg and multiple US smoker brands | BGE, ProQ, Green Mountain Grills, US smoker brands | Lead | — | contact-ready: B · channel: email/form · tel: 1300 227 001 |
+| 65 | Moore Park BBQs | Australia | weber.com/AU/en/dealer-details/2048/weber-store-at-moore-park-bbqs/ | — | — | — | Eastern Sydney Weber Store at Supa Centa Moore Park; outdoor cooking and Weber specialist retail destination | Weber Store | Lead | — | contact-ready: C · channel: tel · tel: 02 9697 3120 |
 
 
 **字段说明：**
@@ -143,7 +148,7 @@
 
 ## 统计
 
-- Total leads: **60**
+- Total leads: **65**
 - Contacted: 0
 - Replied: 0
 - Quoted: 0
@@ -151,11 +156,11 @@
 
 *每周日更新统计数字，同步到 `company/sales.md`*
 
-**收集批次：** 2026-07-10 Day 1（#1–20）· 2026-07-11 Day 2（#21–30）· 2026-07-12 Day 3（#31–40）· 2026-07-13 Day 4（#41–#50）· 2026-07-14 W3 Day 1（#51–#55）· 2026-07-15 W3 Day 2（#56–#60）· **未发信**
+**收集批次：** 2026-07-10 Day 1（#1–20）· 2026-07-11 Day 2（#21–30）· 2026-07-12 Day 3（#31–40）· 2026-07-13 Day 4（#41–#50）· 2026-07-14 W3 Day 1（#51–#55）· 2026-07-15 W3 Day 2（#56–#60）· 2026-07-16 W3 Day 3（#61–#65）· **未发信**
 
-### 当前 pipeline 联系人就绪审计（2026-07-15）
+### 当前 pipeline 联系人就绪审计（2026-07-16）
 
-**60/60 联系人就绪**（均 ≥C，可触达）；**17/60 达 A 级**（可个性化）。
+**65/65 联系人就绪**（均 ≥C，可触达）；**17/65 达 A 级**（可个性化）。
 
 | # | 公司 | 就绪 | 渠道 | Week 3 |
 |---|------|:---:|---|---|
@@ -169,3 +174,4 @@
 | 47–50 | Wignells … Oz BBQ | B/C | email / form | ✅（#48 表单/电话） |
 | 51–55 | The Modern Cave … BBQs R Us | B/C | email / store locator | ✅（#52 大客户先电话/门店渠道） |
 | 56–60 | The Outdoor Outlaws … Fielder's BBQ & Outdoor | A/B | email / form | ✅ |
+| 61–65 | The Outdoor Cook … Moore Park BBQs | B/C | email / tel | ✅（#65 电话） |
