@@ -75,6 +75,11 @@
 | 63 | SmokeLands | Australia | smokelands.com.au | — | contact@smokelands.com.au | — | Melbourne-based online retailer for BBQs, charcoal grills, pizza ovens and outdoor cooking accessories; serves customers across Australia | Charcoal grills, pizza ovens | Lead | — | contact-ready: B · channel: email · tel: +61 415 093 828 |
 | 64 | BBQ Smokers & Grills | Australia | bbqsmokersandgrills.com.au | — | sales@bbqsmokersandgrills.com.au | [公司](https://linkedin.com/company/bbq-smokers-&-grills) | Villawood NSW BBQ specialist selling smokers, charcoal grills, fuel, rubs and accessories; carries Big Green Egg and multiple US smoker brands | BGE, ProQ, Green Mountain Grills, US smoker brands | Lead | — | contact-ready: B · channel: email/form · tel: 1300 227 001 |
 | 65 | Moore Park BBQs | Australia | weber.com/AU/en/dealer-details/2048/weber-store-at-moore-park-bbqs/ | — | — | — | Eastern Sydney Weber Store at Supa Centa Moore Park; outdoor cooking and Weber specialist retail destination | Weber Store | Lead | — | contact-ready: C · channel: tel · tel: 02 9697 3120 |
+| 66 | Rawsons Appliances | Australia | rawsonsappliances.com.au | — | info@rawsons.com.au | — | SA Weber Store (Plympton + Unley); 75+ yrs appliances retailer with full Weber BBQ range and outdoor cooking focus | Weber Store | Lead | — | contact-ready: B · channel: email · tel: 08 8297 0222 |
+| 67 | The Haymarket | Australia | thehaymarket.com.au | — | accounts@thehaymarket.com.au | — | Ballarat's only Certified Weber Specialist Dealer; BBQs, smokers, outdoor kitchens across Market St + Delacombe | Weber Specialist, smokers | Lead | — | contact-ready: B · channel: email · tel: (03) 5333 4455 |
+| 68 | Classic Fireplaces & Barbeques (Geelong) | Australia | classicfireplaces.com.au | — | contact@classicfireplaces.com.au | — | Geelong/Grovedale Weber Store; heating + BBQ specialist with full Weber range for regional VIC outdoor cooking buyers | Weber Store | Lead | — | contact-ready: B · channel: email · tel: (03) 5222 1688 · ⚠️ distinct from #32 CFAB Greensborough |
+| 69 | Toowoomba BBQ & Heating (BBQs & Fireplaces) | Australia | bbqsandheating.com.au | — | therange@bbqsandheating.com.au | — | QLD multi-store Weber / Traeger / outdoor cooking group (Toowoomba, Top of the Range, Ipswich); fireplaces + BBQ specialist | Weber Store, Traeger | Lead | — | contact-ready: B · channel: email · tel: (07) 4566 2646 · also Ipswich (07) 3520 7217 |
+| 70 | Allgoods | Australia | allgoods.com.au | — | experience@allgoods.com.au | — | Tasmania outdoor lifestyle retailer (est. 1946); Weber dealer signal in Launceston/Devonport/Hobart; country clothing + outdoors | Weber dealer / outdoor retail | Lead | — | contact-ready: B · channel: email · tel: (03) 6331 3644 (Launceston) |
 
 
 **字段说明：**
@@ -148,7 +153,7 @@
 
 ## 统计
 
-- Total leads: **65**
+- Total leads: **70**
 - Contacted: 0
 - Replied: 0
 - Quoted: 0
@@ -156,11 +161,11 @@
 
 *每周日更新统计数字，同步到 `company/sales.md`*
 
-**收集批次：** 2026-07-10 Day 1（#1–20）· 2026-07-11 Day 2（#21–30）· 2026-07-12 Day 3（#31–40）· 2026-07-13 Day 4（#41–#50）· 2026-07-14 W3 Day 1（#51–#55）· 2026-07-15 W3 Day 2（#56–#60）· 2026-07-16 W3 Day 3（#61–#65）· **未发信**
+**收集批次：** 2026-07-10 Day 1（#1–20）· 2026-07-11 Day 2（#21–30）· 2026-07-12 Day 3（#31–40）· 2026-07-13 Day 4（#41–#50）· 2026-07-14 W3 Day 1（#51–#55）· 2026-07-15 W3 Day 2（#56–#60）· 2026-07-16 W3 Day 3（#61–#65）· 2026-07-17 W3 Day 4（#66–#70）· **未发信**
 
-### 当前 pipeline 联系人就绪审计（2026-07-16）
+### 当前 pipeline 联系人就绪审计（2026-07-17）
 
-**65/65 联系人就绪**（均 ≥C，可触达）；**17/65 达 A 级**（可个性化）。
+**70/70 联系人就绪**（均 ≥C，可触达）；**17/70 达 A 级**（可个性化）。
 
 | # | 公司 | 就绪 | 渠道 | Week 3 |
 |---|------|:---:|---|---|
@@ -175,3 +180,4 @@
 | 51–55 | The Modern Cave … BBQs R Us | B/C | email / store locator | ✅（#52 大客户先电话/门店渠道） |
 | 56–60 | The Outdoor Outlaws … Fielder's BBQ & Outdoor | A/B | email / form | ✅ |
 | 61–65 | The Outdoor Cook … Moore Park BBQs | B/C | email / tel | ✅（#65 电话） |
+| 66–70 | Rawsons … Allgoods | B | email | ✅ |

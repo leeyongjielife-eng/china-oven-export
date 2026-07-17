@@ -4,7 +4,7 @@
 
 | 字段 | 值 |
 |------|-----|
-| 日期 | 2026-07-16 |
+| 日期 | 2026-07-17 |
 | status | **done** |
 | 派发 | Founder |
 | 执行 | Sales |
@@ -27,11 +27,11 @@
 ### P0
 
 - [x] 若 Gmail MCP / 发信通道可用：发送 15–20 封（优先 #1、#2、#4–#12、#14、#16–#20；继续跳过 #3 BBQ Spit、#13 Tucker）。
-- [x] 若发信通道不可用：不得标记 Contacted；补 #41–#60 外联草稿/脚本，把可发送队列扩大到 60。
+- [x] 若发信通道不可用：不得标记 Contacted；补 #61–#70 外联草稿/脚本，把可发送队列扩大到 70。
 
 ### P1
 
-- [x] 新增 **5 家**澳洲 BBQ / outdoor cooking 买家入 pipeline（#61–#65）→ 买家 **65/100**。
+- [x] 新增 **5 家**澳洲 BBQ / outdoor cooking 买家入 pipeline（#66–#70）→ 买家 **70/100**。
 
 ---
 
@@ -47,10 +47,10 @@
 
 | 项 | 值 |
 |----|-----|
-| 完成时间 | 2026-07-16 |
-| P0 结果 | 未发现 Gmail/邮件发送 MCP，未实际发信、未改 Contacted；已补 #41–#60 外联草稿/脚本，下一批可发送队列扩大到 #1、#2、#4–#12、#14、#16–#60（#15/#52 电话或门店渠道，#46/#48 表单/电话）。 |
-| P1 结果 | 已新增 #61–#65：The Outdoor Cook · Home Heat & BBQ · SmokeLands · BBQ Smokers & Grills · Moore Park BBQs。 |
-| 漏斗 | 买家 65/100 · 草稿/脚本 59/60 · 已发信 0 |
+| 完成时间 | 2026-07-17 |
+| P0 结果 | 未发现 Gmail/邮件发送 MCP，未实际发信、未改 Contacted；已补 #61–#70 外联草稿/脚本，可发送队列扩大到 #1、#2、#4–#12、#14、#16–#70（#15/#52/#65 电话或门店渠道，#46/#48 表单/电话）。 |
+| P1 结果 | 已新增 #66–#70：Rawsons Appliances · The Haymarket · Classic Fireplaces & Barbeques (Geelong) · Toowoomba BBQ & Heating · Allgoods。 |
+| 漏斗 | 买家 70/100 · 草稿/脚本 69/70 · 已发信 0 |
 | 写入文件 | `workspace/buyers/pipeline.md` · `workspace/buyers/outreach-drafts.md` · `company/sales.md` |
 
 ---
