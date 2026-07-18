@@ -37,11 +37,11 @@
 
 ## 当前阶段判断
 
-- **Phase:** 0 — **`W3_OUTREACH`**（Week 3 外联 · Day 4 · ✅ 已完成）→ 切换见 [`phases.md`](phases.md)
-- **瓶颈:** Gmail MCP / 发信通道尚未搭建；已发信 **0/100**
-- **优势:** 买家 **70/100**；外联草稿/脚本 **69/70**；70 lead 均可触达
-- **本周必须完成:** 搭建 Gmail MCP 后启动首批 #1、#2、#4–#12、#14–#20 外联；若通道仍不可用，Sales 继续补草稿/脚本并每天补 5+ 新买家
-- **暂不做:** 问叔叔（等 Replied/Qualified 后再问）；首轮跳过 #3 BBQ Spit、#13 Tucker
+- **Phase:** 0 — **`W3_OUTREACH`**（Week 3 外联 · Day 5）→ 切换见 [`phases.md`](phases.md)
+- **瓶颈:** Contacted **0/100**；真实发信改由 **本机**（Co-founder 说「今天发」）；本 Automation **不**走 Gmail MCP
+- **优势:** 买家 **70/100**；外联草稿/脚本 **69/70**；首批 15 封队列已列出
+- **本周必须完成:** Co-founder 本机发送首批 15 封；Sales 对齐草稿（Kit Lee · Foshan China · indicative FOB）并每天 +5 买家
+- **暂不做:** 问叔叔（等 Replied/Qualified 后再问）；首轮跳过 #3 BBQ Spit、#13 Tucker、#15 Boss Hogg；#6 Bounce 不自动补
 
 ### Automation（2026-07-12 · 三件套）
 
@@ -55,7 +55,36 @@
 
 **重要：** Automation 读 **GitHub 上的代码**。本地改完文档须 `git commit && git push`，次日 09:00 才能跑到最新状态。
 
-## 今日排期（2026-07-17 · Founder 排程 · W3 Day 4）✅ 已完成
+## 今日排期（2026-07-18 · Founder 排程 · W3 Day 5）
+
+**主题：Week 3 Day 5 — 对齐应发草稿 + 本机发信待办**
+
+| 优先级 | 谁 | 任务 | 状态 |
+|:---:|------|------|:---:|
+| **P0** | **Sales** | 对齐未发草稿（Kit Lee · Foshan China · indicative FOB）；列出今日应发 `#1 #2 #4 #5 #7 #8 #9 #10 #11 #12 #14 #16 #17 #18 #19` | ⏳ 已派发 |
+| **P1** | **Sales** | 新增 5 家澳洲买家 → 75/100 | ⏳ 已派发 |
+| **P1** | **Co-founder** | 本机说 **「今天发」** → 发上列 15 封（Gmail 仅本机） | ⏳ 待办 |
+| ⏸️ | — | 不问叔叔；跳过 #3/#13/#15；#6 Bounce 不自动补；本 Run 不标 Contacted | ✅ |
+
+**Founder 阶段检查：** 阶段保持 `W3_OUTREACH`；W4 条件未满足（Contacted 0，Replies 0）。
+
+### 明日排期（2026-07-19 · W3 Day 6）
+
+| 优先级 | 指派 | 任务 | 目标 |
+|:---:|------|------|------|
+| **P0** | **Sales** | 若 Contacted 仍 &lt;100：继续对齐下一批评列草稿；否则改跟进 | 可发送队列清晰 |
+| **P1** | **Sales** | 再找 5 家买家 | 80/100 |
+| **P1** | **Co-founder** | 本机继续「今天发」直至 Contacted 推进 | Contacted 开始计数 |
+
+```text
+Founder：阶段保持 W3_OUTREACH；W4 条件未满足（Contacted 0，Replies 0）
+Sales：今日执行 today.md；禁止 Gmail MCP / 禁止本 Run 标 Contacted
+Co-founder：本机说「今天发」15 封
+```
+
+---
+
+## 上日排期（2026-07-17 · W3 Day 4）✅ 已完成
 
 **主题：Week 3 Day 4 — 发信通道确认 + 草稿队列扩到 70**
 
@@ -63,37 +92,10 @@
 |:---:|------|------|:---:|
 | **P0** | **Sales** | Gmail MCP 就绪则发送 15–20 封；否则补 #61–#70 草稿/脚本，把可发送队列扩大到 70 | ✅ 无通道；草稿 69/70 |
 | **P1** | **Sales** | 新增 5 家澳洲买家 → 70/100 | ✅ #66–#70 |
-| **P1** | **Co-founder** | 搭建 Gmail MCP / 发信通道 | ⏳ 待办 |
-| ⏸️ | — | 不问叔叔；跳过 #3 BBQ Spit、#13 Tucker | ✅ |
-
-**Founder 阶段检查：** 阶段保持 `W3_OUTREACH`；W4 条件未满足（Contacted 0，Replies 0）。
-
-### 明日排期（2026-07-18 · W3 Day 5）
-
-| 优先级 | 指派 | 任务 | 目标 |
-|:---:|------|------|------|
-| **P0** | **Sales** | Gmail MCP 就绪后发送 15–20 封；否则继续扩大草稿/可发送队列 | 已发信开始计数，或草稿/脚本 ≥75 |
-| **P1** | **Sales** | 再找 5 家买家 | 75/100 |
-| **P1** | **Co-founder** | 完成 Gmail MCP / 发信账号连接 | 解锁 Contacted 计数 |
-
-```text
-Founder：阶段保持 W3_OUTREACH；W4 条件未满足（Contacted 0，Replies 0）
-Sales：今日执行 today.md；若无 Gmail MCP，不伪造已发信
-```
+| **P1** | **Co-founder** | 搭建 Gmail MCP / 发信通道 | ⏳ 已改为本机「今天发」 |
 
 ---
 
-## 上日排期（2026-07-16 · W3 Day 3）✅ 已完成
-
-**主题：Week 3 Day 3 — 发信通道确认 + 草稿队列扩到 60**
-
-| 优先级 | 谁 | 任务 | 状态 |
-|:---:|------|------|:---:|
-| **P0** | **Sales** | Gmail MCP 就绪则发送 15–20 封；否则补 #41–#60 草稿/脚本 | ✅ 无通道；草稿 59/60 |
-| **P1** | **Sales** | 新增 5 家澳洲买家 → 65/100 | ✅ #61–#65 |
-| **P1** | **Co-founder** | 搭建 Gmail MCP / 发信通道 | ⏳ 待办 |
-
----
 
 ## Week 2 剩余计划（Founder · 更新 2026-07-12）
 
@@ -133,9 +135,9 @@ Sales：今日执行 today.md；若无 Gmail MCP，不伪造已发信
 | P0 | **问叔叔：YUEFU 出口史** | Co-founder | ⏸️ **暂缓** — Lee 决定先找潜在买家，有询盘/Qualified 后再问（2026-07-10） |
 | P0 | 市场研究，定第一个目标国 | Research | ✅ **澳大利亚**（2026-07-10） |
 | P1 | 积满 **50 买家** | Sales | ✅ 70/100；W3 后目标 100 |
-| P1 | 外联草稿备齐 | Sales | **69/70** 已写 |
+| P1 | 外联草稿备齐 | Sales | **69/70**；今日对齐 Kit Lee / indicative FOB |
 | P1 | 补联系人 A 级 | Sales | **17/70** 达 A |
-| P1 | 外联 100（定价话术见 `product.md` 定价策略） | Sales | W3 进行中；Gmail MCP 待搭 |
+| P1 | 外联 100（定价话术见 `product.md` 定价策略） | Sales + Co-founder 本机发 | W3 进行中；本机「今天发」 |
 | P2 | 有回复后 → 向 YUEFU 要针对性 FOB | Supplier + Co-founder | 有 Qualified 后 |
 | P3 | 正式报价单 | Quoting | 有需求 + 厂价后 |
 
@@ -143,11 +145,11 @@ Sales：今日执行 today.md；若无 Gmail MCP，不伪造已发信
 
 ## 待 Co-founder 决策 / 回答
 
-> 当前唯一 blocker：W3 已启动，真实发信需要 Co-founder 搭建 Gmail MCP / 发信通道。
+> 当前唯一 blocker：W3 已启动；真实发信改由 **本机 Gmail**（说「今天发」），非本 Automation。
 
 | # | 问题 | 影响 | 状态 |
 |---|------|------|------|
-| 1 | 搭建 Gmail MCP / 发信账号连接 | 解锁 W3 外联发送与 Contacted 计数 | 待办 |
+| 1 | 本机说「今天发」发送今日 15 封 | 解锁 Contacted 计数 | 待办 |
 
 ---
 
@@ -174,6 +176,7 @@ Sales：今日执行 today.md；若无 Gmail MCP，不伪造已发信
 | 2026-07-16 | Sales | W3 Day 3：新增买家 #61–#65；补 #41–#60 草稿/脚本；无 Gmail MCP，未发信 | `pipeline.md` 65/100 · `outreach-drafts.md` 59/60 · `sales.md` · `today.md` done |
 | 2026-07-17 | Founder → Sales | W3 Day 4：阶段保持 W3；派发发信通道确认、补 #61–#70 草稿/脚本、+5 买家（仅 Sales 任务） | `today.md` pending |
 | 2026-07-17 | Sales | W3 Day 4：新增买家 #66–#70；补 #61–#70 草稿/脚本；无 Gmail MCP，未发信 | `pipeline.md` 70/100 · `outreach-drafts.md` 69/70 · `sales.md` · `today.md` done |
+| 2026-07-18 | Founder → Sales | W3 Day 5：阶段保持 W3；派发对齐未发草稿 + 应发 #1/#2/#4/#5/#7–#12/#14/#16–#19、+5 买家；Co-founder 本机「今天发」 | `today.md` pending |
 
 ---
 
