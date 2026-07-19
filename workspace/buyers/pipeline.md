@@ -85,6 +85,11 @@
 | 73 | Home Fires The Fan Man | Australia | homefires.com.au | — | sales@homefires.com.au | — | Sydney independent fireplace + BBQ specialist since 1982 (Minto + Casula); wood/gas/electric fireplaces and outdoor cooking adjacent retail | Fireplaces, outdoor heating/BBQ adjacent | Lead | — | contact-ready: B · channel: email · tel: 02 9820 5099 · also casula@homefires.com.au |
 | 74 | Outdoorium | Australia | outdoorium.com.au | — | info@outdoorium.com.au | — | North Manly NSW online/outdoor heating & fire-pit retailer; BBQ fire pits, outdoor heaters, fireplaces; ships AU-wide | Outdoor heaters, BBQ fire pits | Lead | — | contact-ready: B · channel: email · tel: 0435 934 764 |
 | 75 | Chiminea & Aussie Heatwave | Australia | chiminea.com.au | — | info@chiminea.com.au | — | Melbourne Mulgrave showroom for chimineas, fire pits, pizza ovens and outdoor cooking attachments; ships AU-wide | Aussie Heatwave outdoor fireplaces / pizza ovens | Lead | — | contact-ready: B · channel: email · tel: 03 9561 2222 |
+| 76 | Coastline Barbeques & Heating | Australia | coastlinebbq.au | — | hello@coastlinebbq.com.au | [公司](https://linkedin.com/company/coastline-barbeques-&-heating-pty-ltd) | Gold Coast / Tweed Heads Weber Store for BBQ, heating and outdoor lifestyle; Southport + Tweed Heads South showrooms | Weber Store, outdoor heating | Lead | — | contact-ready: B · channel: email · also southport@ / tweed@coastlinebbq.com.au · tel: 07 5532 2388 / 07 5523 4777 |
+| 77 | Hawkesbury Heating | Australia | hawkesburyheating.com.au | — | info@hawkesburyheating.com.au | [公司](https://linkedin.com/company/hawkesbury-heating) | North Richmond NSW family fireplace + BBQ specialist (35+ yrs); Weber Specialist Dealer with large showroom and outdoor kitchen focus | Weber Specialist, fireplaces, pizza ovens | Lead | — | contact-ready: B · channel: email · tel: 02 4571 2295 |
+| 78 | Platinum Heating and BBQs | Australia | phbbqs.com.au | — | sales@platinumheatingandbbqs.com.au | — | Taren Point NSW Weber Store / outdoor kitchen retailer serving St George & Sutherland Shire; fireplaces + BBQ specialist 30+ yrs | Weber Store, outdoor kitchens | Lead | — | contact-ready: B · channel: email · tel: 02 9524 0123 |
+| 79 | Ellis Outdoor Living | Australia | ellisoutdoor.com.au | — | enquiry@ellisoutdoor.com.au | — | Melbourne Nunawading + Bayswater outdoor living retailer; Weber Outdoor Kitchen Retailer with furniture + BBQ range | Weber Outdoor Kitchen, outdoor living | Lead | — | contact-ready: B · channel: email · also nunawading@ / bayswater@ellisoutdoor.com.au · tel: 03 9878 2728 |
+| 80 | Melbourne Woodheating Centre | Australia | melbournewoodheating.com.au | — | sales@melbournewoodheating.com.au | — | Lilydale VIC fireplace + BBQ specialist; stocks Weber and **Big Green Egg**; family business with large wood/gas heater + BBQ display | BGE, Weber, wood heaters | Lead | — | contact-ready: B · channel: email · tel: 03 9739 6419 |
 
 
 **字段说明：**
@@ -158,7 +163,7 @@
 
 ## 统计
 
-- Total leads: **70**
+- Total leads: **80**
 - Contacted: 0
 - Replied: 0
 - Quoted: 0
@@ -166,11 +171,11 @@
 
 *每周日更新统计数字，同步到 `company/sales.md`*
 
-**收集批次：** 2026-07-10 Day 1（#1–20）· 2026-07-11 Day 2（#21–30）· 2026-07-12 Day 3（#31–40）· 2026-07-13 Day 4（#41–#50）· 2026-07-14 W3 Day 1（#51–#55）· 2026-07-15 W3 Day 2（#56–#60）· 2026-07-16 W3 Day 3（#61–#65）· 2026-07-17 W3 Day 4（#66–#70）· **未发信**
+**收集批次：** 2026-07-10 Day 1（#1–20）· 2026-07-11 Day 2（#21–30）· 2026-07-12 Day 3（#31–40）· 2026-07-13 Day 4（#41–#50）· 2026-07-14 W3 Day 1（#51–#55）· 2026-07-15 W3 Day 2（#56–#60）· 2026-07-16 W3 Day 3（#61–#65）· 2026-07-17 W3 Day 4（#66–#70）· 2026-07-18 W3 Day 5（#71–#75）· 2026-07-19 W3 Day 6（#76–#80）· **未发信**
 
-### 当前 pipeline 联系人就绪审计（2026-07-17）
+### 当前 pipeline 联系人就绪审计（2026-07-19）
 
-**70/70 联系人就绪**（均 ≥C，可触达）；**17/70 达 A 级**（可个性化）。
+**80/80 联系人就绪**（均 ≥C，可触达）；**17/80 达 A 级**（可个性化）。
 
 | # | 公司 | 就绪 | 渠道 | Week 3 |
 |---|------|:---:|---|---|
@@ -186,3 +191,5 @@
 | 56–60 | The Outdoor Outlaws … Fielder's BBQ & Outdoor | A/B | email / form | ✅ |
 | 61–65 | The Outdoor Cook … Moore Park BBQs | B/C | email / tel | ✅（#65 电话） |
 | 66–70 | Rawsons … Allgoods | B | email | ✅ |
+| 71–75 | Alfresco … Chiminea / Aussie Heatwave | B | email | ✅ |
+| 76–80 | Coastline … Melbourne Woodheating | B | email | ✅ |
