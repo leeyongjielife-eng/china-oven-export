@@ -75,6 +75,15 @@ Australia — mid-size BBQ equipment distributors / specialty outdoor retailers
 
 - **待做**：按澳关键词找 10 买家入 pipeline；可选问叔叔验证 HS/南非
 
+### Week 3 周日轻量复核（2026-07-19）
+
+- **日期**：2026-07-19；执行 Research 轻量复核，不做正式选市场，不改 `customers.md`。
+- **竞品观察**：澳洲 Kamado 价格锚点仍合理；BGE Large 澳洲约 AUD $2,500–2,900，KJ Classic III 约 AUD $2,859–3,399，高端/数字款可到 AUD $4,000+。
+- **已更新**：`workspace/markets/competitor-benchmark.md` 已补澳洲本地 BGE/KJ/BBQ Spit Rotisseries 价格与本周验证日期。
+- **关键词补充**：`workspace/markets/keywords.md` 新增 5 个词，重点覆盖 trade account、ceramic smoker、outdoor kitchen showroom、BBQ wholesaler、LinkedIn company 搜索。
+- **Sales 信号**：`sales.md` 当前显示 Contacted 0、Replied 0，但没有连续 3 周回复率历史；尚未满足自动建议切换 `W3_RESEARCH_RESET` 的证据条件。
+- **建议**：Founder 继续保持澳洲单市场验证；若未来连续 3 个周日确认回复率 <5%，再在周日志中明确建议切换 `W3_RESEARCH_RESET`。
+
 ---
 
 ## 数据来源
