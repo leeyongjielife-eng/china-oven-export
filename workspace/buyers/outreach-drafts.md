@@ -7,18 +7,20 @@
 > 发信政策 → [`../../company/cofounder.md`](../../company/cofounder.md)
 >
 > 状态：**草稿，Week 3 发送**。均按 PAR 结构、75–125 词、首封不报价不带附件、单一 CTA。
-> 2026-07-19：今日应发批次 #20–#34 已对齐 **Kit Lee · Foshan, China · indicative FOB**；本 Automation 不发信、不标 Contacted。发信由 Co-founder 本机说「今天发」。
+> 2026-07-20：今日应发批次 #35–#51（跳过无邮箱 #46/#48）已对齐 **Kit Lee · Foshan, China · indicative FOB**；本 Automation 不发信、不标 Contacted。发信由 Co-founder 本机说「今天发」。
 
 
-## Week 3 发送队列（更新 2026-07-19）
+## Week 3 发送队列（更新 2026-07-20）
 
-**今日应发（15）：** #20 · #21 · #22 · #23 · #24 · #25 · #26 · #27 · #28 · #29 · #30 · #31 · #32 · #33 · #34
+**今日应发（15）：** #35 · #36 · #37 · #38 · #39 · #40 · #41 · #42 · #43 · #44 · #45 · #47 · #49 · #50 · #51
 
 **继续跳过：** #3 BBQ Spit（自有中国工厂）· #13 Tucker（自有产线）· #15 Boss Hogg（电话渠道）
 
+**队列顺延跳过无邮箱：** #46 Gaganis Bros · #48 BBQs and Outdoor（不进今日邮件额度）
+
 **#6 BBQs Plus：** Bounce — **不自动补**进今日额度
 
-**发送状态：** 未发送（待 Co-founder 本机「今天发」）。当前可用草稿/脚本：**79/80**（#15/#52/#65 等为电话脚本）。
+**发送状态：** 未发送（待 Co-founder 本机「今天发」）。当前可用草稿/脚本：**84/85**（#15/#52/#65 等为电话脚本）。
 
 ---
 
@@ -596,12 +598,12 @@ Hi there,
 
 Your North Rockhampton store serves regional QLD BBQ buyers and already carries serious outdoor cooking brands, including kamado-style options.
 
-I source ceramic kamados direct from a Foshan factory (18"/21" focus, EN1860-1 certified) and help AU retailers add factory-direct lines with export docs and OEM options. Comparable models retail at AUD $2,000–3,000+; FOB pricing on request.
+I source ceramic kamados direct from a Foshan, China factory (18"/21" focus, EN1860-1 certified) and help AU retailers add factory-direct lines with export docs and OEM options. Comparable models retail at AUD $2,000–3,000+; indicative FOB on request.
 
 Would a short product overview be useful?
 
 Best,
-Lee Wing Kit
+Kit Lee
 
 ---
 
@@ -613,12 +615,12 @@ Hi there,
 
 Sydney BBQs already focuses on smokers and BBQ equipment, so your customers likely understand the value of fuel-efficient charcoal cooking.
 
-I work directly with a Foshan kamado factory (13"–24", EN1860-1 certified) and support AU retailers with export docs, shipping coordination and OEM options. Similar kamados retail at AUD $2,000–3,000+; FOB pricing on request.
+I work directly with a Foshan, China kamado factory (13"–24", EN1860-1 certified) and support AU retailers with export docs, shipping coordination and OEM options. Similar kamados retail at AUD $2,000–3,000+; indicative FOB on request.
 
 Worth me sending a one-page overview for comparison?
 
 Best,
-Lee Wing Kit
+Kit Lee
 
 ---
 
@@ -630,12 +632,12 @@ Hi there,
 
 Specialized Heating & Cooling already covers heating and outdoor living in regional Victoria, so a ceramic kamado line could sit naturally beside BBQ and fireplace products.
 
-I source kamados direct from a Foshan factory (18"/21" popular, EN1860-1 certified) and support AU retailers with export docs and shipping. Comparable models retail at AUD $2,000–3,000+; FOB pricing on request.
+I source kamados direct from a Foshan, China factory (18"/21" popular, EN1860-1 certified) and support AU retailers with export docs and shipping. Comparable models retail at AUD $2,000–3,000+; indicative FOB on request.
 
 Would a short product overview be useful?
 
 Best,
-Lee Wing Kit
+Kit Lee
 
 ---
 
@@ -647,12 +649,12 @@ Hi there,
 
 Southside Heating Centre already serves Pakenham heating and outdoor-living customers, which often overlaps with BBQ, fire pit and backyard cooking buyers.
 
-I work with a Foshan kamado factory (13"–24", EN1860-1 certified) and help AU retailers source factory-direct ceramic grills with export support. Similar models retail at AUD $2,000–3,000+; FOB pricing on request.
+I work with a Foshan, China kamado factory (13"–24", EN1860-1 certified) and help AU retailers source factory-direct ceramic grills with export support. Similar models retail at AUD $2,000–3,000+; indicative FOB on request.
 
 Worth a one-page product overview?
 
 Best,
-Lee Wing Kit
+Kit Lee
 
 ---
 
@@ -664,12 +666,12 @@ Hi there,
 
 JK BBQ & Outdoor already operates as a Weber and YETI specialist in Loganholme, so your team clearly speaks to serious outdoor-cooking customers every day.
 
-I source ceramic kamados direct from a verified Foshan factory (18"/21" most popular, EN1860-1 certified) and help AU retailers add a factory-direct charcoal line. Comparable models retail at AUD $2,000–3,000+; FOB pricing on request.
+I source ceramic kamados direct from a verified Foshan, China factory (18"/21" most popular, EN1860-1 certified) and help AU retailers add a factory-direct charcoal line. Comparable models retail at AUD $2,000–3,000+; indicative FOB on request.
 
 Would a short product overview be useful?
 
 Best,
-Lee Wing Kit
+Kit Lee
 
 ---
 
@@ -681,12 +683,12 @@ Hi there,
 
 Beauview BBQ already serves regional QLD customers with smokers and Big Green Egg packages, so your buyers understand ceramic charcoal cooking.
 
-I work directly with a Foshan kamado factory (13"–24", EN1860-1 certified) and support AU retailers with export docs, OEM options and shipping coordination. Comparable kamados retail at AUD $2,000–3,000+; FOB pricing on request.
+I work directly with a Foshan, China kamado factory (13"–24", EN1860-1 certified) and support AU retailers with export docs, OEM options and shipping coordination. Comparable kamados retail at AUD $2,000–3,000+; indicative FOB on request.
 
 Worth me sending a one-page product overview?
 
 Best,
-Lee Wing Kit
+Kit Lee
 
 ---
 
@@ -698,12 +700,12 @@ Hi Martin,
 
 BBQ Republic already positions itself as Sydney's premier kamado showroom, so your customers clearly understand ceramic charcoal cooking.
 
-I source kamados direct from a Foshan factory (18"/21" focus, EN1860-1 certified) and support AU retailers with export docs and OEM options. Comparable ceramic models retail at AUD $2,000–3,000+; FOB pricing available on request.
+I source kamados direct from a Foshan, China factory (18"/21" focus, EN1860-1 certified) and support AU retailers with export docs and OEM options. Comparable ceramic models retail at AUD $2,000–3,000+; indicative FOB on request.
 
 Would a short product overview be useful for your range comparison?
 
 Best,
-Lee Wing Kit
+Kit Lee
 
 ---
 
@@ -715,12 +717,12 @@ Hi there,
 
 The BBQ Store already sells charcoal BBQs, smokers, rotisseries and outdoor cooking gear nationally, so ceramic kamados could fit customers upgrading from standard charcoal setups.
 
-I work directly with a Foshan kamado factory (13"–24", EN1860-1 certified) and help AU retailers source factory-direct with export support. Comparable models retail at AUD $2,000–3,000+; FOB pricing on request.
+I work directly with a Foshan, China kamado factory (13"–24", EN1860-1 certified) and help AU retailers source factory-direct with export support. Comparable models retail at AUD $2,000–3,000+; indicative FOB on request.
 
 Would a one-page product overview be useful?
 
 Best,
-Lee Wing Kit
+Kit Lee
 
 ---
 
@@ -732,12 +734,12 @@ Hi there,
 
 BBQ Bazaar's Cannington showroom already carries serious outdoor cooking brands, including Kamado Joe and Big Green Egg.
 
-I source ceramic kamados direct from a verified Foshan factory (18"/21" most popular, EN1860-1 certified) and support retailers with export docs, OEM options and shipping coordination. Comparable models retail at AUD $2,000–3,000+; FOB pricing on request.
+I source ceramic kamados direct from a verified Foshan, China factory (18"/21" most popular, EN1860-1 certified) and support retailers with export docs, OEM options and shipping coordination. Comparable models retail at AUD $2,000–3,000+; indicative FOB on request.
 
 Worth a short overview for your buying team?
 
 Best,
-Lee Wing Kit
+Kit Lee
 
 ---
 
@@ -749,12 +751,12 @@ Hi there,
 
 Hark already imports and distributes BBQ products nationally, so you know what Australian retailers need from a reliable outdoor cooking line.
 
-I work with a Foshan kamado factory (13"–24", EN1860-1 / FDA / LFGB certified) and support importers with OEM/private-label options and export documentation. Comparable kamados retail at AUD $2,000–3,000+; FOB pricing on request.
+I work with a Foshan, China kamado factory (13"–24", EN1860-1 / FDA / LFGB certified) and support importers with OEM/private-label options and export documentation. Comparable kamados retail at AUD $2,000–3,000+; indicative FOB on request.
 
 Would a short product overview be worth reviewing?
 
 Best,
-Lee Wing Kit
+Kit Lee
 
 ---
 
@@ -766,12 +768,12 @@ Hi there,
 
 Hot Things already serves Perth customers looking for BBQs, outdoor kitchens and heating products, so a ceramic charcoal line could sit naturally beside your existing range.
 
-I source kamados direct from a Foshan factory (18"/21" popular, EN1860-1 certified) and help AU retailers add factory-direct options with export support. Comparable models retail at AUD $2,000–3,000+; FOB pricing on request.
+I source kamados direct from a Foshan, China factory (18"/21" popular, EN1860-1 certified) and help AU retailers add factory-direct options with export support. Comparable models retail at AUD $2,000–3,000+; indicative FOB on request.
 
 Would a one-page overview be useful?
 
 Best,
-Lee Wing Kit
+Kit Lee
 
 ---
 
@@ -804,12 +806,12 @@ Hi there,
 
 Wignells already sells cookers, pizza ovens, BBQs and smokers, so your customers are likely investing in complete outdoor cooking setups.
 
-I source ceramic kamados direct from a Foshan factory (18"/21" focus, EN1860-1 certified) and support AU retailers with export docs, shipping coordination and OEM options. Comparable kamados retail at AUD $2,000–3,000+; FOB pricing on request.
+I source ceramic kamados direct from a Foshan, China factory (18"/21" focus, EN1860-1 certified) and support AU retailers with export docs, shipping coordination and OEM options. Comparable kamados retail at AUD $2,000–3,000+; indicative FOB on request.
 
 Would a short product overview be useful?
 
 Best,
-Lee Wing Kit
+Kit Lee
 
 ---
 
@@ -842,12 +844,12 @@ Hi there,
 
 Tagwood already targets premium charcoal and wood-fired BBQ buyers in Australia, so ceramic kamados may fit the same outdoor cooking audience.
 
-I source kamados direct from a verified Foshan factory (18"/21" most popular, EN1860-1 certified) with OEM options and export support. Comparable ceramic models retail at AUD $2,000–3,000+; FOB pricing on request.
+I source kamados direct from a verified Foshan, China factory (18"/21" most popular, EN1860-1 certified) with OEM options and export support. Comparable ceramic models retail at AUD $2,000–3,000+; indicative FOB on request.
 
 Would a short product overview be useful to compare?
 
 Best,
-Lee Wing Kit
+Kit Lee
 
 ---
 
@@ -859,12 +861,12 @@ Hi there,
 
 Oz BBQ already carries premium BBQs, smokers and pizza ovens online, including brands for serious outdoor cooks.
 
-I work directly with a Foshan kamado factory (13"–24", EN1860-1 certified) and help AU retailers add factory-direct ceramic grills with export support. Comparable kamados retail at AUD $2,000–3,000+; FOB pricing available on request.
+I work directly with a Foshan, China kamado factory (13"–24", EN1860-1 certified) and help AU retailers add factory-direct ceramic grills with export support. Comparable kamados retail at AUD $2,000–3,000+; indicative FOB on request.
 
 Worth me sending a one-page product overview?
 
 Best,
-Lee Wing Kit
+Kit Lee
 
 ---
 
@@ -876,12 +878,12 @@ Hi there,
 
 The Modern Cave already sells Kamado Joe and The Bastard VX, so your customers clearly value ceramic grills for BBQ zones and man caves.
 
-I source kamados direct from a Foshan factory (18"/21" focus, EN1860-1 certified) and support AU retailers with OEM/private-label options and export docs. Comparable models retail at AUD $2,000–3,000+; FOB pricing on request.
+I source kamados direct from a Foshan, China factory (18"/21" focus, EN1860-1 certified) and support AU retailers with OEM/private-label options and export docs. Comparable models retail at AUD $2,000–3,000+; indicative FOB on request.
 
 Would a short overview be useful for comparison?
 
 Best,
-Lee Wing Kit
+Kit Lee
 
 ---
 
@@ -1369,6 +1371,91 @@ Melbourne Woodheating Centre already stocks Big Green Egg and Weber for Lilydale
 I work with a Foshan, China kamado factory (13"–24", EN1860-1 / FDA / LFGB certified) and help AU specialists add a factory-direct ceramic line with OEM options. Indicative FOB on request.
 
 Worth a one-page product overview for your buying team?
+
+Best,
+Kit Lee
+
+---
+
+## #81 Dune Outdoor Luxuries — Mary / Ben
+
+**Subject:** Dune Outdoor — factory-direct kamado option?
+
+Hi Mary,
+
+Dune already runs Weber Stores in Bundall and Bowen Hills for premium outdoor living customers, so ceramic charcoal could fit buyers looking beyond gas for backyard entertaining.
+
+I work with a Foshan, China kamado factory (13"–24", EN1860-1 certified) and help AU specialty retailers add a factory-direct ceramic line with OEM options and export support. Comparable kamados retail at AUD $2,000–3,000+; indicative FOB on request.
+
+Worth a one-page product overview for your buying team?
+
+Best,
+Kit Lee
+
+---
+
+## #82 Inspired Outdoor Living — 通用
+
+**Subject:** Inspired Outdoor — ceramic kamado line?
+
+Hi there,
+
+Inspired Outdoor Living already serves Carrum Downs outdoor living customers as a Weber Specialist with furniture, heating and BBQs — your team clearly speaks to serious backyard buyers.
+
+I source kamados direct from a Foshan, China factory (18"/21" most popular, EN1860-1 certified) and support AU retailers with export docs and shipping. Comparable models retail at AUD $2,000–3,000+; indicative FOB on request.
+
+Would a short product overview be useful for your range review?
+
+Best,
+Kit Lee
+
+---
+
+## #83 Your Outdoor Store Cooma — 通用
+
+**Subject:** Your Outdoor Store — kamado for Monaro buyers?
+
+Hi there,
+
+Your Outdoor Store already supports Cooma and the Monaro region with outdoor gear and Weber specialist BBQ, so ceramic charcoal could fit customers upgrading from kettle or gas setups.
+
+I work directly with a Foshan, China kamado factory (13"–24", EN1860-1 certified) and help regional AU retailers add factory-direct ceramic grills. Comparable models retail at AUD $2,000–3,000+; indicative FOB on request, OEM available.
+
+Worth me sending a one-page overview?
+
+Best,
+Kit Lee
+
+---
+
+## #84 Getaway Outdoors Cockburn — 通用
+
+**Subject:** Getaway Outdoors — ceramic charcoal option?
+
+Hi there,
+
+Getaway Outdoors already helps WA customers kit out camping and outdoor cooking trips from Cockburn and sister stores — a ceramic kamado line could sit beside your existing outdoor cooking range.
+
+I source kamados from a verified Foshan, China factory (18"/21" focus, EN1860-1 certified) with OEM options and export support for AU retailers. Comparable models retail at AUD $2,000–3,000+; indicative FOB on request.
+
+Would a short product overview be useful?
+
+Best,
+Kit Lee
+
+---
+
+## #85 Coleman Barbeques Australia — 通用
+
+**Subject:** Coleman AU — complementary ceramic kamado SKUs?
+
+Hi there,
+
+Coleman Barbeques Australia already supports outdoor cooking buyers across AU with Coleman modules and parts, so you know what retailers need from a reliable charcoal-adjacent line.
+
+I work with a Foshan, China kamado factory (13"–24", EN1860-1 / FDA / LFGB certified) and help distributors add factory-direct ceramic grills with OEM/private-label options. Comparable kamados retail at AUD $2,000–3,000+; indicative FOB on request.
+
+Worth a one-page overview for your product team?
 
 Best,
 Kit Lee

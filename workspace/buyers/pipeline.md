@@ -90,6 +90,11 @@
 | 78 | Platinum Heating and BBQs | Australia | phbbqs.com.au | — | sales@platinumheatingandbbqs.com.au | — | Taren Point NSW Weber Store / outdoor kitchen retailer serving St George & Sutherland Shire; fireplaces + BBQ specialist 30+ yrs | Weber Store, outdoor kitchens | Lead | — | contact-ready: B · channel: email · tel: 02 9524 0123 |
 | 79 | Ellis Outdoor Living | Australia | ellisoutdoor.com.au | — | enquiry@ellisoutdoor.com.au | — | Melbourne Nunawading + Bayswater outdoor living retailer; Weber Outdoor Kitchen Retailer with furniture + BBQ range | Weber Outdoor Kitchen, outdoor living | Lead | — | contact-ready: B · channel: email · also nunawading@ / bayswater@ellisoutdoor.com.au · tel: 03 9878 2728 |
 | 80 | Melbourne Woodheating Centre | Australia | melbournewoodheating.com.au | — | sales@melbournewoodheating.com.au | — | Lilydale VIC fireplace + BBQ specialist; stocks Weber and **Big Green Egg**; family business with large wood/gas heater + BBQ display | BGE, Weber, wood heaters | Lead | — | contact-ready: B · channel: email · tel: 03 9739 6419 |
+| 81 | Dune Outdoor Luxuries | Australia | duneoutdoor.com | Mary (Gold Coast); Ben (Brisbane) | mary@duneoutdoor.com | — | QLD outdoor furniture + **Weber Store** (Bundall Gold Coast + Bowen Hills/Fortitude Valley Brisbane); outdoor living specialty | Weber Store, outdoor furniture | Lead | — | contact-ready: B · channel: email · also ben@duneoutdoor.com · tel: 07 5531 0032 / 07 3257 3707 |
+| 82 | Inspired Outdoor Living | Australia | inspiredoutdoor.com.au | — | info@inspiredoutdoor.com.au | — | Carrum Downs VIC Weber Specialist Dealer; outdoor furniture, heating, BBQs and outdoor living showroom | Weber Specialist | Lead | — | contact-ready: B · channel: email · tel: 03 9782 8325 |
+| 83 | Your Outdoor Store Cooma | Australia | youroutdoorstore.com.au | — | sales@youroutdoorstore.com.au | — | Regional NSW Cooma outdoor retailer (camping/fishing/BBQ) since 1950s; Weber Specialist Dealer for Monaro region | Weber Specialist, outdoor retail | Lead | — | contact-ready: B · channel: email · tel: 02 6452 2729 |
+| 84 | Getaway Outdoors Cockburn | Australia | getawayoutdoors.com.au | — | cockburn@getawayoutdoors.com.au | — | WA multi-store outdoor retailer (Cockburn/Jandakot); camping, fishing and outdoor cooking gear; regional WA coverage | Outdoor retail / BBQ adjacent | Lead | — | contact-ready: B · channel: email · tel: 08 9417 4644 · also Geraldton/Mandurah/Kelmscott stores |
+| 85 | Coleman Barbeques Australia | Australia | colemanbbqs.com.au | — | info@colemanbbqs.com.au | — | Derrimut VIC outdoor cooking brand/distributor HQ; Coleman BBQ modules, parts support and AU store network | Coleman BBQ brand/distributor | Lead | — | contact-ready: B · channel: email · tel: 03 8368 1800 · may prefer complementary ceramic SKUs |
 
 
 **字段说明：**
@@ -163,7 +168,7 @@
 
 ## 统计
 
-- Total leads: **80**
+- Total leads: **85**
 - Contacted: 0
 - Replied: 0
 - Quoted: 0
@@ -171,11 +176,11 @@
 
 *每周日更新统计数字，同步到 `company/sales.md`*
 
-**收集批次：** 2026-07-10 Day 1（#1–20）· 2026-07-11 Day 2（#21–30）· 2026-07-12 Day 3（#31–40）· 2026-07-13 Day 4（#41–#50）· 2026-07-14 W3 Day 1（#51–#55）· 2026-07-15 W3 Day 2（#56–#60）· 2026-07-16 W3 Day 3（#61–#65）· 2026-07-17 W3 Day 4（#66–#70）· 2026-07-18 W3 Day 5（#71–#75）· 2026-07-19 W3 Day 6（#76–#80）· **未发信**
+**收集批次：** 2026-07-10 Day 1（#1–20）· 2026-07-11 Day 2（#21–30）· 2026-07-12 Day 3（#31–40）· 2026-07-13 Day 4（#41–#50）· 2026-07-14 W3 Day 1（#51–#55）· 2026-07-15 W3 Day 2（#56–#60）· 2026-07-16 W3 Day 3（#61–#65）· 2026-07-17 W3 Day 4（#66–#70）· 2026-07-18 W3 Day 5（#71–#75）· 2026-07-19 W3 Day 6（#76–#80）· 2026-07-20 W3 Day 7（#81–#85）· **未发信**
 
-### 当前 pipeline 联系人就绪审计（2026-07-19）
+### 当前 pipeline 联系人就绪审计（2026-07-20）
 
-**80/80 联系人就绪**（均 ≥C，可触达）；**17/80 达 A 级**（可个性化）。
+**85/85 联系人就绪**（均 ≥C，可触达）；**17/85 达 A 级**（可个性化）。
 
 | # | 公司 | 就绪 | 渠道 | Week 3 |
 |---|------|:---:|---|---|
@@ -193,3 +198,4 @@
 | 66–70 | Rawsons … Allgoods | B | email | ✅ |
 | 71–75 | Alfresco … Chiminea / Aussie Heatwave | B | email | ✅ |
 | 76–80 | Coastline … Melbourne Woodheating | B | email | ✅ |
+| 81–85 | Dune Outdoor … Coleman Barbeques | B | email | ✅ |
