@@ -25,7 +25,7 @@
 |------|----------|
 | 业务 | 中国 Kamado 陶瓷烤炉出口寻源 |
 | 产品 | 18" / 21" 主推，供应商 YUEFU BBQ（佛山） |
-| 阶段 | Phase 0 验证期，0 客户，**60 家 Lead** |
+| 阶段 | Phase 0 验证期，0 客户，**85 家 Lead** |
 | **当前 phase** | **`W3_OUTREACH`**（详见 [`phases.md`](phases.md)） |
 | 战略 | 一个资源 → 一个市场 → 一个报价 |
 | 定位 | 寻源顾问，降风险，非最低价噱头 |
@@ -38,63 +38,64 @@
 ## 当前阶段判断
 
 - **Phase:** 0 — **`W3_OUTREACH`**（Week 3 外联进行中）→ 切换见 [`phases.md`](phases.md)
-- **瓶颈:** 已联系 **12/100**（本机日配额发信）；距 W4 还差 Contacted≥100 **且** 回复≥5
-- **优势:** 买家 **60**；Gmail MCP ✅；发信政策已统一（`今天发` · 15/工作日 · 云端不实发）
+- **瓶颈:** 已联系 **72/100**（本机日配额发信）；距 W4 还差 Contacted≥100 **且** 回复≥5（当前回复 **1**）
+- **优势:** 买家 **92**；Gmail MCP ✅；发信政策已统一（`今天发` · 15/工作日 · 云端不实发）；Research PR #5 已合入
 - **本周必须完成:** Co-founder **每日说 `今天发`** 发满 15；云端 Sales 只扩买家+对齐草稿；跳过 #3/#13/#15
 - **暂不做:** 问叔叔（等 Replied/Qualified）；Bounce **不自动补**（须明说「改发备用」）
 
-### Automation（2026-07-12 · 三件套）
+### Automation（2026-07-13 · 单 Run + Research）
 
 | 名称 | 触发 | 模型 | 状态 |
 |------|------|------|------|
-| **Kamado 每日 Founder — 澳洲** | 每天 09:00 · `main` | GPT-5.5 Medium | ✅ Active |
-| **Kamado 每日 Sales — 澳洲** | 每天 10:00 · `main` | GPT-5.5 Medium | ✅ Active（**禁止 Gmail 实发**） |
+| **Kamado 每日运营 — 澳洲** | 每天 09:00 · `main` | GPT-5.5 Medium | ✅ Active（禁止 Gmail 实发） |
 | **Kamado 每周 Research — 澳洲** | 每周日 09:00 · `main` | GPT-5.5 Medium | ✅ Active |
 
-**运行逻辑：** 读 [`phases.md`](phases.md) → Founder 派发 `today.md` → 云端 Sales（扩买家/草稿）→ **本机 Co-founder `今天发`** 实发；周日 Research 轻量复核。
+**运行逻辑：** 读 [`phases.md`](phases.md) → 单 Run 内 Founder 派发 + Sales 扩买家/草稿 → **本机 Co-founder `今天发`** 实发；周日 Research 轻量复核。账本 SSOT=本机 `pipeline` Contacted。
 
 **重要：** Automation 读 **GitHub 上的代码**。本地改完文档须 `git commit && git push`，次日 09:00 才能跑到最新状态。
 
-## 今日排期（2026-07-15 · Founder 排程 · W3 Day 2）✅ 已完成
+## 今日排期（2026-07-20 · Founder 排程 · W3）✅ 本机已完成日配额
 
-**主题：Week 3 Day 2 — 发信通道确认 + 下一批外联准备**
+**主题：Week 3 — Research 合入 + 账本协调 + 本机发 #65–#79**
 
 | 优先级 | 谁 | 任务 | 状态 |
 |:---:|------|------|:---:|
-| **P0** | **Sales** | Gmail MCP 就绪则发送首批 15–20 封；否则补 #31–#40 草稿/脚本并扩大队列 | ✅ 当时云端未发；后由本机试跑/批量发出 |
-| **P1** | **Sales** | 新增 5 家澳洲买家 → 60/100 | ✅ |
-| **P1** | **Co-founder** | 搭建 Gmail MCP / 发信通道 | ✅ 2026-07-15 已验证 |
-| ⏸️ | — | 不问叔叔；跳过 #3 BBQ Spit、#13 Tucker | ✅ |
+| **P0** | **Co-founder（本机）** | 说 **`今天发`** → #65–#79 共 15 封 | ✅ |
+| **P1** | **Sales / 本机** | 合入云端独有买家 #80–#92；**不 pull 覆盖 Stage** | ✅ |
+| **P1** | **Research** | PR #5 周日复核写入本仓 + merge | ✅ |
+| ⏸️ | — | 不问叔叔；跳过 #3/#13/#15；#6 Bounce 不自动补 | ✅ |
 
-**今日新增 #56–#60：** The Outdoor Outlaws · Barbeques & More · Nash's BBQ & Fire · BBQ Adelaide · Fielder's BBQ & Outdoor
+**Founder 阶段检查：** 阶段保持 `W3_OUTREACH`；已联系 72/100 · 回复 1/5。
 
-### 今日/明日排期（2026-07-16 · W3 · 规则已锁定）
+### 明日排期（2026-07-21 · W3）
 
 | 优先级 | 指派 | 任务 | 目标 |
 |:---:|------|------|------|
-| **P0** | **Co-founder（本机）** | 说 **`今天发`** → 日配额 **15**（补足当日剩余） | Contacted 累加；账本=`pipeline` |
-| **P1** | **Sales（云端）** | +5 新买家；对齐未发草稿；**禁止 Gmail** | 买家名单增长 |
+| **P0** | **Co-founder（本机）** | 说 **`今天发`** → 从 **#80** 起发满 15 | Contacted 累加 |
+| **P1** | **Sales（云端）** | +5 新买家；对齐草稿；**禁止 Gmail** | 买家名单增长 |
 | ⏸️ | — | Contacted≥100 停新冷邮；Bounce 只记账 | 见 `cofounder.md` |
 
 ```text
 Founder：阶段保持 W3_OUTREACH
-云端 Sales：扩买家 + 草稿；不实发
-本机：Co-founder「今天发」→ 15/工作日 → Contacted≥100 停
+云端 Sales：扩买家 + 草稿；不实发；不得把 Stage 冲成全 Lead
+本机：Co-founder「今天发」→ 15/工作日 → Contacted≥100 停；账本=pipeline
 ```
 
 ---
 
-## 上日排期（2026-07-11 · Day 2）✅ 已完成
+## 上日排期（2026-07-19 · W3 Day 6）✅ 已完成
 
-**主题：Week 2 Day 2 — 积买家 + 补草稿**
+**主题：Week 3 Day 6 — 对齐下一批应发草稿 + 本机发信待办**
 
 | 优先级 | 谁 | 任务 | 状态 |
 |:---:|------|------|:---:|
-| **P0** | **Sales** | 再找 **10 家**澳洲买家 → **30/50** | ✅ |
-| **P1** | **Sales** | 外联草稿 #10–#14 → **14/30** | ✅ |
-| **P1** | **Co-founder** | 确认 Automation 已保存启用 | ✅ 2026-07-11 Lee 确认 |
+| **P0** | **Sales** | 对齐未发草稿（Kit Lee · Foshan China · indicative FOB）；列出今日应发 `#20 #21 #22 #23 #24 #25 #26 #27 #28 #29 #30 #31 #32 #33 #34` | ✅ |
+| **P1** | **Sales** | 新增 5 家澳洲买家 → 80/100 | ✅ #76–#80 |
+| **P1** | **Co-founder** | 本机说 **「今天发」** → 发上列 15 封（Gmail 仅本机） | ⏳ 待办 |
+| ⏸️ | — | 不问叔叔；跳过 #3/#13/#15；#6 Bounce 不自动补；本 Run 不标 Contacted | ✅ |
 
 ---
+
 
 ## Week 2 剩余计划（Founder · 更新 2026-07-12）
 
@@ -133,10 +134,10 @@ Founder：阶段保持 W3_OUTREACH
 | P0 | Research 体系独立审核 + 按意见修复 | 审核子代理 + Founder | ✅ 完成 |
 | P0 | **问叔叔：YUEFU 出口史** | Co-founder | ⏸️ **暂缓** — Lee 决定先找潜在买家，有询盘/Qualified 后再问（2026-07-10） |
 | P0 | 市场研究，定第一个目标国 | Research | ✅ **澳大利亚**（2026-07-10） |
-| P1 | 积满 **50 买家** | Sales | ✅ 60/100；W3 后目标 100 |
-| P1 | 外联草稿备齐 | Sales | **39/40** 已写 |
-| P1 | 补联系人 A 级 | Sales | **17/60** 达 A |
-| P1 | 外联 100（定价话术见 `product.md` 定价策略） | Co-founder 本机 `今天发` + Sales 草稿 | W3 进行中；**Contacted 12/100** |
+| P1 | 积满 **50 买家** | Sales | ✅ **92**；W3 后目标 100 |
+| P1 | 外联草稿备齐 | Sales | 进行中；Kit Lee / indicative FOB |
+| P1 | 补联系人 A 级 | Sales | 持续补 |
+| P1 | 外联 100（定价话术见 `product.md` 定价策略） | Co-founder 本机 `今天发` + Sales 草稿 | W3 进行中；**Contacted 72/100** · 回复 **1** |
 | P2 | 有回复后 → 向 YUEFU 要针对性 FOB | Supplier + Co-founder | 有 Qualified 后 |
 | P3 | 正式报价单 | Quoting | 有需求 + 厂价后 |
 
@@ -144,11 +145,12 @@ Founder：阶段保持 W3_OUTREACH
 
 ## 待 Co-founder 决策 / 回答
 
-> 暂无开放 blocker。发信规则 2026-07-16 已锁定：本机 `今天发` · 15/日 · Contacted≥100 停。
+> 暂无开放 blocker。发信规则已锁定：本机 `今天发` · 15/日 · Contacted≥100 停。账本 SSOT=本机 pipeline。
 
 | # | 问题 | 影响 | 状态 |
 |---|------|------|------|
 | 1 | 搭建 Gmail MCP / 发信账号连接 | 解锁 W3 外联 | ✅ 2026-07-15 |
+| 2 | #41 Martin 回 size/qty/port 后准备 1-pager | 推进 Qualified | ⏳ 等待 |
 
 ---
 
@@ -156,6 +158,10 @@ Founder：阶段保持 W3_OUTREACH
 
 | 日期 | 调度 | 任务 | 结果写回 |
 |------|------|------|----------|
+| 2026-07-20 | Founder → Sales | W3 Day 7：阶段保持 W3；派发对齐未发草稿 + 应发 #35–#51（跳过 #46/#48）、+5 买家；Co-founder 本机「今天发」 | `today.md` pending |
+| 2026-07-20 | Sales 完成 | W3 Day 7：对齐 15 封草稿（#35–#51）；新增买家 #81–#85；未发信、未标 Contacted | `pipeline.md` 85/100 · `outreach-drafts.md` 84/85 · `sales.md` · `today.md` done |
+| 2026-07-19 | Founder → Sales | W3 Day 6：阶段保持 W3；派发对齐未发草稿 + 应发 #20–#34、+5 买家；Co-founder 本机「今天发」 | `today.md` pending |
+| 2026-07-19 | Sales 完成 | W3 Day 6：对齐 15 封草稿（#20–#34）；新增买家 #76–#80；未发信、未标 Contacted | `pipeline.md` 80/100 · `outreach-drafts.md` 79/80 · `sales.md` · `today.md` done |
 | 2026-07-10 | — | 项目架构对齐 GPT Company Brain | `lessons.md` |
 | 2026-07-10 | Automation | 每周一三五 09:00 定时找澳洲买家（旧） | Glass Automations 预填 |
 | 2026-07-11 | Co-founder | 旧 Automation「找买家」已启用 | 已由每日 Founder 取代 |
@@ -171,6 +177,12 @@ Founder：阶段保持 W3_OUTREACH
 | 2026-07-14 | Sales | W3 Day 1：补草稿 #21–#30、新增买家 #51–#55；Gmail MCP 未配置，未发信 | `pipeline.md` 55/100 · `outreach-drafts.md` 29/30 · `sales.md` · `today.md` done |
 | 2026-07-15 | Founder → Sales | W3 Day 2：派发发信通道确认、补 #31–#40 草稿/脚本、+5 买家（仅 Sales 任务） | `today.md` pending |
 | 2026-07-15 | Sales | W3 Day 2：新增买家 #56–#60；补 #31–#40 草稿/脚本；无 Gmail MCP，未发信 | `pipeline.md` 60/100 · `outreach-drafts.md` 39/40 · `sales.md` · `today.md` done |
+| 2026-07-16 | Founder → Sales | W3 Day 3：阶段保持 W3；派发发信通道确认、补 #41–#60 草稿/脚本、+5 买家（仅 Sales 任务） | `today.md` pending |
+| 2026-07-16 | Sales | W3 Day 3：新增买家 #61–#65；补 #41–#60 草稿/脚本；无 Gmail MCP，未发信 | `pipeline.md` 65/100 · `outreach-drafts.md` 59/60 · `sales.md` · `today.md` done |
+| 2026-07-17 | Founder → Sales | W3 Day 4：阶段保持 W3；派发发信通道确认、补 #61–#70 草稿/脚本、+5 买家（仅 Sales 任务） | `today.md` pending |
+| 2026-07-17 | Sales | W3 Day 4：新增买家 #66–#70；补 #61–#70 草稿/脚本；无 Gmail MCP，未发信 | `pipeline.md` 70/100 · `outreach-drafts.md` 69/70 · `sales.md` · `today.md` done |
+| 2026-07-18 | Founder → Sales | W3 Day 5：阶段保持 W3；派发对齐未发草稿 + 应发 #1/#2/#4/#5/#7–#12/#14/#16–#19、+5 买家；Co-founder 本机「今天发」 | `today.md` pending |
+| 2026-07-18 | Sales 完成 | W3 Day 5：对齐 15 封草稿；新增买家 #71–#75；未发信、未标 Contacted | `pipeline.md` 75/100 · `outreach-drafts.md` 74/75 · `sales.md` · `today.md` done |
 
 ---
 
