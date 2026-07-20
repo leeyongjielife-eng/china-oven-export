@@ -61,7 +61,7 @@ Research → Offer → Sales → Quoting → Supplier
 | 销售阶段定义、漏斗数字 | `company/sales.md` | 指向 |
 | 买家明细 + 字段 schema + **联系人就绪标准** | `workspace/buyers/pipeline.md` | 指向 |
 | 外联模板 + 写作原则 + 有效/无效做法 | `templates/outreach.md` | 指向 |
-| 定价话术规则（upon request / 不给精确 FOB） | `company/product.md` 定价策略 | 指向 |
+| 定价话术规则（W3 indicative FOB / 正式价 Qualified 后） | `company/product.md` 定价策略 | 指向 |
 | 竞品零售锚点数据 | `workspace/markets/competitor-benchmark.md` | 指向 |
 | 人机发信政策 | `company/cofounder.md` 分工原则 | 指向 |
 | 子代理角色 / 边界 / 触发 | 对应 `workflows/<agent>.md` | 指向 |

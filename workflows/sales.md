@@ -27,7 +27,8 @@
 | 任务 | 输出位置 |
 |------|----------|
 | 按目标市场找潜在买家 | [`workspace/buyers/pipeline.md`](../workspace/buyers/pipeline.md) |
-| 起草并发送外联 / 跟进邮件 | 见 [`templates/outreach.md`](../templates/outreach.md)；发信政策见 [`company/cofounder.md`](../company/cofounder.md) 发信政策 |
+| 起草外联 / 跟进邮件；**本机**按 `今天发` 实发 | 见模板 + [`cofounder.md`](../company/cofounder.md) 发信政策 |
+| **云端 Automation：** 仅扩买家、对齐草稿、更新漏斗 | **禁止** Gmail 实发 |
 | 更新买家 Stage | `pipeline.md` |
 | 同步漏斗统计 | [`company/sales.md`](../company/sales.md) |
 | 记录有效外联教训 | [`company/lessons.md`](../company/lessons.md) |
@@ -89,31 +90,24 @@ Supplier  →  工厂能不能做、多少钱        （写 product.md + workspa
 
 ### 发信政策
 
-→ 唯一来源：[`company/cofounder.md`](../company/cofounder.md) 发信政策（**不禁止 AI 自动发信**）。
+→ 唯一来源：[`company/cofounder.md`](../company/cofounder.md) 发信政策。
 
----
+**本机实发（Co-founder 说 `今天发`）：**
 
-## 启动前必读
+1. 若 Contacted ≥100 → **停止**新冷邮，只回报文
+2. 读 `pipeline`：取 Lead + 有邮箱；跳过已 Contacted / Bounce 未下令改发 / #3/#13/#15
+3. 按对齐草稿发出，额度补满当日 **15**（成功投递才标 Contacted）
+4. Bounce → Notes 记账，**不**自动改发；同步 `sales.md`
+5. 回写摘要；**禁止**广搜 Gmail 已发送；**禁止**逐封等人审
 
-- `company/` 全部 8 文件（重点：`customers.md`, `sales.md`, `product.md`, `cofounder.md`）
+**云端 Sales Automation：** 只做找买家 / 补草稿 / 漏斗同步；**禁止**调用 Gmail。
 
-## 额外读取
-
-- [`workspace/dispatch/today.md`](../workspace/dispatch/today.md)（**Automation 必须先读**；手动启动时 Founder 应已派发）
-- [`workspace/buyers/pipeline.md`](../workspace/buyers/pipeline.md)（买家字段 schema 见该文件表头）
-- [`templates/outreach.md`](../templates/outreach.md)（外联模板与写作原则）
-- [`workspace/markets/keywords.md`](../workspace/markets/keywords.md)（找买家关键词）
-- [`workspace/buyers/outreach-playbook.md`](../workspace/buyers/outreach-playbook.md)（外联 & 找买家外部经验，撰写前必读）
-- 当前周计划 [`../plan/week-0X.md`](../plan/)（节奏日历，不在此重复）
-
-## 核心任务
-
-### 每日量级（Co-founder 约 2h/天）
+### 每日量级
 
 | 阶段 | 找买家 | 发信 |
 |------|--------|------|
 | Week 2 | 10 家/天，只入 pipeline | **0** |
-| Week 3+ | 5 家/天（补新 lead） | 10–15 封个性化外联 |
+| Week 3 (`W3_OUTREACH`) | 5 家/天（云端可做） | **15**/工作日（本机 `今天发`） |
 | Week 4+ | 减少新 lead | 跟进 Replied / Qualified 为主 |
 
 周节奏与完成标准 → 见 [`../plan/`](../plan/)，不在此重复。

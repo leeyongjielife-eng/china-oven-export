@@ -43,15 +43,16 @@
 
 ## 三、Kamado / 澳洲 场景落地要点
 
-> 结合我们实际（无正式 FOB、父亲朋友工厂、Lee Wing Kit 署名）：
+> 结合我们实际（无 YUEFU 锁价、父亲朋友工厂、署名 **Kit Lee**；W3 规则见 `product.md` / `cofounder.md`）：
 
 1. **Opener 用具体信号**（写进 pipeline 的 Why + Competitor signal）：
    - 「你们已在卖 Kamado Joe / Primo，但没有自有/入门价位陶瓷炭烤线」
    - 「官网有 trade / wholesale 页，正在招 stockist」
-2. **Value 用零售锚点，不报 FOB**：`FOB pricing available upon request` + `comparable models retail at AUD $2,000–3,000+`（规则见 `company/product.md`）。
-3. **CTA**：`Would a short product overview be useful?`（yes/no，低门槛）。
+2. **Value（W3）：** 可写 **indicative market FOB**（21" ~USD $255–316，*not locked*）+ 可选零售锚点；**禁止**写成厂锁价。规则见 `company/product.md`。
+3. **CTA**：`Reply YES …` / 低门槛 yes-no；可拒可应。
 4. **首封不带目录附件**，回复后再发。
-5. **署名**：Lee Wing Kit（个人名，非冒充公司）。
+5. **署名**：Kit Lee · Export — YUEFU BBQ, Foshan, China。
+6. **发信拓扑**：日配额 **15**/工作日；Co-founder 说 **`今天发`** 本机实发；云端 Sales 不发 Gmail；Contacted≥100 停新冷邮。
 
 ---
 
@@ -61,7 +62,7 @@
 |------|------|----------------------------------------------------|
 | 1 | Day 0 | 首封外联（见模板 Template 2） |
 | 2 | Day 3–4 | 跟进：补一个新卖点（EN1860-1 证书 / OEM 定制 / 破损包装方案） |
-| 3 | Day 7 | 附 1 页产品概览（仍 upon request） |
+| 3 | Day 7 | 可附 1 页产品概览（价仍按 indicative / 正式 quote 规则） |
 | 4 | Day 14 | 「分手信」：是否需要归档或转介同事——常有意外回复 |
 
 发送时间：工作日目标国当地时间 9–11am 最佳。

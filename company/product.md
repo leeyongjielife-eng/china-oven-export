@@ -90,8 +90,10 @@
 
 - **模式：** 先找买家验证需求 → 有具体询盘后再向工厂谈价
 - **原因：** 厂价灵活；Co-founder 角色是帮工厂开市场，非单纯倒货
-- **外联时：** **FOB pricing available upon request**；可用竞品零售价作锚点（数据见 [`workspace/markets/competitor-benchmark.md`](../workspace/markets/competitor-benchmark.md)）。**不给精确 FOB**，直到买家进入 Qualified 且已向工厂询价。
+- **W3 外联定价（2026-07-16 统一口径）：** 冷邮件**默认**写 **indicative market FOB**（当前锚点：21" 主流 **USD $255–316**；来源 Alibaba 公开区间，见 [`competitor-benchmark.md`](../workspace/markets/competitor-benchmark.md)）。必须标明 *indicative / not locked / firm against spec & MOQ*。**不得**写成 YUEFU 锁价或正式 PI。
+- **正式 / 精确 FOB：** 买家进入 Qualified **且** 已向工厂询价后，由 Quoting 出单。
 - **风险管控：** 至少在有 1 个认真询盘前，向父亲朋友要一个**内部参考价区间**（不必书面报价），避免报价离谱
+- **署名：** 外联一律 **Kit Lee** · Export — YUEFU BBQ, Foshan, China（见 `cofounder.md`）
 
 ---
 

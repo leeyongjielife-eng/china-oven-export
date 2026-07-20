@@ -18,15 +18,15 @@ Hi [Name],
 
 I noticed that [Company] distributes BBQ / outdoor cooking equipment in [Country].
 
-I work directly with a Kamado grill manufacturer in Foshan, China (13" to 24", EN1860-1 certified). We help overseas buyers with FOB quotations and export support.
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (kamados 13"–24", EN1860-1 certified).
 
-Our 21" kamado with cart — **FOB pricing available upon request**. For reference, similar models in [Country] retail at [retail anchor from competitor-benchmark.md].
+Indicative market FOB for a mainstream 21": about **USD $255–316** (not locked — firm against your spec/MOQ). For reference, similar models in [Country] retail at [retail anchor from competitor-benchmark.md].
 
-Would a short product overview be useful?
+Reply YES if a one-pager + landed-cost sketch would help; if not, say so and I'll stop.
 
-Best regards,
-Lee Wing Kit
-[Email] | [WhatsApp optional]
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
 
 ---
 
@@ -40,18 +40,17 @@ Hi [Name],
 
 I see [Company] distributes BBQ and outdoor cooking products in [Country].
 
-I can help source Kamado ceramic charcoal grills (18"/21" focus) from a verified Foshan factory, with:
-- FOB pricing upon request + specs
-- EN1860-1 / FDA / LFGB certificates
-- Shipping estimates to [Country port]
-- OEM / custom color options
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (18"/21" focus). OEM / private-label available.
 
-For reference, comparable models retail at AUD $2,000–3,000+ in Australia.
+- Indicative 21" FOB ~USD $255–316 (not locked; firm on spec/MOQ)
+- EN1860-1 / FDA / LFGB — reports on request
+- Happy to sketch AU landed cost on a 1-pager
 
-Interested in a 1-page product overview?
+Reply YES if useful; say no and I'll stop.
 
 Best,
-Lee Wing Kit
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
 
 ---
 
@@ -65,12 +64,13 @@ Hi [Name],
 
 Just following up on my note last week.
 
-I have a short list of Kamado grill models (18" and 21" most popular) with **FOB pricing available upon request** — happy to send if useful for your sourcing.
+I shared indicative FOB and a one-pager path last week — happy to resend if useful.
 
 No pressure if timing isn't right.
 
 Best,
-Lee Wing Kit
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
 
 ---
 
@@ -92,7 +92,8 @@ To prepare an accurate quotation, could you share:
 I'll match with our supplier and send a full quote within [X] days.
 
 Best,
-Lee Wing Kit
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
 
 ---
 
@@ -102,18 +103,19 @@ Lee Wing Kit
 - 第一句证明你看过对方公司
 - 一个明确的 CTA（问一个问题）
 - 不夸大：不说 largest / cheapest / best
-- **定价**：只说 `FOB pricing available upon request` + 零售价锚点；**不说 FOB 区间或精确价**（规则见 `company/product.md` 定价策略）
+- **署名：** 一律 **Kit Lee** · `Export — YUEFU BBQ, Foshan, China`
+- **定价（W3）：** 可写 **indicative market FOB**（当前锚点 21" **USD $255–316**），必须标明 *not locked / subject to confirmation*；**禁止**写成 YUEFU 锁价或正式 PI。规则见 [`company/product.md`](../company/product.md)。有 Qualified 后再出正式价。
 
 ## 有效 / 无效做法
 
 ### 有效
 
 - 针对对方公司业务定制第一句
-- 产品概览 + upon request + 零售锚点（不是精确 FOB）
+- W3：indicative FOB 窄区间 + *not locked* + 低摩擦 CTA（YES）
 - 跟进 2–3 次后放弃，记入 `company/lessons.md`
 
 ### 无效
 
 - 群发同一封长邮件
 - 声称「最大工厂」「最低价」
-- 第一封就发 10 页报价单或乱报 FOB 区间
+- 第一封就发 10 页报价单，或把 indicative 写成锁价 / 正式报价

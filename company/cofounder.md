@@ -35,7 +35,7 @@
 
 ## 对外身份
 
-- 联系买家用的名字 / 品牌：**Lee Wing Kit**（个人英文名，2026-07-10 确认）
+- 联系买家用的名字 / 品牌：**Kit Lee**（对外署名，2026-07-15 更新；护照拼音 Lee Wing Kit）
 - 是否注册公司：<!-- 待填 -->
 
 ---
@@ -65,9 +65,17 @@ Sales / 其他子代理（AI） →  见 workflows/ 各角色边界；**不**替
 > 本节是外联邮件发送政策的**唯一归属**。其他文档（`workflows/sales.md`、`workflows/founder.md`、`workflows/models.md` 等）需要时**只指向此处**，不得另行规定。
 
 - **AI 可起草并自动发送外联邮件**（**不禁止自动发信**）。
-- Co-founder **可选**在发送前复核；不复核也可发。
-- 仅以下动作**必须真人**：微信/电话、付款、报关、验货、签约。
-- **Agent 不假装是真人身份**——署名用 `Lee Wing Kit`，不冒充其他身份。
+- Co-founder **可选**在发送前复核；W3 **默认不复核**。
+- **执行拓扑（2026-07-16 确认）：**
+  - **云端 Sales Automation：禁止 Gmail 实发**（无本机 MCP）。只允许：扩买家、对齐/补草稿、更新 `pipeline`/`sales.md`、写 `today.md` 完成回写。
+  - **Gmail 实发：仅本机**，由 **Co-founder 每日触发**：对话说 **`今天发`**。Agent 按配额连发，发完只回摘要（禁止广搜 Gmail 已发送对账；以 `pipeline` 为账本）。
+- **日配额：** 固定 **15 封/工作日**（周一至周六；周日不发冷邮）。`今天发` = 发满当日剩余额度至 15；`今天发 N` 时 N≤15（除非 Co-founder 显式提高上限）。
+- **停止条件：** `sales.md` / `pipeline` 中 **Contacted（成功投递）≥ 100** → **停止日配额新冷邮件**；已 Contacted 的跟进与回信处理可继续。进入 `W4_FOLLOWUP` 仍须另满足 **回复 ≥5**（见 `phases.md`）。
+- **Bounce：** 只记账（Stage 保持 Lead 或 Notes 标 Bounce）；**不自动**改备用邮箱补发。仅当 Co-founder 明确说「改发备用 / 改发 #N」时才重发。Bounce **不计入** Contacted。
+- **逐封串行 + 即时写回（防重复）：** 每调用一次 Gmail send 成功后，**立即**更新 `pipeline.md`（Stage→Contacted + Notes 写 msg ID），确认写回后才发下一封。**禁止**同一轮 tool call 并行多封。断线恢复后**不自动重发**——先报告「断在第 N 封，最后成功 #X」，等 Co-founder 确认再继续。
+- **护栏：** 跳过无邮箱 / 已 Contacted / 已 Bounce 且未下令改发 / 队列标明跳过（#3、#13、#15 电话脚本）；署名 **Kit Lee** · Export — YUEFU BBQ, Foshan, China；首封无附件；W3 可用 indicative market FOB（见 `product.md`）。
+- 仅以下动作**必须真人**：微信/电话、付款、报关、验货、签约；以及每日说一次 **`今天发`**。
+- **Agent 不假装是真人身份**——署名用 `Kit Lee`，不冒充其他身份。
 
 ---
 
@@ -86,7 +94,7 @@ Sales / 其他子代理（AI） →  见 workflows/ 各角色边界；**不**替
 | 2026-07-10 | 每天投入时间 | **约 2 小时/天** |
 | 2026-07-10 | 英文水平 | **B：能读，AI 起草**（发信政策见分工原则：不禁止自动发信） |
 | 2026-07-10 | 外贸经验 | **A：无，第一次** |
-| 2026-07-10 | 对外署名 | **Lee Wing Kit** |
+| 2026-07-10 | 对外署名 | **Lee Wing Kit** → **2026-07-15 改为 Kit Lee** |
 | 2026-07-10 | YUEFU 关系 & 询价 | **父亲朋友开的厂；未报价；先找买家再谈价，帮工厂开市场** |
 | 2026-07-10 | 何时问叔叔 | **先找潜在买家，有询盘/Qualified 后再问**出口史与厂价 |
 
@@ -103,4 +111,6 @@ Sales / 其他子代理（AI） →  见 workflows/ 各角色边界；**不**替
 | 2026-07-12 | 初始化 GitHub 仓库 + 改 Public | https://github.com/leeyongjielife-eng/china-oven-export |
 | 2026-07-12 | 启用 **「Kamado 每日 Founder — 澳洲」** | **Active**；每天 09:00 · `main` |
 | 2026-07-12 | 启用三 Automation + `phases.md` 阶段机 | Founder/Sales/Research · GPT-5.5 Medium |
+| 2026-07-16 | 搭建并验证 **Gmail MCP** | ✅ 已连接；本机实发 |
+| 2026-07-16 | 确认日配额自动发信规则 | 触发 `今天发`；配额 **15**/工作日；**Contacted≥100** 停新冷邮；Bounce **只记账不自动补**；云端 Sales **禁止** Gmail |
 | — | 向 YUEFU 要正式报价 / 问出口史 | **暂缓**，等有潜在买家询盘或 Qualified 后再问（2026-07-10 战略决定） |

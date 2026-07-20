@@ -56,11 +56,35 @@
 - **学到什么**：这是**市场开拓型**合作，不是传统「先拿厂价再找买家」。父亲朋友关系是巨大优势（信任、灵活定价），但外联时不能瞎报价——至少需要竞品参考价或内部口头价区间。正式 FOB 报价推迟到有 Qualified 买家之后。
 - **下周怎么改**：启动 Research 定第一个市场；Week 2 积买家；外联用产品清单 + "pricing on request"；私下可向父亲朋友要 18"/21" 口头参考价防离谱。
 
+### 2026-07-16 | W3 日配额自动发 + 定价/署名口径统一
+
+- **发生了什么**：试跑约 15 封后确认效果可继续。Co-founder 拍板：改 `strategy`「不做自动化」范围为不建设站/CRM 自动化；W3 冷邮默认写 indicative FOB；署名统一 Kit Lee；日配额固定 15；云端 Sales 禁止 Gmail 实发，Co-founder 每日说 `今天发`；Contacted≥100 停新冷邮；Bounce 只记账不自动补。
+- **学到什么**：云端 Automation 与本机 Gmail MCP 必须拆开；账本以 pipeline 为准，禁止广搜已发送对账。indicative 窄区间 + not locked 比纯 upon request 更易获得打开后认真阅读。
+- **下周怎么改**：每日 `今天发` 补满 15；未对齐草稿继续对齐；Contacted 到 100 停；有回复再问叔叔真价。
+
 ### 2026-07-10 | Founder 由 Agent 担任，人类为 Co-founder
 
 - **发生了什么**：用户明确：founder 应由主 Agent 担任，自己只是 Co-founder（提供资源、拍板、真人动作）。
 - **学到什么**：`founder.md` ≠ 人类自我介绍；它是 **Founder Agent 的运营状态**（排期、合成、待决策、调度）。人类档案单独放 `cofounder.md`。
 - **下周怎么改**：默认对话入口改为 Founder Agent；只向 Co-founder 问 Agent 无法推断的问题。
+
+### 2026-07-16 | W3 日配额本机自动发 + 定价/署名统一
+
+- **发生了什么**：试跑外联后确认效果可接受。锁定：触发 `今天发`；配额 **15**/工作日；**Contacted（成功投递）≥100** 停新冷邮；Bounce 只记账不自动补；云端 Sales **禁止** Gmail 实发；署名 **Kit Lee**；W3 默认 indicative FOB ~USD $255–316（非锁价）。废止旧口径「首封绝不报 FOB 区间 / 云端代发」。
+- **学到什么**：冷启动带窄 indicative 区间比纯 upon request 更能过经销商外审；账本用 `pipeline`，不要广搜 Gmail 对账（易卡死）。「不做自动化」仅指不做网站/CRM 级运营自动化，不禁止日配额外联实发。
+- **下周怎么改**：Co-founder 每个工作日说一次 `今天发`；到达 Contacted 100 前保持节奏；有 YES/OPEN 再准备 one-pager 与问叔叔。
+
+---
+
+### 2026-07-17 | 断线重连导致重复发信
+
+- **发生了什么**：Agent 调用 Gmail MCP 发出邮件后，Cursor 与后端断线（`Connection failed repeatedly`）。Agent 未收到 MCP 返回、`pipeline.md` 未写回 Contacted。恢复后 Agent 认为未发成功，对同一买家（如 #30 Grills and Thrills）重复发送。
+- **学到什么**：Gmail MCP 调用是**不可逆外部写操作**——发出就收不回来。断线≠未发送。批量并行发信放大了重复风险。
+- **下周怎么改**：
+  1. **逐封发送 + 即时写回**：每调用一次 Gmail MCP 成功后，立即更新 `pipeline.md`（Stage→Contacted、Notes 写 msg ID），确认写回后再发下一封。
+  2. **断线恢复后不自动重发**：Agent 恢复连接后，先报告「断在第 N 封，最后成功记录为 #X」，等 Co-founder 确认再继续。禁止自行判断「上次没发出」而重试。
+  3. **pipeline 是唯一账本**：只看 `pipeline.md` Stage 字段判断是否已发；不依赖 Agent 内存中的发送列表。
+  4. **禁止并行多封**：不在同一轮 tool call 中同时调用多次 Gmail send；严格串行。
 
 ---
 

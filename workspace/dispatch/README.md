@@ -66,13 +66,15 @@ Founder   Founder     Sales       Sales
 ## Sales 步骤（10:00 Automation · 周一至周六）
 
 > Cursor 定时器仅支持整点，Sales 排在 Founder **1 小时后**，确保 `today.md` 已 push。
+>
+> **硬约束（2026-07-16）：云端本步骤禁止 Gmail 实发。** 实发仅本机 Co-founder 触发 `今天发`（见 `company/cofounder.md`）。
 
 1. 读 `today.md`：若 `status` 不是 `pending`，停止。
 2. 改为 `in_progress`；读 [`workflows/sales.md`](../../workflows/sales.md)。
-3. 执行 P0/P1 → 写 `pipeline.md`、`outreach-drafts.md`、同步 `company/sales.md`。
-4. 填 `today.md`「Sales 完成回写」；`status: done`。
-5. **禁止**改 `founder.md` 排期。
-6. `git commit && git push`。
+3. 执行 **可云端完成** 的 P0/P1：扩买家、对齐/补草稿、同步漏斗。**不要**调用 Gmail MCP / 发送外联。
+4. 在完成回写中注明「今日应发序号 → 待 Co-founder `今天发`」。
+5. `status: done`；`git commit && git push`。
+6. **禁止**改 `founder.md` 排期。
 
 ## Founder 签收（可选 · 次日或同日第二次 Run）
 
