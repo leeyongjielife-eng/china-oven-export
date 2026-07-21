@@ -159,6 +159,7 @@ Founder：阶段保持 W3_OUTREACH
 | 日期 | 调度 | 任务 | 结果写回 |
 |------|------|------|----------|
 | 2026-07-21 | Founder → Sales | W3 Day 8：阶段保持 W3；派发对齐未发草稿 + 应发 #80–#94、+5 买家；Co-founder 本机「今天发」 | `today.md` pending |
+| 2026-07-21 | Sales 完成 | W3 Day 8：对齐 15 封草稿（#80–#94）；新增买家 #93–#97；未发信、未标 Contacted | `pipeline.md` 97/100 · `outreach-drafts.md` · `sales.md` · `today.md` done |
 | 2026-07-20 | Founder → Sales | W3 Day 7：阶段保持 W3；派发对齐未发草稿 + 应发 #35–#51（跳过 #46/#48）、+5 买家；Co-founder 本机「今天发」 | `today.md` pending |
 | 2026-07-20 | Sales 完成 | W3 Day 7：对齐 15 封草稿（#35–#51）；新增买家 #81–#85；未发信、未标 Contacted | `pipeline.md` 85/100 · `outreach-drafts.md` 84/85 · `sales.md` · `today.md` done |
 | 2026-07-19 | Founder → Sales | W3 Day 6：阶段保持 W3；派发对齐未发草稿 + 应发 #20–#34、+5 买家；Co-founder 本机「今天发」 | `today.md` pending |

@@ -102,6 +102,11 @@
 | 90 | Your Outdoor Store Cooma | Australia | youroutdoorstore.com.au | — | sales@youroutdoorstore.com.au | — | Regional NSW Cooma outdoor retailer since 1950s; Weber Specialist for Monaro | Weber Specialist | Lead | — | contact-ready: B · channel: email · tel: 02 6452 2729 · 合入自 origin/main |
 | 91 | Getaway Outdoors Cockburn | Australia | getawayoutdoors.com.au | — | cockburn@getawayoutdoors.com.au | — | WA multi-store outdoor retailer (Cockburn/Jandakot); camping/fishing/outdoor cooking | Outdoor retail / BBQ adjacent | Lead | — | contact-ready: B · channel: email · tel: 08 9417 4644 · 合入自 origin/main |
 | 92 | Coleman Barbeques Australia | Australia | colemanbbqs.com.au | — | info@colemanbbqs.com.au | — | Derrimut VIC outdoor cooking brand/distributor HQ; Coleman BBQ modules + AU store network | Coleman BBQ brand/distributor | Lead | — | contact-ready: B · channel: email · tel: 03 8368 1800 · 合入自 origin/main · complementary ceramic SKUs |
+| 93 | Barbeques Galore Ballarat | Australia | barbequesgalore.com.au/stores/ballarat | — | bbqballarat@gmail.com | — | Regional VIC franchise BBQ / outdoor furniture / heaters; Armstrong St N Ballarat | Barbeques Galore, Weber | Lead | — | contact-ready: B · channel: email · tel: 03 5332 3233 · 2026-07-21 Sales +5 |
+| 94 | Barbeques Galore Shepparton | Australia | barbequesgalore.com.au/stores/shepparton | — | info@sheppartonbbqsgalore.com.au | — | Regional VIC franchise BBQ / outdoor living; Benalla Rd Shepparton | Barbeques Galore, Weber | Lead | — | contact-ready: B · channel: email · tel: 03 5821 0550 · 2026-07-21 Sales +5 |
+| 95 | Barbeques Galore Albury | Australia | barbequesgalore.com.au/stores/albury | — | albury.south@bbqgalore.com.au | — | Border NSW/VIC franchise BBQ + wood heaters; Hume St Albury | Barbeques Galore, wood heaters | Lead | — | contact-ready: B · channel: email · tel: 02 6041 5645 · 2026-07-21 Sales +5 |
+| 96 | Barbeques Galore Warrnambool | Australia | barbequesgalore.com.au/stores/warrnambool | — | admin@barbool.com.au | — | Regional VIC SW coast franchise BBQ / outdoor; Raglan Parade Warrnambool | Barbeques Galore, Weber | Lead | — | contact-ready: B · channel: email · tel: 03 5561 3900 · 2026-07-21 Sales +5 |
+| 97 | Ipswich BBQs & Fireplaces | Australia | bbqsandheating.com.au | — | ipswich@bbqsandheating.com.au | — | West Ipswich QLD **Weber Store** (same group as Toowoomba #63); BBQ + heating + Traeger/YETI | Weber Store, Traeger | Lead | — | contact-ready: B · channel: email · tel: 07 3520 7217 · 2026-07-21 Sales +5 · ⚠️ 不同于 #63 Toowoomba |
 
 
 **字段说明：**
@@ -175,15 +180,15 @@
 
 ## 统计
 
-- Total buyers: **92**
-- Lead: **20**（#80–#92 可发 + 跳过池 #3/#6/#13/#15/#46/#48/#52）
+- Total buyers: **97**
+- Lead: **25**（#80–#97 可发 + 跳过池 #3/#6/#13/#15/#46/#48/#52）
 - Contacted: **71**
 - Replied: **1**（#41 BBQ Republic · Martin）
 - Quoted: 0
 - Won: 0
 - 已联系累计: **72**（Contacted + Replied）
 
-*同步：2026-07-20 → `company/sales.md`*
+*同步：2026-07-21 → `company/sales.md`*
 
 ### 账本协调结论（2026-07-20）
 
@@ -194,13 +199,13 @@
 | **已合入** | 远端独有有邮箱买家 → 本机 **#80–#92**（13 家） |
 | **跳过合入** | Moore Park BBQs（无邮箱）；远端与本机重复的 Home Heat / Outdoor Cook / Toowoomba 变体 |
 
-**收集批次：** … · 2026-07-20（#65–#79 本机）· 2026-07-20 合入云端独有（#80–#92）
+**收集批次：** … · 2026-07-20（#65–#79 本机）· 2026-07-20 合入云端独有（#80–#92）· **2026-07-21 Sales +5（#93–#97）**
 
-### 当前可发队列（2026-07-20）
+### 当前可发队列（2026-07-21）
 
 | 项 | 说明 |
 |----|------|
-| 今日已发 | **15 / 15**（#65–#79） |
-| 今日剩余配额 | **0** |
-| 下一批 | #80–#92 |
+| 今日应发（待本机「今天发」） | **15**：`#80–#94` |
+| 云端本 Run | **未发信、未标 Contacted** |
+| 下一批余量 | `#95–#97` + 后续新 Lead |
 | Replied 待办 | #41 等 Martin 回 size / qty / port |
