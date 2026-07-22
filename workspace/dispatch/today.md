@@ -4,8 +4,8 @@
 
 | 字段 | 值 |
 |------|-----|
-| 日期 | 2026-07-21 |
-| status | **done** |
+| 日期 | 2026-07-22 |
+| status | **pending** |
 | 派发 | Founder |
 | 执行 | Sales |
 
@@ -15,7 +15,7 @@
 
 - 排期来源：[`company/founder.md`](../../company/founder.md)
 - 当前漏斗：[`company/sales.md`](../../company/sales.md)
-- 当前阶段：`W3_OUTREACH`（Week 3 — 外联 100 · Day 8）
+- 当前阶段：`W3_OUTREACH`（Week 3 — 外联 100 · Day 9）
 - Contacted：**72/100**（未达跟进门槛；本 Run 仍派冷邮队列对齐，不派「跟进 Contacted」）
 - Phase 1 派发时状态：`pending`；Phase 2 执行完成后改为 `done`。
 
@@ -27,16 +27,16 @@
 
 ### P0
 
-- [x] **对齐未发草稿**：核对/统一今日应发批次草稿署名与话术为 **Kit Lee · Foshan China · indicative FOB**（不伪造已发信、不改 Stage→Contacted）。
-- [x] **列出下一批应发 Lead #（15 封）**：`#80 #81 #82 #83 #84 #85 #86 #87 #88 #89 #90 #91 #92 #93 #94`
+- [ ] **对齐未发草稿**：核对/统一今日应发批次草稿署名与话术为 **Kit Lee · Foshan China · indicative FOB**（不伪造已发信、不改 Stage→Contacted）。
+- [ ] **列出下一批应发 Lead #（15 封）**：`#80 #81 #82 #83 #84 #85 #86 #87 #88 #89 #90 #91 #92 #93 #94`
   - 跳过：`#3` BBQ Spit、`#13` Tucker、`#15` Boss Hogg（电话渠道）
-  - 现有可发 Lead 仅 `#80–#92`（13）；`#93 #94` 由 P1 新买家补齐日配额 15
+  - 账本仍为 Lead：`#80–#97`；今日额度取前 15（`#80–#94`）；余量 `#95–#97` + 本 Run 新 Lead
   - 无邮箱跳过池：`#46` Gaganis Bros、`#48` BBQs and Outdoor、`#52` Barbeques Galore HQ（不进今日邮件额度）
   - `#6` Bounce：**不自动补**进今日额度（不另换号凑满）
 
 ### P1
 
-- [x] 新增 **5 家**澳洲买家入 pipeline（#93–#97）→ 买家目标 **97/100**；并为新 lead 补草稿（同上署名/话术标准）。
+- [ ] 新增 **5 家**澳洲买家入 pipeline（#98–#102）→ 买家目标 **102/100**；并为新 lead 补草稿（同上署名/话术标准）。
 
 ---
 
@@ -58,11 +58,11 @@
 
 | 项 | 值 |
 |----|-----|
-| 完成时间 | 2026-07-21 |
-| P0 结果 | 已对齐今日应发 15 封草稿（#80–#94）为 Kit Lee · Foshan, China · indicative FOB；队列已标注跳过 #3/#13/#15，#6 Bounce 不自动补。本 Run **未**使用 Gmail MCP、**未**标 Contacted、**未**广搜已发送对账。 |
-| P1 结果 | 已新增 #93–#97：Barbeques Galore Ballarat · Shepparton · Albury · Warrnambool · Ipswich BBQs & Fireplaces；并补对应草稿。 |
-| 漏斗 | 买家 97/100 · 草稿/脚本覆盖应发批次 #80–#97 · Contacted 72（账本未改） |
-| 写入文件 | `workspace/buyers/pipeline.md` · `workspace/buyers/outreach-drafts.md` · `company/sales.md` |
+| 完成时间 | — |
+| P0 结果 | — |
+| P1 结果 | — |
+| 漏斗 | — |
+| 写入文件 | — |
 
 ---
 
