@@ -107,6 +107,11 @@
 | 95 | Barbeques Galore Albury | Australia | barbequesgalore.com.au/stores/albury | — | albury.south@bbqgalore.com.au | — | Border NSW/VIC franchise BBQ + wood heaters; Hume St Albury | Barbeques Galore, wood heaters | Lead | — | contact-ready: B · channel: email · tel: 02 6041 5645 · 2026-07-21 Sales +5 |
 | 96 | Barbeques Galore Warrnambool | Australia | barbequesgalore.com.au/stores/warrnambool | — | admin@barbool.com.au | — | Regional VIC SW coast franchise BBQ / outdoor; Raglan Parade Warrnambool | Barbeques Galore, Weber | Lead | — | contact-ready: B · channel: email · tel: 03 5561 3900 · 2026-07-21 Sales +5 |
 | 97 | Ipswich BBQs & Fireplaces | Australia | bbqsandheating.com.au | — | ipswich@bbqsandheating.com.au | — | West Ipswich QLD **Weber Store** (same group as Toowoomba #63); BBQ + heating + Traeger/YETI | Weber Store, Traeger | Lead | — | contact-ready: B · channel: email · tel: 07 3520 7217 · 2026-07-21 Sales +5 · ⚠️ 不同于 #63 Toowoomba |
+| 98 | Barbeques Galore Mackay | Australia | barbequesgalore.com.au/stores/mackay | — | mackay@bbqgalore.com.au | — | Regional QLD Nth coast franchise BBQ / outdoor furniture / heaters; Windmill Crossing Mackay | Barbeques Galore, Kamado Joe signal | Lead | — | contact-ready: B · channel: email · tel: (07) 4866 9666 · 2026-07-22 Sales +5 |
+| 99 | Barbeques Galore Wagga Wagga | Australia | barbequesgalore.com.au/stores/wagga-wagga | — | admin@bbqwagga.com.au | — | Regional NSW Riverina franchise BBQ / outdoor living / wood heaters; Edward St Wagga | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 02 6925 1186 · 2026-07-22 Sales +5 · ⚠️ 不同于 #34 Tackle World Wagga Weber |
+| 100 | Barbeques Galore Tamworth | Australia | barbequesgalore.com.au/stores/tamworth | — | galoretamworth@gmail.com | — | Regional NSW New England franchise; Traeger / **Kamado Joe** / outdoor furniture; Peel St Tamworth | Barbeques Galore, Kamado Joe, Traeger | Lead | — | contact-ready: B · channel: email · tel: 02 6766 3932 · 2026-07-22 Sales +5 |
+| 101 | Barbeques Galore Port Macquarie | Australia | barbequesgalore.com.au/stores/port-macquarie | — | sales@bbqportmac.com | — | Mid-north coast NSW franchise BBQ / outdoor living; Port Macquarie | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 02 6581 1006 · 2026-07-22 Sales +5 |
+| 102 | Barbeques Galore Nowra | Australia | barbequesgalore.com.au/stores/nowra | — | info@bbqnowra.com.au | — | NSW South Coast franchise BBQ / outdoor furniture / heaters; Nowra | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 02 4421 8044 · 2026-07-22 Sales +5 |
 
 
 **字段说明：**
@@ -199,13 +204,13 @@
 | **已合入** | 远端独有有邮箱买家 → 本机 **#80–#92**（13 家） |
 | **跳过合入** | Moore Park BBQs（无邮箱）；远端与本机重复的 Home Heat / Outdoor Cook / Toowoomba 变体 |
 
-**收集批次：** … · 2026-07-20（#65–#79 本机）· 2026-07-20 合入云端独有（#80–#92）· **2026-07-21 Sales +5（#93–#97）**
+**收集批次：** … · 2026-07-20（#65–#79 本机）· 2026-07-20 合入云端独有（#80–#92）· 2026-07-21 Sales +5（#93–#97）· **2026-07-22 Sales +5（#98–#102）**
 
-### 当前可发队列（2026-07-21）
+### 当前可发队列（2026-07-22）
 
 | 项 | 说明 |
 |----|------|
 | 今日应发（待本机「今天发」） | **15**：`#80–#94` |
 | 云端本 Run | **未发信、未标 Contacted** |
-| 下一批余量 | `#95–#97` + 后续新 Lead |
+| 下一批余量 | `#95–#102` + 后续新 Lead |
 | Replied 待办 | #41 等 Martin 回 size / qty / port |
