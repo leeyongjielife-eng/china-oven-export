@@ -112,6 +112,11 @@
 | 100 | Barbeques Galore Tamworth | Australia | barbequesgalore.com.au/stores/tamworth | — | galoretamworth@gmail.com | — | Regional NSW New England franchise; Traeger / **Kamado Joe** / outdoor furniture; Peel St Tamworth | Barbeques Galore, Kamado Joe, Traeger | Lead | — | contact-ready: B · channel: email · tel: 02 6766 3932 · 2026-07-22 Sales +5 |
 | 101 | Barbeques Galore Port Macquarie | Australia | barbequesgalore.com.au/stores/port-macquarie | — | sales@bbqportmac.com | — | Mid-north coast NSW franchise BBQ / outdoor living; Port Macquarie | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 02 6581 1006 · 2026-07-22 Sales +5 |
 | 102 | Barbeques Galore Nowra | Australia | barbequesgalore.com.au/stores/nowra | — | info@bbqnowra.com.au | — | NSW South Coast franchise BBQ / outdoor furniture / heaters; Nowra | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 02 4421 8044 · 2026-07-22 Sales +5 |
+| 103 | Barbeques Galore Bundaberg | Australia | barbequesgalore.com.au/stores/bundaberg | — | team@bbqgalorebundy.com.au | — | Regional QLD Wide Bay franchise BBQ / outdoor furniture / heaters; Enterprise St Bundaberg | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 07 4152 9344 · 2026-07-23 Sales +5 |
+| 104 | Barbeques Galore Lismore | Australia | barbequesgalore.com.au/stores/lismore | — | bbqgalore.lismore@pfl11.com | — | Northern Rivers NSW franchise BBQ / outdoor living; Cnr Dawson & Conway Sts Lismore | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 02 6621 6555 · 2026-07-23 Sales +5 |
+| 105 | Barbeques Galore Townsville | Australia | barbequesgalore.com.au/stores/townsville | — | bbqgaloretownsville@outlook.com | — | Nth QLD franchise BBQ / outdoor furniture / heaters; Duckworth St Garbutt | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 07 4725 4096 · 2026-07-23 Sales +5 · ⚠️ 不同于 #56 The Outdoor Outlaws（Weber） |
+| 106 | Barbeques Galore Hervey Bay | Australia | barbequesgalore.com.au/stores/hervey-bay | — | team@bbqgaloreherveybay.com.au | — | Fraser Coast QLD franchise BBQ / outdoor living; Main St Pialba | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 07 4325 3803 · 2026-07-23 Sales +5 |
+| 107 | Barbeques Galore Ballina | Australia | barbequesgalore.com.au/stores/ballina | — | bbqgalore.ballina@pfl11.com | — | NSW North Coast franchise BBQ / outdoor furniture; River St West Ballina | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 02 5602 5116 · 2026-07-23 Sales +5 |
 
 
 **字段说明：**
@@ -185,15 +190,15 @@
 
 ## 统计
 
-- Total buyers: **97**
-- Lead: **25**（#80–#97 可发 + 跳过池 #3/#6/#13/#15/#46/#48/#52）
+- Total buyers: **107**
+- Lead: **35**（#80–#107 可发 + 跳过池 #3/#6/#13/#15/#46/#48/#52）
 - Contacted: **71**
 - Replied: **1**（#41 BBQ Republic · Martin）
 - Quoted: 0
 - Won: 0
 - 已联系累计: **72**（Contacted + Replied）
 
-*同步：2026-07-21 → `company/sales.md`*
+*同步：2026-07-23 → `company/sales.md`*
 
 ### 账本协调结论（2026-07-20）
 
@@ -204,13 +209,13 @@
 | **已合入** | 远端独有有邮箱买家 → 本机 **#80–#92**（13 家） |
 | **跳过合入** | Moore Park BBQs（无邮箱）；远端与本机重复的 Home Heat / Outdoor Cook / Toowoomba 变体 |
 
-**收集批次：** … · 2026-07-20（#65–#79 本机）· 2026-07-20 合入云端独有（#80–#92）· 2026-07-21 Sales +5（#93–#97）· **2026-07-22 Sales +5（#98–#102）**
+**收集批次：** … · 2026-07-20（#65–#79 本机）· 2026-07-20 合入云端独有（#80–#92）· 2026-07-21 Sales +5（#93–#97）· 2026-07-22 Sales +5（#98–#102）· **2026-07-23 Sales +5（#103–#107）**
 
-### 当前可发队列（2026-07-22）
+### 当前可发队列（2026-07-23）
 
 | 项 | 说明 |
 |----|------|
 | 今日应发（待本机「今天发」） | **15**：`#80–#94` |
 | 云端本 Run | **未发信、未标 Contacted** |
-| 下一批余量 | `#95–#102` + 后续新 Lead |
+| 下一批余量 | `#95–#107` + 后续新 Lead |
 | Replied 待办 | #41 等 Martin 回 size / qty / port |

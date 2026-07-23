@@ -5,7 +5,7 @@
 | 字段 | 值 |
 |------|-----|
 | 日期 | 2026-07-23 |
-| status | **pending** |
+| status | **done** |
 | 派发 | Founder |
 | 执行 | Sales |
 
@@ -27,16 +27,16 @@
 
 ### P0
 
-- [ ] **对齐未发草稿**：核对/统一今日应发批次草稿署名与话术为 **Kit Lee · Foshan China · indicative FOB**（不伪造已发信、不改 Stage→Contacted）。
-- [ ] **列出下一批应发 Lead #（15 封）**：`#80 #81 #82 #83 #84 #85 #86 #87 #88 #89 #90 #91 #92 #93 #94`
+- [x] **对齐未发草稿**：核对/统一今日应发批次草稿署名与话术为 **Kit Lee · Foshan China · indicative FOB**（不伪造已发信、不改 Stage→Contacted）。
+- [x] **列出下一批应发 Lead #（15 封）**：`#80 #81 #82 #83 #84 #85 #86 #87 #88 #89 #90 #91 #92 #93 #94`
   - 跳过：`#3` BBQ Spit、`#13` Tucker、`#15` Boss Hogg（电话渠道）
-  - 账本仍为 Lead：`#80–#102`；今日额度取前 15（`#80–#94`）；余量 `#95–#102` + 新 Lead
+  - 账本仍为 Lead：`#80–#102`；今日额度取前 15（`#80–#94`）；余量 `#95–#107`
   - 无邮箱跳过池：`#46` Gaganis Bros、`#48` BBQs and Outdoor、`#52` Barbeques Galore HQ（不进今日邮件额度）
   - `#6` Bounce：**不自动补**进今日额度（不另换号凑满）
 
 ### P1
 
-- [ ] 新增 **5 家**澳洲买家入 pipeline（#103–#107）→ 买家目标 **107/100**；并为新 lead 补草稿（同上署名/话术标准）。
+- [x] 新增 **5 家**澳洲买家入 pipeline（#103–#107）→ 买家目标 **107/100**；并为新 lead 补草稿（同上署名/话术标准）。
 
 ---
 
@@ -58,11 +58,11 @@
 
 | 项 | 值 |
 |----|-----|
-| 完成时间 | — |
-| P0 结果 | — |
-| P1 结果 | — |
-| 漏斗 | — |
-| 写入文件 | — |
+| 完成时间 | 2026-07-23 |
+| P0 结果 | 已再对齐今日应发 15 封草稿（#80–#94）为 Kit Lee · Foshan, China · indicative FOB；队列已标注跳过 #3/#13/#15，#6 Bounce 不自动补。本 Run **未**使用 Gmail MCP、**未**标 Contacted、**未**广搜已发送对账。 |
+| P1 结果 | 已新增 #103–#107：Barbeques Galore Bundaberg · Lismore · Townsville · Hervey Bay · Ballina；并补对应草稿。 |
+| 漏斗 | 买家 107/100 · 草稿/脚本覆盖应发批次 #80–#94 + 新 Lead #103–#107 · Contacted 72（账本未改） |
+| 写入文件 | `workspace/buyers/pipeline.md` · `workspace/buyers/outreach-drafts.md` · `company/sales.md` |
 
 ---
 
