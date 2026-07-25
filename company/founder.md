@@ -25,7 +25,7 @@
 |------|----------|
 | 业务 | 中国 Kamado 陶瓷烤炉出口寻源 |
 | 产品 | 18" / 21" 主推，供应商 YUEFU BBQ（佛山） |
-| 阶段 | Phase 0 验证期，0 客户，**107 家买家** |
+| 阶段 | Phase 0 验证期，0 客户，**112 家买家** |
 | **当前 phase** | **`W3_OUTREACH`**（详见 [`phases.md`](phases.md)） |
 | 战略 | 一个资源 → 一个市场 → 一个报价 |
 | 定位 | 寻源顾问，降风险，非最低价噱头 |
@@ -39,7 +39,7 @@
 
 - **Phase:** 0 — **`W3_OUTREACH`**（Week 3 外联进行中）→ 切换见 [`phases.md`](phases.md)
 - **瓶颈:** 已联系 **72/100**（本机日配额发信）；距 W4 还差 Contacted≥100 **且** 回复≥5（当前回复 **1**）
-- **优势:** 买家 **107**（今日目标 →112）；Gmail MCP ✅；发信政策已统一（`今天发` · 15/工作日 · 云端不实发）；Research 已合入
+- **优势:** 买家 **112**；Gmail MCP ✅；发信政策已统一（`今天发` · 15/工作日 · 云端不实发）；Research 已合入
 - **本周必须完成:** Co-founder **每日说 `今天发`** 发满 15；云端 Sales 只扩买家+对齐草稿；跳过 #3/#13/#15
 - **暂不做:** 问叔叔（等 Replied/Qualified）；Bounce **不自动补**（须明说「改发备用」）
 
@@ -134,7 +134,7 @@ Founder：阶段保持 W3_OUTREACH
 | P0 | Research 体系独立审核 + 按意见修复 | 审核子代理 + Founder | ✅ 完成 |
 | P0 | **问叔叔：YUEFU 出口史** | Co-founder | ⏸️ **暂缓** — Lee 决定先找潜在买家，有询盘/Qualified 后再问（2026-07-10） |
 | P0 | 市场研究，定第一个目标国 | Research | ✅ **澳大利亚**（2026-07-10） |
-| P1 | 积满 **50 买家** | Sales | ✅ **107**（今日目标 →112）；W3 目标 100 |
+| P1 | 积满 **50 买家** | Sales | ✅ **112**；W3 目标 100 |
 | P1 | 外联草稿备齐 | Sales | 进行中；Kit Lee / indicative FOB |
 | P1 | 补联系人 A 级 | Sales | 持续补 |
 | P1 | 外联 100（定价话术见 `product.md` 定价策略） | Co-founder 本机 `今天发` + Sales 草稿 | W3 进行中；**Contacted 72/100** · 回复 **1** |
@@ -159,6 +159,7 @@ Founder：阶段保持 W3_OUTREACH
 | 日期 | 调度 | 任务 | 结果写回 |
 |------|------|------|----------|
 | 2026-07-25 | Founder → Sales | W3 Day 12：阶段保持 W3；派发对齐未发草稿 + 应发 #80–#94、+5 买家；Co-founder 本机「今天发」 | `today.md` pending |
+| 2026-07-25 | Sales 完成 | W3 Day 12：再对齐 15 封草稿（#80–#94）；新增买家 #108–#112；未发信、未标 Contacted | `pipeline.md` 112/100 · `outreach-drafts.md` · `sales.md` · `today.md` done |
 | 2026-07-23 | Founder → Sales | W3 Day 10：阶段保持 W3；派发对齐未发草稿 + 应发 #80–#94、+5 买家；Co-founder 本机「今天发」 | `today.md` pending |
 | 2026-07-23 | Sales 完成 | W3 Day 10：再对齐 15 封草稿（#80–#94）；新增买家 #103–#107；未发信、未标 Contacted | `pipeline.md` 107/100 · `outreach-drafts.md` · `sales.md` · `today.md` done |
 | 2026-07-22 | Founder → Sales | W3 Day 9：阶段保持 W3；派发对齐未发草稿 + 应发 #80–#94、+5 买家；Co-founder 本机「今天发」 | `today.md` pending |

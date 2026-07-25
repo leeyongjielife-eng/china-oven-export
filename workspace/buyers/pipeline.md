@@ -117,6 +117,11 @@
 | 105 | Barbeques Galore Townsville | Australia | barbequesgalore.com.au/stores/townsville | — | bbqgaloretownsville@outlook.com | — | Nth QLD franchise BBQ / outdoor furniture / heaters; Duckworth St Garbutt | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 07 4725 4096 · 2026-07-23 Sales +5 · ⚠️ 不同于 #56 The Outdoor Outlaws（Weber） |
 | 106 | Barbeques Galore Hervey Bay | Australia | barbequesgalore.com.au/stores/hervey-bay | — | team@bbqgaloreherveybay.com.au | — | Fraser Coast QLD franchise BBQ / outdoor living; Main St Pialba | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 07 4325 3803 · 2026-07-23 Sales +5 |
 | 107 | Barbeques Galore Ballina | Australia | barbequesgalore.com.au/stores/ballina | — | bbqgalore.ballina@pfl11.com | — | NSW North Coast franchise BBQ / outdoor furniture; River St West Ballina | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 02 5602 5116 · 2026-07-23 Sales +5 |
+| 108 | Gladstone Camping Centre | Australia | gladstonecampingcentre.com.au | — | sales@gladstonecampingcentre.com.au | — | Central QLD camping / outdoor / BBQ specialist; **Weber Specialist** + Traeger / Masterbuilt smokers; Yeti dealer | Weber Specialist, Traeger | Lead | — | contact-ready: B · channel: email · tel: 07 4972 1632 · 2026-07-25 Sales +5 |
+| 109 | Austrek Outdoor Adventure Centre | Australia | austrek.com.au | Shannon Hilder | shannon.hilder@austrek.com.au | — | Mildura VIC TJM / 4x4 + outdoor; **Weber BBQ** stockist for Sunraysia regional buyers | Weber | Lead | — | contact-ready: B · channel: email · tel: 03 5023 4466 · 2026-07-25 Sales +5 |
+| 110 | Compleat Angler Bathurst | Australia | compleatanglerbathurst.com.au | Garth Collins | compleatangler@bathurst2795.net.au | — | Bathurst / Kelso outdoor store; fishing + camping + **Weber Specialist** / Yeti | Weber Specialist | Lead | — | contact-ready: B · channel: email · tel: 02 6358 0995 · 2026-07-25 Sales +5 |
+| 111 | Oasis Outdoor Living | Australia | oasisoutdoorliving.com.au | — | sales@oasisoutdoorliving.com.au | — | Perth Midland **Weber Store**; outdoor furniture + alfresco kitchens + BBQ accessories | Weber Store | Lead | — | contact-ready: B · channel: email · tel: 08 9250 6262 · 2026-07-25 Sales +5 · ⚠️ 不同于 #27 The Outdoor Chef |
+| 112 | Echuca Caravan & Outdoor | Australia | echucacaravan.com.au | — | info@echucacaravan.com.au | — | Echuca VIC caravan / outdoor retailer; **Weber Specialist** for Murray River region | Weber Specialist | Lead | — | contact-ready: B · channel: email · tel: 03 5480 3023 · 2026-07-25 Sales +5 |
 
 
 **字段说明：**
@@ -198,7 +203,7 @@
 - Won: 0
 - 已联系累计: **72**（Contacted + Replied）
 
-*同步：2026-07-23 → `company/sales.md`*
+*同步：2026-07-25 → `company/sales.md`*
 
 ### 账本协调结论（2026-07-20）
 
@@ -209,13 +214,13 @@
 | **已合入** | 远端独有有邮箱买家 → 本机 **#80–#92**（13 家） |
 | **跳过合入** | Moore Park BBQs（无邮箱）；远端与本机重复的 Home Heat / Outdoor Cook / Toowoomba 变体 |
 
-**收集批次：** … · 2026-07-20（#65–#79 本机）· 2026-07-20 合入云端独有（#80–#92）· 2026-07-21 Sales +5（#93–#97）· 2026-07-22 Sales +5（#98–#102）· **2026-07-23 Sales +5（#103–#107）**
+**收集批次：** … · 2026-07-20（#65–#79 本机）· 2026-07-20 合入云端独有（#80–#92）· 2026-07-21 Sales +5（#93–#97）· 2026-07-22 Sales +5（#98–#102）· 2026-07-23 Sales +5（#103–#107）· **2026-07-25 Sales +5（#108–#112）**
 
-### 当前可发队列（2026-07-23）
+### 当前可发队列（2026-07-25）
 
 | 项 | 说明 |
 |----|------|
 | 今日应发（待本机「今天发」） | **15**：`#80–#94` |
 | 云端本 Run | **未发信、未标 Contacted** |
-| 下一批余量 | `#95–#107` + 后续新 Lead |
+| 下一批余量 | `#95–#112` + 后续新 Lead |
 | Replied 待办 | #41 等 Martin 回 size / qty / port |
