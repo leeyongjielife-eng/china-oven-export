@@ -739,6 +739,132 @@ Export — YUEFU BBQ, Foshan, China
 
 ---
 
+## #93 Seabreeze Supply Co — Traeger AU distributor
+
+> 2026-07-23 对齐 · ICP distributor · **未发送** · 主题无 `$`
+
+**Subject:** Seabreeze — complementary ceramic kamado for your retailers?
+
+Hi there,
+
+Seabreeze already wholesales Traeger (and Meater) to serious AU outdoor retailers — I'm not asking you to touch that line.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (kamados 13"–24"; EN1860-1). Idea: a complementary ceramic charcoal SKU your retailers can offer beside pellet, OEM/private-label if useful.
+
+Indicative only (not locked): mainstream 21" roughly USD 255–316 FOB, firm on spec/MOQ. Reply YES for a 1-pager + AU landed sketch; if not a fit, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #94 Sitro Group Australia — Gasmate / Char-Broil wholesale
+
+> 2026-07-23 对齐 · ICP importer/distributor · **未发送**
+
+**Subject:** Sitro — ceramic kamado for your outdoor retail network?
+
+Hi there,
+
+Sitro already puts Gasmate, Char-Broil and Oklahoma Joe into AU retail — wondering if a factory-direct ceramic kamado would fit as another charcoal option for those same accounts.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager + landed sketch; say no and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #95 Ziegler & Brown — own brand (Ziggy)
+
+> 2026-07-23 对齐 · ICP own-brand · **未发送**
+
+**Subject:** Ziegler & Brown — complementary ceramic kamado under your brand?
+
+Hi there,
+
+Ziegler & Brown already owns a strong AU BBQ brand through Ziggy/Turbo — I'm asking whether a complementary ceramic charcoal line (OEM / private-label) is ever on the radar beside gas.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a short one-pager; if timing isn't right, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #96 Heatlie BBQs — AU manufacturer
+
+> 2026-07-23 对齐 · ICP own-brand · **未发送**
+
+**Subject:** Heatlie — complementary ceramic charcoal SKU?
+
+Hi there,
+
+Heatlie already builds serious AU plate BBQs — this isn't a replace-Heatlie pitch. Asking whether a complementary ceramic charcoal kamado (OEM available) would help customers who want low-and-slow / smoke.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager; say no and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #97 Adventure Operations (Ozpig) — outdoor wholesale
+
+> 2026-07-23 对齐 · ICP distributor/own-brand · **未发送**
+
+**Subject:** Adventure Operations — ceramic kamado beside Ozpig?
+
+Hi there,
+
+Adventure Operations already wholesales outdoor cooking (including Ozpig) across AU DCs — a ceramic kamado could sit as a specialty charcoal option for the same retail network.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager + landed sketch; if not useful, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #98 Everdure by Heston — own brand charcoal/gas
+
+> 2026-07-23 对齐 · ICP own-brand · **未发送**
+
+**Subject:** Everdure — complementary ceramic kamado line?
+
+Hi there,
+
+Everdure already covers charcoal and gas outdoor cooking with a strong AU brand — I'm asking whether a complementary ceramic kamado (OEM / private-label) at a different tier would ever fit beside that range.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager; say no and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #99 Shriro Australia — 非邮件（C）
+
+> ⚠️ **无公开邮箱** — 走官网 New Trade 表单或电话 (02) 9415 5000；不进日配额冷邮。
+
+---
+
 ## 待补充草稿（Week 3）
 
-#41–#60（继续跳过 #3 BBQ Spit、#13 Tucker 首轮发送；#15 保持电话脚本）
+跟进稿由本机 `今天发` 现场写；新冷邮优先 **#93–#98**。跳过 #3/#13/#15；#17 Bounce 不自动改发。
