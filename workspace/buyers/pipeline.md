@@ -109,6 +109,26 @@
 | 97 | Adventure Operations (Ozpig) | Australia | adventureoperations.com.au / ozpig.com.au | — | info@adventureoperations.com | — | **AU wholesaler** of outdoor leisure brands; owns/distributes **Ozpig** fire cooking; multi-DC (QLD/VIC/WA); exports | Ozpig own brand + outdoor leisure portfolio | Lead | — | contact-ready: B · channel: email · tel: 1300 362 921 / (07) 3193 1110 · ICP: distributor/own-brand · 2026-07-23 Sales |
 | 98 | Everdure by Heston Blumenthal | Australia | everdurebyheston.com | — | info@everdurebyheston.com | — | **AU outdoor cooking brand** (charcoal + gas BBQs, pizza ovens); designed in AU; distributed via Shriro trade network — complementary ceramic kamado line fit | Own Everdure charcoal/gas range | Lead | — | contact-ready: B · channel: email · tel: 1300 437 866 · ICP: own-brand · trade also via Shriro (form-only, no public email) · 2026-07-23 Sales |
 | 99 | Shriro Australia (Everdure trade) | Australia | shriro.com.au | — | — | — | Leading **AU/NZ appliance distributor**; trade account for Everdure BBQs / outdoor; Chatswood HQ + Chullora warehouse | Everdure distributor | Lead | — | contact-ready: C · channel: form/tel · form: shriro.com.au/contact (New Trade) · tel: (02) 9415 5000 · ICP: distributor · **无公开邮箱 — 不进冷邮额度** · 2026-07-23 Sales |
+| 100 | Barbeques Galore Ballarat | Australia | barbequesgalore.com.au/stores/ballarat | — | bbqballarat@gmail.com | — | Regional VIC franchise BBQ / outdoor furniture / heaters; Armstrong St N Ballarat | Barbeques Galore, Weber | Lead | — | contact-ready: B · channel: email · tel: 03 5332 3233 · 2026-07-21 Sales +5 · 合入自云端 Day8–12 原#93→#100（2026-07-26 merge） |
+| 101 | Barbeques Galore Shepparton | Australia | barbequesgalore.com.au/stores/shepparton | — | info@sheppartonbbqsgalore.com.au | — | Regional VIC franchise BBQ / outdoor living; Benalla Rd Shepparton | Barbeques Galore, Weber | Lead | — | contact-ready: B · channel: email · tel: 03 5821 0550 · 2026-07-21 Sales +5 · 合入自云端 Day8–12 原#94→#101（2026-07-26 merge） |
+| 102 | Barbeques Galore Albury | Australia | barbequesgalore.com.au/stores/albury | — | albury.south@bbqgalore.com.au | — | Border NSW/VIC franchise BBQ + wood heaters; Hume St Albury | Barbeques Galore, wood heaters | Lead | — | contact-ready: B · channel: email · tel: 02 6041 5645 · 2026-07-21 Sales +5 · 合入自云端 Day8–12 原#95→#102（2026-07-26 merge） |
+| 103 | Barbeques Galore Warrnambool | Australia | barbequesgalore.com.au/stores/warrnambool | — | admin@barbool.com.au | — | Regional VIC SW coast franchise BBQ / outdoor; Raglan Parade Warrnambool | Barbeques Galore, Weber | Lead | — | contact-ready: B · channel: email · tel: 03 5561 3900 · 2026-07-21 Sales +5 · 合入自云端 Day8–12 原#96→#103（2026-07-26 merge） |
+| 104 | Ipswich BBQs & Fireplaces | Australia | bbqsandheating.com.au | — | ipswich@bbqsandheating.com.au | — | West Ipswich QLD **Weber Store** (same group as Toowoomba #63); BBQ + heating + Traeger/YETI | Weber Store, Traeger | Lead | — | contact-ready: B · channel: email · tel: 07 3520 7217 · 2026-07-21 Sales +5 · ⚠️ 不同于 #63 Toowoomba · 合入自云端 Day8–12 原#97→#104（2026-07-26 merge） |
+| 105 | Barbeques Galore Mackay | Australia | barbequesgalore.com.au/stores/mackay | — | mackay@bbqgalore.com.au | — | Regional QLD Nth coast franchise BBQ / outdoor furniture / heaters; Windmill Crossing Mackay | Barbeques Galore, Kamado Joe signal | Lead | — | contact-ready: B · channel: email · tel: (07) 4866 9666 · 2026-07-22 Sales +5 · 合入自云端 Day8–12 原#98→#105（2026-07-26 merge） |
+| 106 | Barbeques Galore Wagga Wagga | Australia | barbequesgalore.com.au/stores/wagga-wagga | — | admin@bbqwagga.com.au | — | Regional NSW Riverina franchise BBQ / outdoor living / wood heaters; Edward St Wagga | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 02 6925 1186 · 2026-07-22 Sales +5 · ⚠️ 不同于 #34 Tackle World Wagga Weber · 合入自云端 Day8–12 原#99→#106（2026-07-26 merge） |
+| 107 | Barbeques Galore Tamworth | Australia | barbequesgalore.com.au/stores/tamworth | — | galoretamworth@gmail.com | — | Regional NSW New England franchise; Traeger / **Kamado Joe** / outdoor furniture; Peel St Tamworth | Barbeques Galore, Kamado Joe, Traeger | Lead | — | contact-ready: B · channel: email · tel: 02 6766 3932 · 2026-07-22 Sales +5 · 合入自云端 Day8–12 原#100→#107（2026-07-26 merge） |
+| 108 | Barbeques Galore Port Macquarie | Australia | barbequesgalore.com.au/stores/port-macquarie | — | sales@bbqportmac.com | — | Mid-north coast NSW franchise BBQ / outdoor living; Port Macquarie | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 02 6581 1006 · 2026-07-22 Sales +5 · 合入自云端 Day8–12 原#101→#108（2026-07-26 merge） |
+| 109 | Barbeques Galore Nowra | Australia | barbequesgalore.com.au/stores/nowra | — | info@bbqnowra.com.au | — | NSW South Coast franchise BBQ / outdoor furniture / heaters; Nowra | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 02 4421 8044 · 2026-07-22 Sales +5 · 合入自云端 Day8–12 原#102→#109（2026-07-26 merge） |
+| 110 | Barbeques Galore Bundaberg | Australia | barbequesgalore.com.au/stores/bundaberg | — | team@bbqgalorebundy.com.au | — | Regional QLD Wide Bay franchise BBQ / outdoor furniture / heaters; Enterprise St Bundaberg | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 07 4152 9344 · 2026-07-23 Sales +5 · 合入自云端 Day8–12 原#103→#110（2026-07-26 merge） |
+| 111 | Barbeques Galore Lismore | Australia | barbequesgalore.com.au/stores/lismore | — | bbqgalore.lismore@pfl11.com | — | Northern Rivers NSW franchise BBQ / outdoor living; Cnr Dawson & Conway Sts Lismore | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 02 6621 6555 · 2026-07-23 Sales +5 · 合入自云端 Day8–12 原#104→#111（2026-07-26 merge） |
+| 112 | Barbeques Galore Townsville | Australia | barbequesgalore.com.au/stores/townsville | — | bbqgaloretownsville@outlook.com | — | Nth QLD franchise BBQ / outdoor furniture / heaters; Duckworth St Garbutt | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 07 4725 4096 · 2026-07-23 Sales +5 · ⚠️ 不同于 #56 The Outdoor Outlaws（Weber） · 合入自云端 Day8–12 原#105→#112（2026-07-26 merge） |
+| 113 | Barbeques Galore Hervey Bay | Australia | barbequesgalore.com.au/stores/hervey-bay | — | team@bbqgaloreherveybay.com.au | — | Fraser Coast QLD franchise BBQ / outdoor living; Main St Pialba | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 07 4325 3803 · 2026-07-23 Sales +5 · 合入自云端 Day8–12 原#106→#113（2026-07-26 merge） |
+| 114 | Barbeques Galore Ballina | Australia | barbequesgalore.com.au/stores/ballina | — | bbqgalore.ballina@pfl11.com | — | NSW North Coast franchise BBQ / outdoor furniture; River St West Ballina | Barbeques Galore | Lead | — | contact-ready: B · channel: email · tel: 02 5602 5116 · 2026-07-23 Sales +5 · 合入自云端 Day8–12 原#107→#114（2026-07-26 merge） |
+| 115 | Gladstone Camping Centre | Australia | gladstonecampingcentre.com.au | — | sales@gladstonecampingcentre.com.au | — | Central QLD camping / outdoor / BBQ specialist; **Weber Specialist** + Traeger / Masterbuilt smokers; Yeti dealer | Weber Specialist, Traeger | Lead | — | contact-ready: B · channel: email · tel: 07 4972 1632 · 2026-07-25 Sales +5 · 合入自云端 Day8–12 原#108→#115（2026-07-26 merge） |
+| 116 | Austrek Outdoor Adventure Centre | Australia | austrek.com.au | Shannon Hilder | shannon.hilder@austrek.com.au | — | Mildura VIC TJM / 4x4 + outdoor; **Weber BBQ** stockist for Sunraysia regional buyers | Weber | Lead | — | contact-ready: B · channel: email · tel: 03 5023 4466 · 2026-07-25 Sales +5 · 合入自云端 Day8–12 原#109→#116（2026-07-26 merge） |
+| 117 | Compleat Angler Bathurst | Australia | compleatanglerbathurst.com.au | Garth Collins | compleatangler@bathurst2795.net.au | — | Bathurst / Kelso outdoor store; fishing + camping + **Weber Specialist** / Yeti | Weber Specialist | Lead | — | contact-ready: B · channel: email · tel: 02 6358 0995 · 2026-07-25 Sales +5 · 合入自云端 Day8–12 原#110→#117（2026-07-26 merge） |
+| 118 | Oasis Outdoor Living | Australia | oasisoutdoorliving.com.au | — | sales@oasisoutdoorliving.com.au | — | Perth Midland **Weber Store**; outdoor furniture + alfresco kitchens + BBQ accessories | Weber Store | Lead | — | contact-ready: B · channel: email · tel: 08 9250 6262 · 2026-07-25 Sales +5 · ⚠️ 不同于 #27 The Outdoor Chef · 合入自云端 Day8–12 原#111→#118（2026-07-26 merge） |
+| 119 | Echuca Caravan & Outdoor | Australia | echucacaravan.com.au | — | info@echucacaravan.com.au | — | Echuca VIC caravan / outdoor retailer; **Weber Specialist** for Murray River region | Weber Specialist | Lead | — | contact-ready: B · channel: email · tel: 03 5480 3023 · 2026-07-25 Sales +5 · 合入自云端 Day8–12 原#112→#119（2026-07-26 merge） |
 
 
 **字段说明：**
@@ -182,15 +202,15 @@
 
 ## 统计
 
-- Total buyers: **99**
-- Lead: **15**（可发有邮箱 **#93–#98** 共 6 · #99 无邮箱 C · 跳过池 #3/#6/#13/#15/#17 Bounce×2/#46/#48/#52）
+- Total buyers: **119**
+- Lead: **35**（可发有邮箱含 ICP #93–#98 + 云端合入 #100–#119；#99 无邮箱 C；跳过池 #3/#6/#13/#15/#17 Bounce×2/#46/#48/#52）
 - Contacted: **83**
 - Replied: **1**（#41 BBQ Republic · Martin）
 - Quoted: 0
 - Won: 0
 - 已联系累计: **84**（Contacted + Replied）
 
-*同步：2026-07-23 → `company/sales.md` · Sales 扩 ICP #93–#99*
+*同步：2026-07-26 merge → `company/sales.md` · 保留本机 Contacted SSOT；合入云端独有买家为 #100–#119（原远端 #93–#112）*
 
 ### 账本协调结论（2026-07-20）
 
@@ -203,12 +223,13 @@
 
 **收集批次：** … · 2026-07-20（#65–#79 本机）· 2026-07-20 合入云端独有（#80–#92）
 
-### 当前可发队列（2026-07-24）
+### 当前可发队列（2026-07-26 merge）
 
 | 项 | 说明 |
 |----|------|
-| 今日跟进 | **15 / 15** ✅ #19–#33 全部完成 |
-| 新可发冷邮 | #93–#98 |
+| 已完成跟进 | **#19–#33**（2026-07-24）|
 | 下一批跟进 | #34–#48（跳过无邮箱） |
-| Sales | `today.md` pending · 扩 #100+ |
+| 新可发冷邮（换画像优先） | **#93–#98**（ICP） |
+| 云端合入余量 | **#100–#119**（多为 BBQG 加盟/Weber 区域店；发信优先级低于 ICP） |
+| #99 Shriro | 无公开邮箱 · C |
 | 已联系累计 | **84 / 100** |

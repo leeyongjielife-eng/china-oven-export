@@ -153,7 +153,8 @@
 
 | 日期 | 调度 | 任务 | 结果写回 |
 |------|------|------|----------|
-| 2026-07-24 | Founder → Sales + 本机 | 补派今日；本机**直接发**跟进 #19–#33；Sales 续扩 #100+ | `today.md` pending · 本机发送中 |
+| 2026-07-26 | Founder merge | **push 前合入 origin/main**：本机 Contacted SSOT 保留；云端 Day8–12 独有买家改号为 **#100–#119**；本机 ICP 保持 **#93–#99** | merge → push |
+| 2026-07-24 | Founder → Sales + 本机 | 补派今日；本机**直接发**跟进 #19–#33；Sales 续扩 #100+ | 本机跟进 ✅ 15/15 · Sales `today.md` 仍 pending |
 | 2026-07-23 | Founder → Sales | **补派今日**：阶段保持 W3；P0 换画像扩 #93+；本机跟进队列 #19–#33；禁止 Gmail | Sales ✅ #93–#99 · 本机跟进 ❌ → 今日补 |
 | 2026-07-22 | Founder → Sales + 本机 | **战略转向**：配额全跟进（Martin+#1/#2/#4/#5/#7–#12/#14/#16–#18）；Sales #93+ 仅 importer/distributor/multi-store/own-brand | `strategy.md` · 本机 ✅ · Sales ❌ 未执行 |
 | 2026-07-22 | Founder → Sales | W3：阶段保持 W3；**可发池空** → 派发 P0 扩有邮箱买家 #93+（≥5，目标 10–15）+ 草稿；明日应发列表；禁止 Gmail / 禁止覆盖 Contacted | `today.md` **已重派**（画像收紧） |
