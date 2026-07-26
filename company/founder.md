@@ -153,6 +153,7 @@
 
 | 日期 | 调度 | 任务 | 结果写回 |
 |------|------|------|----------|
+| 2026-07-26 | Research（本机补） | 周日轻量复核：Automation 仅跑 Day13 Founder/Sales、**无 Research 提交** → 本机补竞品价确认 + 关键词 #26–#30 + 周日志；回复率 1.2% = 第 2 个周日 &lt;5% → **暂不 Reset** | `research.md` · `competitor-benchmark.md` · `keywords.md` |
 | 2026-07-26 | Founder merge | **push 前合入 origin/main**：本机 Contacted SSOT 保留；云端 Day8–12 独有买家改号为 **#100–#119**；本机 ICP 保持 **#93–#99** | merge → push |
 | 2026-07-24 | Founder → Sales + 本机 | 补派今日；本机**直接发**跟进 #19–#33；Sales 续扩 #100+ | 本机跟进 ✅ 15/15 · Sales `today.md` 仍 pending |
 | 2026-07-23 | Founder → Sales | **补派今日**：阶段保持 W3；P0 换画像扩 #93+；本机跟进队列 #19–#33；禁止 Gmail | Sales ✅ #93–#99 · 本机跟进 ❌ → 今日补 |

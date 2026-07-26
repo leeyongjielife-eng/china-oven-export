@@ -43,6 +43,18 @@
 | 24 | "BBQ wholesaler" "ceramic smoker" Australia | Google | 找 BBQ 批发商 |
 | 25 | site:linkedin.com/company "BBQ" "Australia" "wholesale" | Google | 找 LinkedIn 公司页和采购线索 |
 
+## 轻量复核新增关键词（2026-07-26）
+
+> 对齐战略转向：优先 importer / distributor / own-brand / multi-store，少搜单店 Weber。
+
+| # | Keyword | 平台 | 用途 |
+|---|---------|------|------|
+| 26 | "exclusive distributor" Traeger OR "Big Green Egg" Australia | Google | 找品牌独家分销商（对标 Seabreeze 类） |
+| 27 | BBQ "importer" OR "wholesaler" "Australia" "trade only" | Google | 贸易/批发进口商 |
+| 28 | "private label" OR OEM barbecue Australia manufacturer brand | Google | 自有品牌 / OEM 野心品牌商 |
+| 29 | "outdoor cooking" "distributor" Australia -retail -"for sale" | Google | 户外烹饪分销（排除零售闲置） |
+| 30 | site:linkedin.com/in ("Managing Director" OR Purchasing) (kamado OR "charcoal grill") Australia | Google | 决策人级采购/总经理 |
+
 ## 行业专属（效率高于泛搜索）
 
 ```

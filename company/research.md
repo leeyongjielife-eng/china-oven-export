@@ -85,6 +85,16 @@ Australia — mid-size BBQ equipment distributors / specialty outdoor retailers
 - **建议**：Founder 继续保持澳洲单市场验证；若未来连续 3 个周日确认回复率 <5%，再在周日志中明确建议切换 `W3_RESEARCH_RESET`。
 - **外联侧观察（本机）**：#41 BBQ Republic 已 Replied；indicative FOB 口径可用；继续堆 Contacted。
 
+### Week 3 周日轻量复核（2026-07-26）· **本机补做**（Automation 未产出 Research 提交）
+
+- **日期**：2026-07-26；执行 Research 轻量复核，不做正式选市场，不改 `customers.md`。
+- **Automation 观察**：同日约 09:00 云端有 **Founder/Sales Day 13** 提交，但 **无** `research.md` / 竞品 / 关键词相关 commit → 周日 Research Automation **未落盘或未跑**；由本机按 `phases.md` 清单补做。
+- **竞品观察**：BGE Large AU 套装仍约 **AUD $2,500–2,999**；KJ Classic III 可见 **AUD $2,979**（挂牌约 $3,399）。相对 7/19 **无结构性变价**；indicative FOB USD $255–316 仍合理。
+- **已更新**：`workspace/markets/competitor-benchmark.md`（验证日 2026-07-26）；`workspace/markets/keywords.md` 新增 **5** 词（#26–#30），偏向分销商 / 进口商 / OEM / 决策人搜索。
+- **Sales 信号（本机 SSOT）**：已联系 **84** · 回复 **1** · 回复率约 **1.2%**。本周动作：冷邮收尾 + 两轮跟进（7/22、7/24）+ 战略改为「跟进 > 堆首封」+ ICP 收紧。
+- **Research Reset 门槛**：连续 **3** 个周日回复率 &lt;5% 才建议切换。计数：**第 2 个周日**（7/19、7/26）均 &lt;5% → **暂不**建议 `W3_RESEARCH_RESET`；若 **2026-08-02** 仍 &lt;5%，再明确建议 Founder 切换。
+- **建议**：保持澳洲单市场；周一继续跟进 `#34–#48` + 冷邮优先 ICP `#93–#98`；云端合入 `#100–#119`（多为 BBQG/Weber 区域店）发信优先级低于 ICP。
+
 ---
 
 ## 数据来源
