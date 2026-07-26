@@ -60,8 +60,8 @@
 
 | 优先级 | 谁 | 任务 | 状态 |
 |:---:|------|------|:---:|
-| **P0** | **Sales** | 对齐未发草稿 + 标明应发 **#93–#98、#100–#108**（15） | ⏳ `today.md` pending |
-| **P1** | **Sales** | +5 新澳洲买家（从 **#120**；少扩 BG/单店 Weber） | ⏳ |
+| **P0** | **Sales** | 对齐未发草稿 + 标明应发 **#93–#98、#100–#108**（15） | ⏳ `today.md` → done 见日志 |
+| **P1** | **Sales** | +5 新澳洲买家（从 **#120**；少扩 BG/单店 Weber） | ⏳ → ✅ 见日志 |
 | **P0** | **Co-founder / 本机** | 说「**今天发**」15 封（Gmail 仅本机） | ⏳ |
 | ⏸️ | — | 不问叔叔；不切 Research Reset；#6/#17 Bounce 不自动补 | ✅ |
 
@@ -153,6 +153,7 @@
 
 | 日期 | 调度 | 任务 | 结果写回 |
 |------|------|------|----------|
+| 2026-07-26 | Sales 完成 | W3：对齐应发 #93–#98+#100–#108；+5 ICP #120–#124；未发信、未标 Contacted | `pipeline.md` 124 · `outreach-drafts.md` · `sales.md` · `today.md` done |
 | 2026-07-26 | Founder → Sales | W3：阶段保持 W3；P0 对齐应发 **#93–#98+#100–#108**；P1 +5 买家 #120+；Co-founder 本机「今天发」15；禁止 Gmail | `today.md` pending |
 | 2026-07-26 | Founder merge | **push 前合入 origin/main**：本机 Contacted SSOT 保留；云端 Day8–12 独有买家改号为 **#100–#119**；本机 ICP 保持 **#93–#99** | merge → push |
 | 2026-07-24 | Founder → Sales + 本机 | 补派今日；本机**直接发**跟进 #19–#33；Sales 续扩 #100+ | 本机跟进 ✅ 15/15 · Sales `today.md` 仍 pending |

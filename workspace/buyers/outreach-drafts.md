@@ -865,6 +865,286 @@ Export — YUEFU BBQ, Foshan, China
 
 ---
 
+## #100 Barbeques Galore Ballarat — 区域加盟
+
+> 2026-07-26 对齐 · franchise retail · **未发送** · 主题无 `$`
+
+**Subject:** Ballarat store — complementary ceramic kamado stock?
+
+Hi there,
+
+Your Ballarat Barbeques Galore already covers outdoor BBQ and living for regional VIC — asking whether a factory-direct ceramic kamado (beside existing charcoal/gas lines) would help customers who want low-and-slow.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a short 1-pager; say no and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #101 Barbeques Galore Shepparton — 区域加盟
+
+> 2026-07-26 对齐 · franchise retail · **未发送**
+
+**Subject:** Shepparton — ceramic kamado for your outdoor floor?
+
+Hi there,
+
+Shepparton already runs a full outdoor BBQ / living floor — wondering if a complementary ceramic charcoal kamado from Foshan would fit as another charcoal option for local buyers.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager; if not useful, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #102 Barbeques Galore Albury — 区域加盟
+
+> 2026-07-26 对齐 · franchise retail · **未发送**
+
+**Subject:** Albury store — ceramic kamado beside heaters/BBQ?
+
+Hi there,
+
+Albury already covers BBQ and wood heaters for the border region — asking whether a ceramic kamado SKU would sit usefully beside your current outdoor cooking range.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager; say no and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #103 Barbeques Galore Warrnambool — 区域加盟
+
+> 2026-07-26 对齐 · franchise retail · **未发送**
+
+**Subject:** Warrnambool — complementary ceramic kamado?
+
+Hi there,
+
+Your Warrnambool store already serves SW VIC outdoor buyers — I'm asking whether a factory-direct ceramic kamado would help as a charcoal specialty next to gas/outdoor living.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a short one-pager; if timing isn't right, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #104 Ipswich BBQs & Fireplaces — Weber Store group
+
+> 2026-07-26 对齐 · multi-store Weber group · **未发送** · 不同于 #63 Toowoomba
+
+**Subject:** Ipswich — ceramic kamado beside Weber/Traeger?
+
+Hi there,
+
+Ipswich BBQs & Fireplaces already runs Weber Store + Traeger/YETI for west Brisbane — asking whether a complementary ceramic kamado (factory-direct) would help customers who want a charcoal ceramic option.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager + landed sketch; say no and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #105 Barbeques Galore Mackay — 区域加盟
+
+> 2026-07-26 对齐 · franchise retail · **未发送**
+
+**Subject:** Mackay — ceramic kamado for North QLD outdoor buyers?
+
+Hi there,
+
+Mackay already covers BBQ / outdoor furniture for North QLD — wondering if a complementary ceramic charcoal kamado would fit your floor for customers chasing low-and-slow.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager; if not a fit, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #106 Barbeques Galore Wagga Wagga — 区域加盟
+
+> 2026-07-26 对齐 · franchise retail · **未发送** · 不同于 #34 Tackle World Wagga
+
+**Subject:** Wagga Galore — complementary ceramic kamado stock?
+
+Hi there,
+
+Your Wagga Barbeques Galore already serves Riverina outdoor living — asking whether a factory-direct ceramic kamado would sit usefully beside BBQ / heaters.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a short 1-pager; say no and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #107 Barbeques Galore Tamworth — 区域加盟（Kamado Joe signal）
+
+> 2026-07-26 对齐 · franchise retail · **未发送**
+
+**Subject:** Tamworth — second ceramic kamado line?
+
+Hi there,
+
+Tamworth already signals Traeger / Kamado Joe on the outdoor floor — asking whether a factory-direct ceramic kamado at a different price tier would help as a complementary charcoal option.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager; if not useful, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #108 Barbeques Galore Port Macquarie — 区域加盟
+
+> 2026-07-26 对齐 · franchise retail · **未发送**
+
+**Subject:** Port Macquarie — ceramic kamado for mid-north coast?
+
+Hi there,
+
+Port Macquarie already covers BBQ / outdoor living for the mid-north coast — wondering if a complementary ceramic charcoal kamado from Foshan would fit local demand.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager; say no and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #120 BBQ Creations — own-brand charcoal spit / portable
+
+> 2026-07-26 对齐 · ICP own-brand · **未发送**
+
+**Subject:** BBQ Creations — complementary ceramic kamado beside your charcoal range?
+
+Hi there,
+
+BBQ Creations already owns a strong AU charcoal spit / portable line — I'm not asking you to replace that. Asking whether a complementary ceramic kamado (OEM / private-label) would ever fit beside it for customers who want a larger backyard kamado.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager; say no and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #121 Cookout BBQs — AU manufacturer (Ormeau)
+
+> 2026-07-26 对齐 · ICP own-brand · **未发送**
+
+**Subject:** Cookout — complementary ceramic charcoal SKU?
+
+Hi there,
+
+Cookout already builds serious AU-made stainless BBQs — this isn't a replace-Cookout pitch. Asking whether a complementary ceramic charcoal kamado (OEM available) would help customers who want low-and-slow / smoke beside gas stainless.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a short one-pager; if timing isn't right, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #122 Lifestyle BBQs — Sydney AU manufacturer
+
+> 2026-07-26 对齐 · ICP own-brand · **未发送**
+
+**Subject:** Lifestyle BBQs — ceramic kamado beside outdoor kitchens?
+
+Hi there,
+
+Lifestyle BBQs already designs and manufactures AU outdoor kitchens / stainless BBQs from Sydney — asking whether a complementary ceramic kamado line (OEM / private-label) is ever on the radar for customers who want charcoal ceramic next to gas outdoor kitchens.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager; say no and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #123 Australian Charcoal Company — charcoal importer/distributor
+
+> 2026-07-26 对齐 · ICP distributor · **未发送**
+
+**Subject:** Australian Charcoal — complementary ceramic kamado for your network?
+
+Hi there,
+
+Australian Charcoal already sources and supplies premium BBQ charcoal nationally — a ceramic kamado could sit as an adjacent grill SKU for retailers/hospitality already buying fuel from you.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager + landed sketch; if not a fit, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #124 SMART-LINK Homewares — importer/wholesaler outdoor cooking
+
+> 2026-07-26 对齐 · ICP importer/distributor · **未发送**
+
+**Subject:** SMART-LINK — ceramic kamado for outdoor retail accounts?
+
+Hi there,
+
+SMART-LINK already imports and wholesales outdoor cooking / BBQ ranges to AU retailers — wondering if a factory-direct ceramic kamado would fit as another charcoal option for those same accounts.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager + landed sketch; say no and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
 ## 待补充草稿（Week 3）
 
-跟进稿由本机 `今天发` 现场写；新冷邮优先 **#93–#98**。跳过 #3/#13/#15；#17 Bounce 不自动改发。
+跟进稿由本机 `今天发` 现场写；新冷邮优先 **#93–#98 + #100–#108**（今日应发 15）。跳过 #3/#13/#15；#17 Bounce 不自动改发。余量 **#109–#119** 与新 ICP **#120–#124**。

@@ -129,6 +129,11 @@
 | 117 | Compleat Angler Bathurst | Australia | compleatanglerbathurst.com.au | Garth Collins | compleatangler@bathurst2795.net.au | — | Bathurst / Kelso outdoor store; fishing + camping + **Weber Specialist** / Yeti | Weber Specialist | Lead | — | contact-ready: B · channel: email · tel: 02 6358 0995 · 2026-07-25 Sales +5 · 合入自云端 Day8–12 原#110→#117（2026-07-26 merge） |
 | 118 | Oasis Outdoor Living | Australia | oasisoutdoorliving.com.au | — | sales@oasisoutdoorliving.com.au | — | Perth Midland **Weber Store**; outdoor furniture + alfresco kitchens + BBQ accessories | Weber Store | Lead | — | contact-ready: B · channel: email · tel: 08 9250 6262 · 2026-07-25 Sales +5 · ⚠️ 不同于 #27 The Outdoor Chef · 合入自云端 Day8–12 原#111→#118（2026-07-26 merge） |
 | 119 | Echuca Caravan & Outdoor | Australia | echucacaravan.com.au | — | info@echucacaravan.com.au | — | Echuca VIC caravan / outdoor retailer; **Weber Specialist** for Murray River region | Weber Specialist | Lead | — | contact-ready: B · channel: email · tel: 03 5480 3023 · 2026-07-25 Sales +5 · 合入自云端 Day8–12 原#112→#119（2026-07-26 merge） |
+| 120 | BBQ Creations | Australia | bbqcreations.com.au | Dale James (Founder/engineer signal) | sales@bbqcreations.com.au | — | **AU-owned charcoal spit / portable BBQ brand**; stocks own range + seeks stockists; Windsor VIC PO | Own charcoal spit / portable BBQ brand | Lead | — | contact-ready: B · channel: email · ICP: own-brand · 2026-07-26 Sales +5 |
+| 121 | Cookout BBQs | Australia | cookout.com.au | — | sales@cookout.com.au | — | **AU manufacturer** of premium stainless BBQs / outdoor cooking (Ormeau QLD, 25+ yrs); own brand nationwide | Own Cookout stainless BBQ brand | Lead | — | contact-ready: B · channel: email · tel: (07) 5549 0560 · ICP: own-brand · 2026-07-26 Sales +5 |
+| 122 | Lifestyle BBQs | Australia | lifestylebbqs.com | — | sales@lifestylebbqs.com | — | **Sydney AU manufacturer** of outdoor kitchens / stainless BBQs since 1976; factory-direct + custom alfresco | Own Lifestyle outdoor kitchen / BBQ brand | Lead | — | contact-ready: B · channel: email · tel: (02) 9773 8675 · ICP: own-brand · 2026-07-26 Sales +5 |
+| 123 | Australian Charcoal Company | Australia | austcharcoal.com.au | — | info@austcharcoal.com.au | — | **AU charcoal importer/distributor** supplying specialty/pro BBQ charcoal nationally (+ export network) | Charcoal fuel (no kamado yet) | Lead | — | contact-ready: B · channel: email · tel: 1300 313 389 · ICP: distributor · 2026-07-26 Sales +5 |
+| 124 | SMART-LINK Homewares | Australia | smartlinkhome.com.au | — | orders@smartlinkhome.com.au | — | **AU importer/wholesaler** of homewares + outdoor cooking / BBQ ranges to retailers (Chipping Norton NSW) | Outdoor cooking / BBQ wholesale | Lead | — | contact-ready: B · channel: email · tel: 02 9727 5080 · ICP: importer/distributor · 2026-07-26 Sales +5 |
 
 
 **字段说明：**
@@ -202,15 +207,15 @@
 
 ## 统计
 
-- Total buyers: **119**
-- Lead: **35**（可发有邮箱含 ICP #93–#98 + 云端合入 #100–#119；#99 无邮箱 C；跳过池 #3/#6/#13/#15/#17 Bounce×2/#46/#48/#52）
+- Total buyers: **124**
+- Lead: **40**（可发有邮箱含 ICP #93–#98 + #100–#119 + 新 ICP #120–#124；#99 无邮箱 C；跳过池 #3/#6/#13/#15/#17 Bounce×2/#46/#48/#52）
 - Contacted: **83**
 - Replied: **1**（#41 BBQ Republic · Martin）
 - Quoted: 0
 - Won: 0
 - 已联系累计: **84**（Contacted + Replied）
 
-*同步：2026-07-26 merge → `company/sales.md` · 保留本机 Contacted SSOT；合入云端独有买家为 #100–#119（原远端 #93–#112）*
+*同步：2026-07-26 Sales → `company/sales.md` · 未改 Contacted；+5 ICP #120–#124*
 
 ### 账本协调结论（2026-07-20）
 
@@ -221,15 +226,15 @@
 | **已合入** | 远端独有有邮箱买家 → 本机 **#80–#92**（13 家） |
 | **跳过合入** | Moore Park BBQs（无邮箱）；远端与本机重复的 Home Heat / Outdoor Cook / Toowoomba 变体 |
 
-**收集批次：** … · 2026-07-20（#65–#79 本机）· 2026-07-20 合入云端独有（#80–#92）
+**收集批次：** … · 2026-07-20（#65–#79 本机）· 2026-07-20 合入云端独有（#80–#92）· 2026-07-26 Sales +5（#120–#124）
 
-### 当前可发队列（2026-07-26 merge）
+### 当前可发队列（2026-07-26 Sales）
 
 | 项 | 说明 |
 |----|------|
 | 已完成跟进 | **#19–#33**（2026-07-24）|
 | 下一批跟进 | #34–#48（跳过无邮箱） |
-| 新可发冷邮（换画像优先） | **#93–#98**（ICP） |
-| 云端合入余量 | **#100–#119**（多为 BBQG 加盟/Weber 区域店；发信优先级低于 ICP） |
+| **今日应发冷邮（15）** | **#93–#98 + #100–#108** |
+| 发后余量 | **#109–#119** + 新 ICP **#120–#124** |
 | #99 Shriro | 无公开邮箱 · C |
 | 已联系累计 | **84 / 100** |
