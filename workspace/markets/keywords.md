@@ -43,6 +43,16 @@
 | 24 | "BBQ wholesaler" "ceramic smoker" Australia | Google | 找 BBQ 批发商 |
 | 25 | site:linkedin.com/company "BBQ" "Australia" "wholesale" | Google | 找 LinkedIn 公司页和采购线索 |
 
+## 轻量复核新增关键词（2026-07-26）
+
+| # | Keyword | 平台 | 用途 |
+|---|---------|------|------|
+| 26 | "kamado" "dealer network" Australia | Google | 找已有经销网络与可替代渠道 |
+| 27 | "ceramic charcoal grill" "trade" Australia | Google | 覆盖贸易/批发语境下的陶瓷炭烤炉 |
+| 28 | "outdoor BBQ supplier" "wholesale" Australia | Google | 找户外 BBQ 供应商批发页 |
+| 29 | site:linkedin.com/company "outdoor cooking" "Australia" "import" | Google | 找 LinkedIn 公司页中的进口/户外烹饪线索 |
+| 30 | "Big Green Egg" "alternative" "Australia" "dealer" | Google | 找竞品替代和经销商语境 |
+
 ## 行业专属（效率高于泛搜索）
 
 ```
