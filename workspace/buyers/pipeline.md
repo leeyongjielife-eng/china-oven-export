@@ -134,6 +134,11 @@
 | 122 | Lifestyle BBQs | Australia | lifestylebbqs.com | — | sales@lifestylebbqs.com | — | **Sydney AU manufacturer** of outdoor kitchens / stainless BBQs since 1976; factory-direct + custom alfresco | Own Lifestyle outdoor kitchen / BBQ brand | Lead | — | contact-ready: B · channel: email · tel: (02) 9773 8675 · ICP: own-brand · 2026-07-26 Sales +5 |
 | 123 | Australian Charcoal Company | Australia | austcharcoal.com.au | — | info@austcharcoal.com.au | — | **AU charcoal importer/distributor** supplying specialty/pro BBQ charcoal nationally (+ export network) | Charcoal fuel (no kamado yet) | Lead | — | contact-ready: B · channel: email · tel: 1300 313 389 · ICP: distributor · 2026-07-26 Sales +5 |
 | 124 | SMART-LINK Homewares | Australia | smartlinkhome.com.au | — | orders@smartlinkhome.com.au | — | **AU importer/wholesaler** of homewares + outdoor cooking / BBQ ranges to retailers (Chipping Norton NSW) | Outdoor cooking / BBQ wholesale | Lead | — | contact-ready: B · channel: email · tel: 02 9727 5080 · ICP: importer/distributor · 2026-07-26 Sales +5 |
+| 125 | FYR Republic | Australia | fyrrepublic.com.au | — | hello@fyrrepublic.com.au | — | **AU own-brand ceramic kamado** DTC + warehouse (Northgate QLD); complementary factory-direct ceramic line / OEM possible | Own FYR ceramic kamado | Lead | — | contact-ready: B · channel: email · ICP: own-brand · tel/warehouse: 16/853 Nudgee Rd Northgate QLD · 2026-07-27 Sales +5 |
+| 126 | Keverton Outdoor | Australia | kevertonoutdoor.com.au | — | info@kevertonoutdoor.com.au | — | Melbourne **exclusive AU distributor** for Saffire ceramic kamado + outdoor heating; trade/stockist network | Saffire Grills (kamado) | Lead | — | contact-ready: B · channel: email · ICP: distributor · tel: 03 9889 6542 · Camberwell VIC · 2026-07-27 Sales +5 |
+| 127 | Grandfire BBQs (Hauland) | Australia | grandfirebbqs.com.au | — | sales@grandfirebbqs.com.au | — | **AU outdoor kitchen / BBQ brand** with Grandfire Kamado + built-in grills; national dealer network (Hauland Pty Ltd) | Own Grandfire kamado / outdoor kitchens | Lead | — | contact-ready: B · channel: email · ICP: own-brand · tel: +61 3 9999 7431 · 2026-07-27 Sales +5 |
+| 128 | Artis Fireplaces | Australia | artisfireplaces.com.au | — | info@artisfireplaces.com.au | — | **AU wood-fired / outdoor cooking brand** with national dealer network; complementary ceramic charcoal kamado fit | Own Artis wood-fired range | Lead | — | contact-ready: B · channel: email · ICP: own-brand · tel: 1300 851 304 · 2026-07-27 Sales +5 |
+| 129 | ProQ BBQs & Smokers Australia | Australia | proqbbqsmokers.com.au | — | info@proqbbqsmokers.com.au | — | **AU importer/distributor** (Mac's BBQ Australia) of ProQ smokers / charcoal BBQ; dealer program nationally | ProQ smokers | Lead | — | contact-ready: B · channel: email · ICP: importer/distributor · tel: 1800 953 669 · Charlestown NSW · 2026-07-27 Sales +5 |
 
 
 **字段说明：**
@@ -207,15 +212,15 @@
 
 ## 统计
 
-- Total buyers: **124**
-- Lead: **40**（可发有邮箱含 ICP #93–#98 + #100–#119 + 新 ICP #120–#124；#99 无邮箱 C；跳过池 #3/#6/#13/#15/#17 Bounce×2/#46/#48/#52）
+- Total buyers: **129**
+- Lead: **45**（可发有邮箱含 ICP #93–#98 + #100–#124 + 新 ICP #125–#129；#99 无邮箱 C；跳过池 #3/#6/#13/#15/#17 Bounce×2/#46/#48/#52）
 - Contacted: **83**
 - Replied: **1**（#41 BBQ Republic · Martin）
 - Quoted: 0
 - Won: 0
 - 已联系累计: **84**（Contacted + Replied）
 
-*同步：2026-07-26 Sales → `company/sales.md` · 未改 Contacted；+5 ICP #120–#124*
+*同步：2026-07-27 Sales → `company/sales.md` · 未改 Contacted；+5 ICP #125–#129；对齐应发 #93–#98+#100–#108；补草稿 #109–#119*
 
 ### 账本协调结论（2026-07-20）
 
@@ -226,15 +231,15 @@
 | **已合入** | 远端独有有邮箱买家 → 本机 **#80–#92**（13 家） |
 | **跳过合入** | Moore Park BBQs（无邮箱）；远端与本机重复的 Home Heat / Outdoor Cook / Toowoomba 变体 |
 
-**收集批次：** … · 2026-07-20（#65–#79 本机）· 2026-07-20 合入云端独有（#80–#92）· 2026-07-26 Sales +5（#120–#124）
+**收集批次：** … · 2026-07-20（#65–#79 本机）· 2026-07-20 合入云端独有（#80–#92）· 2026-07-26 Sales +5（#120–#124）· 2026-07-27 Sales +5（#125–#129）
 
-### 当前可发队列（2026-07-26 Sales）
+### 当前可发队列（2026-07-27 Sales）
 
 | 项 | 说明 |
 |----|------|
 | 已完成跟进 | **#19–#33**（2026-07-24）|
 | 下一批跟进 | #34–#48（跳过无邮箱） |
-| **今日应发冷邮（15）** | **#93–#98 + #100–#108** |
-| 发后余量 | **#109–#119** + 新 ICP **#120–#124** |
+| **今日应发冷邮（15）** | **#93–#98 + #100–#108**（昨日未投递，仍 Lead） |
+| 发后余量 | **#109–#124** + 新 ICP **#125–#129** |
 | #99 Shriro | 无公开邮箱 · C |
 | 已联系累计 | **84 / 100** |
