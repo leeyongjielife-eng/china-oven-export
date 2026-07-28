@@ -741,7 +741,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #93 Seabreeze Supply Co — Traeger AU distributor
 
-> 2026-07-23 对齐 · ICP distributor · **未发送** · 主题无 `$`
+> 2026-07-28 复核 · ICP distributor · **未发送** · 主题无 `$` · 今日应发批
 
 **Subject:** Seabreeze — complementary ceramic kamado for your retailers?
 
@@ -1027,7 +1027,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #108 Barbeques Galore Port Macquarie — 区域加盟
 
-> 2026-07-27 复核 · franchise retail · **未发送** · 今日应发批
+> 2026-07-28 复核 · franchise retail · **未发送** · 今日应发批
 
 **Subject:** Port Macquarie — ceramic kamado for mid-north coast?
 
@@ -1465,6 +1465,106 @@ Export — YUEFU BBQ, Foshan, China
 
 ---
 
+## #130 Greenplate — own-brand commercial electric/solar BBQ
+
+> 2026-07-28 新草稿 · ICP own-brand · **未发送**
+
+**Subject:** Greenplate — complementary ceramic charcoal kamado?
+
+Hi there,
+
+Greenplate already leads AU commercial electric / solar public BBQ manufacture — this isn't a replace-electric pitch. Asking whether a complementary ceramic charcoal kamado (OEM available) could sit beside your outdoor cooking portfolio for parks/resorts or export partners who want charcoal.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager; if not a fit, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #131 The Fire Pit Co — own-brand flat-pack fire pits / BBQ kits
+
+> 2026-07-28 新草稿 · ICP own-brand · **未发送**
+
+**Subject:** Fire Pit Co — complementary ceramic kamado / OEM?
+
+Hi there,
+
+The Fire Pit Co already manufactures AU flat-pack fire pits and BBQ kits with a wholesale/stockist program — wondering if a complementary ceramic charcoal kamado (OEM / private-label) would help expand the cooking range for stockists.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a short one-pager; say no and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #132 HiBBQ — charcoal / portable BBQ importer
+
+> 2026-07-28 新草稿 · ICP importer/distributor · **未发送**
+
+**Subject:** HiBBQ — ceramic kamado beside your charcoal range?
+
+Hi there,
+
+HiBBQ already imports commercial charcoal and portable BBQ gear into AU wholesale/retail — a ceramic kamado could sit as a higher-ticket charcoal grill SKU for accounts already buying fuel and portable grills.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager + landed sketch; if timing isn't right, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #133 BlueTongue BBQs — own-brand ChefMaster outdoor kitchens
+
+> 2026-07-28 新草稿 · ICP own-brand · **未发送**
+
+**Subject:** BlueTongue / ChefMaster — complementary ceramic kamado?
+
+Hi there,
+
+BlueTongue already builds ChefMaster stainless BBQs and outdoor kitchen combos for AU buyers — asking whether a complementary ceramic charcoal kamado (OEM available) would help fill a charcoal SKU beside gas/stainless.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager; say no and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #134 Exim International (Napoleon AU) — distributor
+
+> 2026-07-28 新草稿 · ICP distributor · **未发送**
+
+**Subject:** Exim / Napoleon AU — complementary ceramic kamado?
+
+Hi there,
+
+Exim already imports and supports Napoleon Grills across AU — I'm not asking you to touch that gas/premium line. Idea: a complementary ceramic charcoal kamado SKU for dealers who want a charcoal option beside Napoleon.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager + landed sketch; if not useful, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
 ## 待补充草稿（Week 3）
 
-跟进稿由本机 `今天发` 现场写；新冷邮优先 **#93–#98 + #100–#108**（今日应发 15 · 昨日未投递）。跳过 #3/#13/#15；#17 Bounce 不自动改发。余量 **#109–#124** + 新 ICP **#125–#129**。
+跟进稿由本机 `今天发` 现场写；新冷邮优先 **#93–#98 + #100–#108**（今日应发 15 · 仍 Lead 同批续发）。跳过 #3/#13/#15；#17 Bounce 不自动改发。余量 **#109–#129** + 新 ICP **#130–#134**。

@@ -139,6 +139,11 @@
 | 127 | Grandfire BBQs (Hauland) | Australia | grandfirebbqs.com.au | — | sales@grandfirebbqs.com.au | — | **AU outdoor kitchen / BBQ brand** with Grandfire Kamado + built-in grills; national dealer network (Hauland Pty Ltd) | Own Grandfire kamado / outdoor kitchens | Lead | — | contact-ready: B · channel: email · ICP: own-brand · tel: +61 3 9999 7431 · 2026-07-27 Sales +5 |
 | 128 | Artis Fireplaces | Australia | artisfireplaces.com.au | — | info@artisfireplaces.com.au | — | **AU wood-fired / outdoor cooking brand** with national dealer network; complementary ceramic charcoal kamado fit | Own Artis wood-fired range | Lead | — | contact-ready: B · channel: email · ICP: own-brand · tel: 1300 851 304 · 2026-07-27 Sales +5 |
 | 129 | ProQ BBQs & Smokers Australia | Australia | proqbbqsmokers.com.au | — | info@proqbbqsmokers.com.au | — | **AU importer/distributor** (Mac's BBQ Australia) of ProQ smokers / charcoal BBQ; dealer program nationally | ProQ smokers | Lead | — | contact-ready: B · channel: email · ICP: importer/distributor · tel: 1800 953 669 · Charlestown NSW · 2026-07-27 Sales +5 |
+| 130 | Greenplate | Australia | greenplate.com.au | — | info@greenplate.com.au | — | **AU-owned manufacturer** of commercial electric / solar public BBQs (Capalaba QLD); ISO 9001; national + export distributors | Own Greenplate commercial electric/solar BBQ | Lead | — | contact-ready: B · channel: email · ICP: own-brand · tel: +61 7 3245 3008 · 2026-07-28 Sales +5 |
+| 131 | The Fire Pit Co | Australia | thefirepitco.com.au | — | sales@thefirepitco.com.au | — | **AU manufacturer** of flat-pack fire pits / BBQ kits + spit accessories; wholesale / OEM / stockist program | Own flat-pack fire pit / BBQ kits | Lead | — | contact-ready: B · channel: email · ICP: own-brand · tel: 1800 443 709 · 2026-07-28 Sales +5 |
+| 132 | HiBBQ | Australia | hibbq.com.au | — | hi.bbq@outlook.com | — | **NSW trading importer/wholesaler** of commercial bamboo charcoal, portable BBQ grills, wood stoves to AU retail/wholesale | Charcoal / portable BBQ import | Lead | — | contact-ready: B · channel: email · ICP: importer/distributor · 2026-07-28 Sales +5 |
+| 133 | BlueTongue BBQs (OzOutdoors) | Australia | bluetonguebbqs.com.au | — | ozoutdoors@ozemail.com.au | — | **AU own-brand ChefMaster** stainless BBQs / outdoor kitchens (Sunshine Coast); nationwide delivery + display centres | Own ChefMaster stainless BBQ / outdoor kitchens | Lead | — | contact-ready: B · channel: email · ICP: own-brand · tel: 1300 943 488 / 0414 717 535 · 2026-07-28 Sales +5 |
+| 134 | Exim International (Napoleon AU) | Australia | napoleongrills.com.au | — | info@napoleongrills.com.au | — | **AU importer/distributor** for Napoleon Grills (Exim International; Luscombe/Arundel QLD) | Napoleon Grills | Lead | — | contact-ready: B · channel: email · ICP: distributor · tel: 1300 361 557 · 2026-07-28 Sales +5 |
 
 
 **字段说明：**
@@ -212,15 +217,15 @@
 
 ## 统计
 
-- Total buyers: **129**
-- Lead: **45**（可发有邮箱含 ICP #93–#98 + #100–#124 + 新 ICP #125–#129；#99 无邮箱 C；跳过池 #3/#6/#13/#15/#17 Bounce×2/#46/#48/#52）
+- Total buyers: **134**
+- Lead: **50**（可发有邮箱含 ICP #93–#98 + #100–#129 + 新 ICP #130–#134；#99 无邮箱 C；跳过池 #3/#6/#13/#15/#17 Bounce×2/#46/#48/#52）
 - Contacted: **83**
 - Replied: **1**（#41 BBQ Republic · Martin）
 - Quoted: 0
 - Won: 0
 - 已联系累计: **84**（Contacted + Replied）
 
-*同步：2026-07-27 Sales → `company/sales.md` · 未改 Contacted；+5 ICP #125–#129；对齐应发 #93–#98+#100–#108；补草稿 #109–#119*
+*同步：2026-07-28 Sales → `company/sales.md` · 未改 Contacted；+5 ICP #130–#134；对齐应发 #93–#98+#100–#108（同批续）*
 
 ### 账本协调结论（2026-07-20）
 
@@ -231,15 +236,15 @@
 | **已合入** | 远端独有有邮箱买家 → 本机 **#80–#92**（13 家） |
 | **跳过合入** | Moore Park BBQs（无邮箱）；远端与本机重复的 Home Heat / Outdoor Cook / Toowoomba 变体 |
 
-**收集批次：** … · 2026-07-20（#65–#79 本机）· 2026-07-20 合入云端独有（#80–#92）· 2026-07-26 Sales +5（#120–#124）· 2026-07-27 Sales +5（#125–#129）
+**收集批次：** … · 2026-07-20（#65–#79 本机）· 2026-07-20 合入云端独有（#80–#92）· 2026-07-26 Sales +5（#120–#124）· 2026-07-27 Sales +5（#125–#129）· 2026-07-28 Sales +5（#130–#134）
 
-### 当前可发队列（2026-07-27 Sales）
+### 当前可发队列（2026-07-28 Sales）
 
 | 项 | 说明 |
 |----|------|
 | 已完成跟进 | **#19–#33**（2026-07-24）|
 | 下一批跟进 | #34–#48（跳过无邮箱） |
-| **今日应发冷邮（15）** | **#93–#98 + #100–#108**（昨日未投递，仍 Lead） |
-| 发后余量 | **#109–#124** + 新 ICP **#125–#129** |
+| **今日应发冷邮（15）** | **#93–#98 + #100–#108**（仍 Lead · 同批续发） |
+| 发后余量 | **#109–#129** + 新 ICP **#130–#134** |
 | #99 Shriro | 无公开邮箱 · C |
 | 已联系累计 | **84 / 100** |
