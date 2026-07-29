@@ -741,7 +741,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #93 Seabreeze Supply Co — Traeger AU distributor
 
-> 2026-07-28 复核 · ICP distributor · **未发送** · 主题无 `$` · 今日应发批
+> 2026-07-29 复核 · ICP distributor · **未发送** · 主题无 `$` · 今日应发批
 
 **Subject:** Seabreeze — complementary ceramic kamado for your retailers?
 
@@ -761,7 +761,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #94 Sitro Group Australia — Gasmate / Char-Broil wholesale
 
-> 2026-07-23 对齐 · ICP importer/distributor · **未发送**
+> 2026-07-29 对齐 · ICP importer/distributor · **未发送** · 今日应发批 · 主题无 `$`
 
 **Subject:** Sitro — ceramic kamado for your outdoor retail network?
 
@@ -781,7 +781,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #95 Ziegler & Brown — own brand (Ziggy)
 
-> 2026-07-23 对齐 · ICP own-brand · **未发送**
+> 2026-07-29 对齐 · ICP own-brand · **未发送** · 今日应发批 · 主题无 `$`
 
 **Subject:** Ziegler & Brown — complementary ceramic kamado under your brand?
 
@@ -801,7 +801,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #96 Heatlie BBQs — AU manufacturer
 
-> 2026-07-23 对齐 · ICP own-brand · **未发送**
+> 2026-07-29 对齐 · ICP own-brand · **未发送** · 今日应发批 · 主题无 `$`
 
 **Subject:** Heatlie — complementary ceramic charcoal SKU?
 
@@ -821,7 +821,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #97 Adventure Operations (Ozpig) — outdoor wholesale
 
-> 2026-07-23 对齐 · ICP distributor/own-brand · **未发送**
+> 2026-07-29 对齐 · ICP distributor/own-brand · **未发送** · 今日应发批 · 主题无 `$`
 
 **Subject:** Adventure Operations — ceramic kamado beside Ozpig?
 
@@ -841,7 +841,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #98 Everdure by Heston — own brand charcoal/gas
 
-> 2026-07-23 对齐 · ICP own-brand · **未发送**
+> 2026-07-29 对齐 · ICP own-brand · **未发送** · 今日应发批 · 主题无 `$`
 
 **Subject:** Everdure — complementary ceramic kamado line?
 
@@ -867,7 +867,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #100 Barbeques Galore Ballarat — 区域加盟
 
-> 2026-07-26 对齐 · franchise retail · **未发送** · 主题无 `$`
+> 2026-07-29 对齐 · franchise retail · **未发送** · 主题无 `$` · 今日应发批
 
 **Subject:** Ballarat store — complementary ceramic kamado stock?
 
@@ -887,7 +887,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #101 Barbeques Galore Shepparton — 区域加盟
 
-> 2026-07-26 对齐 · franchise retail · **未发送**
+> 2026-07-29 对齐 · franchise retail · **未发送** · 今日应发批 · 主题无 `$`
 
 **Subject:** Shepparton — ceramic kamado for your outdoor floor?
 
@@ -907,7 +907,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #102 Barbeques Galore Albury — 区域加盟
 
-> 2026-07-26 对齐 · franchise retail · **未发送**
+> 2026-07-29 对齐 · franchise retail · **未发送** · 今日应发批 · 主题无 `$`
 
 **Subject:** Albury store — ceramic kamado beside heaters/BBQ?
 
@@ -927,7 +927,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #103 Barbeques Galore Warrnambool — 区域加盟
 
-> 2026-07-26 对齐 · franchise retail · **未发送**
+> 2026-07-29 对齐 · franchise retail · **未发送** · 今日应发批 · 主题无 `$`
 
 **Subject:** Warrnambool — complementary ceramic kamado?
 
@@ -947,7 +947,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #104 Ipswich BBQs & Fireplaces — Weber Store group
 
-> 2026-07-26 对齐 · multi-store Weber group · **未发送** · 不同于 #63 Toowoomba
+> 2026-07-29 对齐 · multi-store Weber group · **未发送** · 不同于 #63 Toowoomba · 今日应发批 · 主题无 `$`
 
 **Subject:** Ipswich — ceramic kamado beside Weber/Traeger?
 
@@ -967,7 +967,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #105 Barbeques Galore Mackay — 区域加盟
 
-> 2026-07-26 对齐 · franchise retail · **未发送**
+> 2026-07-29 对齐 · franchise retail · **未发送** · 今日应发批 · 主题无 `$`
 
 **Subject:** Mackay — ceramic kamado for North QLD outdoor buyers?
 
@@ -987,7 +987,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #106 Barbeques Galore Wagga Wagga — 区域加盟
 
-> 2026-07-26 对齐 · franchise retail · **未发送** · 不同于 #34 Tackle World Wagga
+> 2026-07-29 对齐 · franchise retail · **未发送** · 不同于 #34 Tackle World Wagga · 今日应发批 · 主题无 `$`
 
 **Subject:** Wagga Galore — complementary ceramic kamado stock?
 
@@ -1007,7 +1007,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #107 Barbeques Galore Tamworth — 区域加盟（Kamado Joe signal）
 
-> 2026-07-26 对齐 · franchise retail · **未发送**
+> 2026-07-29 对齐 · franchise retail · **未发送** · 今日应发批 · 主题无 `$`
 
 **Subject:** Tamworth — second ceramic kamado line?
 
@@ -1027,7 +1027,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #108 Barbeques Galore Port Macquarie — 区域加盟
 
-> 2026-07-28 复核 · franchise retail · **未发送** · 今日应发批
+> 2026-07-29 复核 · franchise retail · **未发送** · 今日应发批 · 主题无 `$`
 
 **Subject:** Port Macquarie — ceramic kamado for mid-north coast?
 
@@ -1565,6 +1565,107 @@ Export — YUEFU BBQ, Foshan, China
 
 ---
 
+
+## #135 Heat Beads (Australian Char) — charcoal manufacturer / stockist network
+
+> 2026-07-29 新草稿 · ICP distributor/own-brand · **未发送**
+
+**Subject:** Heat Beads — complementary ceramic kamado beside your fuel network?
+
+Hi there,
+
+Heat Beads already fuels serious charcoal cooks across AU through a national stockist network — a ceramic kamado could sit as a complementary charcoal grill SKU for retailers already selling Heat Beads.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager + landed sketch; if timing isn't right, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #136 PARKQUIP — commercial outdoor BBQ manufacturer
+
+> 2026-07-29 新草稿 · ICP own-brand · **未发送**
+
+**Subject:** PARKQUIP — complementary ceramic charcoal kamado?
+
+Hi there,
+
+PARKQUIP already builds commercial outdoor BBQs for parks and multi-res projects across AU — this isn't a replace-PARKQUIP pitch. Asking whether a complementary ceramic charcoal kamado (OEM available) could fit resort / hospitality / export clients who want charcoal.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a short one-pager; say no and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #137 Grillo Outdoor Kitchens — own-brand Gusto kamado
+
+> 2026-07-29 新草稿 · ICP own-brand · **未发送**
+
+**Subject:** Grillo — complementary ceramic kamado / OEM beside Gusto?
+
+Hi there,
+
+Grillo already designs AU outdoor kitchens with your own Gusto kamado — I'm not asking to replace that line. Idea: a complementary factory-direct ceramic charcoal option (OEM / private-label) for trade projects at a different tier.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager; if not a fit, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #138 Crossray BBQ — own-brand infrared / outdoor kitchens
+
+> 2026-07-29 新草稿 · ICP own-brand · **未发送**
+
+**Subject:** Crossray — complementary ceramic charcoal kamado?
+
+Hi there,
+
+Crossray already covers infrared and outdoor kitchen BBQs for AU builders and retail — asking whether a complementary ceramic charcoal kamado (OEM available) would help fill a charcoal SKU beside infrared/gas.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager; say no and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #139 Firehawk Grills — own-brand kamado / pellet
+
+> 2026-07-29 新草稿 · ICP own-brand · **未发送**
+
+**Subject:** Firehawk — complementary ceramic kamado SKU / OEM?
+
+Hi there,
+
+Firehawk already runs an AU kamado + pellet line through Barbeques Galore — this isn't a replace-Firehawk pitch. Asking whether a complementary factory-direct ceramic charcoal option (OEM available) would help expand the charcoal assortment at a different price tier.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a short one-pager; if not useful, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
 ## 待补充草稿（Week 3）
 
-跟进稿由本机 `今天发` 现场写；新冷邮优先 **#93–#98 + #100–#108**（今日应发 15 · 仍 Lead 同批续发）。跳过 #3/#13/#15；#17 Bounce 不自动改发。余量 **#109–#129** + 新 ICP **#130–#134**。
+跟进稿由本机 `今天发` 现场写；新冷邮优先 **#93–#98 + #100–#108**（今日应发 15 · 仍 Lead 同批续发）。跳过 #3/#13/#15；#17 Bounce 不自动改发。余量 **#109–#134** + 新 ICP **#135–#139**。
