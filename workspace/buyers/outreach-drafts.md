@@ -1047,7 +1047,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #109 Barbeques Galore Nowra — 区域加盟
 
-> 2026-07-27 补草稿 · franchise retail · **未发送**
+> 2026-07-30 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
 
 **Subject:** Nowra — complementary ceramic kamado for South Coast?
 
@@ -1067,7 +1067,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #110 Barbeques Galore Bundaberg — 区域加盟
 
-> 2026-07-27 补草稿 · franchise retail · **未发送**
+> 2026-07-30 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
 
 **Subject:** Bundaberg — ceramic kamado for Wide Bay outdoor buyers?
 
@@ -1087,7 +1087,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #111 Barbeques Galore Lismore — 区域加盟
 
-> 2026-07-27 补草稿 · franchise retail · **未发送**
+> 2026-07-30 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
 
 **Subject:** Lismore — second ceramic kamado option?
 
@@ -1107,7 +1107,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #112 Barbeques Galore Townsville — 区域加盟
 
-> 2026-07-27 补草稿 · franchise retail · **未发送**
+> 2026-07-30 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
 
 **Subject:** Townsville — ceramic kamado for Nth QLD?
 
@@ -1127,7 +1127,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #113 Barbeques Galore Hervey Bay — 区域加盟
 
-> 2026-07-27 补草稿 · franchise retail · **未发送**
+> 2026-07-30 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
 
 **Subject:** Hervey Bay — complementary ceramic charcoal kamado?
 
@@ -1147,7 +1147,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #114 Barbeques Galore Ballina — 区域加盟
 
-> 2026-07-27 补草稿 · franchise retail · **未发送**
+> 2026-07-30 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
 
 **Subject:** Ballina — ceramic kamado for North Coast outdoor?
 
@@ -1167,7 +1167,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #115 Gladstone Camping Centre — Weber Specialist / Traeger
 
-> 2026-07-27 补草稿 · regional specialty · **未发送**
+> 2026-07-30 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
 
 **Subject:** Gladstone Camping — complementary ceramic kamado beside Weber/Traeger?
 
@@ -1187,7 +1187,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #116 Austrek Outdoor Adventure Centre — Mildura Weber stockist
 
-> 2026-07-27 补草稿 · regional specialty · **未发送**
+> 2026-07-30 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
 
 **Subject:** Austrek — ceramic kamado for Sunraysia outdoor buyers?
 
@@ -1207,7 +1207,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #117 Compleat Angler Bathurst — Weber Specialist
 
-> 2026-07-27 补草稿 · regional specialty · **未发送**
+> 2026-07-30 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
 
 **Subject:** Compleat Angler Bathurst — complementary ceramic kamado?
 
@@ -1227,7 +1227,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #118 Oasis Outdoor Living — Perth Midland Weber Store
 
-> 2026-07-27 补草稿 · Weber Store · **未发送**
+> 2026-07-30 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
 
 **Subject:** Oasis Outdoor Living — ceramic kamado beside Weber alfresco?
 
@@ -1247,7 +1247,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #119 Echuca Caravan & Outdoor — Weber Specialist
 
-> 2026-07-27 补草稿 · regional specialty · **未发送**
+> 2026-07-30 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
 
 **Subject:** Echuca Caravan — ceramic kamado for Murray River buyers?
 
@@ -1267,7 +1267,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #120 BBQ Creations — own-brand charcoal spit / portable
 
-> 2026-07-26 对齐 · ICP own-brand · **未发送**
+> 2026-07-30 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
 
 **Subject:** BBQ Creations — complementary ceramic kamado beside your charcoal range?
 
@@ -1287,7 +1287,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #121 Cookout BBQs — AU manufacturer (Ormeau)
 
-> 2026-07-26 对齐 · ICP own-brand · **未发送**
+> 2026-07-30 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
 
 **Subject:** Cookout — complementary ceramic charcoal SKU?
 
@@ -1307,7 +1307,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #122 Lifestyle BBQs — Sydney AU manufacturer
 
-> 2026-07-26 对齐 · ICP own-brand · **未发送**
+> 2026-07-30 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
 
 **Subject:** Lifestyle BBQs — ceramic kamado beside outdoor kitchens?
 
@@ -1327,7 +1327,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #123 Australian Charcoal Company — charcoal importer/distributor
 
-> 2026-07-26 对齐 · ICP distributor · **未发送**
+> 2026-07-30 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
 
 **Subject:** Australian Charcoal — complementary ceramic kamado for your network?
 
@@ -1666,6 +1666,107 @@ Export — YUEFU BBQ, Foshan, China
 
 ---
 
+
+## #140 Christie Barbecues — commercial park BBQ manufacturer
+
+> 2026-07-30 新草稿 · ICP own-brand · **未发送**
+
+**Subject:** Christie — complementary ceramic charcoal kamado for hospitality projects?
+
+Hi Alex,
+
+Christie already sets the standard for AU public / park commercial BBQs — this isn't a replace-Christie pitch. Asking whether a complementary ceramic charcoal kamado (OEM available) could fit hospitality / resort / export clients who want charcoal flavour beside gas/electric cooktops.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a short one-pager; say no and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #141 BBQ Ovens — European woodfire / spit importer
+
+> 2026-07-30 新草稿 · ICP importer · **未发送**
+
+**Subject:** BBQ Ovens — complementary ceramic kamado beside woodfire / spit range?
+
+Hi Chris,
+
+BBQ Ovens already imports European woodfire ovens and spit systems into AU — asking whether a factory-direct ceramic charcoal kamado would complement the charcoal / solid-fuel side of the range for residential and hospitality kitchens.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager; if timing isn't right, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #142 Perth Outdoor Kitchens — WA outdoor kitchen / kamado dealer
+
+> 2026-07-30 新草稿 · ICP outdoor-kitchen dealer · **未发送**
+
+**Subject:** Perth Outdoor Kitchens — complementary ceramic kamado for WA projects?
+
+Hi there,
+
+Perth Outdoor Kitchens already designs outdoor kitchens with Grandfire built-in and kamado options — this isn't a replace-Grandfire pitch. Asking whether a complementary factory-direct ceramic charcoal line (OEM available) would help at a different price tier for Perth/Peel projects.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager; say no and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #143 WillBBQ — charcoal hibachi importer / own brand
+
+> 2026-07-30 新草稿 · ICP own-brand/importer · **未发送**
+
+**Subject:** WillBBQ — complementary ceramic kamado beside hibachi charcoal line?
+
+Hi there,
+
+WillBBQ already brings charcoal hibachi and portable charcoal grills to AU cooks — asking whether a complementary ceramic charcoal kamado (OEM available) would expand the charcoal assortment beyond hibachi for backyard and catering buyers.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a short one-pager; if not a fit, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #144 Naara Charcoal — charcoal manufacturer / distributor
+
+> 2026-07-30 新草稿 · ICP distributor · **未发送**
+
+**Subject:** Naara Charcoal — complementary ceramic kamado beside your fuel network?
+
+Hi there,
+
+Naara already supplies premium charcoal across AU retail and commercial channels — a ceramic kamado could sit as a complementary charcoal grill SKU for partners already selling Naara fuel.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager + landed sketch; if timing isn't right, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
 ## 待补充草稿（Week 3）
 
-跟进稿由本机 `今天发` 现场写；新冷邮优先 **#93–#98 + #100–#108**（今日应发 15 · 仍 Lead 同批续发）。跳过 #3/#13/#15；#17 Bounce 不自动改发。余量 **#109–#134** + 新 ICP **#135–#139**。
+跟进稿由本机 `今天发` 现场写；新冷邮优先 **#109–#123**（今日应发 15）。跳过 #3/#13/#15；#17 Bounce 不自动改发。余量 **#124–#139** + 新 ICP **#140–#144**。
