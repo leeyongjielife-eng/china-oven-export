@@ -154,6 +154,11 @@
 | 142 | Perth Outdoor Kitchens | Australia | perthoutdoorkitchens.com.au | — | info@perthoutdoorkitchens.com.au | — | **WA outdoor kitchen design/install** (Perth/Peel); carries Grandfire built-in + **kamado series** — complementary factory-direct ceramic line fit | Grandfire kamado / outdoor kitchens | Lead | — | contact-ready: B · channel: email · ICP: outdoor-kitchen dealer · tel: 0406 727 115 · 2026-07-30 Sales +5 |
 | 143 | WillBBQ | Australia | willbbq.com.au | — | support@willbbq.com.au | — | **Melbourne charcoal hibachi / portable BBQ importer-retailer** (own WillBBQ line + Willkon camping); Channel 7 featured; nationwide shipping | Own WillBBQ charcoal hibachi | Lead | — | contact-ready: B · channel: email · ICP: own-brand/importer · tel: (03) 9708 8520 / 0433 579 884 · 2026-07-30 Sales +5 |
 | 144 | Naara Charcoal | Australia | naaracharcoal.com.au | — | info@naaracharcoal.com.au | — | **AU charcoal manufacturer/distributor** (Craigieburn VIC); BBQ + commercial supply network — complementary ceramic charcoal kamado beside fuel ecosystem | Naara charcoal fuel (no kamado yet) | Lead | — | contact-ready: B · channel: email · ICP: distributor · tel: 1300 424 272 · 2026-07-30 Sales +5 |
+| 145 | ADBO WORLD | Australia | adboworld.au | — | info@adboworld.com | — | **AU own-brand outdoor kitchen / BBQ grill supplier** (ABN 25 650 367 972); residential outdoor kitchen packages + BBQ grill heads nationwide — complementary ceramic charcoal kamado fit | Own ADBO outdoor kitchen / BBQ | Lead | — | contact-ready: B · channel: email · ICP: own-brand · 2026-07-31 Sales +5 |
+| 146 | Konoba BBQ | Australia | konoba.com.au | — | sales@konoba.com.au | — | **AU own-brand Argentine / Uruguay-style outdoor grill brand** (Melton VIC warehouse); growing reseller network — complementary ceramic charcoal kamado for charcoal assortment | Own Konoba Argentine/outdoor grill | Lead | — | contact-ready: B · channel: email · ICP: own-brand · tel: 0403 264 298 / 0417 300 320 · 2026-07-31 Sales +5 |
+| 147 | Polito Wood Fire Ovens | Australia | politowoodfireovens.com.au | — | sales@politowoodfireovens.com.au | — | **AU-made wood-fire oven manufacturer** (Thomastown VIC); alfresco pizza/roast ovens AU-wide — complementary ceramic charcoal kamado beside wood-fire line | Own Polito wood-fire ovens | Lead | — | contact-ready: B · channel: email · ICP: own-brand · tel: 03 9460 6808 · 2026-07-31 Sales +5 |
+| 148 | All Char Trading (Nature Flame) | Australia | allchartrading.com.au | Tom | tom@allchartrading.com | — | **AU charcoal distributor** (Moorebank NSW, since 1990); Nature Flame hospitality charcoal nationwide + NZ — complementary ceramic charcoal kamado beside fuel ecosystem | Nature Flame charcoal fuel (no kamado yet) | Lead | — | contact-ready: B · channel: email · ICP: distributor · also info@natureflame.com.au · tel: 0419 275 114 · 2026-07-31 Sales +5 |
+| 149 | Creative Pizza Ovens | Australia | creativepizzaovens.com.au | — | info@creativepizzaovens.com.au | — | **AU wood-fired pizza oven brand** with DIY kits + franchise outdoor cooking offer — complementary factory-direct ceramic charcoal kamado for alfresco charcoal side | Own Creative Pizza wood-fired ovens | Lead | — | contact-ready: B · channel: email · ICP: own-brand · tel: 0437 139 819 · 2026-07-31 Sales +5 |
 
 **字段说明：**
 
@@ -226,15 +231,15 @@
 
 ## 统计
 
-- Total buyers: **144**
-- Lead: **45**（含未发冷邮余量；#99 无邮箱 C；跳过池 #3/#6/#13/#15/#17 Bounce×2/#46/#48/#52）
+- Total buyers: **149**
+- Lead: **50**（含未发冷邮余量；#99 无邮箱 C；跳过池 #3/#6/#13/#15/#17 Bounce×2/#46/#48/#52）
 - Contacted: **98**
 - Replied: **1**（#41 BBQ Republic · Martin）
 - Quoted: 0
 - Won: 0
 - 已联系累计: **99**（Contacted + Replied）
 
-*同步：2026-07-30 Sales · +5 ICP #140–#144 · 今日应发冷邮 #109–#123 · Contacted 98 · 已联系 99*
+*同步：2026-07-31 Sales · +5 ICP #145–#149 · 今日应发冷邮 #109–#123 · Contacted 98 · 已联系 99*
 
 ### 账本协调结论（2026-07-20）
 
@@ -245,15 +250,15 @@
 | **已合入** | 远端独有有邮箱买家 → 本机 **#80–#92**（13 家） |
 | **跳过合入** | Moore Park BBQs（无邮箱）；远端与本机重复的 Home Heat / Outdoor Cook / Toowoomba 变体 |
 
-**收集批次：** … · 2026-07-20（#65–#79 本机）· 2026-07-20 合入云端独有（#80–#92）· 2026-07-26 Sales +5（#120–#124）· 2026-07-27 Sales +5（#125–#129）· 2026-07-28 Sales +5（#130–#134）· 2026-07-29 Sales +5（#135–#139）· 2026-07-30 Sales +5（#140–#144）
+**收集批次：** … · 2026-07-20（#65–#79 本机）· 2026-07-20 合入云端独有（#80–#92）· 2026-07-26 Sales +5（#120–#124）· 2026-07-27 Sales +5（#125–#129）· 2026-07-28 Sales +5（#130–#134）· 2026-07-29 Sales +5（#135–#139）· 2026-07-30 Sales +5（#140–#144）· 2026-07-31 Sales +5（#145–#149）
 
-### 当前可发队列（2026-07-30 Sales）
+### 当前可发队列（2026-07-31 Sales）
 
 | 项 | 说明 |
 |----|------|
 | 已完成跟进 | **#19–#33**（2026-07-24）|
 | 下一批跟进 | #34–#48（跳过无邮箱） |
-| **今日应发冷邮（15）** | **#109–#123** |
-| 发后余量 | **#124–#139** + 新 ICP **#140–#144** |
+| **今日应发冷邮（15）** | **#109–#123**（仍 Lead · 同批续发） |
+| 发后余量 | **#124–#144** + 新 ICP **#145–#149** |
 | #99 Shriro | 无公开邮箱 · C |
 | 已联系累计 | **99 / 100** |
