@@ -5,7 +5,7 @@
 | 字段 | 值 |
 |------|-----|
 | 日期 | 2026-08-01 |
-| status | **pending** |
+| status | **done** |
 | 派发 | Founder |
 | 执行 | Sales |
 
@@ -16,7 +16,7 @@
 - 排期来源：[`company/founder.md`](../../company/founder.md)
 - 当前漏斗：[`company/sales.md`](../../company/sales.md)
 - 当前阶段：`W3_OUTREACH`
-- 账本 SSOT：已联系 **99/100** · 回复 **1** · 买家 **149** · Contacted **98**
+- 账本 SSOT：已联系 **99/100** · 回复 **1** · 买家 **154** · Contacted **98**
 - **今日应发（冷邮 Lead #，15）：** `#109–#123`（仍为 Lead，同批续发）
 - **Co-founder：** 本机说「今天发」15 封（Gmail 仅本机，非本 Automation）
 
@@ -26,15 +26,15 @@
 
 ### P0 — 对齐未发草稿 + 标明应发序号
 
-- [ ] 对齐今日应发草稿 **#109–#123**（Kit Lee · Foshan, China · indicative FOB；主题无 `$`）
-- [ ] 核对余量草稿 **#124–#149** 仍可发；新补 **#150–#154**
-- [ ] **未** Gmail 实发；**未**标 Contacted；**未**广搜已发送对账
+- [x] 对齐今日应发草稿 **#109–#123**（Kit Lee · Foshan, China · indicative FOB；主题无 `$`）
+- [x] 核对余量草稿 **#124–#149** 仍可发；新补 **#150–#154**
+- [x] **未** Gmail 实发；**未**标 Contacted；**未**广搜已发送对账
 
 ### P1 — +5 新澳洲买家
 
-- [ ] 新增 **5** 家 **#150–#154**（own-brand / importer / distributor；少扩 BG/单店 Weber）
-- [ ] 有可发邮箱（≥B）；Notes 标 `ICP: …`
-- [ ] 新买家补草稿；同步 `sales.md`
+- [x] 新增 **5** 家 **#150–#154**（own-brand / importer / distributor）
+- [x] 有可发邮箱（≥B）；Notes 标 `ICP: …`
+- [x] 新买家补草稿；同步 `sales.md`
 
 ---
 
@@ -50,12 +50,12 @@
 
 | 项 | 值 |
 |----|-----|
-| 完成时间 | |
-| P0 结果 | |
-| P1 结果 | |
-| 漏斗 | |
-| 写入文件 | |
-| 新可发序号 | |
+| 完成时间 | 2026-08-01 |
+| P0 结果 | 对齐应发 15：`#109–#123` 复核；主题无 `$`；Kit Lee · indicative FOB；余量 #124–#149 OK |
+| P1 结果 | +5 ICP：`#150` Forno Alfresco · `#151` Garth/Fornetto · `#152` Gaucho · `#153` Argie Grillz · `#154` Jalando |
+| 漏斗 | 买家 **154** · Lead **55** · Contacted **98** · Replied **1** · 已联系 **99/100** |
+| 写入文件 | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `today.md` |
+| 新可发序号 | 今日应发 **#109–#123**；发后余量 **#124–#154**（跳过 #99） |
 
 ---
 

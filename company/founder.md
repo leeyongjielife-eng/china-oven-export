@@ -153,6 +153,7 @@
 
 | 日期 | 调度 | 任务 | 结果写回 |
 |------|------|------|----------|
+| 2026-08-01 | Sales 完成 | W3：对齐应发 #109–#123；+5 ICP #150–#154；未发信、未标 Contacted | `pipeline.md` 154 · `outreach-drafts.md` · `sales.md` · `today.md` done |
 | 2026-08-01 | Founder → Sales | W3：阶段保持 W3；P0 对齐应发 **#109–#123**（仍 Lead 同批续发）；P1 +5 买家 #150+；Co-founder 本机「今天发」15；禁止 Gmail | `today.md` pending |
 | 2026-07-31 | Sales 完成 | W3：对齐应发 #109–#123；+5 ICP #145–#149；未发信、未标 Contacted | `pipeline.md` 149 · `outreach-drafts.md` · `sales.md` · `today.md` done |
 | 2026-07-31 | Founder → Sales | W3：阶段保持 W3；P0 对齐应发 **#109–#123**（仍 Lead 同批续发）；P1 +5 买家 #145+；Co-founder 本机「今天发」15；禁止 Gmail | `today.md` pending |
