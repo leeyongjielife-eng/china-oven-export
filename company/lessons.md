@@ -92,7 +92,7 @@
 
 - **发生了什么**：已联系 **114**（Contacted 113 + Replied 1）；Contacted≥100 已停新冷邮；周日跟进 `#34–#51` 15 封已发。连续第 **3** 个周日回复率 &lt;5%（约 **0.9%**）。唯一真回复仍是 `#41` BBQ Republic · Martin；`#101` 回 Stop。
 - **学到什么**：**堆 Contacted 不等于接近 W4**。W4 卡在回复≥5，不是名单规模。渠道结构偏 Weber/BG 加盟店时，冷邮「Stop / 静默」是常态；kamado 专营与真正 importer 才出过信号。日扩 +5 买家在停冷邮后边际价值下降。
-- **下周怎么改**：Co-founder 拍板 Reset 路径（软切 / 硬切 / 再跟进一周）。默认推荐软切：停 Sales 扩量、跟进只打 ICP/专营、盯 Martin；8/9 前再评估是否 `正式Research`。
+- **下周怎么改**：✅ Co-founder 已选 **A 软切**（2026-08-02）：停 Sales 日扩、跟进仅 buyer_class A、盯 Martin；**8/9** 前再评估是否 `正式Research`。
 
 ### 2026-08-02 | 发信运营债：同批冷邮可连欠 3 天
 

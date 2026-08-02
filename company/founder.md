@@ -37,11 +37,11 @@
 
 ## 当前阶段判断
 
-- **Phase:** 0 — **`W3_OUTREACH`**（Week 3 外联进行中）→ 切换见 [`phases.md`](phases.md)
-- **瓶颈:** Contacted **113**≥100（**已停新冷邮**）；距 W4 还差回复≥5（当前回复 **1**）；主线改 **跟进静默 Contacted（仅 A+B）**
-- **优势:** 买家 **159**（A59/B47/C53）；Gmail MCP ✅；发信政策已统一；**buyer_class 闸门已上线**（新扩仅 A；C=Do-not-contact）
-- **今日主线:** Sales 跟进草稿 **#34–#51** + 扩 **#155–#159** ✅；本机「今天发」跟进 ✅；**buyer_class 全量打标** ✅（A Lead **41**≥20，库存闸门未触发）
-- **暂不做:** 问叔叔（等 Replied/Qualified）；Bounce **不自动补**；不切 W4；不派新冷邮；**不跟进 C**；**不新扩 B**
+- **Phase:** 0 — **`W3_OUTREACH`** + **A 软切**（2026-08-02 Co-founder 拍板；**未**切 `W3_RESEARCH_RESET`）
+- **瓶颈:** Contacted **113**≥100（停新冷邮）；回复 **1**/5；主线 = **仅跟进 buyer_class A**
+- **优势:** buyer_class 已落地（抽检后 A59/B45/C55）；A Lead **40**≥20；Gmail 本机政策已统一
+- **今日主线:** 落地 **A 软切** SSOT + 明日派发（停扩、跟进仅 A）
+- **暂不做:** 日扩 +5；跟进 B/C；新冷邮；问叔叔；硬切 Reset；换国；`正式Research`（**8/9** 再评估）
 
 ### Automation（2026-07-13 · 单 Run + Research）
 
@@ -72,13 +72,14 @@
 - 本机说「**今天发**」→ Contacted≥100 **停新冷邮**；今日周日不发冷邮；可跟进静默 Contacted **#34–#51**
 - 跳过 `#3/#13/#15`；`#6/#17` Bounce 不自动补；`#99` 无邮箱；`#101` Stop 勿跟进
 
-### 明日排期（2026-08-03 · 周一 · W3）
+### 明日排期（2026-08-03 · 周一 · W3 · A 软切）
 
 | 优先级 | 指派 | 任务 | 目标 |
 |:---:|------|------|------|
-| **P0** | **Sales** | 续跟进静默 Contacted（**仅 A+B**；跳过全部 C） | 推回复 |
-| **P1** | **Sales** | +5 **必须全为 A**（禁 B/C；若净增 A=0 → 立刻补找 A） | A Lead 池 |
-| **P0** | **本机** | 「今天发」跟进配额（非新冷邮；跳过 C） | 回复↑ |
+| **P0** | **Sales** | 对齐跟进草稿（**仅 buyer_class A**）：`#1 #2 #4 #10 #20 #44 #49 #64 #92 #93 #94 #95 #96 #120 #121`（15） | 推第 2 条真回复 |
+| **P1** | **Sales** | **暂停日扩 +5**（A Lead≥20；勿新增买家） | 软切 |
+| **P0** | **本机** | 「今天发」跟进上述 A 批（非新冷邮；跳过 B/C） | 回复↑ |
+| ⏸️ | — | 盯 #41 Martin；不问叔叔；不硬切；**8/9** 再评估正式 Research | — |
 
 ---
 
@@ -132,7 +133,7 @@
 | P1 | 积满 **50 买家** | Sales | ✅ **139**；W3 外联池续扩 |
 | P1 | 外联草稿备齐 | Sales | 进行中；Kit Lee / indicative FOB |
 | P1 | 补联系人 A 级 | Sales | 持续补 |
-| P1 | 外联 100（定价话术见 `product.md` 定价策略） | Co-founder 本机跟进/冷邮 + Sales 草稿 | W3；KPI=真回复；已联系 **114** · Contacted **113**≥100 停新冷邮 · 回复 **1** · 今日跟进 #34–#51；扩 #155–#159 |
+| P1 | 外联 100（定价话术见 `product.md` 定价策略） | Co-founder 本机跟进/冷邮 + Sales 草稿 | W3 **A 软切**：跟进仅 A · 停新冷邮 · 停日扩 · 回复 **1** · 8/9 复评 |
 | P2 | 有回复后 → 向 YUEFU 要针对性 FOB | Supplier + Co-founder | 有 Qualified 后 |
 | P3 | 正式报价单 | Quoting | 有需求 + 厂价后 |
 
@@ -147,7 +148,7 @@
 | 1 | 搭建 Gmail MCP / 发信账号连接 | 解锁 W3 外联 | ✅ 2026-07-15 |
 | 2 | #41 Martin 回 size/qty/port 后准备 1-pager | 推进 Qualified | ⏳ 等待 |
 | 3 | **#17 改发备用邮箱？** | 救 ICP 进口商线索 | ⚠️ `info@` + `wholesale@` 均 Bounce · ⏳ 待定是否试 `sales@smokedandcured.com.au` / LinkedIn / 电话 |
-| 4 | **Research Reset 路径？（2026-08-02 复盘）** | 第 3 个周日回复率约 **0.9%** &lt;5% | ⏳ **待选 A/B/C**（见下方复盘） |
+| 4 | Research Reset 路径？（2026-08-02） | 第 3 个周日回复率约 **0.9%** &lt;5% | ✅ **选 A 软切**（停扩；跟进仅 A；8/9 再评估） |
 
 ---
 
@@ -155,7 +156,8 @@
 
 | 日期 | 调度 | 任务 | 结果写回 |
 |------|------|------|----------|
-| 2026-08-02 | **buyer_class 落地** | 规则+闸门写入 customers/cofounder/strategy/workflows/phases；pipeline 159 行全量打标 A59/B47/C53；摘要清单；#30 加盟纠偏为 C | `customers.md` · `pipeline.md` · `buyer-class-summary.md` · `sales.md` · `founder.md` |
+| 2026-08-02 | **A 软切落地** | Co-founder 选 A：保持 W3；停日扩；跟进仅 buyer_class A；8/9 评估正式 Research；派发 8/3 today | `strategy.md` · `founder.md` · `phases.md` · `workflows/sales.md` · `today.md` |
+| 2026-08-02 | **buyer_class 落地** | 规则+闸门写入 customers/cofounder/strategy/workflows/phases；pipeline 全量打标；抽检纠偏后 A59/B45/C55 | `customers.md` · `pipeline.md` · `buyer-class-summary.md` · `sales.md` · `founder.md` |
 | 2026-08-02 | **Founder复盘** | 周复盘：Contacted≥100 / 回复率 0.9% / 第 3 周日&lt;5% → 待拍板 Reset 路径；补 Research 周日志 + lessons | `founder.md` · `research.md` · `lessons.md` · `strategy.md` |
 | 2026-08-02 | Co-founder 本机 | 「今天发」跟进 #34–#51 批 15/15 | `pipeline.md` · `outreach-drafts.md` |
 | 2026-08-02 | Sales 完成 | W3：跟进草稿 #34–#51；+5 ICP #155–#159；未发信、未标 Contacted；Contacted≥100 停新冷邮 | `pipeline.md` 159 · `outreach-drafts.md` · `sales.md` · `today.md` done |
@@ -227,12 +229,10 @@
   3. 渠道质量：BG/Weber 区域店占比高；ICP `#93–#98` 已发仍 0 回复；唯一信号来自 kamado 专营 `#41`
   4. 运营债：同批冷邮可欠发多日；云端仍扩池 → 已记 lessons
   5. 今日动作：跟进 `#34–#51` 15 封已发；Research 周日志已补
-- **Founder 推荐（等你选）：**
-  - **A 软切（推荐）**：保持 `W3_OUTREACH` + 澳市场；**暂停 Sales 日扩 +5**；跟进配额只打 ICP/专营/进口商；盯 Martin；**8/9** 再评估是否 `正式Research`
-  - **B 硬切**：切入 `W3_RESEARCH_RESET` + 说 `正式Research`（可评估第二市场）
-  - **C 再跟进一周**：不改 phase；继续现有跟进池（含更多零售静默），接受 Reset 门槛暂缓
-- **下周优先级（在 A 假设下）：** 跟进 ICP 批 + 静默专营；不扩 Lead；不新冷邮；不问叔叔（除非 Martin Qualified）
-- **写入 lessons:** `lessons.md` 2026-08-02 三条；`research.md` 8/2 周日志；`strategy.md` 决策行「待拍板」
+- **决策（已拍板）：** ✅ **A 软切**（2026-08-02 Co-founder）— 保持 `W3_OUTREACH` + 澳；停日扩；跟进仅 `buyer_class A`；盯 Martin；**8/9** 再评估 `正式Research` / 硬切
+- **备选未选：** B 硬切 · C 再跟进一周
+- **下周优先级：** 跟进 A Contacted 批；不扩 Lead（除非 A Lead&lt;20）；不新冷邮；不问叔叔（除非 Martin Qualified）
+- **写入 lessons:** `lessons.md` 2026-08-02；`research.md` 8/2；`strategy.md`「A 软切」
 
 ---
 
