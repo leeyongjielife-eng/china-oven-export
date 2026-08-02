@@ -37,11 +37,11 @@
 
 ## 当前阶段判断
 
-- **Phase:** 0 — **`W3_OUTREACH`** + **A 软切**（2026-08-02 Co-founder 拍板；**未**切 `W3_RESEARCH_RESET`）
-- **瓶颈:** Contacted **113**≥100（停新冷邮）；回复 **1**/5；主线 = **仅跟进 buyer_class A**
-- **优势:** buyer_class 已落地（抽检后 A59/B45/C55）；A Lead **40**≥20；Gmail 本机政策已统一
-- **今日主线:** 落地 **A 软切** SSOT + 明日派发（停扩、跟进仅 A）
-- **暂不做:** 日扩 +5；跟进 B/C；新冷邮；问叔叔；硬切 Reset；换国；`正式Research`（**8/9** 再评估）
+- **Phase:** 0 — **`W3_OUTREACH`** + **A 软切 + 选项 2**（开 A Lead 冷邮；**未**切 Research Reset）
+- **瓶颈:** 回复 **1**/5；Martin 视为凉；主线 = **对库存 A Lead 发首封**（不找新名）
+- **优势:** A Lead 可发邮箱约 **38**；buyer_class 已清洗；停 Sales 日扩
+- **今日主线:** 落地选项 2 SSOT + 周一冷邮队列 **#124–#138**
+- **暂不做:** 日扩 +5；跟进/冷邮 B/C；催 #41；问叔叔；硬切；换国（**8/9** 再评）
 
 ### Automation（2026-07-13 · 单 Run + Research）
 
@@ -72,14 +72,14 @@
 - 本机说「**今天发**」→ Contacted≥100 **停新冷邮**；今日周日不发冷邮；可跟进静默 Contacted **#34–#51**
 - 跳过 `#3/#13/#15`；`#6/#17` Bounce 不自动补；`#99` 无邮箱；`#101` Stop 勿跟进
 
-### 明日排期（2026-08-03 · 周一 · W3 · A 软切）
+### 明日排期（2026-08-03 · 周一 · W3 · A 软切选项 2）
 
 | 优先级 | 指派 | 任务 | 目标 |
 |:---:|------|------|------|
-| **P0** | **Sales** | 对齐跟进草稿（**仅 buyer_class A**）：`#1 #2 #4 #10 #20 #44 #49 #64 #92 #93 #94 #95 #96 #120 #121`（15） | 推第 2 条真回复 |
-| **P1** | **Sales** | **暂停日扩 +5**（A Lead≥20；勿新增买家） | 软切 |
-| **P0** | **本机** | 「今天发」跟进上述 A 批（非新冷邮；跳过 B/C） | 回复↑ |
-| ⏸️ | — | 盯 #41 Martin；不问叔叔；不硬切；**8/9** 再评估正式 Research | — |
+| **P0** | **Sales** | 对齐 **A Lead 首封**草稿 `#124–#138`（15；Kit Lee；主题无 `$`） | 动用库存 A |
+| **P1** | **Sales** | **暂停日扩 +5**；勿新增 #160+ | 软切 |
+| **P0** | **本机** | 「今天发」冷邮 `#124–#138`（选项 2 例外；仅 A Lead） | Contacted↑ / 求回复 |
+| ⏸️ | — | #41 暂不催；不问叔叔；**8/9** 评估正式 Research | — |
 
 ---
 
@@ -146,9 +146,9 @@
 | # | 问题 | 影响 | 状态 |
 |---|------|------|------|
 | 1 | 搭建 Gmail MCP / 发信账号连接 | 解锁 W3 外联 | ✅ 2026-07-15 |
-| 2 | #41 Martin 回 size/qty/port 后准备 1-pager | 推进 Qualified | ⏳ 等待 |
-| 3 | **#17 改发备用邮箱？** | 救 ICP 进口商线索 | ⚠️ `info@` + `wholesale@` 均 Bounce · ⏳ 待定是否试 `sales@smokedandcured.com.au` / LinkedIn / 电话 |
-| 4 | Research Reset 路径？（2026-08-02） | 第 3 个周日回复率约 **0.9%** &lt;5% | ✅ **选 A 软切**（停扩；跟进仅 A；8/9 再评估） |
+| 2 | #41 Martin | 曾 Replied；Co-founder 判断凉 | ✅ **暂不催**（2026-08-03）；Stage 仍 Replied，Notes 已标 |
+| 3 | **#17 改发备用邮箱？** | 救 ICP 进口商线索 | ⚠️ Bounce · ⏳ 待定 |
+| 4 | Research Reset 路径 | 第 3 周日 &lt;5% | ✅ **A 软切** + ✅ **选项 2 开 A Lead 冷邮** |
 
 ---
 
@@ -156,7 +156,8 @@
 
 | 日期 | 调度 | 任务 | 结果写回 |
 |------|------|------|----------|
-| 2026-08-02 | **A 软切落地** | Co-founder 选 A：保持 W3；停日扩；跟进仅 buyer_class A；8/9 评估正式 Research；派发 8/3 today | `strategy.md` · `founder.md` · `phases.md` · `workflows/sales.md` · `today.md` |
+| 2026-08-03 | **选项 2 落地** | 放宽 ≥100 停冷邮例外：仅 A Lead 可首封；停日扩；#41 暂不催；周一队列 #124–#138 | `strategy.md` · `cofounder.md` · `today.md` · `pipeline.md` |
+| 2026-08-02 | **A 软切落地** | Co-founder 选 A：保持 W3；停日扩；跟进仅 buyer_class A；8/9 评估正式 Research | `strategy.md` · `founder.md` · `phases.md` · `workflows/sales.md` · `today.md` |
 | 2026-08-02 | **buyer_class 落地** | 规则+闸门写入 customers/cofounder/strategy/workflows/phases；pipeline 全量打标；抽检纠偏后 A59/B45/C55 | `customers.md` · `pipeline.md` · `buyer-class-summary.md` · `sales.md` · `founder.md` |
 | 2026-08-02 | **Founder复盘** | 周复盘：Contacted≥100 / 回复率 0.9% / 第 3 周日&lt;5% → 待拍板 Reset 路径；补 Research 周日志 + lessons | `founder.md` · `research.md` · `lessons.md` · `strategy.md` |
 | 2026-08-02 | Co-founder 本机 | 「今天发」跟进 #34–#51 批 15/15 | `pipeline.md` · `outreach-drafts.md` |
@@ -229,10 +230,10 @@
   3. 渠道质量：BG/Weber 区域店占比高；ICP `#93–#98` 已发仍 0 回复；唯一信号来自 kamado 专营 `#41`
   4. 运营债：同批冷邮可欠发多日；云端仍扩池 → 已记 lessons
   5. 今日动作：跟进 `#34–#51` 15 封已发；Research 周日志已补
-- **决策（已拍板）：** ✅ **A 软切**（2026-08-02 Co-founder）— 保持 `W3_OUTREACH` + 澳；停日扩；跟进仅 `buyer_class A`；盯 Martin；**8/9** 再评估 `正式Research` / 硬切
-- **备选未选：** B 硬切 · C 再跟进一周
-- **下周优先级：** 跟进 A Contacted 批；不扩 Lead（除非 A Lead&lt;20）；不新冷邮；不问叔叔（除非 Martin Qualified）
-- **写入 lessons:** `lessons.md` 2026-08-02；`research.md` 8/2；`strategy.md`「A 软切」
+- **决策（已拍板）：** ✅ **A 软切** + ✅ **选项 2**（2026-08-03）— 不找新名；对 **A Lead** 开冷邮；#41 暂不催；**8/9** 再评估
+- **备选未选：** 选项 1（只跟进已 Contacted A）· 选项 3（恢复扩名）· B 硬切 · C 再跟一周
+- **下周优先级：** 日配额打 A Lead 首封（#124+）；不扩 Lead 名；不问叔叔
+- **写入 lessons:** `lessons.md`；`strategy.md` 选项 2 |
 
 ---
 

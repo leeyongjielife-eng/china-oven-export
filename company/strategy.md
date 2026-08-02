@@ -56,7 +56,8 @@
 | 2026-07-22 | **暂不切 Research Reset** | 连续 3 周回复率&lt;5% 才考虑；先跑完跟进轮（约至 7/31）再决策 |
 | 2026-08-02 | **第 3 个周日 &lt;5% → 待拍板 Reset 路径** | 回复率约 0.9%（1/114）。Founder 推荐**软切**；硬切 / 再跟进 1 周为备选。**未改 phase_id，等 Co-founder** |
 | 2026-08-02 | **buyer_class A/B/C + 闸门** | C=Do-not-contact（全渠道）；新扩仅 A。质量闸门=新扩 100% A；库存闸门=`A Lead<20` 或「有扩量任务净增 A=0」→ 必须补 A |
-| 2026-08-02 | **Research Reset → A 软切（Co-founder 拍板）** | 保持 `W3_OUTREACH` + 澳市场；**暂停 Sales 日扩 +5**（库存闸门 `A Lead<20` 仍可强制补 A）；跟进配额 **仅 buyer_class A**；C 停联；B 暂不跟进；盯 #41 Martin；**2026-08-09** 再评估是否 `正式Research` / 硬切。**不改 phase_id** |
+| 2026-08-02 | **Research Reset → A 软切（Co-founder 拍板）** | 保持 `W3_OUTREACH` + 澳；**暂停 Sales 日扩 +5**；跟进/冷邮 **仅 buyer_class A**；C 停联；B 暂不跟进；**2026-08-09** 再评估正式 Research。**不改 phase_id** |
+| 2026-08-03 | **A 软切 + 开 A Lead 冷邮（选项 2）** | 仍不找新公司名。**例外放宽**「Contacted≥100 停新冷邮」：日配额可对 **A Lead** 发首封；已 Contacted 的 A 可穿插跟进。#41 Martin 视为凉（暂不催）。B/C 仍不发 |
 
 ## 风险与应对
 

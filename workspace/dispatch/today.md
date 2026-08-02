@@ -15,33 +15,34 @@
 
 - 排期来源：[`company/founder.md`](../../company/founder.md)
 - 当前漏斗：[`company/sales.md`](../../company/sales.md)
-- 当前阶段：`W3_OUTREACH` + **A 软切**（[`strategy.md`](../../company/strategy.md)；**未**切 `W3_RESEARCH_RESET`）
-- 账本 SSOT：已联系 **114/100** · 回复 **1** · 买家 **159** · Contacted **113**（≥100 → **停新冷邮**）
-- **今日应发（跟进仅 buyer_class A）：** `#1 #2 #4 #10 #20 #44 #49 #64 #92 #93 #94 #95 #96 #120 #121`（15）
-- **Co-founder：** 本机说「今天发」15 封（Gmail 仅本机）· 跟进仅 A · 跳过 B/C · 停新冷邮
+- 当前阶段：`W3_OUTREACH` + **A 软切 + 选项 2**（[`strategy.md`](../../company/strategy.md)）
+- 账本 SSOT：已联系 **114/100** · 回复 **1**（#41 暂不催）· 买家 **159** · Contacted **113**
+- **今日应发（A Lead 首封冷邮）：** `#124 #125 #126 #127 #128 #129 #130 #131 #132 #133 #134 #135 #136 #137 #138`（15）
+- **规则例外：** Contacted≥100 仍允许对 **A Lead** 发首封；禁 B/C；禁找新名（不停日扩）
+- **Co-founder：** 本机说「今天发」15 封（Gmail 仅本机）
 
 ---
 
 ## Sales 任务
 
-### P0 — 跟进 Contacted（仅 buyer_class A）
+### P0 — A Lead 首封冷邮（选项 2）
 
-- [ ] 对齐/补 Template 3 跟进草稿上列 **15** 家（Kit Lee · Foshan, China；主题无 `$`）
-- [ ] 标明今日应跟进序号（上列）；跳过 B/C、#41 Replied（等 Martin）、Stop/Bounce
-- [ ] **未** Gmail 实发；**未**改 Stage（跟进成功由本机写回）
+- [ ] 对齐/补 Template 1 首封草稿上列 **15** 家（Kit Lee · Foshan, China；主题无 `$`；可用 indicative FOB）
+- [ ] 标明今日应发序号（上列）；跳过无邮箱 / Bounce / B/C / #3#13#15#17#99
+- [ ] **未** Gmail 实发；**未**提前标 Contacted（本机发成功后再标）
 
 ### P1 — 暂停日扩
 
-- [ ] **不**新增买家（A 软切；当前 A Lead ≥20）
-- [ ] 同步 `sales.md` 注明软切停扩
+- [ ] **不**新增买家（A 软切；勿 #160+）
+- [ ] 同步 `sales.md` 注明：选项 2 · A Lead 冷邮 · 停扩
 
 ---
 
 ## 约束
 
 - **禁止 Gmail MCP**；不问叔叔；#6/#17 Bounce 不自动补
-- 跳过 `#3/#13/#15`；`#99` 无邮箱；**不写新冷邮应发队列**
-- **禁止**跟进 B/C；**禁止**日扩 +5
+- **禁止**跟进/冷邮 B/C；**禁止**催 #41；**禁止**日扩 +5
+- 跳过 `#3/#13/#15`；`#99` 无邮箱
 - 不改 Founder 排期表（可追加「Sales 完成」调度日志一行）
 
 ---
