@@ -1970,9 +1970,11 @@ Export — YUEFU BBQ, Foshan, China
 
 ## 跟进草稿 — 今日批 #34–#51（2026-08-02 · Template 3）
 
-> Contacted≥100 · **停新冷邮** · 本批=静默≥5 天且尚未跟进 · Kit Lee · Foshan · **未发送**（待本机）
+> Contacted≥100 · **停新冷邮** · 本批=静默≥5 天且尚未跟进 · Kit Lee · Foshan · **已发送 2026-08-02**（本机跟进 15/15）
 
 ### #34 Tackle World Wagga — 跟进
+
+> **已发送 2026-08-02** · msg 19fc108fe16a942d
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -1990,6 +1992,8 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #35 Barbeques Galore North Rockhampton — 跟进
 
+> **已发送 2026-08-02** · msg 19fc10908aeddbe5
+
 **Subject:** Re: Kamado grills — product overview
 
 Hi there,
@@ -2005,6 +2009,8 @@ Export — YUEFU BBQ, Foshan, China
 ---
 
 ### #36 Sydney BBQs — 跟进
+
+> **已发送 2026-08-02** · msg 19fc109121b1f705
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -2022,6 +2028,8 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #37 Specialized Heating & Cooling — 跟进
 
+> **已发送 2026-08-02** · msg 19fc1091ebff57f5
+
 **Subject:** Re: Kamado grills — product overview
 
 Hi there,
@@ -2037,6 +2045,8 @@ Export — YUEFU BBQ, Foshan, China
 ---
 
 ### #38 Southside Heating Centre — 跟进
+
+> **已发送 2026-08-02** · msg 19fc1092815ead3e
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -2054,6 +2064,8 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #39 JK BBQ & Outdoor — 跟进
 
+> **已发送 2026-08-02** · msg 19fc10932b1aa545
+
 **Subject:** Re: Kamado grills — product overview
 
 Hi there,
@@ -2069,6 +2081,8 @@ Export — YUEFU BBQ, Foshan, China
 ---
 
 ### #40 Beauview BBQ — 跟进
+
+> **已发送 2026-08-02** · msg 19fc1093c54c1ecd
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -2086,6 +2100,8 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #42 The BBQ Store — 跟进
 
+> **已发送 2026-08-02** · msg 19fc10949a45d22b
+
 **Subject:** Re: Kamado grills — product overview
 
 Hi there,
@@ -2101,6 +2117,8 @@ Export — YUEFU BBQ, Foshan, China
 ---
 
 ### #43 BBQ Bazaar — 跟进
+
+> **已发送 2026-08-02** · msg 19fc10955e74b26a
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -2118,6 +2136,8 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #44 Hark Enterprises — 跟进
 
+> **已发送 2026-08-02** · msg 19fc1095fb738290
+
 **Subject:** Re: Kamado grills — product overview
 
 Hi there,
@@ -2133,6 +2153,8 @@ Export — YUEFU BBQ, Foshan, China
 ---
 
 ### #45 Hot Things — 跟进
+
+> **已发送 2026-08-02** · msg 19fc10968924742e
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -2150,6 +2172,8 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #47 Wignells of Melbourne — 跟进
 
+> **已发送 2026-08-02** · msg 19fc10974b704a32
+
 **Subject:** Re: Kamado grills — product overview
 
 Hi there,
@@ -2165,6 +2189,8 @@ Export — YUEFU BBQ, Foshan, China
 ---
 
 ### #49 Tagwood BBQ Australia — 跟进
+
+> **已发送 2026-08-02** · msg 19fc1097eb3879ea
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -2182,6 +2208,8 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #50 Oz BBQ — 跟进
 
+> **已发送 2026-08-02** · msg 19fc10988ab696ef
+
 **Subject:** Re: Kamado grills — product overview
 
 Hi there,
@@ -2197,6 +2225,8 @@ Export — YUEFU BBQ, Foshan, China
 ---
 
 ### #51 The Modern Cave — 跟进
+
+> **已发送 2026-08-02** · msg 19fc10993b2ac317
 
 **Subject:** Re: Kamado grills — product overview
 
