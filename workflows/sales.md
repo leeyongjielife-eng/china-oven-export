@@ -94,21 +94,33 @@ Supplier  →  工厂能不能做、多少钱        （写 product.md + workspa
 
 **本机实发（Co-founder 说 `今天发`）：**
 
-1. 若 Contacted ≥100 → **停止**新冷邮，只回报文
-2. 读 `pipeline`：取 Lead + 有邮箱；跳过已 Contacted / Bounce 未下令改发 / #3/#13/#15
-3. 按对齐草稿发出，额度补满当日 **15**（成功投递才标 Contacted）
-4. Bounce → Notes 记账，**不**自动改发；同步 `sales.md`
-5. 回写摘要；**禁止**广搜 Gmail 已发送；**禁止**逐封等人审
+1. 若 Contacted ≥100 → **停止**新冷邮（跟进仍可）
+2. 读 `pipeline`：取目标 Stage；**跳过 `buyer_class: C` / Do-not-contact** / Bounce 未下令改发 / #3/#13/#15 / Stop
+3. **跟进：** 仅 `buyer_class` ∈ {A, B}；**新冷邮（若未停）：** 仅 A（本阶段）
+4. 按对齐草稿发出，额度补满当日 **15**（成功投递才标 Contacted；跟进更新 Last Contact + Notes）
+5. Bounce → Notes 记账，**不**自动改发；同步 `sales.md`
+6. 回写摘要；**禁止**广搜 Gmail 已发送；**禁止**逐封等人审
 
 **云端 Sales Automation：** 只做找买家 / 补草稿 / 漏斗同步；**禁止**调用 Gmail。
+
+### 买家分层与扩量闸门（2026-08-02）
+
+→ 定义见 [`company/customers.md`](../company/customers.md)。
+
+| 闸门 | 规则 |
+|------|------|
+| **质量** | 新扩必须 **100% `buyer_class: A`**；写入 B/C = 违例 → 立刻改找买家策略并记 `lessons.md` |
+| **库存** | **`A Lead < 20` → 必须补 A**；或本周已派 Sales 扩量但 **净增 A = 0 → 也必须补 A** |
+| **C** | **Do-not-contact**（邮件/LinkedIn/电话/表单全停）；保留账本行，不进任何外联队列 |
+| **B** | 默认可跟进；**本阶段暂不新扩 B** |
 
 ### 每日量级
 
 | 阶段 | 找买家 | 发信 |
 |------|--------|------|
 | Week 2 | 10 家/天，只入 pipeline | **0** |
-| Week 3 (`W3_OUTREACH`) | 5 家/天（云端可做） | **15**/工作日（本机 `今天发`） |
-| Week 4+ | 减少新 lead | 跟进 Replied / Qualified 为主 |
+| Week 3 (`W3_OUTREACH`) | **+5/天且必须全为 A**（库存闸门触发时强制补 A；Contacted≥100 时扩量仍服从闸门） | **15**/工作日（本机 `今天发`；跟进 A+B，停新冷邮时不发 Lead） |
+| Week 4+ | 减少新 lead；仍禁 C | 跟进 Replied / Qualified 为主 |
 
 周节奏与完成标准 → 见 [`../plan/`](../plan/)，不在此重复。
 

@@ -63,11 +63,11 @@
 | phase_id | today.md P0 模板 | today.md P1 模板 |
 |----------|------------------|------------------|
 | `W2_COLLECT` | +10 澳洲买家 → 目标 X/50 | 补外联草稿（若排期有） |
-| `W3_OUTREACH` | 对齐草稿 / 标明今日应发 #N→#M（**勿 Gmail 实发**） | +5 新买家 |
-| `W4_FOLLOWUP` | 跟进 Contacted 未回复 | 推进 Replied → Qualified |
+| `W3_OUTREACH` | 对齐草稿 / 标明今日应发 #N→#M（**勿 Gmail 实发**；跟进仅 **A+B**，跳过 **C**） | +5 新买家（**必须 100% A**） |
+| `W4_FOLLOWUP` | 跟进 Contacted 未回复（仅 A+B） | 推进 Replied → Qualified |
 | `W3_RESEARCH_RESET` | **不派 Sales 扩量**；today 可写「暂停，等 Research」 | — |
 
-**硬约束（全阶段 until Co-founder 改 phases）：** 不问叔叔（除非 `W4` 且 Qualified）；`W2` 不发信。
+**硬约束（全阶段 until Co-founder 改 phases）：** 不问叔叔（除非 `W4` 且 Qualified）；`W2` 不发信；**`buyer_class: C` = Do-not-contact**；新扩 **仅 A**；**`A Lead < 20` 或扩量净增 A=0 → 必须补 A**（见 [`customers.md`](customers.md)）。
 
 ---
 
@@ -94,5 +94,6 @@
 | 条件 | Founder Automation 行为 |
 |------|-------------------------|
 | `phase_id=W2_COLLECT` 且 买家 ≥50 | **自动**更新为 `W3_OUTREACH`，P0 改为外联 |
-| `phase_id=W3_OUTREACH` | P0 **不得**再是「+10 买家」；以发信为主 |
+| `phase_id=W3_OUTREACH` | P0 **不得**再是「+10 买家」；以发信为主；P1 新买家 **100% A** |
+| `A Lead < 20` 或本周扩量净增 A=0 | P1 **强制**「补 A」；不得只扩 B/C |
 | 漏斗长期无回复 | 周日 Research 日志提醒；Founder 周复盘考虑 `W3_RESEARCH_RESET` |

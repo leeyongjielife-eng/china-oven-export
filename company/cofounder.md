@@ -73,7 +73,8 @@ Sales / 其他子代理（AI） →  见 workflows/ 各角色边界；**不**替
 - **停止条件：** `sales.md` / `pipeline` 中 **Contacted（成功投递）≥ 100** → **停止日配额新冷邮件**；已 Contacted 的跟进与回信处理可继续。进入 `W4_FOLLOWUP` 仍须另满足 **回复 ≥5**（见 `phases.md`）。
 - **Bounce：** 只记账（Stage 保持 Lead 或 Notes 标 Bounce）；**不自动**改备用邮箱补发。仅当 Co-founder 明确说「改发备用 / 改发 #N」时才重发。Bounce **不计入** Contacted。
 - **逐封串行 + 即时写回（防重复）：** 每调用一次 Gmail send 成功后，**立即**更新 `pipeline.md`（Stage→Contacted + Notes 写 msg ID），确认写回后才发下一封。**禁止**同一轮 tool call 并行多封。断线恢复后**不自动重发**——先报告「断在第 N 封，最后成功 #X」，等 Co-founder 确认再继续。
-- **护栏：** 跳过无邮箱 / 已 Contacted / 已 Bounce 且未下令改发 / 队列标明跳过（#3、#13、#15 电话脚本）；署名 **Kit Lee** · Export — YUEFU BBQ, Foshan, China；首封无附件；W3 可用 indicative market FOB（见 `product.md`）。
+- **护栏：** 跳过无邮箱 / 已 Contacted（新冷邮）/ 已 Bounce 且未下令改发 / 队列标明跳过（#3、#13、#15 电话脚本）/ **`buyer_class: C`（Do-not-contact：任何渠道）**；跟进仅 **A+B**；署名 **Kit Lee** · Export — YUEFU BBQ, Foshan, China；首封无附件；W3 可用 indicative market FOB（见 `product.md`）。
+- **买家分层：** 见 [`customers.md`](customers.md) `buyer_class`。新扩只收 **A**；B 默认可跟进、暂不扩；C 全停联。
 - 仅以下动作**必须真人**：微信/电话、付款、报关、验货、签约；以及每日说一次 **`今天发`**。
 - **Agent 不假装是真人身份**——署名用 `Kit Lee`，不冒充其他身份。
 

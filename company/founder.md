@@ -38,10 +38,10 @@
 ## 当前阶段判断
 
 - **Phase:** 0 — **`W3_OUTREACH`**（Week 3 外联进行中）→ 切换见 [`phases.md`](phases.md)
-- **瓶颈:** Contacted **113**≥100（**已停新冷邮**）；距 W4 还差回复≥5（当前回复 **1**）；主线改 **跟进静默 Contacted**
-- **优势:** 买家 **159**；Gmail MCP ✅；发信政策已统一（`今天发` · 15/工作日 · 云端不实发）；本机 Contacted SSOT 已合入 main
-- **今日主线:** Sales 跟进草稿 **#34–#51** + 扩 **#155–#159** ✅；Co-founder 本机「今天发」跟进 #34–#51 ✅（≥100 停新冷邮 · 周日无新冷邮）
-- **暂不做:** 问叔叔（等 Replied/Qualified）；Bounce **不自动补**（须明说「改发备用」）；不切 W4；不派新冷邮队列
+- **瓶颈:** Contacted **113**≥100（**已停新冷邮**）；距 W4 还差回复≥5（当前回复 **1**）；主线改 **跟进静默 Contacted（仅 A+B）**
+- **优势:** 买家 **159**（A59/B47/C53）；Gmail MCP ✅；发信政策已统一；**buyer_class 闸门已上线**（新扩仅 A；C=Do-not-contact）
+- **今日主线:** Sales 跟进草稿 **#34–#51** + 扩 **#155–#159** ✅；本机「今天发」跟进 ✅；**buyer_class 全量打标** ✅（A Lead **41**≥20，库存闸门未触发）
+- **暂不做:** 问叔叔（等 Replied/Qualified）；Bounce **不自动补**；不切 W4；不派新冷邮；**不跟进 C**；**不新扩 B**
 
 ### Automation（2026-07-13 · 单 Run + Research）
 
@@ -76,9 +76,9 @@
 
 | 优先级 | 指派 | 任务 | 目标 |
 |:---:|------|------|------|
-| **P0** | **Sales** | 续跟进下一批评默 Contacted（仍停新冷邮） | 推回复 |
-| **P1** | **Sales** | +5 ICP 买家 | 外联池 |
-| **P0** | **本机** | 「今天发」跟进配额（非新冷邮） | 回复↑ |
+| **P0** | **Sales** | 续跟进静默 Contacted（**仅 A+B**；跳过全部 C） | 推回复 |
+| **P1** | **Sales** | +5 **必须全为 A**（禁 B/C；若净增 A=0 → 立刻补找 A） | A Lead 池 |
+| **P0** | **本机** | 「今天发」跟进配额（非新冷邮；跳过 C） | 回复↑ |
 
 ---
 
@@ -140,13 +140,14 @@
 
 ## 待 Co-founder 决策 / 回答
 
-> 暂无开放 blocker。发信规则已锁定：本机 `今天发` · 15/日 · Contacted≥100 停。账本 SSOT=本机 pipeline。
+> 发信规则已锁定：本机 `今天发` · 跟进优先 · Contacted≥100 停新冷邮。账本 SSOT=本机 pipeline。
 
 | # | 问题 | 影响 | 状态 |
 |---|------|------|------|
 | 1 | 搭建 Gmail MCP / 发信账号连接 | 解锁 W3 外联 | ✅ 2026-07-15 |
 | 2 | #41 Martin 回 size/qty/port 后准备 1-pager | 推进 Qualified | ⏳ 等待 |
 | 3 | **#17 改发备用邮箱？** | 救 ICP 进口商线索 | ⚠️ `info@` + `wholesale@` 均 Bounce · ⏳ 待定是否试 `sales@smokedandcured.com.au` / LinkedIn / 电话 |
+| 4 | **Research Reset 路径？（2026-08-02 复盘）** | 第 3 个周日回复率约 **0.9%** &lt;5% | ⏳ **待选 A/B/C**（见下方复盘） |
 
 ---
 
@@ -154,6 +155,9 @@
 
 | 日期 | 调度 | 任务 | 结果写回 |
 |------|------|------|----------|
+| 2026-08-02 | **buyer_class 落地** | 规则+闸门写入 customers/cofounder/strategy/workflows/phases；pipeline 159 行全量打标 A59/B47/C53；摘要清单；#30 加盟纠偏为 C | `customers.md` · `pipeline.md` · `buyer-class-summary.md` · `sales.md` · `founder.md` |
+| 2026-08-02 | **Founder复盘** | 周复盘：Contacted≥100 / 回复率 0.9% / 第 3 周日&lt;5% → 待拍板 Reset 路径；补 Research 周日志 + lessons | `founder.md` · `research.md` · `lessons.md` · `strategy.md` |
+| 2026-08-02 | Co-founder 本机 | 「今天发」跟进 #34–#51 批 15/15 | `pipeline.md` · `outreach-drafts.md` |
 | 2026-08-02 | Sales 完成 | W3：跟进草稿 #34–#51；+5 ICP #155–#159；未发信、未标 Contacted；Contacted≥100 停新冷邮 | `pipeline.md` 159 · `outreach-drafts.md` · `sales.md` · `today.md` done |
 | 2026-08-02 | Founder → Sales | W3：阶段保持 W3；Contacted **113**≥100 → P0 **跟进** #34–#51（停新冷邮）；P1 +5 买家 #155+；Co-founder 本机「今天发」；禁止 Gmail | `today.md` pending |
 | 2026-08-01 | Sales 完成 | W3：对齐应发 #109–#123；+5 ICP #150–#154；未发信、未标 Contacted | `pipeline.md` 154 · `outreach-drafts.md` · `sales.md` · `today.md` done |
@@ -210,9 +214,25 @@
 ### Week 1
 
 - **漏斗:** 买家 0 / 外联 0 / 回复 0
-- **本周结论:** <!-- Agent 周日晚填写 -->
-- **下周优先级:** <!-- Agent 填写 -->
-- **写入 lessons:** <!-- 链接或摘要 -->
+- **本周结论:** 启动架构与 Co-founder 档案
+- **下周优先级:** Research 定澳；积买家
+- **写入 lessons:** 2026-07-10 多条
+
+### Week 3 收官 / Week 4 交界（2026-08-02 · Founder复盘）
+
+- **漏斗:** 买家 **159** · 已联系 **114** · Contacted **113** · Replied **1** · 回复率约 **0.9%**
+- **本周结论:**
+  1. **Contacted≥100 已达成** → 停新冷邮正确；W4 未开（回复 &lt;5）
+  2. **连续 3 个周日回复率 &lt;5%** → 触及 `W3_RESEARCH_RESET` 决策门槛（见 `phases.md` / `research.md`）
+  3. 渠道质量：BG/Weber 区域店占比高；ICP `#93–#98` 已发仍 0 回复；唯一信号来自 kamado 专营 `#41`
+  4. 运营债：同批冷邮可欠发多日；云端仍扩池 → 已记 lessons
+  5. 今日动作：跟进 `#34–#51` 15 封已发；Research 周日志已补
+- **Founder 推荐（等你选）：**
+  - **A 软切（推荐）**：保持 `W3_OUTREACH` + 澳市场；**暂停 Sales 日扩 +5**；跟进配额只打 ICP/专营/进口商；盯 Martin；**8/9** 再评估是否 `正式Research`
+  - **B 硬切**：切入 `W3_RESEARCH_RESET` + 说 `正式Research`（可评估第二市场）
+  - **C 再跟进一周**：不改 phase；继续现有跟进池（含更多零售静默），接受 Reset 门槛暂缓
+- **下周优先级（在 A 假设下）：** 跟进 ICP 批 + 静默专营；不扩 Lead；不新冷邮；不问叔叔（除非 Martin Qualified）
+- **写入 lessons:** `lessons.md` 2026-08-02 三条；`research.md` 8/2 周日志；`strategy.md` 决策行「待拍板」
 
 ---
 

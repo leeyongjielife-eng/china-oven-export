@@ -95,6 +95,16 @@ Australia — mid-size BBQ equipment distributors / specialty outdoor retailers
 - **Research Reset 门槛**：连续 **3** 个周日回复率 &lt;5% 才建议切换。计数：**第 2 个周日**（7/19、7/26）均 &lt;5% → **暂不**建议 `W3_RESEARCH_RESET`；若 **2026-08-02** 仍 &lt;5%，再明确建议 Founder 切换。
 - **建议**：保持澳洲单市场；周一继续跟进 `#34–#48` + 冷邮优先 ICP `#93–#98`；云端合入 `#100–#119`（多为 BBQG/Weber 区域店）发信优先级低于 ICP。
 
+### Week 3/4 交界 周日轻量复核（2026-08-02）· **本机 Founder复盘补做**
+
+- **日期**：2026-08-02；执行 Research 轻量复核 + Founder 周复盘；不做正式换市场，不改 `customers.md`（待 Co-founder 拍板）。
+- **Automation 观察**：同日有 Founder/Sales（跟进派发 + `#155–#159`）提交，**无** Research 竞品/关键词 commit → 周日 Research Automation 再次未落盘；本机补周日志。
+- **竞品观察**：沿用 7/26 锚点（BGE Large AU ≈ AUD $2,500–2,999；KJ Classic III ≈ AUD $2,979–3,399）。本周日未做全网重爬；indicative FOB USD $255–316 仍可用。**无证据显示定价是零回复主因。**
+- **Sales 信号（本机 SSOT）**：买家 **159** · Contacted **113** · Replied **1** · 已联系 **114** · 回复率约 **0.9%**。已停新冷邮；今日本机跟进 `#34–#51` 批 15 封。
+- **结构观察**：Contacted 中大量为 Weber/BG 区域零售；ICP 批 `#93–#98` + `#120–#123` 已触达但 **0 真回复**；唯一 Replied 仍是 `#41` Martin（kamado 专营）。`#101` 回 **Stop**。
+- **Research Reset 门槛**：连续 **3** 个周日回复率 &lt;5% → **今日满足**（7/19、7/26、8/2）。**正式建议 Founder / Co-founder 决策是否切入 `W3_RESEARCH_RESET` 或软切（见 `founder.md` 待决策）。**
+- **建议（Founder 推荐）**：**软切优先于立刻换国**——暂停 Sales 日扩买家；跟进配额只打 ICP / 专营 / 进口商；1 周内若仍无第 2 条真回复，再 `正式Research` 评估第二市场。硬切 `W3_RESEARCH_RESET` 为备选。
+
 ---
 
 ## 数据来源

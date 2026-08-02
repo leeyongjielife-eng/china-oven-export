@@ -52,7 +52,28 @@
 - 大型工业烘焙工厂（订单复杂、认证要求高）
 - 只要最低价、不在乎质量的买家
 - 要求本地安装+维修打包的买家（现阶段做不了）
+- **`buyer_class: C`** — Weber Store / Weber Specialist / Barbeques Galore 加盟等**无海外工厂采购权**的品牌专营/加盟店（**任何渠道均不联系**）
+
+## 采购权分层 `buyer_class`（2026-08-02）
+
+> **不同于** `contact-ready: A/B/C`（联系人完整度）。本字段表示**能否自主采购中国工厂货**。
+
+| buyer_class | 含义 | 联系策略（本阶段） |
+|-------------|------|-------------------|
+| **A** | 进口商 / 批发分销 / 独家分销 / 自有品牌 OEM·制造商 | **可联系**；**新扩买家只收 A** |
+| **B** | 独立多品牌专营/电商，有自采可能 | **默认可跟进**；**暂不新扩 B** |
+| **C** | Weber/BBQG 加盟或品牌专营店等，店面无海外工厂采购权 | **`Do-not-contact`**：邮件/LinkedIn/电话/表单**全停** |
+
+**判定优先序：** 先认 C 信号（Weber Store/Specialist、Barbeques Galore 加盟等）→ 再认 A 信号（importer/distributor/OEM/own-brand/ICP）→ 其余默认 B。兼有 C 与 A 信号时：若主体是 **加盟店/品牌专营店** 且 A 仅是笔记推测（如 “importer potential”），仍标 **C**；若确有自有品牌/OEM/批发采购权（如 Ziegler、Firehawk），标 **A**。
+
+**闸门（Sales / Founder）：**
+
+1. **质量：** 新扩必须 **100% 为 A**；出现 B/C → 违例，立刻改找买家策略  
+2. **库存：** **`A Lead < 20` → 必须补 A**；或本周已派 Sales 扩量但 **净增 A = 0 → 也必须补 A**
+
+账本写法（Notes）：`buyer_class: A|B|C · procurement: yes|unknown|no`；C 另加 `Do-not-contact`。
 
 ## 已接触买家
 
-明细 → [`../workspace/buyers/pipeline.md`](../workspace/buyers/pipeline.md)
+明细 → [`../workspace/buyers/pipeline.md`](../workspace/buyers/pipeline.md)  
+分层摘要 → [`../workspace/buyers/buyer-class-summary.md`](../workspace/buyers/buyer-class-summary.md)

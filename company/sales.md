@@ -35,7 +35,8 @@
 
 ## Pipeline 摘要
 
-明细表 [`../workspace/buyers/pipeline.md`](../workspace/buyers/pipeline.md) — Sales 子代理维护
+明细表 [`../workspace/buyers/pipeline.md`](../workspace/buyers/pipeline.md) — Sales 子代理维护  
+分层摘要 [`../workspace/buyers/buyer-class-summary.md`](../workspace/buyers/buyer-class-summary.md) · 规则 [`customers.md`](customers.md)
 
 | 阶段 | 数量 |
 |------|------|
@@ -46,4 +47,14 @@
 | Quoted | 0 |
 | Won | 0 |
 
-*同步：2026-08-02 本机跟进 ✅ · #34–#51 批 15 封 · Contacted≥100 停新冷邮；回复仍 **1***
+### buyer_class（2026-08-02）
+
+| 类 | 总数 | Lead | Contacted+Replied |
+|----|------|------|-------------------|
+| **A** | **59** | **41** | **18** |
+| **B** | **47** | **2** | **45** |
+| **C** Do-not-contact | **53** | **2** | **51** |
+
+*有效买家（去 C）≈107；有效已联系 ≈63。库存闸门：A Lead **41**≥20 → 未触发。新扩必须 100% A。*
+
+*同步：2026-08-02 本机跟进 ✅ · #34–#51 批 15 封 · Contacted≥100 停新冷邮；回复仍 **1**；全量 buyer_class 打标 ✅*
