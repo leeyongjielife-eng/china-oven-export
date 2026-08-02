@@ -164,6 +164,11 @@
 | 152 | Gaucho BBQ Grills | Australia | gaucho.com.au | Gavin Crossley (Founder) | info@gaucho.com.au | — | **AU own-brand Argentine parrilla** (Sunshine Coast QLD); two-tier charcoal/wood grills + rotisserie for residential/commercial — complementary ceramic charcoal kamado for charcoal assortment | Own Gaucho Argentine parrilla | Lead | — | contact-ready: B · channel: email · ICP: own-brand · tel: +61 444 503 559 · 2026-08-01 Sales +5 |
 | 153 | Argie Grillz | Australia | argiegrillz.com.au | — | info@argiegrillz.com.au | — | **AU own-brand portable Argentine parrilla** + **importer** of Quebracho Blanco charcoal; custom fabrication residential/commercial — complementary ceramic kamado beside charcoal/parrilla ecosystem | Own Argie Grillz parrilla + charcoal import | Lead | — | contact-ready: B · channel: email · ICP: own-brand/importer · tel: 0458 207 712 · 2026-08-01 Sales +5 |
 | 154 | Jalando Pizza Ovens | Australia | jalandopizzaovens.com.au | — | info@jalandopizzaovens.com.au | — | **AU-designed wood-fired / hybrid / gas pizza oven brand** (DIY kits + prebuilt; Preston VIC); AU-owned China fabrication — complementary factory-direct ceramic charcoal kamado for alfresco charcoal side | Own Jalando wood-fired ovens | Lead | — | contact-ready: B · channel: email · ICP: own-brand · tel: 0418 339 881 / 0459 226 949 · 2026-08-01 Sales +5 |
+| 155 | LimeTree Alfresco | Australia | limetreealfresco.com.au | — | sales@limetreealfresco.com.au | — | **AU custom outdoor kitchen manufacturer/installer** (Carrum Downs VIC + Brisbane showroom; 1700+ projects) — complementary factory-direct ceramic charcoal kamado for alfresco packages | Own LimeTree outdoor kitchens | Lead | — | contact-ready: B · channel: email · ICP: own-brand · tel: 1800 119 115 · 2026-08-02 Sales +5 |
+| 156 | Castworks | Australia | castworks.com.au | — | info@castworks.com.au | — | **AU importer/distributor** of premium fireplaces + outdoor fires / cooking (Keysborough VIC, 30+ yrs); national stockist network — complementary ceramic charcoal kamado beside outdoor fire/cooking | Morsø / Hergóm outdoor + fireplace import | Lead | — | contact-ready: B · channel: email · ICP: importer/distributor · tel: 03 9588 1169 · 2026-08-02 Sales +5 |
+| 157 | Zesti Ovens | Australia | zesti.com.au | — | zestiovens@iprimus.com.au | — | **WA manufacturer** of wood-fired / electric pizza ovens + charcoal grills / spit rotisseries / alfresco kitchens (Malaga WA, since 1999) — complementary ceramic kamado for charcoal assortment | Own Zesti woodfire / charcoal range | Lead | — | contact-ready: B · channel: email · ICP: own-brand · tel: (08) 9209 3103 · 2026-08-02 Sales +5 |
+| 158 | Master Grill | Australia | mastergrill.com | — | info@mastergrill.com | — | **AU outdoor cooking brand** (Dandenong South VIC) with kamado smoker + charcoal grill + modular outdoor kitchen / pizza ovens — complementary factory-direct ceramic kamado / OEM fit | Own Master Grill kamado / outdoor kitchen | Lead | — | contact-ready: B · channel: email · ICP: own-brand · tel: 0429 991 555 · 2026-08-02 Sales +5 |
+| 159 | Wood Oven Supplies | Australia | woodovensupplies.com.au | Harold Richard Jackson | info@woodovensupplies.com.au | — | **QLD wood-fired oven supplier** (Sunnybank) for home/commercial pizza ovens — complementary ceramic charcoal kamado beside woodfire alfresco offer | Wood-fired oven supply | Lead | — | contact-ready: B · channel: email · ICP: importer/supplier · tel: 0428 339 028 · 2026-08-02 Sales +5 |
 
 **字段说明：**
 
@@ -236,15 +241,15 @@
 
 ## 统计
 
-- Total buyers: **154**
-- Lead: **40**（含未发冷邮余量；#99 无邮箱 C；跳过池 #3/#6/#13/#15/#17 Bounce×2/#46/#48/#52）
+- Total buyers: **159**
+- Lead: **45**（含未发冷邮余量；#99 无邮箱 C；跳过池 #3/#6/#13/#15/#17 Bounce×2/#46/#48/#52）
 - Contacted: **113**
 - Replied: **1**（#41 BBQ Republic · Martin）
 - Quoted: 0
 - Won: 0
 - 已联系累计: **114**（Contacted + Replied）
 
-*同步：2026-07-31 Sales · +5 ICP #145–#149 · 今日应发冷邮 #109–#123 · Contacted 98 · 已联系 99*
+*同步：2026-08-02 Sales · Contacted≥100 停新冷邮 · 今日跟进批 #34–#51 · +5 ICP #155–#159 · Contacted 113 · 已联系 114*
 
 ### 账本协调结论（2026-07-20）
 
@@ -255,15 +260,16 @@
 | **已合入** | 远端独有有邮箱买家 → 本机 **#80–#92**（13 家） |
 | **跳过合入** | Moore Park BBQs（无邮箱）；远端与本机重复的 Home Heat / Outdoor Cook / Toowoomba 变体 |
 
-**收集批次：** … · 2026-07-20（#65–#79 本机）· 2026-07-20 合入云端独有（#80–#92）· 2026-07-26 Sales +5（#120–#124）· 2026-07-27 Sales +5（#125–#129）· 2026-07-28 Sales +5（#130–#134）· 2026-07-29 Sales +5（#135–#139）· 2026-07-30 Sales +5（#140–#144）· 2026-07-31 Sales +5（#145–#149）
+**收集批次：** … · 2026-07-20（#65–#79 本机）· 2026-07-20 合入云端独有（#80–#92）· 2026-07-26 Sales +5（#120–#124）· 2026-07-27 Sales +5（#125–#129）· 2026-07-28 Sales +5（#130–#134）· 2026-07-29 Sales +5（#135–#139）· 2026-07-30 Sales +5（#140–#144）· 2026-07-31 Sales +5（#145–#149）· 2026-08-01 Sales +5（#150–#154）· 2026-08-02 Sales +5（#155–#159）
 
-### 当前可发队列（2026-07-31 Sales）
+### 当前可发队列（2026-08-02 Sales）
 
 | 项 | 说明 |
 |----|------|
 | 已完成跟进 | **#19–#33**（2026-07-24）|
-| 下一批跟进 | #34–#48（跳过无邮箱） |
-| **今日已发冷邮（15）** | **#109–#123** ✅ 2026-08-01 |
-| 发后余量 | **#124–#144** + 新 ICP **#145–#149** |
+| **今日应跟进（15）** | **#34 #35 #36 #37 #38 #39 #40 #42 #43 #44 #45 #47 #49 #50 #51**（静默≥5 天 · 未跟进） |
+| 下一批跟进 | #53+ Contacted 静默（跳过 #101 Stop / 无邮箱） |
+| 新冷邮 | **暂停**（Contacted **113**≥100） |
+| Lead 余量（未冷邮） | **#124–#154** + 新 ICP **#155–#159** |
 | #99 Shriro | 无公开邮箱 · C |
 | 已联系累计 | **114 / 100** |
