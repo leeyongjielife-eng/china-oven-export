@@ -73,6 +73,8 @@
 
 账本写法（Notes）：`buyer_class: A|B|C · procurement: yes|unknown|no`；C 另加 `Do-not-contact`。
 
+**启发式注意：** `ICP:` 标签本身不等于 A——仅当值为 importer/distributor/own-brand/OEM 等采购权信号时才标 A；`ICP: outdoor-kitchen dealer` 等经销/安装信号应标 **B**。
+
 ## 已接触买家
 
 明细 → [`../workspace/buyers/pipeline.md`](../workspace/buyers/pipeline.md)  

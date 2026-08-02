@@ -2,20 +2,22 @@
 
 > 规则见 `company/customers.md`。与 `contact-ready` 无关。
 
+> 人工抽检纠偏：#49 B→A；#72/#116 B→C；#142 A→B。
+
 ## 统计
 
 | 类 | 总数 | Lead | Contacted+Replied |
 |----|------|------|-------------------|
-| A | 59 | 41 | 18 |
-| B | 47 | 2 | 45 |
-| C（Do-not-contact） | 53 | 2 | 51 |
+| A | 59 | 40 | 19 |
+| B | 45 | 3 | 42 |
+| C（Do-not-contact） | 55 | 2 | 53 |
 | **合计** | **159** | | |
 
 ## 闸门状态
 
 - 质量：新扩必须 100% A
-- 库存：A Lead = **41** → ✅ ≥20，库存闸门未触发
-- 去掉 C 后有效买家 ≈ **106**；有效已联系 ≈ **63**（<100 属预期）
+- 库存：A Lead = **40** → ✅ ≥20，库存闸门未触发
+- 去掉 C 后有效买家 ≈ **104**；有效已联系 ≈ **61**（<100 属预期）
 
 ## 可跟进 A（Contacted/Replied）
 
@@ -25,6 +27,7 @@
 - #10 Firebrand BBQ · Contacted
 - #20 Primal Hunter · Contacted
 - #44 Hark Enterprises · Contacted
+- #49 Tagwood BBQ Australia · Contacted
 - #64 BBQs Australia · Contacted
 - #92 Coleman Barbeques Australia · Contacted
 - #93 Seabreeze Supply Co · Contacted
@@ -62,7 +65,6 @@
 - #43 BBQ Bazaar · Contacted
 - #45 Hot Things · Contacted
 - #47 Wignells of Melbourne · Contacted
-- #49 Tagwood BBQ Australia · Contacted
 - #50 Oz BBQ · Contacted
 - #51 The Modern Cave · Contacted
 - #53 Outdoor Elegance · Contacted
@@ -71,7 +73,6 @@
 - #67 Alfresco Outdoors & Heating · Contacted
 - #68 Dune Outdoor Luxuries · Contacted
 - #69 Ellis Outdoor Living · Contacted
-- #72 Classic Fireplaces & Barbeques (Geelong) · Contacted
 - #73 Fireplaces WA · Contacted
 - #74 Central Coast Bricks and Heating · Contacted
 - #75 Pavers Plus · Contacted
@@ -84,7 +85,6 @@
 - #87 Chiminea & Aussie Heatwave · Contacted
 - #89 Melbourne Woodheating Centre · Contacted
 - #91 Getaway Outdoors Cockburn · Contacted
-- #116 Austrek Outdoor Adventure Centre · Contacted
 
 ## A Lead（可作新冷邮/补量池；本阶段停新冷邮时仅库存）
 
@@ -111,7 +111,6 @@
 - #139 Firehawk Grills
 - #140 Christie Barbecues (D A Christie)
 - #141 BBQ Ovens
-- #142 Perth Outdoor Kitchens
 - #143 WillBBQ
 - #144 Naara Charcoal
 - #145 ADBO WORLD
@@ -159,6 +158,7 @@
 - #66 Coastline Barbeques & Heating · Contacted
 - #70 Outdoor Living Jindalee · Contacted
 - #71 Outdoor Living Northside · Contacted
+- #72 Classic Fireplaces & Barbeques (Geelong) · Contacted
 - #76 Hawkesbury Heating · Contacted
 - #79 Inspired Outdoor Living · Contacted
 - #82 Rawsons Appliances · Contacted
@@ -182,6 +182,7 @@
 - #113 Barbeques Galore Hervey Bay · Contacted
 - #114 Barbeques Galore Ballina · Contacted
 - #115 Gladstone Camping Centre · Contacted
+- #116 Austrek Outdoor Adventure Centre · Contacted
 - #117 Compleat Angler Bathurst · Contacted
 - #118 Oasis Outdoor Living · Contacted
 - #119 Echuca Caravan & Outdoor · Contacted
