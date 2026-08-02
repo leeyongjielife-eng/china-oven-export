@@ -95,6 +95,16 @@ Australia — mid-size BBQ equipment distributors / specialty outdoor retailers
 - **Research Reset 门槛**：连续 **3** 个周日回复率 &lt;5% 才建议切换。计数：**第 2 个周日**（7/19、7/26）均 &lt;5% → **暂不**建议 `W3_RESEARCH_RESET`；若 **2026-08-02** 仍 &lt;5%，再明确建议 Founder 切换。
 - **建议**：保持澳洲单市场；周一继续跟进 `#34–#48` + 冷邮优先 ICP `#93–#98`；云端合入 `#100–#119`（多为 BBQG/Weber 区域店）发信优先级低于 ICP。
 
+### Week 3 周日轻量复核（2026-08-02）
+
+- **日期**：2026-08-02；执行 Research 轻量复核，不做正式 Research，不重选目标国，不改 `customers.md`。
+- **竞品观察**：澳洲 Kamado 高端零售价锚点仍合理；BGE Large 基础/巢架包约 **AUD $2,500–2,999**，KJ Classic III 本周促销低点可见 **AUD $2,799**，常见挂牌仍约 **AUD $3,099–3,599**。
+- **价格结论**：KJ 促销低点较 7/26 再下探，但不是结构性变价；澳洲零售价与中国 indicative 21" FOB **USD $255–316** 之间仍有渠道毛利空间，外联定价口径可继续使用。
+- **已更新**：`workspace/markets/competitor-benchmark.md` 验证日期与本周说明；`workspace/markets/keywords.md` 新增 **5** 个偏采购/进口/批发申请的关键词（#31–#35）。
+- **Sales 信号（本机 SSOT）**：已联系 **114** · 回复 **1** · 回复率约 **0.9%**。结合 7/19、7/26 记录，已连续 **3** 个周日 &lt;5%。
+- **Research Reset 建议**：按 `phases.md` 门槛，建议 Founder 在周复盘中切换或至少明确评估 `W3_RESEARCH_RESET`；Research 侧不直接改 `phases.md`，等待 Founder / Co-founder 决策。
+- **建议**：暂停继续扩大泛零售 buyer 画像，优先复盘已联系名单的 ICP 命中率、主题行、跟进节奏与渠道类型；若进入 Reset，仍以澳洲为第一市场，先调整 buyer 类型与价值主张，而非马上换国家。
+
 ---
 
 ## 数据来源
