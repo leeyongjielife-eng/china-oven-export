@@ -39,8 +39,8 @@
 
 - **Phase:** 0 — **`W3_OUTREACH`**（Week 3 外联进行中）→ 切换见 [`phases.md`](phases.md)
 - **瓶颈:** Contacted **113**≥100（**已停新冷邮**）；距 W4 还差回复≥5（当前回复 **1**）；主线改 **跟进静默 Contacted**
-- **优势:** 买家 **154**；Gmail MCP ✅；发信政策已统一（`今天发` · 15/工作日 · 云端不实发）；本机 Contacted SSOT 已合入 main
-- **今日主线:** Sales 跟进草稿 **#34–#51** + 扩 **#155+**；Co-founder 本机「今天发」（≥100 停新冷邮 · 周日不发冷邮）
+- **优势:** 买家 **159**；Gmail MCP ✅；发信政策已统一（`今天发` · 15/工作日 · 云端不实发）；本机 Contacted SSOT 已合入 main
+- **今日主线:** Sales 跟进草稿 **#34–#51** + 扩 **#155–#159** ✅；Co-founder 本机「今天发」（≥100 停新冷邮 · 周日不发冷邮）⏳
 - **暂不做:** 问叔叔（等 Replied/Qualified）；Bounce **不自动补**（须明说「改发备用」）；不切 W4；不派新冷邮队列
 
 ### Automation（2026-07-13 · 单 Run + Research）
@@ -132,7 +132,7 @@
 | P1 | 积满 **50 买家** | Sales | ✅ **139**；W3 外联池续扩 |
 | P1 | 外联草稿备齐 | Sales | 进行中；Kit Lee / indicative FOB |
 | P1 | 补联系人 A 级 | Sales | 持续补 |
-| P1 | 外联 100（定价话术见 `product.md` 定价策略） | Co-founder 本机跟进/冷邮 + Sales 草稿 | W3；KPI=真回复；已联系 **114** · Contacted **113**≥100 停新冷邮 · 回复 **1** · 今日跟进 #34–#51；扩 #155+ |
+| P1 | 外联 100（定价话术见 `product.md` 定价策略） | Co-founder 本机跟进/冷邮 + Sales 草稿 | W3；KPI=真回复；已联系 **114** · Contacted **113**≥100 停新冷邮 · 回复 **1** · 今日跟进 #34–#51；扩 #155–#159 |
 | P2 | 有回复后 → 向 YUEFU 要针对性 FOB | Supplier + Co-founder | 有 Qualified 后 |
 | P3 | 正式报价单 | Quoting | 有需求 + 厂价后 |
 
