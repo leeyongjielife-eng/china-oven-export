@@ -55,6 +55,18 @@
 | 29 | "outdoor cooking" "distributor" Australia -retail -"for sale" | Google | 户外烹饪分销（排除零售闲置） |
 | 30 | site:linkedin.com/in ("Managing Director" OR Purchasing) (kamado OR "charcoal grill") Australia | Google | 决策人级采购/总经理 |
 
+## 轻量复核新增关键词（2026-08-02）
+
+> 对齐当前回复率偏低信号：更偏采购、进口、批发申请与渠道合作意图，减少纯消费者零售结果。
+
+| # | Keyword | 平台 | 用途 |
+|---|---------|------|------|
+| 31 | "BBQ distributor" "request a quote" Australia kamado | Google | 找有 B2B 报价入口的分销商 |
+| 32 | "charcoal grill" "wholesale account" Australia | Google | 找开放批发账号的渠道商 |
+| 33 | "outdoor cooking" importer Australia "ceramic" | Google | 找户外烹饪进口商 + 陶瓷相关结果 |
+| 34 | "kamado" "dealer enquiry" Australia | Google | 找可发展经销/代理合作的渠道 |
+| 35 | site:linkedin.com/company Australia "outdoor cooking" "importer" | Google | 找公司页级进口商线索 |
+
 ## 行业专属（效率高于泛搜索）
 
 ```
