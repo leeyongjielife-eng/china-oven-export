@@ -1347,7 +1347,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #124 SMART-LINK Homewares — importer/wholesaler outdoor cooking
 
-> 2026-07-26 对齐 · ICP importer/distributor · **未发送**
+> 2026-07-26 对齐 · ICP importer/distributor · **已发送 2026-08-03**
 
 **Subject:** SMART-LINK — ceramic kamado for outdoor retail accounts?
 
@@ -1367,7 +1367,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #125 FYR Republic — own-brand ceramic kamado
 
-> 2026-07-27 新草稿 · ICP own-brand · **未发送**
+> 2026-07-27 新草稿 · ICP own-brand · **已发送 2026-08-03**
 
 **Subject:** FYR Republic — complementary ceramic kamado / OEM option?
 
@@ -1387,7 +1387,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #126 Keverton Outdoor — Saffire kamado distributor
 
-> 2026-07-27 新草稿 · ICP distributor · **未发送**
+> 2026-07-27 新草稿 · ICP distributor · **已发送 2026-08-03**
 
 **Subject:** Keverton — complementary ceramic kamado beside Saffire?
 
@@ -1407,7 +1407,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #127 Grandfire BBQs — own-brand kamado / outdoor kitchens
 
-> 2026-07-27 新草稿 · ICP own-brand · **未发送**
+> 2026-07-27 新草稿 · ICP own-brand · **已发送 2026-08-03**
 
 **Subject:** Grandfire — complementary ceramic kamado SKU?
 
@@ -1427,7 +1427,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #128 Artis Fireplaces — own-brand wood-fired / outdoor
 
-> 2026-07-27 新草稿 · ICP own-brand · **未发送**
+> 2026-07-27 新草稿 · ICP own-brand · **已发送 2026-08-03**
 
 **Subject:** Artis — complementary ceramic charcoal kamado?
 
@@ -1447,7 +1447,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #129 ProQ BBQs & Smokers Australia — importer/distributor
 
-> 2026-07-27 新草稿 · ICP importer/distributor · **未发送**
+> 2026-07-27 新草稿 · ICP importer/distributor · **已发送 2026-08-03**
 
 **Subject:** ProQ Australia — ceramic kamado beside your smoker network?
 
@@ -1467,7 +1467,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #130 Greenplate — own-brand commercial electric/solar BBQ
 
-> 2026-07-28 新草稿 · ICP own-brand · **未发送**
+> 2026-07-28 新草稿 · ICP own-brand · **已发送 2026-08-03**
 
 **Subject:** Greenplate — complementary ceramic charcoal kamado?
 
@@ -1487,7 +1487,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #131 The Fire Pit Co — own-brand flat-pack fire pits / BBQ kits
 
-> 2026-07-28 新草稿 · ICP own-brand · **未发送**
+> 2026-07-28 新草稿 · ICP own-brand · **已发送 2026-08-03**
 
 **Subject:** Fire Pit Co — complementary ceramic kamado / OEM?
 
@@ -1507,7 +1507,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #132 HiBBQ — charcoal / portable BBQ importer
 
-> 2026-07-28 新草稿 · ICP importer/distributor · **未发送**
+> 2026-07-28 新草稿 · ICP importer/distributor · **已发送 2026-08-03**
 
 **Subject:** HiBBQ — ceramic kamado beside your charcoal range?
 
@@ -1527,7 +1527,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #133 BlueTongue BBQs — own-brand ChefMaster outdoor kitchens
 
-> 2026-07-28 新草稿 · ICP own-brand · **未发送**
+> 2026-07-28 新草稿 · ICP own-brand · **已发送 2026-08-03**
 
 **Subject:** BlueTongue / ChefMaster — complementary ceramic kamado?
 
@@ -1547,7 +1547,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #134 Exim International (Napoleon AU) — distributor
 
-> 2026-07-28 新草稿 · ICP distributor · **未发送**
+> 2026-07-28 新草稿 · ICP distributor · **已发送 2026-08-03**
 
 **Subject:** Exim / Napoleon AU — complementary ceramic kamado?
 
@@ -1568,7 +1568,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #135 Heat Beads (Australian Char) — charcoal manufacturer / stockist network
 
-> 2026-07-29 新草稿 · ICP distributor/own-brand · **未发送**
+> 2026-07-29 新草稿 · ICP distributor/own-brand · **已发送 2026-08-03**
 
 **Subject:** Heat Beads — complementary ceramic kamado beside your fuel network?
 
@@ -1588,7 +1588,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #136 PARKQUIP — commercial outdoor BBQ manufacturer
 
-> 2026-07-29 新草稿 · ICP own-brand · **未发送**
+> 2026-07-29 新草稿 · ICP own-brand · **已发送 2026-08-03**
 
 **Subject:** PARKQUIP — complementary ceramic charcoal kamado?
 
@@ -1608,7 +1608,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #137 Grillo Outdoor Kitchens — own-brand Gusto kamado
 
-> 2026-07-29 新草稿 · ICP own-brand · **未发送**
+> 2026-07-29 新草稿 · ICP own-brand · **已发送 2026-08-03**
 
 **Subject:** Grillo — complementary ceramic kamado / OEM beside Gusto?
 
@@ -1628,7 +1628,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #138 Crossray BBQ — own-brand infrared / outdoor kitchens
 
-> 2026-07-29 新草稿 · ICP own-brand · **未发送**
+> 2026-07-29 新草稿 · ICP own-brand · **已发送 2026-08-03**
 
 **Subject:** Crossray — complementary ceramic charcoal kamado?
 

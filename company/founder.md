@@ -38,10 +38,10 @@
 ## 当前阶段判断
 
 - **Phase:** 0 — **`W3_OUTREACH`** + **A 软切 + 选项 2**（开 A Lead 冷邮；**未**切 Research Reset）
-- **瓶颈:** 回复 **1**/5；Martin 视为凉；主线 = **对库存 A Lead 发首封**（不找新名）
-- **优势:** A Lead 可发邮箱约 **38**；buyer_class 已清洗；停 Sales 日扩
-- **今日主线:** 落地选项 2 SSOT + 周一冷邮队列 **#124–#138**
-- **暂不做:** 日扩 +5；跟进/冷邮 B/C；催 #41；问叔叔；硬切；换国（**8/9** 再评）
+- **瓶颈:** 回复 **1**/5；Martin 暂不催；主线 = **继续 A Lead 冷邮**（下批 `#139+`）
+- **优势:** 今日冷邮 **#124–#138** 15/15 ✅；A Contacted **34**；A Lead 余 **25**
+- **今日主线:** 「今天发」A Lead `#124–#138` ✅
+- **暂不做:** 日扩 +5；B/C；催 #41；问叔叔；硬切（**8/9** 再评）
 
 ### Automation（2026-07-13 · 单 Run + Research）
 
@@ -156,6 +156,7 @@
 
 | 日期 | 调度 | 任务 | 结果写回 |
 |------|------|------|----------|
+| 2026-08-03 | Co-founder 本机 | 「今天发」A Lead 冷邮 #124–#138 15/15 | `pipeline.md` · `outreach-drafts.md` · `sales.md` |
 | 2026-08-03 | **选项 2 落地** | 放宽 ≥100 停冷邮例外：仅 A Lead 可首封；停日扩；#41 暂不催；周一队列 #124–#138 | `strategy.md` · `cofounder.md` · `today.md` · `pipeline.md` |
 | 2026-08-02 | **A 软切落地** | Co-founder 选 A：保持 W3；停日扩；跟进仅 buyer_class A；8/9 评估正式 Research | `strategy.md` · `founder.md` · `phases.md` · `workflows/sales.md` · `today.md` |
 | 2026-08-02 | **buyer_class 落地** | 规则+闸门写入 customers/cofounder/strategy/workflows/phases；pipeline 全量打标；抽检纠偏后 A59/B45/C55 | `customers.md` · `pipeline.md` · `buyer-class-summary.md` · `sales.md` · `founder.md` |
