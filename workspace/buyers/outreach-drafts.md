@@ -1387,7 +1387,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #126 Keverton Outdoor — Saffire kamado distributor
 
-> 2026-07-27 新草稿 · ICP distributor · **已发送 2026-08-03**
+> 2026-07-27 新草稿 · ICP distributor · **已发送 2026-08-03** → **Bounce 同日**（domain not found）· 不自动改发
 
 **Subject:** Keverton — complementary ceramic kamado beside Saffire?
 
