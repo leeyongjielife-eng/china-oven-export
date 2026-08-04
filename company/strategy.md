@@ -58,6 +58,7 @@
 | 2026-08-02 | **buyer_class A/B/C + 闸门** | C=Do-not-contact（全渠道）；新扩仅 A。质量闸门=新扩 100% A；库存闸门=`A Lead<20` 或「有扩量任务净增 A=0」→ 必须补 A |
 | 2026-08-02 | **Research Reset → A 软切（Co-founder 拍板）** | 保持 `W3_OUTREACH` + 澳；**暂停 Sales 日扩 +5**；跟进/冷邮 **仅 buyer_class A**；C 停联；B 暂不跟进；**2026-08-09** 再评估正式 Research。**不改 phase_id** |
 | 2026-08-03 | **A 软切 + 开 A Lead 冷邮（选项 2）** | 仍不找新公司名。**例外放宽**「Contacted≥100 停新冷邮」：日配额可对 **A Lead** 发首封；已 Contacted 的 A 可穿插跟进。#41 Martin 视为凉（暂不催）。B/C 仍不发 |
+| 2026-08-04 | **8/9 Research 复评日历锁定** | 软切续至复评日；**2026-08-09** 前不执行 `正式Research` / 不硬切。当日 Founder 三选：续软切 / 硬切 Reset / 正式 Research |
 
 ## 风险与应对
 

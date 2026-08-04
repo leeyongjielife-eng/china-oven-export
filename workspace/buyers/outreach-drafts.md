@@ -1648,7 +1648,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #139 Firehawk Grills — own-brand kamado / pellet
 
-> 2026-08-04 Sales 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
+> 2026-07-29 新草稿 · ICP own-brand · **已发送 2026-08-04**
 
 **Subject:** Firehawk — complementary ceramic kamado SKU / OEM?
 
@@ -1669,7 +1669,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #140 Christie Barbecues — commercial park BBQ manufacturer
 
-> 2026-08-04 Sales 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
+> 2026-07-30 新草稿 · ICP own-brand · **已发送 2026-08-04**
 
 **Subject:** Christie — complementary ceramic charcoal kamado for hospitality projects?
 
@@ -1689,7 +1689,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #141 BBQ Ovens — European woodfire / spit importer
 
-> 2026-08-04 Sales 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
+> 2026-07-30 新草稿 · ICP importer · **已发送 2026-08-04**
 
 **Subject:** BBQ Ovens — complementary ceramic kamado beside woodfire / spit range?
 
@@ -1729,7 +1729,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #143 WillBBQ — charcoal hibachi importer / own brand
 
-> 2026-08-04 Sales 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
+> 2026-07-30 新草稿 · ICP own-brand/importer · **已发送 2026-08-04**
 
 **Subject:** WillBBQ — complementary ceramic kamado beside hibachi charcoal line?
 
@@ -1749,7 +1749,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #144 Naara Charcoal — charcoal manufacturer / distributor
 
-> 2026-08-04 Sales 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
+> 2026-07-30 新草稿 · ICP distributor · **已发送 2026-08-04**
 
 **Subject:** Naara Charcoal — complementary ceramic kamado beside your fuel network?
 
@@ -1769,7 +1769,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #145 ADBO WORLD — own-brand outdoor kitchen / BBQ supplier
 
-> 2026-08-04 Sales 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
+> 2026-07-31 新草稿 · ICP own-brand · **已发送 2026-08-04**
 
 **Subject:** ADBO — complementary ceramic charcoal kamado for AU outdoor kitchens?
 
@@ -1789,7 +1789,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #146 Konoba BBQ — own-brand Argentine / outdoor grill brand
 
-> 2026-08-04 Sales 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
+> 2026-07-31 新草稿 · ICP own-brand · **已发送 2026-08-04**
 
 **Subject:** Konoba — complementary ceramic kamado beside Argentine grill range?
 
@@ -1809,7 +1809,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #147 Polito Wood Fire Ovens — AU-made wood-fire oven manufacturer
 
-> 2026-08-04 Sales 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
+> 2026-07-31 新草稿 · ICP own-brand · **已发送 2026-08-04**
 
 **Subject:** Polito — complementary ceramic kamado beside wood-fire ovens?
 
@@ -1829,7 +1829,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #148 All Char Trading (Nature Flame) — charcoal distributor
 
-> 2026-08-04 Sales 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
+> 2026-07-31 新草稿 · ICP distributor · **已发送 2026-08-04**
 
 **Subject:** All Char — complementary ceramic kamado beside your fuel network?
 
@@ -1849,7 +1849,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #149 Creative Pizza Ovens — wood-fired oven brand / franchise
 
-> 2026-08-04 Sales 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
+> 2026-07-31 新草稿 · ICP own-brand · **已发送 2026-08-04**
 
 **Subject:** Creative Pizza Ovens — complementary ceramic kamado for franchise / DIY outdoor?
 
@@ -1870,7 +1870,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #150 Forno Alfresco — SA wood-fired / Fiama charcoal BBQ
 
-> 2026-08-04 Sales 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
+> 2026-08-01 新草稿 · ICP own-brand · **已发送 2026-08-04**
 
 **Subject:** Forno Alfresco — complementary ceramic charcoal kamado beside Fiama builds?
 
@@ -1890,7 +1890,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #151 Garth Australia (Fornetto) — OEM BBQ manufacturer / Fornetto brand
 
-> 2026-08-04 Sales 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
+> 2026-08-01 新草稿 · ICP own-brand/OEM · **已发送 2026-08-04**
 
 **Subject:** Garth / Fornetto — complementary ceramic kamado for AU outdoor cooking?
 
@@ -1910,7 +1910,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #152 Gaucho BBQ Grills — own-brand Argentine parrilla
 
-> 2026-08-04 Sales 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
+> 2026-08-01 新草稿 · ICP own-brand · **已发送 2026-08-04**
 
 **Subject:** Gaucho — complementary ceramic kamado beside Argentine parrilla range?
 
@@ -1930,7 +1930,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #153 Argie Grillz — portable Argentine parrilla + charcoal importer
 
-> 2026-08-04 Sales 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
+> 2026-08-01 新草稿 · ICP own-brand/importer · **已发送 2026-08-04**
 
 **Subject:** Argie Grillz — complementary ceramic kamado beside your charcoal network?
 
@@ -1950,7 +1950,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #154 Jalando Pizza Ovens — AU-designed wood-fired oven brand
 
-> 2026-08-04 Sales 对齐复核 · Kit Lee · Foshan · indicative FOB · **未发送**
+> 2026-08-01 新草稿 · ICP own-brand · **已发送 2026-08-04**
 
 **Subject:** Jalando — complementary ceramic kamado for alfresco charcoal side?
 
