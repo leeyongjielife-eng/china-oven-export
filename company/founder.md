@@ -60,8 +60,8 @@
 
 | 优先级 | 谁 | 任务 | 状态 |
 |:---:|------|------|:---:|
-| **P0** | **Sales** | 对齐 A Lead 首封草稿 **#139 #140 #141 #143 #144 #145 #146 #147 #148 #149 #150 #151 #152 #153 #154**（15；Kit Lee · indicative FOB） | ⏳ `today.md` pending |
-| **P1** | **Sales** | **暂停日扩 +5**（A Lead **26** ≥ 20） | ⏳ |
+| **P0** | **Sales** | 对齐 A Lead 首封草稿 **#139 #140 #141 #143 #144 #145 #146 #147 #148 #149 #150 #151 #152 #153 #154**（15；Kit Lee · indicative FOB） | ✅ `today.md` done |
+| **P1** | **Sales** | **暂停日扩 +5**（A Lead **26** ≥ 20） | ✅ 未扩名 |
 | **P0** | **Co-founder / 本机** | 说「**今天发**」15 封（Gmail 仅本机）· 选项 2 A Lead 冷邮 | ⏳ |
 | ⏸️ | — | 不问叔叔；不切 Research Reset；#6/#17/#126 Bounce 不自动补；禁 B/C；#41 暂不催 | ✅ |
 
@@ -157,6 +157,7 @@
 
 | 日期 | 调度 | 任务 | 结果写回 |
 |------|------|------|----------|
+| 2026-08-04 | Sales 完成 | W3：对齐 A Lead `#139 #140 #141 #143–#154`；停日扩；未发信、未标 Contacted；待本机「今天发」 | `outreach-drafts.md` · `sales.md` · `today.md` done |
 | 2026-08-04 | Founder → Sales | W3：阶段保持 W3；选项 2 → P0 对齐 A Lead `#139 #140 #141 #143–#154`；P1 停日扩；Co-founder 本机「今天发」15；禁止 Gmail | `today.md` pending |
 | 2026-08-03 | Co-founder 本机 | 「今天发」A Lead 冷邮 #124–#138 15/15 | `pipeline.md` · `outreach-drafts.md` · `sales.md` |
 | 2026-08-03 | **选项 2 落地** | 放宽 ≥100 停冷邮例外：仅 A Lead 可首封；停日扩；#41 暂不催；周一队列 #124–#138 | `strategy.md` · `cofounder.md` · `today.md` · `pipeline.md` |
