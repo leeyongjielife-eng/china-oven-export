@@ -7,44 +7,38 @@
 | 日期 | 2026-08-06 |
 | status | **done** |
 | 派发 | Founder |
-| 执行 | Sales（云端）/ 本机发信 |
+| 执行 | Sales（云端对齐）/ 本机发信 |
 
 ---
 
 ## 背景（指针，不复制战略）
 
 - 排期来源：[`company/founder.md`](../../company/founder.md)
-- 当前阶段：`W3_OUTREACH` + **A 软切 + 选项 2**（至 8/9；**优先于**通用「Contacted≥100 停冷邮」）
-- 账本：买家 **173** · 已联系 **148** · Contacted **147** · Replied **1** · **A Lead=20**（发前）
-- 可发 A Lead 余量：`#160–#168`（9；跳过 #3/#13/#15；Bounce #6/#17/#126 不自动补；#46/#99 无邮箱）
+- 当前阶段：`W3_OUTREACH` + **A 软切 + 选项 2**
+- 账本：买家 **173** · Contacted **155** · Replied **1** · **A Lead=12&lt;20 → 库存闸门再触发**
+- **今日已发：** 冷邮 `#160–#168`（9）+ A Contacted 跟进 **6**（`#4 #10 #20 #64 #92 #97`）= **15/15**
+- 云端曾对齐跟进 `#124–#130`；本机实际跟进批为上列 6（已发出，不重发）
 
 ---
 
 ## Sales 任务
 
-### P0 — 对齐 A Lead 首封 + 列出今日应发 #
+### P1 — 库存闸门：补 A
 
-- [x] 对齐 `#160–#168` 首封草稿（Kit Lee · Foshan, China · indicative FOB）
-- [x] 补 Template 3 跟进草稿（凑满 15）：`#124 #125 #127 #128 #129 #130`
-- [x] **今日应发 #（15，待本机「今天发」）：** 冷邮 `#160 #161 #162 #163 #164 #165 #166 #167 #168` + 跟进 `#124 #125 #127 #128 #129 #130`
-- [x] **禁止** Gmail 实发；**禁止**因本 Run 标 Contacted
+- [x] 云端新增 **5** 家 A `#169–#173`（Stonewood / Advanced Pods / Hibachi Tabo / Pyro / Mayo Matador）
+- [x] Notes 标 `buyer_class: A · procurement: yes`；首封草稿已备
 
-### P1 — 库存闸门：补 A（+5）
+### P0 — 发信
 
-- [x] 新增 **5** 家 `buyer_class: A` `#169–#173`（澳洲；有可发邮箱）
-- [x] Notes 标 `buyer_class: A · procurement: yes`
-- [x] 新买家补首封草稿；同步 `sales.md`
-
-### Co-founder 待办（一行）
-
-- 本机说 **「今天发」** → 发满上列 **15** 封（Gmail 仅本机，非本 Automation）
+- [x] `#160–#168` 首封草稿对齐
+- [x] 本机「今天发」冷 9 + 跟进 6 = **15/15**
 
 ---
 
 ## 约束
 
-- 云端禁止 Gmail；不问叔叔；Bounce 不自动补；禁催 #41；禁 B/C 冷邮/跟进
-- 软切续至 **8/9**；选项 2：P0=A Lead 首封（可穿插 A 跟进）
+- 云端禁止 Gmail；不问叔叔；Bounce 不自动补；禁催 #41；禁 B/C
+- 软切续至 **8/9**；**A Lead&lt;20 明日须再补 A**
 
 ---
 
@@ -53,11 +47,11 @@
 | 项 | 值 |
 |----|-----|
 | 完成时间 | 2026-08-06 |
-| P0 结果 | 对齐冷 9 + 跟进 6 草稿 ✅；应发 15 待本机；**未发信、未标 Contacted** |
-| P1 结果 | `#169–#173` 5 家 A ✅（Stonewood / Advanced Pods / Hibachi Tabo / Pyro Designs / Mayo Matador） |
-| 漏斗 | 买家 173 · Contacted 147 · Replied 1 · A Lead 20 |
-| 写入文件 | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `today.md` |
-| 新可发序号 | 今日 15 待发；发后新冷池 `#169–#173`；若 A Lead&lt;20 明日再补 |
+| P0 结果 | 冷 9/9 + 跟进 6/6 = **15/15** ✅ |
+| P1 结果 | `#169–#173` 5 家 A ✅（保留云端名单） |
+| 漏斗 | 买家 173 · Contacted 155 · Replied 1 · A Lead 12 |
+| 写入文件 | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `founder.md` |
+| 新可发序号 | 新冷 `#169–#173`；须再补 A 至 ≥20 |
 
 ---
 
@@ -65,5 +59,6 @@
 
 | 项 | 值 |
 |----|-----|
-| 签收时间 | |
-| 结论 | |
+| 签收时间 | 2026-08-06 |
+| 结论 | 今日配额完成；库存闸门明日续补 A |
+|

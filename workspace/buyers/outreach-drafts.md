@@ -2304,7 +2304,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #158 Master Grill — own-brand kamado / outdoor kitchen
 
-> 2026-08-05 已发送 msg:19fd094107b6f154
+> 2026-08-05 已发送 msg:19fd094107b6f154 · **Bounce** DSN 19fd0942c5aec076（553 no mailbox）
 
 **Subject:** Master Grill — factory-direct ceramic kamado / OEM?
 
@@ -2525,7 +2525,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #160 GenesisCorp / Pit Boss AU
 
-> 2026-08-05 新草稿 · ICP A · **未发送**
+> 2026-08-06 已发送 msg:19fd5f71499a9aac
 
 **Subject:** GenesisCorp — complementary ceramic kamado / OEM beside Pit Boss?
 
@@ -2545,7 +2545,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #161 HHIG / Fire Magic
 
-> 2026-08-05 新草稿 · ICP A · **未发送**
+> 2026-08-06 已发送 msg:19fd5f75bb82105e
 
 **Subject:** HHIG — complementary ceramic kamado for Fire Magic outdoor kitchens?
 
@@ -2565,7 +2565,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #162 Grillhound
 
-> 2026-08-05 新草稿 · ICP A · **未发送**
+> 2026-08-06 已发送 msg:19fd5f797ee13dfe
 
 **Subject:** Grillhound — complementary ceramic kamado for outdoor kitchen packages?
 
@@ -2585,7 +2585,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #163 Fire Pit Company
 
-> 2026-08-05 新草稿 · ICP A · **未发送**
+> 2026-08-06 已发送 msg:19fd5f7dcbf0b63f
 
 **Subject:** Fire Pit Company — complementary ceramic kamado beside wholesale fire pits?
 
@@ -2605,7 +2605,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #164 Euro Appliances
 
-> 2026-08-05 新草稿 · ICP A · **未发送**
+> 2026-08-06 已发送 msg:19fd5f819088e21f
 
 **Subject:** Euro Appliances — complementary ceramic kamado for alfresco channel?
 
@@ -2625,7 +2625,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #165 Euro Alfresco
 
-> 2026-08-05 新草稿 · ICP A · **未发送**
+> 2026-08-06 已发送 msg:19fd5f85ee2d41a4
 
 **Subject:** Euro Alfresco — complementary ceramic kamado for outdoor kitchen builds?
 
@@ -2645,7 +2645,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #166 Bar Fridges Australia
 
-> 2026-08-05 新草稿 · ICP A · **未发送**
+> 2026-08-06 已发送 msg:19fd5f89856d2078
 
 **Subject:** Bar Fridges Australia — complementary ceramic kamado beside Rhino alfresco?
 
@@ -2665,7 +2665,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #167 Masport Australia
 
-> 2026-08-05 新草稿 · ICP A · **未发送**
+> 2026-08-06 已发送 msg:19fd5f8d7616c98f
 
 **Subject:** Masport — complementary ceramic kamado beside Masport BBQ range?
 
@@ -2685,7 +2685,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #168 Jetmaster
 
-> 2026-08-05 新草稿 · ICP A · **未发送**
+> 2026-08-06 已发送 msg:19fd5f9171367304
 
 **Subject:** Jetmaster — complementary ceramic kamado beside outdoor fires?
 
@@ -2703,13 +2703,9 @@ Export — YUEFU BBQ, Foshan, China
 
 ---
 
-## 跟进草稿 — 今日批 #124–#130（2026-08-06 · Template 3 · 跳过 #126 Bounce）
+### #4 Wildflame Outdoors — 跟进
 
-> 选项 2 · A Contacted 静默≥3 天 · Kit Lee · Foshan · **未发送**（待本机「今天发」）
-
-### #124 SMART-LINK — 跟进
-
-> 2026-08-06 对齐 · **未发送**
+> 2026-08-06 对齐 · **已发送** msg:19fd5f953105b61b
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -2743,9 +2739,9 @@ Export — YUEFU BBQ, Foshan, China
 
 ---
 
-### #127 Grandfire BBQs — 跟进
+### #10 Firebrand BBQ — 跟进
 
-> 2026-08-06 对齐 · **未发送**
+> 2026-08-06 对齐 · **已发送** msg:19fd5f987fb096c1
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -2761,9 +2757,9 @@ Export — YUEFU BBQ, Foshan, China
 
 ---
 
-### #128 Artis Fireplaces — 跟进
+### #20 Primal Hunter — 跟进
 
-> 2026-08-06 对齐 · **未发送**
+> 2026-08-06 对齐 · **已发送** msg:19fd5f9b989fa0bd
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -2779,9 +2775,9 @@ Export — YUEFU BBQ, Foshan, China
 
 ---
 
-### #129 ProQ BBQs & Smokers — 跟进
+### #64 BBQs Australia — 跟进
 
-> 2026-08-06 对齐 · **未发送**
+> 2026-08-06 对齐 · **已发送** msg:19fd5f9f5046366a
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -2797,9 +2793,9 @@ Export — YUEFU BBQ, Foshan, China
 
 ---
 
-### #130 Greenplate — 跟进
+### #92 Coleman Barbeques Australia — 跟进
 
-> 2026-08-06 对齐 · **未发送**
+> 2026-08-06 对齐 · **已发送** msg:19fd5fa25d34ceb4
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -2815,15 +2811,33 @@ Export — YUEFU BBQ, Foshan, China
 
 ---
 
-## #169 Stonewood Outdoor Kitchens
+### #97 Adventure Operations (Ozpig) — 跟进
 
-> 2026-08-06 新草稿 · ICP A · **未发送**
+> 2026-08-06 对齐 · **已发送** msg:19fd5fa55e869e07
 
-**Subject:** Stonewood — complementary ceramic kamado for outdoor kitchen packages?
+**Subject:** Re: Kamado grills — product overview
 
 Hi there,
 
-Stonewood already builds AU-made outdoor kitchens (aluminum / porcelain / Spotted Gum) — and kamado shows up in your project imagery. Asking whether a factory-direct ceramic charcoal kamado would fit as a charcoal option inside packages.
+Just following up on my note about ceramic kamados beside Ozpig outdoor cooking range.
+
+Happy to resend a short one-pager (indicative FOB, not locked). No pressure if timing isn't right.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #169 Cabinex
+
+> 2026-08-06 新草稿 · ICP A · **未发送**
+
+**Subject:** Cabinex — complementary ceramic kamado for outdoor kitchen packages?
+
+Hi there,
+
+Cabinex already designs and ships modular outdoor BBQ kitchens AU-wide — asking whether a complementary factory-direct ceramic charcoal kamado would fit as a charcoal option inside outdoor kitchen packages.
 
 I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
 
