@@ -2703,6 +2703,218 @@ Export — YUEFU BBQ, Foshan, China
 
 ---
 
+## 跟进草稿 — 今日批 #124–#130（2026-08-06 · Template 3 · 跳过 #126 Bounce）
+
+> 选项 2 · A Contacted 静默≥3 天 · Kit Lee · Foshan · **未发送**（待本机「今天发」）
+
+### #124 SMART-LINK — 跟进
+
+> 2026-08-06 对齐 · **未发送**
+
+**Subject:** Re: Kamado grills — product overview
+
+Hi there,
+
+Just following up on my note about factory-direct ceramic kamados for your outdoor retail accounts (EN1860-1; indicative 21" FOB ~USD 255–316, not locked).
+
+Happy to resend a short one-pager if useful. No pressure if timing isn't right.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+### #125 FYR Republic — 跟进
+
+> 2026-08-06 对齐 · **未发送**
+
+**Subject:** Re: Kamado grills — product overview
+
+Hi there,
+
+Just following up on my note about a complementary ceramic kamado / OEM option beside FYR.
+
+Happy to resend a short one-pager (indicative FOB, not locked). No pressure if timing isn't right.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+### #127 Grandfire BBQs — 跟进
+
+> 2026-08-06 对齐 · **未发送**
+
+**Subject:** Re: Kamado grills — product overview
+
+Hi there,
+
+Just following up on my note about complementary ceramic kamados beside Grandfire outdoor kitchens / kamado lines.
+
+Happy to resend a short one-pager (indicative FOB, not locked). No pressure if timing isn't right.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+### #128 Artis Fireplaces — 跟进
+
+> 2026-08-06 对齐 · **未发送**
+
+**Subject:** Re: Kamado grills — product overview
+
+Hi there,
+
+Just following up on my note about complementary ceramic charcoal kamados beside Artis wood-fired / outdoor cooking.
+
+Happy to resend a short one-pager (indicative FOB, not locked). No pressure if timing isn't right.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+### #129 ProQ BBQs & Smokers — 跟进
+
+> 2026-08-06 对齐 · **未发送**
+
+**Subject:** Re: Kamado grills — product overview
+
+Hi there,
+
+Just following up on my note about complementary ceramic kamados beside ProQ smokers / charcoal BBQ for your dealer network.
+
+Happy to resend a short one-pager (indicative FOB, not locked). No pressure if timing isn't right.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+### #130 Greenplate — 跟进
+
+> 2026-08-06 对齐 · **未发送**
+
+**Subject:** Re: Kamado grills — product overview
+
+Hi there,
+
+Just following up on my note about complementary ceramic charcoal kamados beside Greenplate commercial outdoor BBQ lines.
+
+Happy to resend a short one-pager (indicative FOB, not locked). No pressure if timing isn't right.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #169 Stonewood Outdoor Kitchens
+
+> 2026-08-06 新草稿 · ICP A · **未发送**
+
+**Subject:** Stonewood — complementary ceramic kamado for outdoor kitchen packages?
+
+Hi there,
+
+Stonewood already builds AU-made outdoor kitchens (aluminum / porcelain / Spotted Gum) — and kamado shows up in your project imagery. Asking whether a factory-direct ceramic charcoal kamado would fit as a charcoal option inside packages.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager; if timing isn't right, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #170 Advanced Pods
+
+> 2026-08-06 新草稿 · ICP A · **未发送**
+
+**Subject:** Advanced Pods — complementary ceramic kamado for outdoor kitchen pods?
+
+Hi there,
+
+Advanced Pods already designs stainless outdoor kitchen pods for AU homes — asking whether a complementary factory-direct ceramic charcoal kamado would fit as a charcoal option inside pod packages.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager; if timing isn't right, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #171 Hibachi Tabo / Fifteen Degrees by Design
+
+> 2026-08-06 新草稿 · ICP A · **未发送**
+
+**Subject:** Hibachi Tabo — complementary ceramic kamado beside charcoal grills?
+
+Hi there,
+
+Hibachi Tabo already designs and makes charcoal hibachi / grills in WA (plus Binchotan supply) — wondering if a complementary factory-direct ceramic charcoal kamado would expand the charcoal assortment for chefs and serious backyard cooks.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager; if timing isn't right, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #172 Pyro Designs
+
+> 2026-08-06 新草稿 · ICP A · **未发送**
+
+**Subject:** Pyro Designs — complementary ceramic kamado for Perth alfresco kitchens?
+
+Hi there,
+
+Pyro Designs already custom-builds alfresco kitchens in Perth — asking whether a complementary factory-direct ceramic charcoal kamado would fit as a charcoal option inside those kitchens.
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager; if timing isn't right, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
+## #173 Mayo Hardware (Matador / Ignite)
+
+> 2026-08-06 新草稿 · ICP A · **未发送**
+
+**Subject:** Mayo / Matador — complementary ceramic kamado beside Matador BBQ?
+
+Hi there,
+
+Mayo Hardware already brings Matador / Ignite BBQs to AU retail (incl. Bunnings) and works with China manufacturing — asking whether a complementary factory-direct ceramic charcoal kamado would expand the charcoal assortment beside Matador gas lines (OEM available).
+
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+
+Reply YES for a 1-pager; if timing isn't right, say so and I'll stop.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+
+---
+
 ## 待补充草稿（Week 3）
 
-Contacted **113**≥100 → **停新冷邮**。今日跟进批 **#34–#51**（15 · 草稿已备 · 待本机）。Lead 余量 **#124–#154** + 新 ICP **#155–#159**。跳过 #3/#13/#15；#6/#17 Bounce 不自动改发；#101 Stop 勿跟进。
+选项 2 · 今日应发批 **冷邮 `#160–#168`（9）+ 跟进 `#124 #125 #127 #128 #129 #130`（6）=15** · 草稿已备 · 待本机「今天发」。新 A Lead `#169–#173` 明日池。跳过 #3/#13/#15；#6/#17/#126 Bounce 不自动改发；#41 暂不催；禁 B/C。

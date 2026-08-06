@@ -25,7 +25,7 @@
 |------|----------|
 | 业务 | 中国 Kamado 陶瓷烤炉出口寻源 |
 | 产品 | 18" / 21" 主推，供应商 YUEFU BBQ（佛山） |
-| 阶段 | Phase 0 验证期，0 客户；买家 **168** · 已联系 **148/100** · Contacted **147** |
+| 阶段 | Phase 0 验证期，0 客户；买家 **173** · 已联系 **148/100** · Contacted **147** |
 | **当前 phase** | **`W3_OUTREACH`**（详见 [`phases.md`](phases.md)） |
 | 战略 | 一个资源 → 一个市场 → 一个报价 |
 | 定位 | 寻源顾问，降风险，非最低价噱头 |
@@ -152,6 +152,7 @@
 
 | 日期 | 调度 | 任务 | 结果写回 |
 |------|------|------|----------|
+| 2026-08-06 | **Sales 完成** | W3：对齐应发冷 `#160–#168` + 跟进 `#124–#130`（15）；补 A `#169–#173`；未发信、未标 Contacted | `pipeline.md` 173 · `outreach-drafts.md` · `sales.md` · `today.md` done |
 | 2026-08-06 | **Founder → Sales** | W3：阶段保持 W3；选项 2 → P0 对齐 A Lead `#160–#168` + 跟进 `#124–#130`（跳#126）共 15；P1 库存闸门补 A `#169+`；Co-founder 本机「今天发」；禁止 Gmail | `today.md` pending |
 | 2026-08-04 | Co-founder 本机 | 「今天发」A Lead `#139–#154` 15/15（跳过 #142） | `pipeline.md` · `outreach-drafts.md` · `sales.md` |
 | 2026-08-04 | **Founder 派发** | 8/4：A Lead 冷邮 `#139–#154`（15）；停扩；#126 查无邮箱；8/9 复评日历锁定 | `today.md` done · `founder.md` · `strategy.md` · `pipeline.md` |
