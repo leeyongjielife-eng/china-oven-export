@@ -1,4 +1,4 @@
-# buyer_class 分层摘要（2026-08-07）
+# buyer_class 分层摘要（2026-08-08）
 
 > 规则见 `company/customers.md`。与 `contact-ready` 无关。
 
@@ -8,16 +8,16 @@
 
 | 类 | 总数 | Lead | Contacted+Replied |
 |----|------|------|-------------------|
-| A | **78** | **17** | **61** |
+| A | **83** | **22** | **61** |
 | B | 45 | 3 | 42 |
 | C（Do-not-contact） | 55 | 2 | 53 |
-| **合计** | **178** | | |
+| **合计** | **183** | | |
 
 ## 闸门状态
 
-- 质量：新扩必须 100% A（今日 `#174–#178` 全 A ✅）
-- 库存：A Lead = **17&lt;20** → 闸门仍触发；明日续补 A
-- 去掉 C 后有效买家 ≈ **123**
+- 质量：新扩必须 100% A（今日 `#179–#183` 全 A ✅）
+- 库存：A Lead = **22≥20** → 闸门暂解（明日若投递冷邮再评估）
+- 去掉 C 后有效买家 ≈ **128**
 
 ## 可跟进 A（Contacted/Replied）
 
@@ -88,46 +88,28 @@
 
 ## A Lead（可作新冷邮/补量池；本阶段停新冷邮时仅库存）
 
-- #3 BBQ Spit Rotisseries
-- #13 Tucker Barbecues
-- #17 Smoked & Cured / Misty Gully
-- #46 Gaganis Bros
-- #99 Shriro Australia (Everdure trade)
-- #124 SMART-LINK Homewares
-- #125 FYR Republic
-- #126 Keverton Outdoor
-- #127 Grandfire BBQs (Hauland)
-- #128 Artis Fireplaces
-- #129 ProQ BBQs & Smokers Australia
-- #130 Greenplate
-- #131 The Fire Pit Co
-- #132 HiBBQ
-- #133 BlueTongue BBQs (OzOutdoors)
-- #134 Exim International (Napoleon AU)
-- #135 Heat Beads (Australian Char)
-- #136 PARKQUIP
-- #137 Grillo Outdoor Kitchens
-- #138 Crossray BBQ
-- #139 Firehawk Grills
-- #140 Christie Barbecues (D A Christie)
-- #141 BBQ Ovens
-- #143 WillBBQ
-- #144 Naara Charcoal
-- #145 ADBO WORLD
-- #146 Konoba BBQ
-- #147 Polito Wood Fire Ovens
-- #148 All Char Trading (Nature Flame)
-- #149 Creative Pizza Ovens
-- #150 Forno Alfresco
-- #151 Garth Australia (Fornetto)
-- #152 Gaucho BBQ Grills
-- #153 Argie Grillz
-- #154 Jalando Pizza Ovens
-- #155 LimeTree Alfresco
-- #156 Castworks
-- #157 Zesti Ovens
-- #158 Master Grill
-- #159 Wood Oven Supplies
+- #3 BBQ Spit Rotisseries（跳过：自有中国工厂）
+- #13 Tucker Barbecues（跳过：自有产线）
+- #17 Smoked & Cured / Misty Gully（Bounce · 不自动改发）
+- #46 Gaganis Bros（无公开邮箱）
+- #99 Shriro Australia (Everdure trade)（无公开邮箱）
+- #126 Keverton Outdoor（Bounce · 不自动改发）
+- #158 Master Grill（Bounce · 不自动改发）
+- #169 Stonewood Outdoor Kitchens
+- #170 Advanced Pods
+- #171 Hibachi Tabo (Fifteen Degrees by Design)
+- #172 Pyro Designs
+- #173 Mayo Hardware (Matador / Ignite)
+- #174 ACOM International
+- #175 The Alfresco Factory
+- #176 The Fire Brick Company
+- #177 Kaldera Woodfired Oven
+- #178 Cabinex
+- #179 Great Outdoors Import & Export
+- #180 The Woodfired Co
+- #181 Nomadiq BBQ Australia
+- #182 Artusi (Eurolinx / Worldwide Appliances)
+- #183 Escea Australia
 
 ## C 停联清单（Do-not-contact）
 
