@@ -3112,7 +3112,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #174 ACOM International
 
-> 2026-08-07 新草稿 · ICP A · **未发送**
+> 2026-08-09 对齐分层硬钩子 · ICP A · **未发送**
 
 **Subject:** ACOM / Barbeques Galore brands — complementary ceramic kamado?
 
@@ -3120,9 +3120,11 @@ Hi there,
 
 ACOM already wholesales outdoor gear and now carries the Barbeques Galore brand portfolio — asking whether a complementary factory-direct ceramic charcoal kamado would fit wholesale / retail rebuild assortments beside Ziggy / Beefmaster / Firehawk lines.
 
-I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1 / FDA / LFGB reports on request). OEM / private-label available — meant as a complementary charcoal line (or entry house brand), not a replacement for brands you already carry.
 
-Reply YES for a 1-pager; if timing isn't right, say so and I'll stop.
+Indicative 21" FOB roughly USD 255–316 (not locked). Low-risk path: 1–2 samples, then a small trial qty before any container.
+
+Reply YES for a 1-pager with AU landed-cost sketch; if timing isn't right, say so and I'll stop.
 
 Best,
 Kit Lee
@@ -3132,7 +3134,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #175 The Alfresco Factory
 
-> 2026-08-07 新草稿 · ICP A · **未发送**
+> 2026-08-09 对齐分层硬钩子 · ICP A · **未发送**
 
 **Subject:** Alfresco Factory — complementary ceramic kamado beside wood-fired ovens?
 
@@ -3140,9 +3142,11 @@ Hi there,
 
 The Alfresco Factory already manufactures wood-fired pizza ovens in WA for AU homes — asking whether a complementary factory-direct ceramic charcoal kamado would expand the outdoor cooking assortment beside those ovens.
 
-I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1 / FDA / LFGB reports on request). OEM / private-label available — meant as a complementary charcoal line (or entry house brand), not a replacement for brands you already carry.
 
-Reply YES for a 1-pager; if timing isn't right, say so and I'll stop.
+Indicative 21" FOB roughly USD 255–316 (not locked). Low-risk path: 1–2 samples, then a small trial qty before any container.
+
+Reply YES for a 1-pager with AU landed-cost sketch; if timing isn't right, say so and I'll stop.
 
 Best,
 Kit Lee
@@ -3152,7 +3156,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #176 The Fire Brick Company
 
-> 2026-08-07 新草稿 · ICP A · **未发送**
+> 2026-08-09 对齐分层硬钩子 · ICP A · **未发送**
 
 **Subject:** Fire Brick Co — complementary ceramic kamado beside wood-fired oven kits?
 
@@ -3160,9 +3164,11 @@ Hi there,
 
 Fire Brick Company already makes wood-fired oven kits in Victoria — wondering if a complementary factory-direct ceramic charcoal kamado would help customers who want charcoal grilling beside their wood-fired oven.
 
-I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1 / FDA / LFGB reports on request). OEM / private-label available — meant as a complementary charcoal line (or entry house brand), not a replacement for brands you already carry.
 
-Reply YES for a 1-pager; if timing isn't right, say so and I'll stop.
+Indicative 21" FOB roughly USD 255–316 (not locked). Low-risk path: 1–2 samples, then a small trial qty before any container.
+
+Reply YES for a 1-pager with AU landed-cost sketch; if timing isn't right, say so and I'll stop.
 
 Best,
 Kit Lee
@@ -3172,7 +3178,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #177 Kaldera Woodfired Oven
 
-> 2026-08-07 新草稿 · ICP A · **未发送**
+> 2026-08-09 对齐分层硬钩子 · ICP A · **未发送**
 
 **Subject:** Kaldera — complementary ceramic kamado for dealers?
 
@@ -3180,9 +3186,11 @@ Hi there,
 
 Kaldera already supplies wood-fired ovens into AU and is building a dealer network — asking whether a complementary factory-direct ceramic charcoal kamado would help dealers expand outdoor cooking assortments.
 
-I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1 / FDA / LFGB reports on request). OEM / private-label available — meant as a complementary charcoal line (or entry house brand), not a replacement for brands you already carry.
 
-Reply YES for a 1-pager; if timing isn't right, say so and I'll stop.
+Indicative 21" FOB roughly USD 255–316 (not locked). Low-risk path: 1–2 samples, then a small trial qty before any container.
+
+Reply YES for a 1-pager with AU landed-cost sketch; if timing isn't right, say so and I'll stop.
 
 Best,
 Kit Lee
@@ -3192,7 +3200,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #178 Cabinex
 
-> 2026-08-07 新草稿 · ICP A · **未发送**
+> 2026-08-09 对齐分层硬钩子 · ICP A · **未发送**
 
 **Subject:** Cabinex — complementary ceramic kamado for outdoor kitchen packages?
 
@@ -3200,9 +3208,11 @@ Hi there,
 
 Cabinex already designs and ships modular outdoor BBQ kitchens AU-wide — asking whether a complementary factory-direct ceramic charcoal kamado would fit as a charcoal option inside outdoor kitchen packages.
 
-I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1 / FDA / LFGB reports on request). OEM / private-label available — meant as a complementary charcoal line (or entry house brand), not a replacement for brands you already carry.
 
-Reply YES for a 1-pager; if timing isn't right, say so and I'll stop.
+Indicative 21" FOB roughly USD 255–316 (not locked). Low-risk path: 1–2 samples, then a small trial qty before any container.
+
+Reply YES for a 1-pager with AU landed-cost sketch; if timing isn't right, say so and I'll stop.
 
 Best,
 Kit Lee
@@ -3212,7 +3222,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #179 Great Outdoors Import & Export
 
-> 2026-08-08 新草稿 · ICP A · **未发送**
+> 2026-08-09 对齐分层硬钩子 · ICP A · **未发送**
 
 **Subject:** Great Outdoors — complementary ceramic kamado for wholesale?
 
@@ -3220,9 +3230,11 @@ Hi there,
 
 Great Outdoors already wholesales BBQs and outdoor leisure gear into AU retail supply chains — asking whether a complementary factory-direct ceramic charcoal kamado would expand the charcoal assortment for your accounts.
 
-I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1 / FDA / LFGB reports on request). OEM / private-label available — meant as a complementary charcoal line (or entry house brand), not a replacement for brands you already carry.
 
-Reply YES for a 1-pager; if timing isn't right, say so and I'll stop.
+Indicative 21" FOB roughly USD 255–316 (not locked). Low-risk path: 1–2 samples, then a small trial qty before any container.
+
+Reply YES for a 1-pager with AU landed-cost sketch; if timing isn't right, say so and I'll stop.
 
 Best,
 Kit Lee
@@ -3232,7 +3244,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #180 The Woodfired Co
 
-> 2026-08-08 新草稿 · ICP A · **未发送**
+> 2026-08-09 对齐分层硬钩子 · ICP A · **未发送**
 
 **Subject:** Woodfired Co — complementary ceramic kamado beside woodfire ovens?
 
@@ -3240,9 +3252,11 @@ Hi there,
 
 The Woodfired Co already supplies wood-fired ovens, grills and fire pits from Brookvale — asking whether a complementary factory-direct ceramic charcoal kamado would expand the charcoal outdoor cooking assortment for your customers.
 
-I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1 / FDA / LFGB reports on request). OEM / private-label available — meant as a complementary charcoal line (or entry house brand), not a replacement for brands you already carry.
 
-Reply YES for a 1-pager; if timing isn't right, say so and I'll stop.
+Indicative 21" FOB roughly USD 255–316 (not locked). Low-risk path: 1–2 samples, then a small trial qty before any container.
+
+Reply YES for a 1-pager with AU landed-cost sketch; if timing isn't right, say so and I'll stop.
 
 Best,
 Kit Lee
@@ -3252,7 +3266,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #181 Nomadiq BBQ Australia
 
-> 2026-08-08 新草稿 · ICP A · **未发送**
+> 2026-08-09 对齐分层硬钩子 · ICP A · **未发送**
 
 **Subject:** Nomadiq AU — complementary ceramic kamado for outdoor cooking range?
 
@@ -3260,9 +3274,11 @@ Hi there,
 
 Nomadiq already distributes portable outdoor BBQ products into AU retail — wondering if a complementary factory-direct ceramic charcoal kamado would help retailers expand charcoal cooking beside portable gas lines (OEM available).
 
-I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1 / FDA / LFGB reports on request). OEM / private-label available — meant as a complementary charcoal line (or entry house brand), not a replacement for brands you already carry.
 
-Reply YES for a 1-pager; if timing isn't right, say so and I'll stop.
+Indicative 21" FOB roughly USD 255–316 (not locked). Low-risk path: 1–2 samples, then a small trial qty before any container.
+
+Reply YES for a 1-pager with AU landed-cost sketch; if timing isn't right, say so and I'll stop.
 
 Best,
 Kit Lee
@@ -3272,7 +3288,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #182 Artusi (Eurolinx)
 
-> 2026-08-08 新草稿 · ICP A · **未发送**
+> 2026-08-09 对齐分层硬钩子 · ICP A · **未发送**
 
 **Subject:** Artusi Piazza — complementary ceramic kamado for outdoor kitchens?
 
@@ -3280,9 +3296,11 @@ Hi there,
 
 Artusi already offers Piazza outdoor kitchen packages via Eurolinx — asking whether a complementary factory-direct ceramic charcoal kamado would fit as a charcoal option inside those outdoor kitchen assortments.
 
-I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1 / FDA / LFGB reports on request). OEM / private-label available — meant as a complementary charcoal line (or entry house brand), not a replacement for brands you already carry.
 
-Reply YES for a 1-pager; if timing isn't right, say so and I'll stop.
+Indicative 21" FOB roughly USD 255–316 (not locked). Low-risk path: 1–2 samples, then a small trial qty before any container.
+
+Reply YES for a 1-pager with AU landed-cost sketch; if timing isn't right, say so and I'll stop.
 
 Best,
 Kit Lee
@@ -3292,7 +3310,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #183 Escea Australia
 
-> 2026-08-08 新草稿 · ICP A · **未发送**
+> 2026-08-09 对齐分层硬钩子 · ICP A · **未发送**
 
 **Subject:** Escea AU — complementary ceramic kamado beside outdoor fires?
 
@@ -3300,9 +3318,11 @@ Hi there,
 
 Escea already distributes outdoor fireplaces into AU — asking whether a complementary factory-direct ceramic charcoal kamado would help dealers expand alfresco charcoal cooking beside outdoor fire assortments.
 
-I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1). OEM available. Indicative 21" FOB roughly USD 255–316 (not locked).
+I'm Kit Lee, export for YUEFU BBQ in Foshan, China (13"–24"; EN1860-1 / FDA / LFGB reports on request). OEM / private-label available — meant as a complementary charcoal line (or entry house brand), not a replacement for brands you already carry.
 
-Reply YES for a 1-pager; if timing isn't right, say so and I'll stop.
+Indicative 21" FOB roughly USD 255–316 (not locked). Low-risk path: 1–2 samples, then a small trial qty before any container.
+
+Reply YES for a 1-pager with AU landed-cost sketch; if timing isn't right, say so and I'll stop.
 
 Best,
 Kit Lee
@@ -3313,3 +3333,4 @@ Export — YUEFU BBQ, Foshan, China
 ## 待补充草稿（Week 3）
 
 2026-08-09 · 本机「今天发」**15/15** · 冷 `#169–#173` + 跟进 `#124 #125 #127–#133 #44`（跳过 `#134` Bounce）· From leewingqi16@gmail.com · A Lead 24→19。
+2026-08-09 · **B+A 分层硬钩子**：更新 Template 1/2/3；未发冷邮 `#174–#183` 对齐（补位/不替代 · samples→trial · 证书 on request · landed sketch CTA；不编造 MOQ/样品价；首封不附图）。
