@@ -161,6 +161,7 @@
 
 | 日期 | 调度 | 任务 | 结果写回 |
 |------|------|------|----------|
+| 2026-08-09 | **Sales 完成** | W3：续对齐应发冷 `#169–#173` + 跟进 `#124 #125 #127–#134`（15）；P1 停扩；未发信、未标 Contacted | `outreach-drafts.md` · `sales.md` · `today.md` done |
 | 2026-08-09 | **Founder → Sales** | W3：阶段保持 W3；**复评续软切至 8/16**；选项 2 → P0 **续发同批**冷 `#169–#173` + 跟进 `#124 #125 #127–#134`（15）；P1 **停扩**（A Lead≥20）；Co-founder 本机「今天发」；禁止 Gmail | `today.md` pending · `strategy.md` · `phases.md` |
 | 2026-08-08 | **Sales 完成** | W3：续对齐应发冷 `#169–#173` + 跟进 `#124 #125 #127–#134`（15）；补 A `#179–#183`；未发信、未标 Contacted | `pipeline.md` 183 · `outreach-drafts.md` · `sales.md` · `today.md` done |
 | 2026-08-08 | **Founder → Sales** | W3：阶段保持 W3；选项 2 → P0 **续发同批**冷 `#169–#173` + 跟进 `#124 #125 #127–#134`（15）；P1 库存闸门补 A `#179+`；Co-founder 本机「今天发」；禁止 Gmail | `today.md` pending |

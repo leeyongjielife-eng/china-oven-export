@@ -2831,7 +2831,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #169 Stonewood Outdoor Kitchens
 
-> 2026-08-08 续对齐 · ICP A · **未发送**（修正：pipeline=Stonewood，非 Cabinex）
+> 2026-08-09 续对齐 · ICP A · **未发送**（确认：pipeline=Stonewood，非 Cabinex）
 
 **Subject:** Stonewood — complementary ceramic kamado for outdoor kitchen packages?
 
@@ -2851,7 +2851,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #170 Advanced Pods
 
-> 2026-08-08 续对齐 · ICP A · **未发送**
+> 2026-08-09 续对齐 · ICP A · **未发送**
 
 **Subject:** Advanced Pods — complementary ceramic kamado for outdoor kitchen pods?
 
@@ -2871,7 +2871,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #171 Hibachi Tabo / Fifteen Degrees by Design
 
-> 2026-08-08 续对齐 · ICP A · **未发送**
+> 2026-08-09 续对齐 · ICP A · **未发送**
 
 **Subject:** Hibachi Tabo — complementary ceramic kamado beside charcoal grills?
 
@@ -2891,7 +2891,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #172 Pyro Designs
 
-> 2026-08-08 续对齐 · ICP A · **未发送**
+> 2026-08-09 续对齐 · ICP A · **未发送**
 
 **Subject:** Pyro Designs — complementary ceramic kamado for Perth alfresco kitchens?
 
@@ -2911,7 +2911,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #173 Mayo Hardware (Matador / Ignite)
 
-> 2026-08-08 续对齐 · ICP A · **未发送**
+> 2026-08-09 续对齐 · ICP A · **未发送**
 
 **Subject:** Mayo / Matador — complementary ceramic kamado beside Matador BBQ?
 
@@ -2933,6 +2933,9 @@ Export — YUEFU BBQ, Foshan, China
 ## 跟进草稿 — 今日批 #124–#134（2026-08-08 续 · Template 3 · 跳过 #126 Bounce）
 
 > 选项 2 · A Contacted 静默自 8/3 · Kit Lee · Foshan · indicative FOB · **未发送**（续发同批）
+
+
+> 2026-08-09 Sales 续对齐今日应发跟进批（Kit Lee · Foshan · indicative FOB）· **未发送**
 
 ### #124 SMART-LINK Homewares — 跟进
 
@@ -3298,4 +3301,4 @@ Export — YUEFU BBQ, Foshan, China
 
 ## 待补充草稿（Week 3）
 
-选项 2 · 今日应发批 **冷邮 `#169–#173`（5）+ 跟进 `#124 #125 #127 #128 #129 #130 #131 #132 #133 #134`（10）=15** · 草稿已备 · 待本机「今天发」。新 A Lead `#179–#183` 明日池。跳过 #3/#13/#15；#6/#17/#126/#158 Bounce 不自动改发；#41 暂不催；禁 B/C。
+2026-08-09 · 选项 2 续至 8/16 · 今日应发批 **冷邮 `#169–#173`（5）+ 跟进 `#124 #125 #127 #128 #129 #130 #131 #132 #133 #134`（10）=15** · 草稿已续对齐 · 待本机「今天发」。P1 停扩（A Lead≥20）。跳过 #3/#13/#15；#6/#17/#126/#158 Bounce 不自动改发；#41 暂不催；禁 B/C。
