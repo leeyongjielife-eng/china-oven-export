@@ -106,6 +106,15 @@ Australia — mid-size BBQ equipment distributors / specialty outdoor retailers
 - **决策（同日晚 Co-founder）**：✅ **A 软切** — 保持 `W3_OUTREACH` + 澳；停 Sales 日扩；跟进仅 `buyer_class A`；**2026-08-09** 再评估是否 `正式Research` / 硬切。**未**改 `phase_id`。
 - **建议（已执行）**：软切优先于立刻换国；1 周内盯第 2 条真回复与 Martin。
 
+### Week 4 周日轻量复核（2026-08-09）
+
+- **日期**：2026-08-09；执行周日轻量复核，不做正式 Research，不重选国家，不改 `customers.md` / pipeline / today。
+- **竞品观察**：澳洲 BGE Large 官方包当前约 **AUD $2,600–2,999**，KJ Classic III 促销低点约 **AUD $2,859–2,979**、官方/挂牌约 **AUD $3,399–3,599**；相对 7/26 仅促销波动，价格锚点仍合理。
+- **已更新**：`workspace/markets/competitor-benchmark.md` 验证日刷新至 2026-08-09；`workspace/markets/keywords.md` 新增 **5** 个词（#31–#35），继续偏 importer / distributor / wholesale / own-brand。
+- **Sales 信号（读 `sales.md`）**：已联系 **156** · 回复 **1**，当前回复率约 **0.6%**；结合 7/19、7/26、8/2 周日志，已连续至少 **3** 个周日低于 5%。
+- **Research Reset 判断**：轻量复核不直接改 `phase_id`；但按 `phases.md` 门槛，日志明确建议 Founder 切换或至少正式评估 `W3_RESEARCH_RESET`。
+- **建议**：Founder 今天应在「续软切 / 硬切 Reset / 正式 Research」中拍板；若无新增真回复，优先切 `W3_RESEARCH_RESET` 并触发正式 Research，而不是继续扩大澳洲低响应池。
+
 ---
 
 ## 数据来源
