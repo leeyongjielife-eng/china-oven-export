@@ -8,17 +8,17 @@
 
 | 类 | 总数 | Lead | Contacted+Replied |
 |----|------|------|-------------------|
-| A | **83** | **22** | **61** |
+| A | **83** | **19** | **64** |
 | B | 45 | 3 | 42 |
 | C（Do-not-contact） | 55 | 2 | 53 |
 | **合计** | **183** | | |
 
 ## 闸门状态
 
-- 质量：新扩必须 100% A（今日停扩，无新增）
-- 库存：A Lead = **22≥20** → 闸门暂解（P1 停扩）
+- 质量：新扩必须 100% A
+- 库存：A Lead = **19&lt;20** → **明日须补 A**
 - 去掉 C 后有效买家 ≈ **128**
-- 8/9 复评：续软切 + 选项 2 至 **8/16**
+- 8/9 复评：续软切 + 选项 2 至 **8/16**；本机已投递冷 `#169–#173`
 
 ## 可跟进 A（Contacted/Replied）
 
@@ -41,6 +41,11 @@
 - #121 Cookout BBQs · Contacted
 - #122 Lifestyle BBQs · Contacted
 - #123 Australian Charcoal Company · Contacted
+- #169 Stonewood Outdoor Kitchens · Contacted
+- #170 Advanced Pods · Contacted
+- #171 Hibachi Tabo (Fifteen Degrees by Design) · Contacted
+- #172 Pyro Designs · Contacted
+- #173 Mayo Hardware (Matador / Ignite) · Contacted
 
 ## 可跟进 B（Contacted/Replied）
 
@@ -95,12 +100,9 @@
 - #46 Gaganis Bros（无公开邮箱）
 - #99 Shriro Australia (Everdure trade)（无公开邮箱）
 - #126 Keverton Outdoor（Bounce · 不自动改发）
+- #134 Exim International / Napoleon AU（Bounce · 不自动改发）
+- #139 Firehawk（Bounce · 不自动改发）
 - #158 Master Grill（Bounce · 不自动改发）
-- #169 Stonewood Outdoor Kitchens
-- #170 Advanced Pods
-- #171 Hibachi Tabo (Fifteen Degrees by Design)
-- #172 Pyro Designs
-- #173 Mayo Hardware (Matador / Ignite)
 - #174 ACOM International
 - #175 The Alfresco Factory
 - #176 The Fire Brick Company

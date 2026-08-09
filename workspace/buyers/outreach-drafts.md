@@ -2137,6 +2137,8 @@ Export — YUEFU BBQ, Foshan, China
 ### #44 Hark Enterprises — 跟进
 
 > **已发送 2026-08-02** · msg 19fc1095fb738290
+>
+> **已发送 2026-08-09** · msg 19fe65fdaba2a77a
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -2831,7 +2833,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #169 Stonewood Outdoor Kitchens
 
-> 2026-08-09 续对齐 · ICP A · **未发送**（确认：pipeline=Stonewood，非 Cabinex）
+> 2026-08-09 续对齐 · ICP A · **已发送 2026-08-09** · msg 19fe65f5f503daf8（确认：pipeline=Stonewood，非 Cabinex）
 
 **Subject:** Stonewood — complementary ceramic kamado for outdoor kitchen packages?
 
@@ -2851,7 +2853,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #170 Advanced Pods
 
-> 2026-08-09 续对齐 · ICP A · **未发送**
+> 2026-08-09 续对齐 · ICP A · **已发送 2026-08-09** · msg 19fe65f68d746c74
 
 **Subject:** Advanced Pods — complementary ceramic kamado for outdoor kitchen pods?
 
@@ -2871,7 +2873,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #171 Hibachi Tabo / Fifteen Degrees by Design
 
-> 2026-08-09 续对齐 · ICP A · **未发送**
+> 2026-08-09 续对齐 · ICP A · **已发送 2026-08-09** · msg 19fe65f75a5e94ad
 
 **Subject:** Hibachi Tabo — complementary ceramic kamado beside charcoal grills?
 
@@ -2891,7 +2893,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #172 Pyro Designs
 
-> 2026-08-09 续对齐 · ICP A · **未发送**
+> 2026-08-09 续对齐 · ICP A · **已发送 2026-08-09** · msg 19fe65f7db837699
 
 **Subject:** Pyro Designs — complementary ceramic kamado for Perth alfresco kitchens?
 
@@ -2911,7 +2913,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #173 Mayo Hardware (Matador / Ignite)
 
-> 2026-08-09 续对齐 · ICP A · **未发送**
+> 2026-08-09 续对齐 · ICP A · **已发送 2026-08-09** · msg 19fe65f8789a888a
 
 **Subject:** Mayo / Matador — complementary ceramic kamado beside Matador BBQ?
 
@@ -2932,13 +2934,14 @@ Export — YUEFU BBQ, Foshan, China
 
 ## 跟进草稿 — 今日批 #124–#134（2026-08-08 续 · Template 3 · 跳过 #126 Bounce）
 
-> 选项 2 · A Contacted 静默自 8/3 · Kit Lee · Foshan · indicative FOB · **未发送**（续发同批）
+> 选项 2 · A Contacted 静默自 8/3 · Kit Lee · Foshan · indicative FOB · **已发送 2026-08-09**（跳过 `#134` Bounce；补 `#44`）
 
 
-> 2026-08-09 Sales 续对齐今日应发跟进批（Kit Lee · Foshan · indicative FOB）· **未发送**
+> 2026-08-09 Sales 续对齐今日应发跟进批 · **已发送 2026-08-09**
 
 ### #124 SMART-LINK Homewares — 跟进
 
+> **已发送 2026-08-09** · msg 19fe65f8fef96e0a
 **Subject:** Re: Kamado grills — product overview
 
 Hi there,
@@ -2955,6 +2958,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #125 FYR Republic — 跟进（续）
 
+> **已发送 2026-08-09** · msg 19fe65f96df4cd15
 > 已有 8/6 对齐稿；今日批续用
 
 **Subject:** Re: Kamado grills — product overview
@@ -2973,6 +2977,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #127 Grandfire BBQs — 跟进
 
+> **已发送 2026-08-09** · msg 19fe65f9f92cb97d
 **Subject:** Re: Kamado grills — product overview
 
 Hi there,
@@ -2989,6 +2994,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #128 Artis Fireplaces — 跟进
 
+> **已发送 2026-08-09** · msg 19fe65fa672ffdd5
 **Subject:** Re: Kamado grills — product overview
 
 Hi there,
@@ -3005,6 +3011,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #129 ProQ BBQs & Smokers Australia — 跟进
 
+> **已发送 2026-08-09** · msg 19fe65fb19bef5de
 **Subject:** Re: Kamado grills — product overview
 
 Hi there,
@@ -3021,6 +3028,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #130 Greenplate — 跟进
 
+> **已发送 2026-08-09** · msg 19fe65fb92c51f06
 **Subject:** Re: Kamado grills — product overview
 
 Hi there,
@@ -3037,6 +3045,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #131 The Fire Pit Co — 跟进
 
+> **已发送 2026-08-09** · msg 19fe65fc17c9a83f
 **Subject:** Re: Kamado grills — product overview
 
 Hi there,
@@ -3053,6 +3062,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #132 HiBBQ — 跟进
 
+> **已发送 2026-08-09** · msg 19fe65fc9fa8af24
 **Subject:** Re: Kamado grills — product overview
 
 Hi there,
@@ -3069,6 +3079,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #133 BlueTongue BBQs — 跟进
 
+> **已发送 2026-08-09** · msg 19fe65fd0582abcc
 **Subject:** Re: Kamado grills — product overview
 
 Hi there,
@@ -3301,4 +3312,4 @@ Export — YUEFU BBQ, Foshan, China
 
 ## 待补充草稿（Week 3）
 
-2026-08-09 · 选项 2 续至 8/16 · 今日应发批 **冷邮 `#169–#173`（5）+ 跟进 `#124 #125 #127 #128 #129 #130 #131 #132 #133 #134`（10）=15** · 草稿已续对齐 · 待本机「今天发」。P1 停扩（A Lead≥20）。跳过 #3/#13/#15；#6/#17/#126/#158 Bounce 不自动改发；#41 暂不催；禁 B/C。
+2026-08-09 · 本机「今天发」**15/15** · 冷 `#169–#173` + 跟进 `#124 #125 #127–#133 #44`（跳过 `#134` Bounce）· From leewingqi16@gmail.com · A Lead 24→19。
