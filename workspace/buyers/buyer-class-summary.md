@@ -41,7 +41,7 @@
 - #121 Cookout BBQs · Contacted
 - #122 Lifestyle BBQs · Contacted
 - #123 Australian Charcoal Company · Contacted
-- #169 Stonewood Outdoor Kitchens · Contacted
+- #169 Stonewood Outdoor Kitchens · **Replied**
 - #170 Advanced Pods · Contacted
 - #171 Hibachi Tabo (Fifteen Degrees by Design) · Contacted
 - #172 Pyro Designs · Contacted

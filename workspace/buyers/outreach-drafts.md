@@ -2834,6 +2834,8 @@ Export — YUEFU BBQ, Foshan, China
 ## #169 Stonewood Outdoor Kitchens
 
 > 2026-08-09 续对齐 · ICP A · **已发送 2026-08-09** · msg 19fe65f5f503daf8（确认：pipeline=Stonewood，非 Cabinex）
+>
+> **回信 2026-08-10** Brad · **已回 more info + catalog** msg 19fea9d351d20b6e
 
 **Subject:** Stonewood — complementary ceramic kamado for outdoor kitchen packages?
 
