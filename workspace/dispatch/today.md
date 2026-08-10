@@ -5,7 +5,7 @@
 | 字段 | 值 |
 |------|-----|
 | 日期 | 2026-08-10 |
-| status | **pending** |
+| status | **done** |
 | 派发 | Founder |
 | 执行 | Sales（云端对齐 / 补 A） |
 
@@ -15,8 +15,8 @@
 
 - 排期来源：[`company/founder.md`](../../company/founder.md)
 - 当前阶段：`W3_OUTREACH` + **A 软切 + 选项 2**（续至 **8/16**）
-- 账本：买家 **183** · Contacted **158** · Replied **1** · **A Lead=19&lt;20**
-- 选项 2：Contacted≥100 **仍可**对 A Lead 发首封；P1 库存闸门强制补 A
+- 账本：买家 **188** · Contacted **158** · Replied **1** · **A Lead=24≥20**
+- 选项 2：Contacted≥100 **仍可**对 A Lead 发首封
 
 ---
 
@@ -24,14 +24,14 @@
 
 ### P0 — 今日应发 15（对齐草稿；勿 Gmail 实发）
 
-- [ ] 对齐冷邮草稿 **`#174–#178`**（5 · A Lead 首封 · Kit Lee · Foshan · indicative FOB）
-- [ ] 对齐 A Contacted 跟进 **10**：`#49 #135 #136 #137 #138 #140 #141 #143 #144 #145`
-- [ ] 跳过：`#3/#13/#15`；Bounce `#6/#17/#126/#134/#139/#158`；禁催 `#41`；禁 B/C；`#98` Stop 勿跟
+- [x] 对齐冷邮草稿 **`#174–#178`**（5 · A Lead 首封 · Kit Lee · Foshan · indicative FOB）
+- [x] 对齐 A Contacted 跟进 **10**：`#49 #135 #136 #137 #138 #140 #141 #143 #144 #145`
+- [x] 跳过：`#3/#13/#15`；Bounce `#6/#17/#126/#134/#139/#158`；禁催 `#41`；禁 B/C；`#98` Stop 勿跟
 
 ### P1 — 库存闸门补 A（+5）
 
-- [ ] 新增 **5** 家澳洲 **buyer_class: A**（100% A）→ `#184+`
-- [ ] 同步漏斗 `sales.md`（读 pipeline 计数）
+- [x] 新增 **5** 家澳洲 **buyer_class: A** → `#184–#188`
+- [x] 同步漏斗 `sales.md`（读 pipeline 计数）
 
 ### Co-founder 待办（一行 · 非本 Automation）
 
@@ -54,12 +54,12 @@
 
 | 项 | 值 |
 |----|-----|
-| 完成时间 | |
-| P0 结果 | |
-| P1 结果 | |
-| 漏斗 | |
-| 写入文件 | |
-| 新可发序号 | |
+| 完成时间 | 2026-08-10 |
+| P0 结果 | 对齐冷 `#174–#178` + 跟进 `#49 #135–#138 #140 #141 #143–#145`（15）· **未发信** |
+| P1 结果 | 补 A `#184–#188`（Mojito / Beech / Alfresco Kitchens Perth / Field Furnace / My Pizza Oven）· 100% A |
+| 漏斗 | 买家 188 · Contacted 158 · Replied 1 · A Lead 24 |
+| 写入文件 | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `buyer-class-summary.md` · `today.md` |
+| 新可发序号 | 今日应发 `#174–#178` + FU 10；池余 `#179–#188` |
 
 ---
 
