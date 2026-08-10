@@ -3114,7 +3114,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #174 ACOM International
 
-> 2026-08-10 Sales 续对齐 · ICP A · Kit Lee · Foshan · indicative FOB · **未发送**
+> 2026-08-09 对齐分层硬钩子 · ICP A · **已发送 2026-08-10** · msg 19feaa0cf370d042
 
 **Subject:** ACOM / Barbeques Galore brands — complementary ceramic kamado?
 
@@ -3136,7 +3136,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #175 The Alfresco Factory
 
-> 2026-08-10 Sales 续对齐 · ICP A · Kit Lee · Foshan · indicative FOB · **未发送**
+> 2026-08-09 对齐分层硬钩子 · ICP A · **已发送 2026-08-10** · msg 19feaa0dabe47f8e
 
 **Subject:** Alfresco Factory — complementary ceramic kamado beside wood-fired ovens?
 
@@ -3158,7 +3158,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #176 The Fire Brick Company
 
-> 2026-08-10 Sales 续对齐 · ICP A · Kit Lee · Foshan · indicative FOB · **未发送**
+> 2026-08-09 对齐分层硬钩子 · ICP A · **已发送 2026-08-10** · msg 19feaa0e5ba0bdee
 
 **Subject:** Fire Brick Co — complementary ceramic kamado beside wood-fired oven kits?
 
@@ -3180,7 +3180,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #177 Kaldera Woodfired Oven
 
-> 2026-08-10 Sales 续对齐 · ICP A · Kit Lee · Foshan · indicative FOB · **未发送**
+> 2026-08-09 对齐分层硬钩子 · ICP A · **已发送 2026-08-10** · msg 19feaa0ec5bb9c1f
 
 **Subject:** Kaldera — complementary ceramic kamado for dealers?
 
@@ -3202,7 +3202,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #178 Cabinex
 
-> 2026-08-10 Sales 续对齐 · ICP A · Kit Lee · Foshan · indicative FOB · **未发送**
+> 2026-08-09 对齐分层硬钩子 · ICP A · **已发送 2026-08-10** · msg 19feaa0f5cbd959c
 
 **Subject:** Cabinex — complementary ceramic kamado for outdoor kitchen packages?
 
@@ -3632,4 +3632,5 @@ Export — YUEFU BBQ, Foshan, China
 
 2026-08-09 · 本机「今天发」**15/15** · 冷 `#169–#173` + 跟进 `#124 #125 #127–#133 #44`（跳过 `#134` Bounce）· From leewingqi16@gmail.com · A Lead 24→19。
 2026-08-09 · **B+A 分层硬钩子**：更新 Template 1/2/3；未发冷邮 `#174–#183` 对齐（补位/不替代 · samples→trial · 证书 on request · landed sketch CTA；不编造 MOQ/样品价；首封不附图）。
-2026-08-10 · Sales：对齐应发冷 `#174–#178` + 跟进 `#49 #135–#138 #140 #141 #143–#145`；补 A `#184–#188` 草稿；未发信、未标 Contacted。
+
+2026-08-10 · 本机「今天发」**15/15** · 冷 `#174–#178` + 跟进 `#98 #49 #135–#138 #140 #141 #143 #144` · A Lead→14。

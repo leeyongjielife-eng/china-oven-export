@@ -8,17 +8,12 @@
 
 | 类 | 总数 | Lead | Contacted+Replied |
 |----|------|------|-------------------|
-| A | **88** | **24** | **64** |
 | B | 45 | 3 | 42 |
 | C（Do-not-contact） | 55 | 2 | 53 |
 | **合计** | **188** | | |
 
 ## 闸门状态
 
-- 质量：新扩必须 100% A（今日 `#184–#188` ✅）
-- 库存：A Lead = **24≥20** → 闸门关闭
-- 去掉 C 后有效买家 ≈ **133**
-- 软切 + 选项 2 至 **8/16**；今日应发冷 `#174–#178` + A 跟进 10
 
 ## 可跟进 A（Contacted/Replied）
 
@@ -46,6 +41,11 @@
 - #171 Hibachi Tabo (Fifteen Degrees by Design) · Contacted
 - #172 Pyro Designs · Contacted
 - #173 Mayo Hardware (Matador / Ignite) · Contacted
+- #178 Cabinex · Contacted
+- #177 Kaldera Woodfired Oven · Contacted
+- #176 The Fire Brick Company · Contacted
+- #175 The Alfresco Factory · Contacted
+- #174 ACOM International · Contacted
 
 ## 可跟进 B（Contacted/Replied）
 
@@ -103,11 +103,6 @@
 - #134 Exim International / Napoleon AU（Bounce · 不自动改发）
 - #139 Firehawk（Bounce · 不自动改发）
 - #158 Master Grill（Bounce · 不自动改发）
-- #174 ACOM International
-- #175 The Alfresco Factory
-- #176 The Fire Brick Company
-- #177 Kaldera Woodfired Oven
-- #178 Cabinex
 - #179 Great Outdoors Import & Export
 - #180 The Woodfired Co
 - #181 Nomadiq BBQ Australia
