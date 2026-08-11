@@ -47,7 +47,7 @@
 | Quoted | 0 |
 | Won | 0 |
 
-### buyer_class（2026-08-10）
+### buyer_class（2026-08-11）
 
 | 类 | 总数 | Lead | Contacted+Replied |
 |----|------|------|-------------------|
