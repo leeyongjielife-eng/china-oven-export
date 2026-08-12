@@ -3224,7 +3224,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #179 Great Outdoors Import & Export
 
-> 2026-08-11 Sales 对齐分层硬钩子 · ICP A · Kit Lee · Foshan · indicative FOB · **未发送**（待本机「今天发」）
+> 2026-08-12 Sales 续对齐分层硬钩子 · ICP A · Kit Lee · Foshan · indicative FOB · **未发送**（待本机「今天发」）
 
 **Subject:** Great Outdoors — complementary ceramic kamado for wholesale?
 
@@ -3246,7 +3246,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #180 The Woodfired Co
 
-> 2026-08-11 Sales 对齐分层硬钩子 · ICP A · Kit Lee · Foshan · indicative FOB · **未发送**（待本机「今天发」）
+> 2026-08-12 Sales 续对齐分层硬钩子 · ICP A · Kit Lee · Foshan · indicative FOB · **未发送**（待本机「今天发」）
 
 **Subject:** Woodfired Co — complementary ceramic kamado beside woodfire ovens?
 
@@ -3268,7 +3268,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #181 Nomadiq BBQ Australia
 
-> 2026-08-11 Sales 对齐分层硬钩子 · ICP A · Kit Lee · Foshan · indicative FOB · **未发送**（待本机「今天发」）
+> 2026-08-12 Sales 续对齐分层硬钩子 · ICP A · Kit Lee · Foshan · indicative FOB · **未发送**（待本机「今天发」）
 
 **Subject:** Nomadiq AU — complementary ceramic kamado for outdoor cooking range?
 
@@ -3290,7 +3290,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #182 Artusi (Eurolinx)
 
-> 2026-08-11 Sales 对齐分层硬钩子 · ICP A · Kit Lee · Foshan · indicative FOB · **未发送**（待本机「今天发」）
+> 2026-08-12 Sales 续对齐分层硬钩子 · ICP A · Kit Lee · Foshan · indicative FOB · **未发送**（待本机「今天发」）
 
 **Subject:** Artusi Piazza — complementary ceramic kamado for outdoor kitchens?
 
@@ -3312,7 +3312,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ## #183 Escea Australia
 
-> 2026-08-11 Sales 对齐分层硬钩子 · ICP A · Kit Lee · Foshan · indicative FOB · **未发送**（待本机「今天发」）
+> 2026-08-12 Sales 续对齐分层硬钩子 · ICP A · Kit Lee · Foshan · indicative FOB · **未发送**（待本机「今天发」）
 
 **Subject:** Escea AU — complementary ceramic kamado beside outdoor fires?
 
@@ -3628,14 +3628,14 @@ Export — YUEFU BBQ, Foshan, China
 
 ---
 
-## 跟进草稿 — 今日批 #145–#154（2026-08-11 · Template 3 · A Contacted）
+## 跟进草稿 — 今日批 #145–#154（2026-08-12 续 · Template 3 · A Contacted）
 
 > 选项 2 · A Contacted 静默≥5天 · Kit Lee · Foshan · indicative FOB · **未发送**（待本机「今天发」）
 > 跳过 Bounce/`#41`/B/C · 昨日本机已跟进者不重复
 
 ### #145 ADBO WORLD — 跟进
 
-> 2026-08-11 Sales 对齐 · **未发送**
+> 2026-08-12 Sales 续对齐 · **未发送**
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -3653,7 +3653,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #146 Konoba BBQ — 跟进
 
-> 2026-08-11 Sales 对齐 · **未发送**
+> 2026-08-12 Sales 续对齐 · **未发送**
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -3671,7 +3671,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #147 Polito Wood Fire Ovens — 跟进
 
-> 2026-08-11 Sales 对齐 · **未发送**
+> 2026-08-12 Sales 续对齐 · **未发送**
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -3689,7 +3689,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #148 All Char Trading (Nature Flame) — 跟进
 
-> 2026-08-11 Sales 对齐 · **未发送**
+> 2026-08-12 Sales 续对齐 · **未发送**
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -3707,7 +3707,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #149 Creative Pizza Ovens — 跟进
 
-> 2026-08-11 Sales 对齐 · **未发送**
+> 2026-08-12 Sales 续对齐 · **未发送**
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -3725,7 +3725,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #150 Forno Alfresco — 跟进
 
-> 2026-08-11 Sales 对齐 · **未发送**
+> 2026-08-12 Sales 续对齐 · **未发送**
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -3743,7 +3743,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #151 Garth Australia (Fornetto) — 跟进
 
-> 2026-08-11 Sales 对齐 · **未发送**
+> 2026-08-12 Sales 续对齐 · **未发送**
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -3761,7 +3761,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #152 Gaucho BBQ Grills — 跟进
 
-> 2026-08-11 Sales 对齐 · **未发送**
+> 2026-08-12 Sales 续对齐 · **未发送**
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -3779,7 +3779,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #153 Argie Grillz — 跟进
 
-> 2026-08-11 Sales 对齐 · **未发送**
+> 2026-08-12 Sales 续对齐 · **未发送**
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -3797,7 +3797,7 @@ Export — YUEFU BBQ, Foshan, China
 
 ### #154 Jalando Pizza Ovens — 跟进
 
-> 2026-08-11 Sales 对齐 · **未发送**
+> 2026-08-12 Sales 续对齐 · **未发送**
 
 **Subject:** Re: Kamado grills — product overview
 
@@ -3821,3 +3821,5 @@ Export — YUEFU BBQ, Foshan, China
 2026-08-10 · 本机「今天发」**15/15** · 冷 `#174–#178` + 跟进 `#98 #49 #135–#138 #140 #141 #143 #144` · A Lead→14；`#177` Bounce 后 A Lead→20。
 
 2026-08-11 · Sales 对齐今日应发：冷 `#179–#183` + A 跟进 `#145–#154`（15）· Kit Lee · Foshan · indicative FOB · **未发信、未标 Contacted** · P1 停扩（A Lead=20）· 待本机「今天发」。
+
+2026-08-12 · Sales 续对齐今日应发：冷 `#179–#183` + A 跟进 `#145–#154`（15）· Kit Lee · Foshan · indicative FOB · **未发信、未标 Contacted** · P1 停扩（A Lead=20）· 待本机「今天发」。
