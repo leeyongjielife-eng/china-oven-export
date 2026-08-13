@@ -5,9 +5,9 @@
 | 字段 | 值 |
 |------|-----|
 | 日期 | 2026-08-13 |
-| status | **pending** |
+| status | **done** |
 | 派发 | Founder Automation |
-| 执行 | — |
+| 执行 | Sales 云端对齐 ✅ · 本机「今天发」⏳ |
 
 ---
 
@@ -24,14 +24,14 @@
 
 ### P0 — 对齐今日应发 15（勿 Gmail 实发）
 
-- [ ] 冷邮 **A Lead `#179–#183`**（5）：Great Outdoors / Woodfired Co / Nomadiq / Artusi / Escea — 对齐 Kit Lee · Foshan · indicative FOB
-- [ ] A 跟进 **10**：`#145 #146 #147 #148 #149 #150 #151 #152 #153 #154` — Template 3
-- [ ] 对齐标准：**Kit Lee · Foshan, China · indicative FOB**
-- [ ] 跳过：`#3/#13/#15`；Bounce 不自动补；`#41` 暂不催；禁 B/C；**勿** Gmail 实发；**勿**标 Contacted
+- [x] 冷邮 **A Lead `#179–#183`**（5）：Great Outdoors / Woodfired Co / Nomadiq / Artusi / Escea — 已续对齐 Kit Lee · Foshan · indicative FOB
+- [x] A 跟进 **10**：`#145 #146 #147 #148 #149 #150 #151 #152 #153 #154` — Template 3 草稿已备
+- [x] 对齐标准：**Kit Lee · Foshan, China · indicative FOB**
+- [x] 跳过：`#3/#13/#15`；Bounce 不自动补；`#41` 暂不催；禁 B/C；**未** Gmail 实发；**未**标 Contacted
 
 ### P1 — 暂停日扩
 
-- [ ] **A Lead=20≥20** → 库存闸门暂解；**不** +5 新买家（选项 2 停扩）
+- [x] **A Lead=20≥20** → 库存闸门暂解；**未** +5 新买家（选项 2 停扩）
 
 ### Co-founder 一行待办
 
@@ -43,8 +43,8 @@
 
 | 项 | 值 |
 |----|-----|
-| 完成时间 | — |
-| P0 结果 | — |
-| P1 结果 | — |
-| 漏斗 | — |
-| 备注 | — |
+| 完成时间 | 2026-08-13 |
+| P0 结果 | 续对齐冷 `#179–#183` + 跟进 `#145–#154`（15）；未发信、未标 Contacted |
+| P1 结果 | 停扩（A Lead=20≥20） |
+| 漏斗 | 188 · Contacted 161 · Replied 2 · A Lead 20 |
+| 备注 | 待 Co-founder 本机「今天发」；下批预告冷 `#184–#188` + 下一批 A 跟进 |
