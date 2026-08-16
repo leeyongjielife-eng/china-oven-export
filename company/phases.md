@@ -96,7 +96,7 @@
 |------|-------------------------|
 | `phase_id=W2_COLLECT` 且 买家 ≥50 | **自动**更新为 `W3_OUTREACH`，P0 改为外联 |
 | `phase_id=W3_OUTREACH` | P0 **不得**再是「+10 买家」；以发信为主；P1 新买家 **100% A** |
-| **A 软切**（strategy 已拍板，至 8/9） | P1 **暂停扩量**；**不**自动切 `W3_RESEARCH_RESET` |
+| **A 软切**（strategy 已拍板，至 8/23） | P1 **暂停扩量**；**不**自动切 `W3_RESEARCH_RESET` |
 | **选项 2** | P0 可派 **A Lead 冷邮**（Contacted≥100 不停 A 首封）；禁 B/C 冷邮 |
 | `A Lead < 20` 或本周扩量净增 A=0 | P1 **强制**「补 A」；不得只扩 B/C（软切期间此例外优先于「停扩」） |
 | 漏斗长期无回复 | 周日 Research 日志提醒；Founder 周复盘考虑 `W3_RESEARCH_RESET` |
