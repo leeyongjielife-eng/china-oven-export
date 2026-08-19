@@ -28,8 +28,9 @@
 |------|----------|
 | 按目标市场找潜在买家 | [`workspace/buyers/pipeline.md`](../workspace/buyers/pipeline.md) |
 | 起草外联 / 跟进邮件；**本机**按 `今天发` 实发 | 见模板 + [`cofounder.md`](../company/cofounder.md) 发信政策 |
-| **云端 Automation：** 仅扩买家、对齐草稿、更新漏斗 | **禁止** Gmail 实发 |
-| 更新买家 Stage | `pipeline.md` |
+| **LinkedIn 客源：** 补已有 A 决策人个人 URL；起草连接/InMail；本机 `LinkedIn 发出去` 后写 Notes | `pipeline.md` Notes + `outreach-drafts.md`；政策 → [`cofounder.md`](../company/cofounder.md) LinkedIn 触达政策 |
+| **云端 Automation：** 仅扩买家、对齐草稿、更新漏斗 | **禁止** Gmail 实发；**禁止** LinkedIn 实发 |
+| 更新买家 Stage | `pipeline.md`（**仅**邮件账本规则；**禁止**因 LI 改 Stage/Last Contact） |
 | 同步漏斗统计 | [`company/sales.md`](../company/sales.md) |
 | 记录有效外联教训 | [`company/lessons.md`](../company/lessons.md) |
 | 填 `today.md` 完成回写 | `workspace/dispatch/today.md`（**仅**「Sales 完成回写」+ `status: done`） |
@@ -43,7 +44,8 @@
 | 向 YUEFU 询价、索证 | **Supplier** | 单向触发；结论写入 `company/product.md` |
 | 选国家、竞品宏观研究 | **Research** | 读 `company/research.md` / `workspace/markets/`，不反向调用 |
 | 改 Offer 承诺 / 包含项 | **Offer** | 读 `company/product.md` Offer 章节 |
-| 写 LinkedIn 长文 | **Content** | Founder 单向触发 |
+| 写 LinkedIn **长文** / 品牌帖 | **Content** | Founder 单向触发 |
+| 在 LinkedIn **代手发**连接/InMail | **Co-founder** | 人点发送；Agent 只起草 + 触发后记账 |
 | 排优先级、跨部门调度 | **Founder** | 读 `today.md`，不自行改排期 |
 | 写 `founder.md` 排期 / 派发任务 | **Founder** | Sales 只读 `today.md` |
 | 微信/电话问叔叔、付款、报关 | **Co-founder** | 记入 `cofounder.md` 真人动作记录 |
@@ -88,9 +90,9 @@ Supplier  →  工厂能不能做、多少钱        （写 product.md + workspa
 
 定价话术规则 → 只读 [`company/product.md`](../company/product.md) 定价策略，不在 Sales 文档中另定。
 
-### 发信政策
+### 发信政策（邮件）
 
-→ 唯一来源：[`company/cofounder.md`](../company/cofounder.md) 发信政策。
+→ 唯一来源：[`company/cofounder.md`](../company/cofounder.md) **发信政策**（Gmail）。
 
 **本机实发（Co-founder 说 `今天发`）：**
 
@@ -103,6 +105,13 @@ Supplier  →  工厂能不能做、多少钱        （写 product.md + workspa
 
 **云端 Sales Automation：** 只做找买家 / 补草稿 / 漏斗同步；**禁止**调用 Gmail。
 
+### LinkedIn 触达
+
+→ 唯一来源：[`company/cofounder.md`](../company/cofounder.md) **LinkedIn 触达政策**。
+
+- 本机触发 **`LinkedIn 发出去`** 后：按草稿确认已手发 → **仅**写 `pipeline` Notes；**禁止** LI→Contacted / 改 Last Contact。
+- 日量、禁名单、8/30 线 A、不进 `today.md` P0 → **只读 cofounder 该节**，本文件不重复数字。
+
 ### 买家分层与扩量闸门（2026-08-02）
 
 → 定义见 [`company/customers.md`](../company/customers.md)。
@@ -113,17 +122,17 @@ Supplier  →  工厂能不能做、多少钱        （写 product.md + workspa
 | **库存** | **`A Lead < 20` → 必须补 A**；或本周已派 Sales 扩量但 **净增 A = 0 → 也必须补 A** |
 | **C** | **Do-not-contact**（邮件/LinkedIn/电话/表单全停）；保留账本行，不进任何外联队列 |
 | **B** | **A 软切期间：不跟进、不新扩**（软切前默认可跟进） |
-| **A 软切（2026-08-02→8/23）** | **暂停日扩 +5**（库存闸门例外仍有效）；默认跟进 **仅 A**；不改 `phase_id` |
+| **A 软切（2026-08-02→8/30）** | **暂停日扩 +5**（库存闸门例外仍有效）；默认跟进 **仅 A**；不改 `phase_id` |
 | **选项 2（2026-08-03）** | **例外允许**对 **A Lead** 发首封冷邮（放宽 Contacted≥100 停冷邮）；仍禁 B/C；仍禁找新公司名；#41 暂不催 |
 
 ### 每日量级
 
-| 阶段 | 找买家 | 发信 |
-|------|--------|------|
-| Week 2 | 10 家/天，只入 pipeline | **0** |
-| Week 3 (`W3_OUTREACH`) 常规 | **+5/天且必须全为 A** | **15**/工作日（本机 `今天发`；停新冷邮时不发 Lead） |
-| Week 3 **A 软切 + 选项 2**（至 **2026-08-23**） | **0**（仅当 `A Lead < 20` 才强制补 A） | **15**/工作日：**优先 A Lead 首封**；可穿插 A Contacted 跟进；禁 B/C |
-| Week 4+ | 减少新 lead；仍禁 C | 跟进 Replied / Qualified 为主 |
+| 阶段 | 找买家 | 发信（邮件） | LinkedIn |
+|------|--------|--------------|----------|
+| Week 2 | 10 家/天，只入 pipeline | **0** | — |
+| Week 3 (`W3_OUTREACH`) 常规 | **+5/天且必须全为 A** | **15**/工作日（本机 `今天发`；停新冷邮时不发 Lead） | 见 [`cofounder.md`](../company/cofounder.md) LinkedIn 触达政策 |
+| Week 3 **A 软切 + 选项 2**（至 **2026-08-30**） | **0**（仅当 `A Lead < 20` 才强制补 A）；**禁止因 LI 新增公司行** | **15**/工作日：**优先 A Lead 首封**；可穿插 A Contacted 跟进；禁 B/C | 见 cofounder LinkedIn 触达政策（只打已有 A 行） |
+| Week 4+ | 减少新 lead；仍禁 C | 跟进 Replied / Qualified 为主 | 见 cofounder |
 
 周节奏与完成标准 → 见 [`../plan/`](../plan/)，不在此重复。
 
@@ -137,7 +146,7 @@ Supplier  →  工厂能不能做、多少钱        （写 product.md + workspa
 
 | 天 | 动作 |
 |----|------|
-| 0 | 第一封外联 |
+| 0 | 第一封**邮件** |
 | 3 | 跟进 1 |
 | 7 | 跟进 2（可附产品概览） |
 | 14 | 最后跟进 → Lost 或 Nurture |
@@ -161,18 +170,20 @@ Supplier  →  工厂能不能做、多少钱        （写 product.md + workspa
 
 目标市场：从 customers.md 读取
 产品：Kamado 18"/21"，YUEFU 工厂
-发信政策：cofounder.md 发信政策
+发信政策：cofounder.md 发信政策（邮件）
+LinkedIn 触达：cofounder.md LinkedIn 触达政策（默认只起草；`LinkedIn 发出去` 后只写 Notes）
 外联模板：templates/outreach.md
 定价话术：product.md 定价策略
 
-任务：执行 today.md 中的 P0/P1（若无 today.md 任务则停止）
+任务：执行 today.md 中的 P0/P1（若无 today.md 任务则停止）；本机 LI 任务按 cofounder LinkedIn 节
 
 输出：
 1. 买家表 → workspace/buyers/pipeline.md
-2. 草稿 → workspace/buyers/outreach-drafts.md
+2. 草稿 → workspace/buyers/outreach-drafts.md（含邮件 + LI 连接/InMail 草稿）
 3. 漏斗 → company/sales.md
 4. 完成回写 → today.md（status: done）
 禁止写 company/founder.md
+禁止因 LinkedIn 将 Stage 标为 Contacted 或改 Last Contact
 ```
 
 ## 触发时机

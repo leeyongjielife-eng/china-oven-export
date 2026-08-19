@@ -1,4 +1,4 @@
-# buyer_class 分层摘要（2026-08-10）
+# buyer_class 分层摘要（2026-08-19 · 补A后）
 
 > 规则见 `company/customers.md`。与 `contact-ready` 无关。
 
@@ -8,15 +8,24 @@
 
 | 类 | 总数 | Lead | Contacted+Replied |
 |----|------|------|-------------------|
+| **A** | **121** | **20** | **100** |
 | B | 45 | 3 | 42 |
 | C（Do-not-contact） | 55 | 2 | 53 |
-| **合计** | **188** | | |
+| **合计** | **221** | | |
 
 ## 闸门状态
 
+- 质量：新扩必须 100% A
+- 库存：**A Lead = 20≥20 → 闸门关闭**（2026-08-19 补A `#213–#221`，待「今天发」）
+- 软切：**2026-08-19 复评落盘**，续 A + 选项 2 至 **8/30**（不切 W4 / 不硬切 / 不正式 Research）
+- `#169` Brad 样品已发 — **勿催**；**2026-08-13 LI connect accepted**（仍等他邮件/私信开口 · 至 Mon）
+- `#147` Polito Angela — **已回 pic/catalog** msg 19ffe9d183e6b9ba · 勿催（等她是否要 one-pager）
+- `#132` HiBBQ Alex Tang — **2026-08-19「Yes」** · **已回 1-pager + 关键页 PDF** msg 1a018ff7f334e2a5 · 等他选 18"/21"
 
 ## 可跟进 A（Contacted/Replied）
 
+- #147 Polito Wood Fire Ovens · **Replied**（Angela · 要 pic）
+- #132 HiBBQ · **Replied**（Alex Tang · Yes / 要 1-pager）
 - #1 Core Supply Group · Contacted
 - #2 The Que Club · Contacted
 - #4 Wildflame Outdoors · Contacted
@@ -44,8 +53,27 @@
 - #178 Cabinex · Contacted
 - #177 Kaldera Woodfired Oven · Contacted
 - #176 The Fire Brick Company · Contacted
-- #175 The Alfresco Factory · Contacted
+- #175 The Alfresco Factory · Contacted（自动请假 8/9–9/7 · 不催）
 - #174 ACOM International · Contacted
+- #194 Stainless Steel Gallery · Contacted
+- #195 SJB Stainless · Contacted
+- #196 Claytons Alfresco · Contacted
+- #197 Adelaide Outdoor Kitchens · Contacted
+- #198 Alfresco Kitchen Co · Contacted
+- #204 Brisbane Stainless · Contacted
+- #205 Asaparri Australia · Contacted
+- #206 Adanna Fire Pits · Contacted
+- #207 Chef's Hat · Contacted
+- #208 Outdoor Living Abode / OLA Grills · Contacted
+- #209 ABCO Stainless Steel · Contacted
+- #210 Ackland Stainless Steel · Contacted
+- #211 Southeast Stainless · Contacted
+- #212 Metro Steel Services · Contacted
+- #199 Marchiceiu · Contacted
+- #200 Fornieri Wood Fired Ovens · Contacted
+- #201 Napoli Oven Co · Contacted
+- #202 Triple X Stainless · Contacted
+- #203 Heatmaster · Contacted
 
 ## 可跟进 B（Contacted/Replied）
 
@@ -94,6 +122,15 @@
 
 ## A Lead（可作新冷邮/补量池；本阶段停新冷邮时仅库存）
 
+- #213 Townsville Stainless · Lead · **待发**
+- #214 Martin Stainless Steel · Lead · **待发**
+- #215 Brightline Stainless · Lead · **待发**
+- #216 Contemporary Stainless Solutions · Lead · **待发**
+- #217 Costante Imports · Lead · **待发**
+- #218 Flatout Fire Pit · Lead · **待发**
+- #219 Marko Stainless · Lead · **待发**
+- #220 Cronin Alfresco · Lead · **待发**
+- #221 OSKA Group · Lead · **待发**
 - #3 BBQ Spit Rotisseries（跳过：自有中国工厂）
 - #13 Tucker Barbecues（跳过：自有产线）
 - #17 Smoked & Cured / Misty Gully（Bounce · 不自动改发）
@@ -103,11 +140,8 @@
 - #134 Exim International / Napoleon AU（Bounce · 不自动改发）
 - #139 Firehawk（Bounce · 不自动改发）
 - #158 Master Grill（Bounce · 不自动改发）
-- #179 Great Outdoors Import & Export
-- #180 The Woodfired Co
-- #181 Nomadiq BBQ Australia
-- #182 Artusi (Eurolinx / Worldwide Appliances)
-- #183 Escea Australia
+- #177 Kaldera Woodfired Oven（Bounce · 不自动改发）
+- #188 My Pizza Oven / Wildcat（Bounce · 不自动改发）
 
 ## C 停联清单（Do-not-contact）
 

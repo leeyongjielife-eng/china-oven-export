@@ -64,7 +64,7 @@
 |----------|------------------|------------------|
 | `W2_COLLECT` | +10 澳洲买家 → 目标 X/50 | 补外联草稿（若排期有） |
 | `W3_OUTREACH` | 对齐草稿 / 标明今日应发 #N→#M（**勿 Gmail 实发**；跟进仅 **A+B**，跳过 **C**） | +5 新买家（**必须 100% A**） |
-| `W3_OUTREACH` + **A 软切 + 选项 2**（至 8/23） | 对齐 **A Lead 首封**草稿（跳过 B/C；可穿插 A 跟进） | **暂停扩量**（仅 `A Lead<20` 才补 A） |
+| `W3_OUTREACH` + **A 软切 + 选项 2**（至 **8/30**） | 对齐 **A Lead 首封**草稿（跳过 B/C；可穿插 A 跟进） | **暂停扩量**（仅 `A Lead<20` 才补 A） |
 | `W4_FOLLOWUP` | 跟进 Contacted 未回复（仅 A+B） | 推进 Replied → Qualified |
 | `W3_RESEARCH_RESET` | **不派 Sales 扩量**；today 可写「暂停，等 Research」 | — |
 
@@ -96,7 +96,7 @@
 |------|-------------------------|
 | `phase_id=W2_COLLECT` 且 买家 ≥50 | **自动**更新为 `W3_OUTREACH`，P0 改为外联 |
 | `phase_id=W3_OUTREACH` | P0 **不得**再是「+10 买家」；以发信为主；P1 新买家 **100% A** |
-| **A 软切**（strategy 已拍板，至 8/23） | P1 **暂停扩量**；**不**自动切 `W3_RESEARCH_RESET` |
+| **A 软切**（strategy 已拍板，至 **8/30**） | P1 **暂停扩量**；**不**自动切 `W3_RESEARCH_RESET` |
 | **选项 2** | P0 可派 **A Lead 冷邮**（Contacted≥100 不停 A 首封）；禁 B/C 冷邮 |
 | `A Lead < 20` 或本周扩量净增 A=0 | P1 **强制**「补 A」；不得只扩 B/C（软切期间此例外优先于「停扩」） |
 | 漏斗长期无回复 | 周日 Research 日志提醒；Founder 周复盘考虑 `W3_RESEARCH_RESET` |

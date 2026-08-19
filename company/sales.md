@@ -8,27 +8,30 @@
 > | 定价话术规则 | [`product.md`](product.md) 定价策略 |
 > | 子代理边界、任务、交接 | [`../workflows/sales.md`](../workflows/sales.md) |
 > | 买家明细 | [`../workspace/buyers/pipeline.md`](../workspace/buyers/pipeline.md) |
-> | 发信政策 | [`cofounder.md`](cofounder.md) 发信政策 |
+> | 发信政策（邮件） | [`cofounder.md`](cofounder.md) 发信政策 |
+> | LinkedIn 触达 | [`cofounder.md`](cofounder.md) LinkedIn 触达政策 |
 
 ## 销售阶段定义
 
 | 阶段 | 含义 | 下一步 |
 |------|------|--------|
-| Lead | 找到公司，未联系 | 发第一封邮件 |
-| Contacted | 已发外联 | 等 3-5 天，跟进 |
-| Replied | 有回复 | 问需求清单（见 `templates/outreach.md` Template 4） |
+| Lead | 尚未 **Gmail 成功投递**（Notes 可已有 LI connect/InMail；仍算 Lead） | 发第一封**邮件**（可并行 LI，**不**改 Stage） |
+| Contacted | **Gmail 成功投递**（Bounce 不计）。LinkedIn / 电话 / 表单 **不**进入本阶段 | 等 3-5 天，邮件跟进 |
+| Replied | 任一渠道 **真人采购回复**（邮件正文或 LI 消息）。排除：自动回执、连接成功、InMail 送达回执、LinkedIn 系统通知 | 问需求清单（见 `templates/outreach.md` Template 4） |
 | Qualified | 有具体需求（尺寸/数量/目的港） | 单向交接 **Quoting**（见 `workflows/sales.md`） |
 | Quoted | 已报价 | 跟进 |
 | Won | 成交 | 交付 |
 | Lost | 流失 | 记录原因到 `lessons.md` |
 
+> **漏斗脚注：** 本表「已联系 / Contacted」计数 = **邮件成功投递**。LinkedIn 触达只写 `pipeline` Notes，不进本表 Contacted。
+
 ## 当前漏斗数据
 
 | 指标 | 目标 | 实际 |
 |------|------|------|
-| 买家名单 | 50 (W2) / 100 (W3) | **188** |
-| 已联系 | 100 (W3) | **163** |
-| 回复 | 10+ | **2** |
+| 买家名单 | 50 (W2) / 100 (W3) | **221** |
+| 已联系 | 100 (W3) | **195** |
+| 回复 | 10+ | **4** |
 | 深入对话 | 3+ | 0 |
 | 报价 | 1+ | 0 |
 | 成交 | 1 (M3) | 0 |
@@ -41,18 +44,19 @@
 | 阶段 | 数量 |
 |------|------|
 | Lead | **25** |
-| Contacted | **161** |
-| Replied | **2** |
+| Contacted | **191** |
+| Replied | **4** |
+| Lost | **1** |
 | Qualified | 0 |
 | Quoted | 0 |
 | Won | 0 |
 
-### buyer_class（2026-08-19）
+### buyer_class（2026-08-13）
 
 | 类 | 总数 | Lead | Contacted+Replied |
 |----|------|------|-------------------|
-| **A** | **88** | **20** | **68** |
+| **A** | **121** | **20** | **100** |
 | **B** | **45** | **3** | **42** |
 | **C** | **55** | **2** | **53** |
 
-*同步：2026-08-19 Sales 续对齐应发冷 `#179–#183` + A 跟进 `#145–#154` · 停扩 · 买家 188 · Contacted 161 · Replied 2 · **A Lead=20≥20** · 软切+选项2 至 8/23*
+*同步：2026-08-19 · **软切复评落盘**续至 8/30 · 日配 15/15 · Replied **4** · Contacted **191** · **补A `#213–#221`** · **A Lead=20≥20**（闸门关） · 未切 W4 · 新冷邮待「今天发」*

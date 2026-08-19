@@ -75,8 +75,29 @@ Sales / 其他子代理（AI） →  见 workflows/ 各角色边界；**不**替
 - **逐封串行 + 即时写回（防重复）：** 每调用一次 Gmail send 成功后，**立即**更新 `pipeline.md`（Stage→Contacted + Notes 写 msg ID），确认写回后才发下一封。**禁止**同一轮 tool call 并行多封。断线恢复后**不自动重发**——先报告「断在第 N 封，最后成功 #X」，等 Co-founder 确认再继续。
 - **护栏：** 跳过无邮箱 / 已 Contacted（新冷邮）/ 已 Bounce 且未下令改发 / 队列标明跳过（#3、#13、#15 电话脚本）/ **`buyer_class: C`** / **A 软切期间跳过 B** / **#41 Martin 暂不催**；署名 **Kit Lee** · Export — YUEFU BBQ, Foshan, China；首封无附件；W3 可用 indicative market FOB（见 `product.md`）。
 - **买家分层：** 见 [`customers.md`](customers.md)。**A 软切 + 选项 2：** 日配额优先 **A Lead 首封**；可穿插 A Contacted 跟进；**暂停日扩 +5**；C 停联；B 不跟不扩。
-- 仅以下动作**必须真人**：微信/电话、付款、报关、验货、签约；以及每日说一次 **`今天发`**。
+- 仅以下动作**必须真人**：微信/电话、付款、报关、验货、签约；每日说一次 **`今天发`**；以及 LinkedIn 手发后说 **`LinkedIn 发出去`**（见下方 LinkedIn 触达政策）。
 - **Agent 不假装是真人身份**——署名用 `Kit Lee`，不冒充其他身份。
+
+### LinkedIn 触达政策（全公司唯一来源）
+
+> 本节是 **LinkedIn 客源触达**（连接请求 / InMail / DM）政策的**唯一归属**。与上方「发信政策」（邮件）并列，**不得**混进邮件节。其他文档需要时**只指向此处**。字段写法 → [`../workspace/buyers/pipeline.md`](../workspace/buyers/pipeline.md)；Sales 职责 → [`../workflows/sales.md`](../workflows/sales.md)。买家分层 → [`customers.md`](customers.md)。
+
+- **与邮件并行，不互相替代。** LinkedIn **不计入** `Contacted`、**不占** Gmail 日配额 15、**不触发** Contacted≥100 停冷邮；仍受 A 软切 / 选项 2 / C 停联约束。
+- **触发词：** 本机 Co-founder 说 **`LinkedIn 发出去`**（≠ `今天发`）。默认只起草；未说触发词前不得记为已触达。
+- **执行拓扑：**
+  - **云端 Sales Automation：禁止 LinkedIn 实发**；只允许补决策人 URL、对齐连接/InMail 草稿、写 `pipeline` Notes。
+  - **实发：仅 Co-founder 本人**在 LinkedIn 手点；Agent 列目标 + 草稿，发出后按触发词写 Notes。
+  - **禁止**把账号交给外部代发私信；Agent **不**假装是真人身份（署名 Kit Lee · Export — YUEFU BBQ, Foshan）。
+- **日量：** 连接请求 **3–5**/工作日（周一至周六）；InMail **0–2**（有额度再用）。数字只在本小节规定。
+- **不进日配 P0：** LinkedIn **不写入** `today.md` P0，**不进** Founder 09:00 邮件日配；由本机触发词或明确「启动 Sales」LI 任务执行。
+- **账本（同一 `pipeline.md`，不另开 LI 账本）：**
+  - 触达只追加 Notes：`YYYY-MM-DD LI connect @Name` 或 `YYYY-MM-DD LI InMail @Name`。
+  - **禁止**因 LinkedIn 改 `Stage` 或 `Last Contact`（`Last Contact` = 最近一次 Gmail 成功投递）。
+  - 连接成功、InMail 已送、LinkedIn 系统通知 **都不是** `Replied`。
+  - **任一渠道真人采购回复**（邮件正文或 LI 消息）→ 可标 `Replied`（见 [`sales.md`](sales.md)）。
+- **8/30 前范围（线 A）：** 只对 **`pipeline.md` 已有行** 且 **`buyer_class: A`**；**禁止因 LinkedIn 新增公司行**（≠ 日扩例外；选项 2「不找新公司名」仍有效）。禁 **B**；禁 **C** / Do-not-contact；禁催 **`#169` Brad**、**`#41` Martin**。
+- **优先序（少与当日冷邮抢同一批）：** A Contacted 静默（已有个人 URL）> 无邮箱 / Bounce 的 A Lead > 有可用邮箱的 A Lead（后者不堵当日 `今天发` 队列）。
+- **话术：** 补位/不替代；不编造 MOQ / 样品价；连接备注短（≤300 字符）。草稿 → `workspace/buyers/outreach-drafts.md`。
 
 ---
 
