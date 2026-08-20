@@ -1,4 +1,4 @@
-# buyer_class 分层摘要（2026-08-19 · 补A后）
+# buyer_class 分层摘要（2026-08-20 · 发后）
 
 > 规则见 `company/customers.md`。与 `contact-ready` 无关。
 
@@ -8,15 +8,15 @@
 
 | 类 | 总数 | Lead | Contacted+Replied |
 |----|------|------|-------------------|
-| **A** | **121** | **20** | **100** |
+| **A** | **130** | **20** | **109** |
 | B | 45 | 3 | 42 |
 | C（Do-not-contact） | 55 | 2 | 53 |
-| **合计** | **221** | | |
+| **合计** | **230** | | |
 
 ## 闸门状态
 
 - 质量：新扩必须 100% A
-- 库存：**A Lead = 20≥20 → 闸门关闭**（2026-08-19 补A `#213–#221`，待「今天发」）
+- 库存：**A Lead = 20≥20 → 闸门关闭**（2026-08-20 补A `#222–#230`，待「今天发」）
 - 软切：**2026-08-19 复评落盘**，续 A + 选项 2 至 **8/30**（不切 W4 / 不硬切 / 不正式 Research）
 - `#169` Brad 样品已发 — **勿催**；**2026-08-13 LI connect accepted**（仍等他邮件/私信开口 · 至 Mon）
 - `#147` Polito Angela — **已回 pic/catalog** msg 19ffe9d183e6b9ba · 勿催（等她是否要 one-pager）
@@ -122,15 +122,15 @@
 
 ## A Lead（可作新冷邮/补量池；本阶段停新冷邮时仅库存）
 
-- #213 Townsville Stainless · Lead · **待发**
-- #214 Martin Stainless Steel · Lead · **待发**
-- #215 Brightline Stainless · Lead · **待发**
-- #216 Contemporary Stainless Solutions · Lead · **待发**
-- #217 Costante Imports · Lead · **待发**
-- #218 Flatout Fire Pit · Lead · **待发**
-- #219 Marko Stainless · Lead · **待发**
-- #220 Cronin Alfresco · Lead · **待发**
-- #221 OSKA Group · Lead · **待发**
+- #222 1300 Stainless · Lead · **待发**
+- #223 Globe Importers · Lead · **待发**
+- #224 VIP Refrigeration Catering & Shop Equipment · Lead · **待发**
+- #225 STIMA · Lead · **待发**
+- #226 Hospitality Connect · Lead · **待发**
+- #227 Betastyle Stainless · Lead · **待发**
+- #228 Pizza Ovens Australia · Lead · **待发**
+- #229 Marana Forni Australia · Lead · **待发**
+- #230 Nepean Hospitality · Lead · **待发**
 - #3 BBQ Spit Rotisseries（跳过：自有中国工厂）
 - #13 Tucker Barbecues（跳过：自有产线）
 - #17 Smoked & Cured / Misty Gully（Bounce · 不自动改发）
