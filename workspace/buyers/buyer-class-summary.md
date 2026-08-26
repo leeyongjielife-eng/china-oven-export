@@ -1,4 +1,4 @@
-# buyer_class 分层摘要（2026-08-20 · 发后）
+# buyer_class 分层摘要（2026-08-26 · 补A后）
 
 > 规则见 `company/customers.md`。与 `contact-ready` 无关。
 
@@ -8,15 +8,15 @@
 
 | 类 | 总数 | Lead | Contacted+Replied |
 |----|------|------|-------------------|
-| **A** | **130** | **20** | **109** |
+| **A** | **154** | **20** | **133** |
 | B | 45 | 3 | 42 |
 | C（Do-not-contact） | 55 | 2 | 53 |
-| **合计** | **230** | | |
+| **合计** | **254** | | |
 
 ## 闸门状态
 
 - 质量：新扩必须 100% A
-- 库存：**A Lead = 20≥20 → 闸门关闭**（2026-08-20 补A `#222–#230`，待「今天发」）
+- 库存：**A Lead = 20≥20 → 闸门关闭**（2026-08-26 补A `#247–#254` · **待发**）
 - 软切：**2026-08-19 复评落盘**，续 A + 选项 2 至 **8/30**（不切 W4 / 不硬切 / 不正式 Research）
 - `#169` Brad 样品已发 — **勿催**；**2026-08-13 LI connect accepted**（仍等他邮件/私信开口 · 至 Mon）
 - `#147` Polito Angela — **已回 pic/catalog** msg 19ffe9d183e6b9ba · 勿催（等她是否要 one-pager）
@@ -74,6 +74,39 @@
 - #201 Napoli Oven Co · Contacted
 - #202 Triple X Stainless · Contacted
 - #203 Heatmaster · Contacted
+- #213 Townsville Stainless · Contacted
+- #214 Martin Stainless Steel · Contacted
+- #215 Brightline Stainless · Contacted
+- #216 Contemporary Stainless Solutions · Contacted
+- #217 Costante Imports · Contacted
+- #218 Flatout Fire Pit · Contacted
+- #219 Marko Stainless · Contacted
+- #220 Cronin Alfresco · Contacted
+- #221 OSKA Group · Contacted
+- #222 1300 Stainless · Contacted
+- #223 Globe Importers · Contacted
+- #224 VIP Refrigeration Catering & Shop Equipment · Contacted
+- #225 STIMA · Contacted
+- #226 Hospitality Connect · Contacted
+- #227 Betastyle Stainless · Contacted
+- #229 Marana Forni Australia · Contacted
+- #230 Nepean Hospitality · Contacted
+- #231 AUSTOUND · Contacted
+- #232 Twisted Metalcraft · Contacted
+- #233 Euroquip · Contacted
+- #234 CKE Stainless · Contacted
+- #235 Western Stainless Solutions · Contacted
+- #236 Australian Steel Projects · Contacted
+- #237 Ferretti Group Australia · Contacted
+- #238 IFEA · Contacted
+- #239 Hi-Tech Stainless Fabrications · Contacted
+- #240 Atlantic Equipment · Contacted
+- #241 Niccolai · Contacted
+- #242 Stellar Catering Equipment · Contacted
+- #243 Finco Hospitality · Contacted
+- #244 EZ Stainless · Contacted
+- #245 Wisdom Equipment Services · Contacted
+- #246 Stoddart · Contacted
 
 ## 可跟进 B（Contacted/Replied）
 
@@ -122,15 +155,6 @@
 
 ## A Lead（可作新冷邮/补量池；本阶段停新冷邮时仅库存）
 
-- #222 1300 Stainless · Lead · **待发**
-- #223 Globe Importers · Lead · **待发**
-- #224 VIP Refrigeration Catering & Shop Equipment · Lead · **待发**
-- #225 STIMA · Lead · **待发**
-- #226 Hospitality Connect · Lead · **待发**
-- #227 Betastyle Stainless · Lead · **待发**
-- #228 Pizza Ovens Australia · Lead · **待发**
-- #229 Marana Forni Australia · Lead · **待发**
-- #230 Nepean Hospitality · Lead · **待发**
 - #3 BBQ Spit Rotisseries（跳过：自有中国工厂）
 - #13 Tucker Barbecues（跳过：自有产线）
 - #17 Smoked & Cured / Misty Gully（Bounce · 不自动改发）
@@ -142,6 +166,15 @@
 - #158 Master Grill（Bounce · 不自动改发）
 - #177 Kaldera Woodfired Oven（Bounce · 不自动改发）
 - #188 My Pizza Oven / Wildcat（Bounce · 不自动改发）
+- #228 Pizza Ovens Australia（Bounce · 不自动改发）
+- #247 European Wood Fired Ovens · Lead · **待发**
+- #248 Ember Industries · Lead · **待发**
+- #249 Industry Kitchens · Lead · **待发**
+- #250 Slot Me In · Lead · **待发**
+- #251 Southern Stainless · Lead · **待发**
+- #252 Stellar Custom Stainless · Lead · **待发**
+- #253 Moffat · Lead · **待发**
+- #254 MAX Fire Pits · Lead · **待发**
 
 ## C 停联清单（Do-not-contact）
 
