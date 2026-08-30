@@ -106,6 +106,15 @@ Australia — mid-size BBQ equipment distributors / specialty outdoor retailers
 - **决策（同日晚 Co-founder）**：✅ **A 软切** — 保持 `W3_OUTREACH` + 澳；停 Sales 日扩；跟进仅 `buyer_class A`；**2026-08-09** 再评估是否 `正式Research` / 硬切。**未**改 `phase_id`。
 - **建议（已执行）**：软切优先于立刻换国；1 周内盯第 2 条真回复与 Martin。
 
+### Week 7 周日轻量复核（2026-08-30）
+
+- **日期**：2026-08-30；执行 Research 轻量复核，不做正式 Research，不重选目标国，不改 `customers.md` / `pipeline.md` / `today.md`。
+- **竞品观察**：澳洲 Kamado 价格锚点仍合理；BGE Large 约 **AUD $2,600–2,999**，高配包可到 $3,500+；KJ Classic III 可见 **AUD $2,799–3,599**，促销低点低于 7/26 但仍在高端价格带。
+- **已更新**：`workspace/markets/competitor-benchmark.md` 验证日更新为 2026-08-30，并补充 BGE/KJ 当前区间；`workspace/markets/keywords.md` 新增 **5** 个关键词（#31–#35）。
+- **Sales 信号（本机 SSOT）**：`company/sales.md` 显示 Contacted **191** / Replied **4**，回复率约 **2.1%**，仍低于 5%；A Lead **20≥20**，库存闸门暂关。
+- **Research Reset 门槛**：历史周日志已记录 7/19、7/26、8/2 连续 3 个周日回复率 &lt;5%，本周仍 &lt;5% → **建议 Founder 在 8/30 复评时切换 `W3_RESEARCH_RESET` 或至少触发正式 Research 决策**。
+- **建议**：若 Co-founder 未选择继续软切，Research 侧建议暂停继续扩大澳洲名单，先复盘 A 类渠道、价格钩子与 buyer_class 定义；在 Founder 明确前仍保持澳洲单市场，不自行换国。
+
 ---
 
 ## 数据来源
