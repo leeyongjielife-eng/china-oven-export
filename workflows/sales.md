@@ -110,7 +110,7 @@ Supplier  →  工厂能不能做、多少钱        （写 product.md + workspa
 → 唯一来源：[`company/cofounder.md`](../company/cofounder.md) **LinkedIn 触达政策**。
 
 - 本机触发 **`LinkedIn 发出去`** 后：按草稿确认已手发 → **仅**写 `pipeline` Notes；**禁止** LI→Contacted / 改 Last Contact。
-- 日量、禁名单、8/30 线 A、不进 `today.md` P0 → **只读 cofounder 该节**，本文件不重复数字。
+- 日量、禁名单、9/6 线 A、不进 `today.md` P0 → **只读 cofounder 该节**，本文件不重复数字。
 
 ### 买家分层与扩量闸门（2026-08-02）
 
@@ -122,7 +122,7 @@ Supplier  →  工厂能不能做、多少钱        （写 product.md + workspa
 | **库存** | **`A Lead < 20` → 必须补 A**；或本周已派 Sales 扩量但 **净增 A = 0 → 也必须补 A** |
 | **C** | **Do-not-contact**（邮件/LinkedIn/电话/表单全停）；保留账本行，不进任何外联队列 |
 | **B** | **A 软切期间：不跟进、不新扩**（软切前默认可跟进） |
-| **A 软切（2026-08-02→8/30）** | **暂停日扩 +5**（库存闸门例外仍有效）；默认跟进 **仅 A**；不改 `phase_id` |
+| **A 软切（2026-08-02→9/6）** | **暂停日扩 +5**（库存闸门例外仍有效）；默认跟进 **仅 A**；不改 `phase_id` |
 | **选项 2（2026-08-03）** | **例外允许**对 **A Lead** 发首封冷邮（放宽 Contacted≥100 停冷邮）；仍禁 B/C；仍禁找新公司名；#41 暂不催 |
 
 ### 每日量级
@@ -131,7 +131,7 @@ Supplier  →  工厂能不能做、多少钱        （写 product.md + workspa
 |------|--------|--------------|----------|
 | Week 2 | 10 家/天，只入 pipeline | **0** | — |
 | Week 3 (`W3_OUTREACH`) 常规 | **+5/天且必须全为 A** | **15**/工作日（本机 `今天发`；停新冷邮时不发 Lead） | 见 [`cofounder.md`](../company/cofounder.md) LinkedIn 触达政策 |
-| Week 3 **A 软切 + 选项 2**（至 **2026-08-30**） | **0**（仅当 `A Lead < 20` 才强制补 A）；**禁止因 LI 新增公司行** | **15**/工作日：**优先 A Lead 首封**；可穿插 A Contacted 跟进；禁 B/C | 见 cofounder LinkedIn 触达政策（只打已有 A 行） |
+| Week 3 **A 软切 + 选项 2**（至 **2026-09-06**） | **0**（仅当 `A Lead < 20` 才强制补 A）；**禁止因 LI 新增公司行** | **15**/工作日：**优先 A Lead 首封**；可穿插 A Contacted 跟进；禁 B/C | 见 cofounder LinkedIn 触达政策（只打已有 A 行） |
 | Week 4+ | 减少新 lead；仍禁 C | 跟进 Replied / Qualified 为主 | 见 cofounder |
 
 周节奏与完成标准 → 见 [`../plan/`](../plan/)，不在此重复。

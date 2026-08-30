@@ -95,7 +95,7 @@ Sales / 其他子代理（AI） →  见 workflows/ 各角色边界；**不**替
   - **禁止**因 LinkedIn 改 `Stage` 或 `Last Contact`（`Last Contact` = 最近一次 Gmail 成功投递）。
   - 连接成功、InMail 已送、LinkedIn 系统通知 **都不是** `Replied`。
   - **任一渠道真人采购回复**（邮件正文或 LI 消息）→ 可标 `Replied`（见 [`sales.md`](sales.md)）。
-- **8/30 前范围（线 A）：** 只对 **`pipeline.md` 已有行** 且 **`buyer_class: A`**；**禁止因 LinkedIn 新增公司行**（≠ 日扩例外；选项 2「不找新公司名」仍有效）。禁 **B**；禁 **C** / Do-not-contact；禁催 **`#169` Brad**、**`#41` Martin**。
+- **9/6 前范围（线 A）：** 只对 **`pipeline.md` 已有行** 且 **`buyer_class: A`**；**禁止因 LinkedIn 新增公司行**（≠ 日扩例外；选项 2「不找新公司名」仍有效）。禁 **B**；禁 **C** / Do-not-contact；禁催 **`#169` Brad**、**`#41` Martin**。
 - **优先序（少与当日冷邮抢同一批）：** A Contacted 静默（已有个人 URL）> 无邮箱 / Bounce 的 A Lead > 有可用邮箱的 A Lead（后者不堵当日 `今天发` 队列）。
 - **话术：** 补位/不替代；不编造 MOQ / 样品价；连接备注短（≤300 字符）。草稿 → `workspace/buyers/outreach-drafts.md`。
 
