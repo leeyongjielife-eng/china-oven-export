@@ -10,9 +10,11 @@
 | Big Green Egg | XL (≈21–24") | **$1,749.99–$1,898.99** | US | biggreenegg.com | 2026-07-10 |
 | Kamado Joe | Classic Joe III 18" | **$1,765.92–$2,199.99** | US | kamadojoe.com / BBQGuys | 2026-07-10 |
 | Kamado Joe | Big Joe III 24" | **$3,299.99** | US | kamadojoe.com | 2026-07-10 |
-| Big Green Egg | Large 18" packages | **AUD $2,500–2,999** | AU | biggreenegg.com.au / Wignells / Mitre 10 | 2026-07-26 |
-| Kamado Joe | Classic III 18" | **AUD $2,979–3,399** | AU | BBQs.com.au（促销约 $2,979 / 挂牌 $3,399） | 2026-07-26 |
-| BBQ Spit Rotisseries | Ceramic kamado / KJ range | **AUD $1,799–4,249** | AU | bbqspitrotisseries.com.au | 2026-07-19 |
+| Big Green Egg | Large 18" packages | **AUD $2,600–2,999**（Nest/内置包；高配 Modular 可到 $3,500+） | AU | biggreenegg.com.au / Mitre 10 / Tucker BBQ | 2026-08-30 |
+| Kamado Joe | Classic III 18" | **AUD $2,799–3,599**（促销低点约 $2,799–2,978；常规/官方高点约 $3,399–3,599） | AU | BBQ Spit Rotisseries / Tucker BBQ / BBQs.com.au / KJ AU | 2026-08-30 |
+| BBQ Spit Rotisseries | Ceramic kamado / KJ range | **AUD $1,799–4,249** | AU | bbqspitrotisseries.com.au | 2026-08-30 |
+
+**2026-08-30 轻量复核：** BGE Large 澳洲官方/零售仍以 **AUD $2,600–2,999** 为主（Nest 包 $2,999，部分零售约 $2,900；高配 modular bundle 可到 $3,500+）。KJ Classic III 当前可见促销低点约 **AUD $2,799–2,978**，常规/官方高点约 **AUD $3,399–3,599**。相对 7/26 只是促销低点更低、官方高点略高，澳洲高端 Kamado 价格带仍成立；**indicative 21" FOB USD $255–316** 仍可作为非锁价市场参考。
 
 **2026-07-26 轻量复核：** BGE Large 套装仍约 **AUD $2,500（Built-in）– $2,900–2,999（Nest）**；官方站可见 Nest 包约 **$2,999**。KJ Classic III 本周可见 **AUD $2,979**（原价挂牌约 $3,399）。锚点相对 7/19 **无结构性变化**；indicative 21" FOB USD $255–316 话术仍可用。
 
