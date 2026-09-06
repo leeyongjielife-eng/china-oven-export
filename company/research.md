@@ -106,6 +106,16 @@ Australia — mid-size BBQ equipment distributors / specialty outdoor retailers
 - **决策（同日晚 Co-founder）**：✅ **A 软切** — 保持 `W3_OUTREACH` + 澳；停 Sales 日扩；跟进仅 `buyer_class A`；**2026-08-09** 再评估是否 `正式Research` / 硬切。**未**改 `phase_id`。
 - **建议（已执行）**：软切优先于立刻换国；1 周内盯第 2 条真回复与 Martin。
 
+### Week 8 周日轻量复核（2026-09-06）· **Research Automation**
+
+- **日期**：2026-09-06；执行周日轻量复核，不做正式 Research，不重选目标国，不改 `customers.md`。
+- **竞品观察**：澳洲 Kamado 高端零售锚点仍合理；BGE Large 18" 官方套装约 **AUD $2,600–2,999**，KJ Classic III 18" 约 **AUD $2,859–3,399**（促销/挂牌并存）。
+- **已更新**：`workspace/markets/competitor-benchmark.md` 刷新 9/6 验证日期与 BGE/KJ 当前区间；`workspace/markets/keywords.md` 新增 **5** 个偏 A 类采购权关键词（#31–#35）。
+- **Sales 信号（本机 SSOT）**：`sales.md` 显示已联系 **195**、回复 **4**，当前回复率约 **2.1%**，仍低于 **5%**；历史周日志已连续多个周日低于 5%。
+- **Research Reset 建议**：门槛已满足；建议 Founder 在今日 9/6 复评中切换或至少正式拍板 `W3_RESEARCH_RESET`，除非 Co-founder 能确认同批 A Lead 已本机投递且出现新的真实 A 回复。
+- **边界提醒**：Research 仅给建议，不改 `phases.md` / `founder.md` / `today.md`，也不写 pipeline 或外联内容。
+- **下一步建议**：若切 Reset，优先复核澳洲 ICP 画像与采购权关键词，而不是直接换国家；先解释为什么 A Lead 长期未投递导致软切样本不足。
+
 ---
 
 ## 数据来源
