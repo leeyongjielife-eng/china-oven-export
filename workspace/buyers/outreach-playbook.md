@@ -22,7 +22,7 @@
 | **跟进决定胜负** | 首封只拿 58% 回复，42% 来自跟进；80% 成交在第 3–5 封后 |
 | **质量 > 数量** | 每天精选少量深度个性化，远胜群发 |
 | **一个 CTA** | 一封信只问一个低门槛 yes/no 问题 |
-| **少放链接/附件** | 首封尽量 0 链接 0 附件（降进垃圾箱风险）；客户回复后再发资料 |
+| **少放链接/附件** | 首封 **0 链接**；附件 **仅 1 张小产品图**（`email-hero-kamado.jpg`）；目录/证书等回复后再发 |
 
 ---
 
@@ -50,8 +50,8 @@
    - 「官网有 trade / wholesale 页，正在招 stockist」
 2. **Value（W3）：** 可写 **indicative market FOB**（21" ~USD $255–316，*not locked*）+ 可选零售锚点；**禁止**写成厂锁价。规则见 `company/product.md`。
 3. **CTA**：`Reply YES …` / 低门槛 yes-no；可拒可应。
-4. **首封不带目录附件**，回复后再发。
-5. **署名**：Kit Lee · Export — YUEFU BBQ, Foshan, China。
+4. **首封只附 1 张小产品图**（`workspace/buyers/assets/email-hero-kamado.jpg`），不带目录 PDF；YES 后再发 one-pager。
+5. **署名**：Kit Lee · Export — YUEFU BBQ, Foshan, China · WhatsApp: +86 137 9461 3243（署名被动展示；正文不另加 WA CTA）。
 6. **发信拓扑**：日配额 **15**/工作日；Co-founder 说 **`今天发`** 本机实发；云端 Sales 不发 Gmail；Contacted≥100 停新冷邮。
 
 ---
@@ -102,6 +102,13 @@ Alibaba = 找竞品 FOB，不是找买家
 
 Email 主渠道 → 已读不回则 LinkedIn 互动（先点赞/评论 2–3 条帖，间隔一周）→ 必要时 WhatsApp 轻触达。
 
+**WhatsApp 轻触达（政策唯一来源 → [`company/cofounder.md`](../../company/cofounder.md)）：**
+
+- 我方号码：`+86 137 9461 3243`（`https://wa.me/8613794613243`）
+- 出站：仅公开 `wa:` / 可确认手机号，或 Co-founder 点名；触发词 **`WhatsApp 发出去`**；日量 0–3；**不**改 Contacted
+- **澳试点（选项 A）：** 仅已入库澳 **A** + 公开号；禁催 Brad/Martin/Angela/Alex；不扩澳、不发澳冷邮
+- Notes：`YYYY-MM-DD WA light @Name`（澳试点加 `· AU-pilot`）
+
 ---
 
 ## 六、指标基准（自检）
@@ -124,7 +131,7 @@ Email 主渠道 → 已读不回则 LinkedIn 互动（先点赞/评论 2–3 条
 - ❌ subject 带 Free/Discount/Buy Now/全大写/>50 字符
 - ❌ 跟进只重复「did you see my last email」
 - ❌ 一封信多个 CTA（回信+电话+填表+官网）
-- ❌ 首封带附件或多个链接
+- ❌ 首封带目录 PDF、证书或多图（**1 张小产品图除外**）
 - ❌ 群发同一封（X/LinkedIn 有批量检测；邮件伤域名）
 
 ---

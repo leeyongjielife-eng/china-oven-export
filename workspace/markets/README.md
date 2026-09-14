@@ -23,10 +23,10 @@ markets/
 
 ## 完成检查（正式 Research 后）
 
-- [ ] `country-scoring.md` — 至少 5 国打分，Top 3 明确
-- [ ] `competitor-benchmark.md` — BGE/KJ 零售价 + 1 家中国供应 Alibaba 价
-- [ ] `keywords.md` — 20 词填完，按选定国家分组
-- [ ] `company/research.md` — Top 3 国、买家类型、niche
-- [ ] `company/customers.md` — **第一个目标市场** + 3 条理由
+- [x] `country-scoring.md` — 至少 5 国打分，Top 3 明确（**2026-09-09**：英 3.85 / 澳 3.75 / 新西兰 3.55）
+- [x] `competitor-benchmark.md` — BGE/KJ 零售价 + 1 家中国供应 Alibaba 价 + 英价值带
+- [x] `keywords.md` — 20 词填完，按选定国家（英国）分组
+- [x] `company/research.md` — Top 3 国、买家类型、niche
+- [x] `company/customers.md` — **第一个目标市场：英国**（2026-09-09 Co-founder 确认生效）
 
 工作流详见 [`../../workflows/research.md`](../../workflows/research.md)

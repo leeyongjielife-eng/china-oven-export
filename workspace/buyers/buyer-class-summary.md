@@ -1,6 +1,8 @@
-# buyer_class 分层摘要（2026-08-26 · 补A后）
+# buyer_class 分层摘要（2026-09-14 · Wave-1 P2 发后）
 
-> 规则见 `company/customers.md`。与 `contact-ready` 无关。
+> 规则见 `company/customers.md`。与 `contact-ready` 无关。  
+> **发信序**依据 `workspace/markets/uk-buyer-pool-wave1-2026-09-12.md`（方法试跑；**尚未**写入策略 SSOT）。  
+> **不按** `#279→#330` 编号顺序发。
 
 > 人工抽检纠偏：#49 B→A；#72/#116 B→C；#142 A→B。
 
@@ -8,21 +10,77 @@
 
 | 类 | 总数 | Lead | Contacted+Replied |
 |----|------|------|-------------------|
-| **A** | **154** | **20** | **133** |
+| **A** | **230** | **22** | **206** |
 | B | 45 | 3 | 42 |
 | C（Do-not-contact） | 55 | 2 | 53 |
-| **合计** | **254** | | |
+| **合计** | **330** | | |
+| 其中 **英国 A** | **52** | **10** | **41**（+1 Lost `#306`） |
 
 ## 闸门状态
 
-- 质量：新扩必须 100% A
-- 库存：**A Lead = 20≥20 → 闸门关闭**（2026-08-26 补A `#247–#254` · **待发**）
-- 软切：**2026-08-19 复评落盘**，续 A + 选项 2 至 **8/30**（不切 W4 / 不硬切 / 不正式 Research）
-- `#169` Brad 样品已发 — **勿催**；**2026-08-13 LI connect accepted**（仍等他邮件/私信开口 · 至 Mon）
-- `#147` Polito Angela — **已回 pic/catalog** msg 19ffe9d183e6b9ba · 勿催（等她是否要 one-pager）
-- `#132` HiBBQ Alex Tang — **2026-08-19「Yes」** · **已回 1-pager + 关键页 PDF** msg 1a018ff7f334e2a5 · 等他选 18"/21"
+- 质量：新扩必须 100% **英国 A** ✅
+- 库存：英国 A **52** · 英 A Lead **10**
+- 阶段：**`W3_OUTREACH`** · 英 Contacted **41** · `#306` Lost · 澳停新冷邮
+- 附件：冷邮 **hero + one-pager**（2026-09-14）
+- 发信：2026-09-14 **15/15** Wave-1 P2（冷 10 + 跟进 5）已完成
+- `#169` Brad / `#147` Angela / `#132` Alex — 仅主动回信
 
-## 可跟进 A（Contacted/Replied）
+---
+
+## 英国发信序（Wave-1）
+
+### P0 — 新冷邮（已发 2026-09-12）
+
+1. **#329 Kama Gear** · **Contacted**
+2. **#330 HEX Living** · **Contacted**
+3. **#315 Charlie Oven** · **Contacted**
+
+### P1 — 跟进（已发 2026-09-12）
+
+陶瓷专线跟进 12 户 · 见上日账本（含 `#283` 改发）
+
+### P1b — 特殊（需授权）
+
+- **#282 Ynni** · Lead（Bounce `info@`）· 备用 `jon@ynni.co.uk` · **禁止自动改发**
+
+### P2 — 今日批（已发 2026-09-14）
+
+| 序 | # | 公司 | 状态 |
+|:---:|:---:|------|------|
+| 1 | 309 | Ox Grills | **Contacted** · cold |
+| 2 | 314 | Norfolk Grills | **Contacted** · cold |
+| 3 | 319 | Whistler Grills | **Contacted** · cold |
+| 4 | 320 | Kadai | **Contacted** · cold |
+| 5 | 327 | BeefEater Europe | **Contacted** · cold |
+| 6 | 316 | UK Grills | **Contacted** · cold |
+| 7 | 311 | DeliVita | **Contacted** · cold |
+| 8 | 310 | Igneus | **Contacted** · cold |
+| 9 | 323 | Maze Outdoor | **Contacted** · cold |
+| 10 | 318 | Alfa Ovens UK | **Contacted** · cold |
+| — | 285 | Vision Outdoor Kitchens | **跟进已发** |
+| — | 288 | KamadoSpace | **跟进已发** |
+| — | 291 | Hot Box | **跟进已发** |
+| — | 301 | ProQ | **跟进已发** |
+| — | 307 | Firebrand Green Heat | **跟进已发** |
+
+### P3 — 后置（有采购权、产品相关弱 · 勿优先发）
+
+燃料：`#312` Big K · `#313` Fire Guru · `#296` Outdoor&Patio（已 Contacted）  
+火盆：`#317` Solus · `#322` Firepits UK · `#326` Gardeco · `#328` Eco Fuego · `#297` Firepit.co.uk（Contacted）  
+家具/弱烹饪：`#321` Garden Furniture Global · `#324` Charles Bentley · `#325` Hartman  
+品牌墙停联：`#306` BSTRD Lost · `#290` Primo（已 Contacted · 勿推 PL）
+
+### 英国 A 全表（账本对照）
+
+- #279–#308 · 见上（Contacted / Lost / Bounce）
+- #309–#311 · #314 · #316 · #318–#320 · #323 · #327 · Contacted · 2026-09-14
+- #312–#313 · #317 · #321–#322 · #324–#326 · #328 · Lead（P3 后置）
+- **#282 Ynni** · Lead · Bounce · 禁自动改发
+- **#315 Charlie Oven** · Contacted · 2026-09-12
+- **#329 Kama Gear** · Contacted · 2026-09-12
+- **#330 HEX Living** · Contacted · 2026-09-12
+
+## 可跟进 A（Contacted/Replied · 澳归档 · 不主动催）
 
 - #147 Polito Wood Fire Ovens · **Replied**（Angela · 要 pic）
 - #132 HiBBQ · **Replied**（Alex Tang · Yes / 要 1-pager）
@@ -49,7 +107,7 @@
 - #170 Advanced Pods · Contacted
 - #171 Hibachi Tabo (Fifteen Degrees by Design) · Contacted
 - #172 Pyro Designs · Contacted
-- #173 Mayo Hardware (Matador / Ignite) · Contacted
+- #173 Mayo Hardware (Matador / Ignite) · Contacted（自动回执 CAPA 275502 · 非 Replied）
 - #178 Cabinex · Contacted
 - #177 Kaldera Woodfired Oven · Contacted
 - #176 The Fire Brick Company · Contacted
@@ -59,7 +117,7 @@
 - #195 SJB Stainless · Contacted
 - #196 Claytons Alfresco · Contacted
 - #197 Adelaide Outdoor Kitchens · Contacted
-- #198 Alfresco Kitchen Co · Contacted
+- #198 Alfresco Kitchen Co · Contacted（跟进 Bounce 9/8 · 首封已送达 · 该地址暂不发）
 - #204 Brisbane Stainless · Contacted
 - #205 Asaparri Australia · Contacted
 - #206 Adanna Fire Pits · Contacted
@@ -107,6 +165,14 @@
 - #244 EZ Stainless · Contacted
 - #245 Wisdom Equipment Services · Contacted
 - #246 Stoddart · Contacted
+- #271 Ferrum · Contacted
+- #272 HVCC Fab · Contacted
+- #273 Liteco Hospitality · Contacted
+- #274 KW Commercial Kitchen · Contacted
+- #275 Notleys Bakery Equipment · Contacted
+- #276 Cafe Ideas · Contacted（自动回执 9/7 · 非 Replied）
+- #277 Allspec Stainless · Contacted
+- #278 H&S Metalcraft · Contacted
 
 ## 可跟进 B（Contacted/Replied）
 
@@ -167,14 +233,6 @@
 - #177 Kaldera Woodfired Oven（Bounce · 不自动改发）
 - #188 My Pizza Oven / Wildcat（Bounce · 不自动改发）
 - #228 Pizza Ovens Australia（Bounce · 不自动改发）
-- #247 European Wood Fired Ovens · Lead · **待发**
-- #248 Ember Industries · Lead · **待发**
-- #249 Industry Kitchens · Lead · **待发**
-- #250 Slot Me In · Lead · **待发**
-- #251 Southern Stainless · Lead · **待发**
-- #252 Stellar Custom Stainless · Lead · **待发**
-- #253 Moffat · Lead · **待发**
-- #254 MAX Fire Pits · Lead · **待发**
 
 ## C 停联清单（Do-not-contact）
 

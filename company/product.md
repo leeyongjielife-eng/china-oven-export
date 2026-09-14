@@ -93,7 +93,7 @@
 - **W3 外联定价（2026-07-16 统一口径）：** 冷邮件**默认**写 **indicative market FOB**（当前锚点：21" 主流 **USD $255–316**；来源 Alibaba 公开区间，见 [`competitor-benchmark.md`](../workspace/markets/competitor-benchmark.md)）。必须标明 *indicative / not locked / firm against spec & MOQ*。**不得**写成 YUEFU 锁价或正式 PI。
 - **正式 / 精确 FOB：** 买家进入 Qualified **且** 已向工厂询价后，由 Quoting 出单。
 - **风险管控：** 至少在有 1 个认真询盘前，向父亲朋友要一个**内部参考价区间**（不必书面报价），避免报价离谱
-- **署名：** 外联一律 **Kit Lee** · Export — YUEFU BBQ, Foshan, China（见 `cofounder.md`）
+- **署名：** 外联一律 **Kit Lee** · Export — YUEFU BBQ, Foshan, China · **WhatsApp: +86 137 9461 3243**（号码与触达政策见 `cofounder.md`）
 
 ---
 

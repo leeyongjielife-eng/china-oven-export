@@ -25,7 +25,7 @@
 |------|----------|
 | 业务 | 中国 Kamado 陶瓷烤炉出口寻源 |
 | 产品 | 18" / 21" 主推，供应商 YUEFU BBQ（佛山） |
-| **当前 phase** | **`W3_OUTREACH`**（详见 [`phases.md`](phases.md)） |
+| **当前 phase** | **`W3_OUTREACH`**（英国外联；详见 [`phases.md`](phases.md)） |
 | 战略 | 一个资源 → 一个市场 → 一个报价 |
 | 定位 | 寻源顾问，降风险，非最低价噱头 |
 | Co-founder 贡献 | 国内烤炉供应商资源（父亲朋友工厂 YUEFU），可拿货销售、帮开市场 |
@@ -36,29 +36,30 @@
 
 ## 当前阶段判断
 
-- **Phase:** 0 — **`W3_OUTREACH`** + **A 软切 + 选项 2**（**2026-08-19 复评落盘**，续至 **8/30**；回复 **4**&lt;5 → 不切 W4）
-- **瓶颈:** 回复 **4**/5；热线索等对方（Alex 选尺寸、Brad/Angela 不催）
-- **优势:** 买家 **254**；Contacted **224**；**A Lead=20≥20**（闸门关闭）；`#132` HiBBQ 已 Yes
-- **今日主线（2026-08-26）：** 本机「今天发」**15/15** 后补A `#247–#254`（待发）；**勿催 Brad / Martin**
-- **暂不做:** B/C；催 #41；硬切 Reset；**8/30 前不正式 Research**；Bounce 不自动补；电话未授权
+- **Phase:** 0 — **`W3_OUTREACH`**（英国 A **52**；英 Contacted **41**）
+- **瓶颈:** 英积极回复 **0**/5；`#306` Lost；英 A Lead **10**（P3 后置）
+- **优势:** EN1860-1；首封已附 **hero + one-pager**
+- **今日主线（2026-09-14）：** 「今天发」**15/15** · 冷 P2×10 + 跟进 5
+- **暂不做:** 云端 Gmail 实发；澳新冷邮；催 Brad/Martin；电话；问叔叔；Bounce 不自动改发；**不回** `#306`；找客方法暂不入 SSOT
 
 ### Automation（2026-07-13 · 单 Run + Research）
 
 | 名称 | 触发 | 模型 | 状态 |
 |------|------|------|------|
-| **Kamado 每日运营 — 澳洲** | 每天 09:00 · `main` | GPT-5.5 Medium | ✅ Active（禁止 Gmail 实发） |
-| **Kamado 每周 Research — 澳洲** | 每周日 09:00 · `main` | GPT-5.5 Medium | ✅ Active |
+| **Kamado 每日运营 — 澳洲** | 每天 09:00 · `main` | GPT-5.5 Medium | ⚠️ 名称未改；**必须读 `phases.md`**：现为英国 `W3_OUTREACH`，P0=按 **Wave-1 发信序**（`buyer-class-summary`），**云端不实发** |
+| **Kamado 每周 Research — 澳洲** | 每周日 09:00 · `main` | GPT-5.5 Medium | ✅ Active（轻量复核改盯**英**零售/关键词；≠ 正式Research） |
 
 **运行逻辑：** 读 [`phases.md`](phases.md) → 单 Run 内 Founder 派发 + Sales 扩买家/草稿 → **本机 Co-founder `今天发`** 实发；周日 Research 轻量复核。账本 SSOT=本机 `pipeline` Contacted。
 
 **重要：** Automation 读 **GitHub 上的代码**。本地改完文档须 `git commit && git push`，次日 09:00 才能跑到最新状态。
 
-| 📅 | — | **8/30** 再复评软切 | 锁定 |
+| 📅 | — | **换英已确认** → `W2_COLLECT` 积 50 英 A | ✅ |
+| 📅 | 2026-09-10 | **英 A 50/50** → 切 **`W3_OUTREACH`** | ✅ |
+| 📅 | 2026-09-14 | P2 冷 10+跟进 5 · 首封附 one-pager | ✅ |
 
 ### Co-founder 今日说明
 
-软切已落盘至 **8/30**。今日「今天发」**15/15**（冷 `#239–#246` + 跟进 7）；补A `#247–#254` · **A Lead=20≥20** 闸门关闭 · **待发**。等 `#132` 选尺寸。云端不实发。
-
+**9/14 已发：** Wave-1 P2 冷 `#309 #314 #319 #320 #327 #316 #311 #310 #323 #318`（hero+one-pager）+ 跟进 `#285 #288 #291 #301 #307`（one-pager）。英 Contacted **41** · 英 A Lead **10**。澳停新冷邮；Brad/Angela/Martin/Alex 仅主动回信。不问叔叔。
 ---
 
 ## 今日排期（2026-08-13 · 周四）⏳ 续冷 #179–#183 + A 跟进 #145–#154 · 停扩
@@ -124,11 +125,11 @@
 | P0 | Co-founder 档案补全 | Co-founder | ✅ 完成 |
 | P0 | Research 体系独立审核 + 按意见修复 | 审核子代理 + Founder | ✅ 完成 |
 | P0 | **问叔叔：YUEFU 出口史** | Co-founder | ⏸️ **暂缓** — Lee 决定先找潜在买家，有询盘/Qualified 后再问（2026-07-10） |
-| P0 | 市场研究，定第一个目标国 | Research | ✅ **澳大利亚**（2026-07-10） |
-| P1 | 积满 **50 买家** | Sales | ✅ **139**；W3 外联池续扩 |
-| P1 | 外联草稿备齐 | Sales | 进行中；Kit Lee / indicative FOB |
+| P0 | 市场研究，定第一个目标国 | Research | ✅ **英国**（2026-09-09 确认；取代 7/10 澳） |
+| P1 | 积满 **50 英国 A** | Sales | ✅ **50**（2026-09-10）；现 **52**（+`#329–#330` Wave-1） |
+| P1 | 外联草稿备齐 | Sales | ✅ 英 `#279–#328` 首封草稿齐 · **未发** |
 | P1 | 补联系人 A 级 | Sales | 持续补 |
-| P1 | 外联 100（定价话术见 `product.md` 定价策略） | Co-founder 本机跟进/冷邮 + Sales 草稿 | W3 **A 软切+选项2**：A Lead 首封 · 停日扩（A Lead&lt;20 须补 A）· 回复 **4** · **8/30** 再复评 |
+| P1 | 外联 100（定价话术见 `product.md` 定价策略） | Co-founder 本机 + Sales 草稿 | 🔄 **`W3_OUTREACH`** · 等本机「今天发」（建议自 `#279`） |
 | P2 | 有回复后 → 向 YUEFU 要针对性 FOB | Supplier + Co-founder | 有 Qualified 后 |
 | P3 | 正式报价单 | Quoting | 有需求 + 厂价后 |
 
@@ -136,14 +137,14 @@
 
 ## 待 Co-founder 决策 / 回答
 
-> 发信规则已锁定：本机 `今天发` · 跟进优先 · Contacted≥100 停新冷邮。账本 SSOT=本机 pipeline。
+> 发信规则：本机 `今天发`；**英国 Contacted≥100** 停英新冷邮（澳 256 归档）。账本 SSOT=本机 pipeline。
 
 | # | 问题 | 影响 | 状态 |
 |---|------|------|------|
 | 1 | 搭建 Gmail MCP / 发信账号连接 | 解锁 W3 外联 | ✅ 2026-07-15 |
 | 2 | #41 Martin | 曾 Replied；暂不催 | ✅ 暂不催（2026-08-03） |
 | 3 | **#17 / #126 Bounce** | 救 ICP | ⏳ #17 待定；**#126 无可用邮箱**（公开邮箱=死域名；仅电话 03 9889 6542 / 0418 551 520）· 2026-08-04 查毕 · 不改发 |
-| 4 | Research Reset / 软切复评 | 是否换国或硬切 | ✅ **2026-08-19 续软切+选项2 至 8/30**（回复 4&lt;5，不切 W4 / 不硬切 / 不正式 Research） |
+| 4 | Research Reset / 是否换英 | 第一市场 | ✅ **2026-09-09 确认换英**；2026-09-10 英 A **50/50** → **`W3_OUTREACH`** |
 | 5 | 8/4 日配额 | A Lead `#139–#154` | ✅ 15/15 已发（2026-08-04） |
 
 ---
@@ -152,7 +153,25 @@
 
 | 日期 | 调度 | 任务 | 结果写回 |
 |------|------|------|----------|
-| 2026-08-19 | **Founder / Co-founder** | **8/16 软切复评落盘**：续 A 软切+选项 2 至 **8/30**；不切 W4；不硬切；不正式 Research；A Lead&lt;20 须补 A | `strategy.md` · `phases.md` · `customers.md` · `founder.md` · `cofounder.md` · `workflows/sales.md` |
+| 2026-09-14 | **Co-founder 本机** | 「今天发」**15/15** Wave-1 P2：冷 10（hero+one-pager）+ 跟进 5；英 Contacted 31→**41**；英 A Lead 20→**10**；全库 Contacted **297**；护栏改为首封 2 附件 | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `buyer-class-summary.md` · `cofounder.md` · `today.md` done |
+| 2026-09-12 | **Co-founder 本机** | 「按方案发」**15/15** Wave-1：冷 `#329 #330 #315`（+hero）+ 跟进 12；英 Contacted 28→**31**；英 A Lead 23→**20**；全库 Contacted **287** | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `buyer-class-summary.md` · `today.md` done |
+| 2026-09-12 | **Sales Wave-1** | 入账 `#329` Kama Gear · `#330` HEX · 重排英发信序 · 英 A **52** · 全库 **330** | `pipeline.md` · `outreach-drafts.md` · `buyer-class-summary.md` · `sales.md` · `uk-buyer-pool-wave1-*.md` |
+| 2026-09-11 | **Co-founder 本机** | 「今天发」**15/15** 英冷 `#294–#308`（+已锁定 hero.jpg）；英 Contacted 14→**29**；英 A Lead 36→**21**；全库 Contacted **285** | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `today.md` done |
+| 2026-09-10 | **Co-founder 本机** | 「今天发」**15/15** 英冷 `#279–#293`（+hero.jpg）；英 Contacted 0→**15**；英 A Lead 50→**35**；全库 Contacted **271** | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `today.md` done |
+| 2026-09-10 | **开启 Sales Day5** | 英 A `#319–#328`（10）· 英国 A **50/50** · 切 **`W3_OUTREACH`** · 未发信 · 全库 **328** | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `buyer-class-summary.md` · `phases.md` · `today.md` done |
+| 2026-09-10 | **开启 Sales Day4** | 英 A `#309–#318`（10）· 英国 A **40/50** · 禁发 · 全库 **318** | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `buyer-class-summary.md` · `today.md` done |
+| 2026-09-10 | **Founder / Co-founder** | **澳 WA 试点选项 A**：仅澳 A + 公开号；禁催 Brad/Martin/Angela/Alex；不扩澳、不重启澳冷邮 | `cofounder.md` · `customers.md` · `outreach-playbook.md` · `founder.md` |
+| 2026-09-09 | **Founder / Co-founder** | **确认换英**：第一市场英国生效；切 `W2_COLLECT`；积 50 英 A；澳停新冷邮 | `customers.md` · `phases.md` · `strategy.md` · `founder.md` · `cofounder.md` · `sales.md` · `today.md` · `lessons.md` |
+| 2026-09-09 | **Research 正式Research** | 短名单重评：英 **3.85** > 澳 **3.75**；推荐换英 → **已确认** | `country-scoring.md` · `research.md` · `customers.md` · `lessons.md` |
+| 2026-09-09 | **Founder / Co-founder** | **选 C 落盘**：切入 `W3_RESEARCH_RESET`；授权 **正式Research**；暂停日配新冷邮与补 A | `strategy.md` · `phases.md` · `customers.md` · `founder.md` · `cofounder.md` · `workflows/sales.md` · `today.md` · `lessons.md` |
+| 2026-09-09 | **Founder复盘** | 提前于 9/16：Contacted 256 / Replied 4；出三选一；**Co-founder 选 C** | `lessons.md` · `founder.md` |
+| 2026-09-09 | **Co-founder 本机** | 「今天发」**15/15**：冷 `#278`（1）+ 跟进 `#191–#193 #199–#203 #176 #178 #180 #181 #204 #205`（14）；A Lead 13→**12**；Contacted **256**；可发冷邮已空 | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `today.md` done |
+| 2026-09-07 | **Co-founder 本机** | 「今天发」**15/15**：冷 `#271–#277`（7）+ 跟进 `#198 #170–#174 #189 #190`（8）；`#278` 留次日；A Lead 20→**13**；Contacted **255** | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `today.md` done |
+| 2026-09-04 | **Founder / Co-founder** | **补做 8/30 软切复评落盘**：续 A 软切+选项 2 至 **9/16**；不切 W4；不硬切；不正式 Research；日配跟进≥新冷邮；Brad 静默至约 9/16 | `strategy.md` · `phases.md` · `customers.md` · `founder.md` · `cofounder.md` · `workflows/sales.md` · `lessons.md` · `buyer-class-summary.md` |
+| 2026-09-04 | **Co-founder 本机** | 「今天发」**15/15**：冷 `#263–#270`（8）+ 跟进 `#156 #157 #159 #194–#197`（7）；A Lead 20→**12**；Contacted **248** | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `today.md` done |
+| 2026-09-03 | **Co-founder 本机** | 「今天发」**15/15**：冷 `#255–#262`（8）+ 跟进 `#154 #4 #10 #20 #64 #92 #155`（7）；A Lead 20→**12**；Contacted **240** | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `today.md` done |
+| 2026-09-02 | **Co-founder 本机** | 「今天发」**15/15**：冷 `#247–#254`（8）+ 跟进 `#146 #148–#153`（7）；A Lead 20→**12**；Contacted **232** | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `today.md` done |
+| 2026-08-26 | **Co-founder 本机** | 「今天发」**15/15**：冷 `#239–#246`（8）+ 跟进 `#182–#185 #187 #144 #145`（7）；补A `#247–#254`（8 · 待发）；A Lead→**20**；Contacted **224** | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `today.md` done |
 | 2026-08-19 | **Sales / 本机** | 补A库存 `#213–#221`（9，全 A，均有公开邮箱）；A Lead 11→**20**；买家 **221**；闸门关；**未发信** | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `buyer-class-summary.md` · `today.md` |
 | 2026-08-19 | **Co-founder 本机** | 回 `#132` 1-pager+关键页；补发冷 `#204–#212`；跟进 6；日配 15/15；A Lead→**11**；Contacted **191**；Replied **4** | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `today.md` done |
 | 2026-08-18 | **Co-founder 本机** | 「今天发」**15/15**：冷 `#199–#203` + A 跟进 `#189–#193 #170–#174`；A Lead 16→**11**；Contacted **183** | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `today.md` done |
@@ -233,6 +252,22 @@
 ---
 
 ## 每周复盘（Founder Agent 主持）
+
+### 2026-09-09 · Founder复盘（提前于 9/16）
+
+- **漏斗:** 买家 **278** · Contacted **256** · Replied **4** · A Lead **12&lt;20** · 回复率约 **1.6%**
+- **热线索:** `#132` Alex（Yes · 未选尺寸）· `#169` Brad（样品方案后静音 · 9/2 轻跟无回）· `#147` Angela · `#41` Martin 凉
+- **本周结论:**
+  1. **不切 W4**（回复仍 &lt;5）
+  2. **发信量已足够**；瓶颈是转化与渠道单一（Gmail 为主，LI 未跑）
+  3. **A 软切有信号但未闭环** — 4 条真回后无 Qualified
+  4. **可提前复盘** — 不必等到 9/16
+- **待 Co-founder 拍板（三选一）:** ✅ **已选 C — `正式Research`**（2026-09-09）
+  - ~~A — 续软切强化（至 9/23）~~
+  - ~~B — 硬切 `W3_RESEARCH_RESET` 仅暂停~~
+  - **C — `正式Research`** ← 已拍板；同步切入 `W3_RESEARCH_RESET`；短名单 ≥3 国重评澳
+- **Founder 原推荐：** A（未采纳）
+- **写入 lessons:** `lessons.md` 2026-09-09 |
 
 ### Week 1
 
