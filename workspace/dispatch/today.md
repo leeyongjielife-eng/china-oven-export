@@ -47,4 +47,5 @@
 | P1 | **15/15** · 冷 10 + 跟进 5 · 新附件 one-pager |
 | 漏斗 | 全库 Contacted **297** · 英 Contacted **41** · Lost **2** · 英 Replied **0** · 英 A Lead **10** |
 | 未做 | LinkedIn；澳跟进；回 `#306`；`#282` 改发 |
+| 收件箱 | `#314` Norfolk / `#323` Maze **自动回执**（非 Replied）· 已记 Notes |
 | 跳过 | `#282` Bounce；澳新冷邮；P3 燃料火盆家具优先 |

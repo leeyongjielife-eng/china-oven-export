@@ -9163,7 +9163,7 @@ WhatsApp: +86 137 9461 3243
 
 ### #314 Norfolk Grills — 新冷邮
 
-> 2026-09-14 对齐 · **已发**
+> 2026-09-14 对齐 · **已发** msg `1a09ea5820b3c88c` → `enquiries@norfolkleisure.co.uk` · **自动回执 2026-09-14** msg `1a09ea646b9ed137`（Automatic reply · 5–7 working days · 勿 chase · **非 Replied**）
 
 **To:** enquiries@norfolkleisure.co.uk  
 **Subject:** Complementary ceramic kamado beside Norfolk BBQ lines?
@@ -9338,7 +9338,7 @@ WhatsApp: +86 137 9461 3243
 
 ### #323 Maze Outdoor — 新冷邮
 
-> 2026-09-14 对齐 · **已发**
+> 2026-09-14 对齐 · **已发** msg `1a09ead82fd12e5b` → `tradesales@maze.co.uk` · **自动回执 2026-09-14** msg `1a09eaefb1882f3e`（Automatic reply · 72 working hours · 只用 tradesales@ · **非 Replied**）
 
 **To:** tradesales@maze.co.uk  
 **Subject:** Ceramic kamado module for Maze outdoor kitchen / Ember setups?
@@ -9477,3 +9477,4 @@ Export — YUEFU BBQ, Foshan, China
 WhatsApp: +86 137 9461 3243
 
 2026-09-14 · **Wave-1 P2 实发 15/15**：冷 10（hero+one-pager）+ 跟进 5（one-pager）· 英 Contacted **41**。
+2026-09-14 · **收件箱**：`#314` Norfolk 自动回执 msg `1a09ea646b9ed137`（5–7 working days · 勿 chase）· `#323` Maze 自动回执 msg `1a09eaefb1882f3e`（72 working hours）· 均 **非 Replied** · Stage 保持 Contacted · 英 Replied 仍 **0**。
