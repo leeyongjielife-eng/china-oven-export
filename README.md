@@ -135,7 +135,9 @@ GPT 原始 7 文件 + `cofounder.md`（人类合伙人层）。
 | 内容 | 信任建设文章 | 内容 | `workspace/content/` |
 | 复盘 | 有效/无效做法 | 全公司 | `company/lessons.md` |
 
-**不需要一开始建的：** 网站、CRM 软件、自动化脚本、多产品线。
+**不建：** 面向买家的网站、云端代发 Gmail、多产品线。
+
+**已授权（2026-09-21）：** 本机经营中控台，独立仓库 [`china-oven-console`](../china-oven-console)。在中控台账本与发信上线前，买家明细仍以 `workspace/buyers/pipeline.md` 为准，发信仍以 [`company/cofounder.md`](company/cofounder.md) 为准。决策见 [`company/strategy.md`](company/strategy.md) 2026-09-21。
 
 ---
 

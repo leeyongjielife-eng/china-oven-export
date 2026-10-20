@@ -5,6 +5,9 @@ workspace/suppliers/*/quotation/
 workspace/suppliers/*/certificates/
 workspace/suppliers/*/*.pdf
 
+# 发信附件中转（base64 / MCP 载荷，可再生成）
+workspace/buyers/assets/_send_payload/
+
 # 环境变量
 .env
 .env.*

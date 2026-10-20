@@ -25,7 +25,7 @@
 |------|----------|
 | 业务 | 中国 Kamado 陶瓷烤炉出口寻源 |
 | 产品 | 18" / 21" 主推，供应商 YUEFU BBQ（佛山） |
-| **当前 phase** | **`W3_OUTREACH`**（英国外联；详见 [`phases.md`](phases.md)） |
+| **当前 phase** | **`W4_FOLLOWUP`**（2026-10-09 起；英新冷邮并行；详见 [`phases.md`](phases.md)） |
 | 战略 | 一个资源 → 一个市场 → 一个报价 |
 | 定位 | 寻源顾问，降风险，非最低价噱头 |
 | Co-founder 贡献 | 国内烤炉供应商资源（父亲朋友工厂 YUEFU），可拿货销售、帮开市场 |
@@ -36,11 +36,11 @@
 
 ## 当前阶段判断
 
-- **Phase:** 0 — **`W3_OUTREACH`**（英国 A **52**；英 Contacted **41**）
-- **瓶颈:** 英积极回复 **0**/5；`#306` Lost；英 A Lead **10**（P3 后置）
-- **优势:** EN1860-1；首封已附 **hero + one-pager**
-- **今日主线（2026-09-14）：** 「今天发」**15/15** · 冷 P2×10 + 跟进 5
-- **暂不做:** 云端 Gmail 实发；澳新冷邮；催 Brad/Martin；电话；问叔叔；Bounce 不自动改发；**不回** `#306`；找客方法暂不入 SSOT
+- **Phase:** 0 — **`W4_FOLLOWUP`**（2026-10-09 起 · 英新冷邮并行；英国 A **243**；英 A Contacted **133** · 英 Replied **5**）
+- **瓶颈（2026-10-20 复盘）:** **Replied → Qualified**。英 Replied 5 中真需求仅 `#369` `#285`、软兴趣 `#357`；`#298` `#342` 非采购信号。10/09 回访 5 封后至今账本无回信记录（10/10–10/20 未落盘，待核收件箱）。英新冷邮 10/09 恢复（门槛英 Contacted≥300，现 **133**）
+- **优势:** EN1860-1；首封 **hero + one-pager**；英线 Replied 5 · 英 Contacted 过百
+- **今日主线（2026-10-09）：** **补A** `#507–#521`（15 · 全英 A · **未发信**）· 英 A 228→**243** · 英 A Lead **111** · 全库 **521** · 未发 `#415–#521` · 今日未发邮件 · **停冷邮规则改**：恢复英新冷邮，门槛 100→**300**
+- **暂不做:** 云端 Gmail 实发；澳新冷邮；催 Brad/Martin；电话；问叔叔；Bounce 不自动改发；**不回** `#280` `#306` `#335`；找客方法暂不入 SSOT
 
 ### Automation（2026-07-13 · 单 Run + Research）
 
@@ -55,11 +55,24 @@
 
 | 📅 | — | **换英已确认** → `W2_COLLECT` 积 50 英 A | ✅ |
 | 📅 | 2026-09-10 | **英 A 50/50** → 切 **`W3_OUTREACH`** | ✅ |
-| 📅 | 2026-09-14 | P2 冷 10+跟进 5 · 首封附 one-pager | ✅ |
+| 📅 | 2026-09-15 | P3 冷 9+首跟 6 · 英 Contacted 50 | ✅ |
+| 📅 | 2026-09-28 | 「发邮件」首跟 15/15 `#317` `#321` `#322` `#324–#326` `#328` `#333` `#334` `#336–#338` `#346–#348` · 漏斗不变 · **停英新冷邮** | ✅ |
+| 📅 | 2026-09-22 | 「发邮件」15/15 `#386–#400` · 英 Contacted **112** · **停英新冷邮** | ✅ |
+| 📅 | 2026-09-22 | 回信户 v2 跟进：实发 3（`#285` `#169` `#342`）· `#369` 暂缓 · 澳禁催维持（`#132` `#147` `#41` 未发） | ✅ |
+| 📅 | 2026-09-22 | `#369` Atom 补发 18"+21" EN1860-1（精简 · 无报价）msg `1a0c9261602e10d1` | ✅ |
+| 📅 | 2026-09-21 | 「今天发」15/15 `#371–#385` · 英 Contacted **97** · 英 A Lead **4**（Bounce） | ✅ |
+| 📅 | 2026-09-20 | 「补A并发冷邮」15/15 `#356–#370` · 英 Contacted **82**（Bounce 后）· 英 A **92** · `#369` Replied | ✅ |
+| 📅 | 2026-09-19 | 「今日发」15/15 冷7+跟进8 · 英 Contacted **71** · 英 A Lead **2** | ✅ |
+| 📅 | 2026-09-18 | 「发信」15/15 P4+/P4 · 英 Contacted **66** · 英 A Lead **8** | ✅ |
+| 📅 | 2026-09-16 | 收件箱 `#285` Replied · `#280` Lost · 英 Contacted **48** · 英 Replied **1** | ✅ |
 
 ### Co-founder 今日说明
 
-**9/14 已发：** Wave-1 P2 冷 `#309 #314 #319 #320 #327 #316 #311 #310 #323 #318`（hero+one-pager）+ 跟进 `#285 #288 #291 #301 #307`（one-pager）。英 Contacted **41** · 英 A Lead **10**。澳停新冷邮；Brad/Angela/Martin/Alex 仅主动回信。不问叔叔。
+**9/22：** 「发邮件」**15/15** `#386–#400`（hero+onepager）。英 Contacted **112** · 英 A Lead **20**（16 可发 + 4 Bounce）· **英 Contacted≥100 → 停英新冷邮**。次日改跟进 / 热线索；`#369` 回信仍待授权。
+
+**9/21：** 「今天发」**15/15** `#371–#385`（hero+onepager）。英 Contacted **97** · 英 A Lead **4**（仅 Bounce）· 英 Replied **3**。
+
+**9/20：** 「补A并发冷邮」**15/15** `#356–#370`。`#369` Atom→Replied。`#364` `#370` Bounce。
 ---
 
 ## 今日排期（2026-08-13 · 周四）⏳ 续冷 #179–#183 + A 跟进 #145–#154 · 停扩
@@ -124,20 +137,20 @@
 |--------|------|------------|------|
 | P0 | Co-founder 档案补全 | Co-founder | ✅ 完成 |
 | P0 | Research 体系独立审核 + 按意见修复 | 审核子代理 + Founder | ✅ 完成 |
-| P0 | **问叔叔：YUEFU 出口史** | Co-founder | ⏸️ **暂缓** — Lee 决定先找潜在买家，有询盘/Qualified 后再问（2026-07-10） |
+| P0 | **问叔叔：YUEFU 出口史 / FOB** | Co-founder | ✅ **2026-09-21 已拿到** 厂报价表（FOB 盐田 18" US$150 / 21" US$186）+ 样品价 + 出口史（无英国客户）· 见 `supplier-inquiry.md` · 仍缺柜下试单量价、付款方式 |
 | P0 | 市场研究，定第一个目标国 | Research | ✅ **英国**（2026-09-09 确认；取代 7/10 澳） |
 | P1 | 积满 **50 英国 A** | Sales | ✅ **50**（2026-09-10）；现 **52**（+`#329–#330` Wave-1） |
 | P1 | 外联草稿备齐 | Sales | ✅ 英 `#279–#328` 首封草稿齐 · **未发** |
 | P1 | 补联系人 A 级 | Sales | 持续补 |
 | P1 | 外联 100（定价话术见 `product.md` 定价策略） | Co-founder 本机 + Sales 草稿 | 🔄 **`W3_OUTREACH`** · 等本机「今天发」（建议自 `#279`） |
-| P2 | 有回复后 → 向 YUEFU 要针对性 FOB | Supplier + Co-founder | 有 Qualified 后 |
+| P2 | 有回复后 → 向 YUEFU 要针对性 FOB | Supplier + Co-founder | ✅ 厂 FOB 已有（9/21）；有 Qualified 后再问柜下试单量价、付款方式 |
 | P3 | 正式报价单 | Quoting | 有需求 + 厂价后 |
 
 ---
 
 ## 待 Co-founder 决策 / 回答
 
-> 发信规则：本机 `今天发`；**英国 Contacted≥100** 停英新冷邮（澳 256 归档）。账本 SSOT=本机 pipeline。
+> 发信规则：本机 `今天发`；**英国 Contacted≥300** 停英新冷邮（2026-10-09 由 100 改为 300；澳 256 归档）。账本 SSOT=本机 pipeline。
 
 | # | 问题 | 影响 | 状态 |
 |---|------|------|------|
@@ -146,6 +159,7 @@
 | 3 | **#17 / #126 Bounce** | 救 ICP | ⏳ #17 待定；**#126 无可用邮箱**（公开邮箱=死域名；仅电话 03 9889 6542 / 0418 551 520）· 2026-08-04 查毕 · 不改发 |
 | 4 | Research Reset / 是否换英 | 第一市场 | ✅ **2026-09-09 确认换英**；2026-09-10 英 A **50/50** → **`W3_OUTREACH`** |
 | 5 | 8/4 日配额 | A Lead `#139–#154` | ✅ 15/15 已发（2026-08-04） |
+| 6 | **企业域名邮箱**（2026-10-20 评估） | 送达率 / 可信度 | ⏳ 待拍板。`yuefubbq.com` MX = **阿里云企业邮**，SPF 已配、**无 DMARC**。① **推荐** 请厂开 `kit@yuefubbq.com`，在 Gmail「以其他地址发送」挂阿里云 SMTP —— 与厂站/目录/TÜV 主体一致，现有 Gmail MCP 流程基本不变；需厂配合（顺带建议厂加 DMARC `p=none`）。② 自购域名 + Google Workspace（约 US$7/人·月）—— 自主可控，但新域名需 2–4 周预热，且与厂站不同名。③ 维持 `leewingqi16@gmail.com`。**任一切换都不再发「换邮箱通知」**；改 `cofounder.md` 发信政策须 Co-founder 拍板 |
 
 ---
 
@@ -153,6 +167,36 @@
 
 | 日期 | 调度 | 任务 | 结果写回 |
 |------|------|------|----------|
+| 2026-10-20 | **Founder复盘** | 英线 9/09–10/20 复盘（见下「每周复盘」）；Co-founder 拍板：维持 Qualified 后才问厂试单价；起草 `#369` `#285` `#357` 最后一触（**未发**）；评估域名邮箱（待决策 #6）；`_send_payload/` 进 `.gitignore`；本机 9/14 起积压改动一次 commit + push | `lessons.md` · `founder.md` · `outreach-drafts.md` · `.gitignore` |
+| 2026-10-04 | **Co-founder 拍板** | 新邮 From / 署名改回 `leewingqi16@gmail.com`；`user-gmail` 实发；`plugin-gmail`（claire）不再发新信。历史已发不回改。one-pager PDF 页脚仍印 claire | `cofounder.md` · `templates/outreach.md` |
+| 2026-10-09 | **Co-founder 本机** | 英新冷邮 **10/10** `#415–#424` From `leewingqi16@gmail.com` · hero + one-pager · 英 A Contacted 123→**133** · 英 A Lead **101** · 今日 15/15 用满 · `#420` 审批拦 + 网络中断，核实未发后重发 | `pipeline.md` · `sales.md` · `buyer-class-summary.md` |
+| 2026-10-09 | **Co-founder 本机** | 「跟进吧」热线索回访 **5/5** `#369` `#285` `#298` `#357` `#342` From `leewingqi16@gmail.com` · 附 hero + 4 张实拍 · Stage 保持 Replied · `#298` 首发网络中断、确认未发后重发 | `pipeline.md` · `outreach-drafts.md` · `sales.md` |
+| 2026-10-09 | **Co-founder 拍板** | **切 `W4_FOLLOWUP`**（英 Replied 5 达标）：英新冷邮为主并行至英 Contacted≥300 + 热线索带新理由回访（须授权）；**更正**：厂 FOB/出口史 9/21 已拿到（原「问叔叔暂缓」过时）；起草 5 家热线索回访草稿（未发） | `phases.md` · `cofounder.md` · `product.md` · `sales.md` · `buyer-class-summary.md` · `outreach-drafts.md` |
+| 2026-10-09 | **Co-founder 拍板** | **恢复英新冷邮**：停止门槛英 Contacted ≥100 → **≥300**（现 123，余 177）；日配额仍 15，周日不发冷邮；可发冷池 `#415–#521`（107 可发） | `cofounder.md` · `phases.md` · `strategy.md` · `customers.md` · `outreach-playbook.md` · `sales.md` · `buyer-class-summary.md` |
+| 2026-10-09 | **Co-founder 本机** | **数字更正**：英 A Contacted 124→**123**（`#400` 改 Bounce · 10/07 首跟实际送达 14/15）；英 Replied 3→**5**（补 `#298` `#357`）；全库 Contacted **379** · Replied **9**；历史行不回改 | `sales.md` · `buyer-class-summary.md` · `founder.md` |
+| 2026-10-09 | **Co-founder 本机** | **补A** `#507–#521`（15 · 全英 A · **未发信**）；英 A 228→**243**；全库 **521**；停英新冷邮维持 | `pipeline.md` · `sales.md` · `buyer-class-summary.md` |
+| 2026-10-08 | **Co-founder 本机** | 英 A 第 3 触 **6** `#279` `#283` `#284` `#286` `#287` `#288` From `leewingqi16@gmail.com` · 新理由 2027 季采购+先拿样 · 同附 `email-hero-kamado.jpg` · Co-founder 授权；破停冷邮 `#415` 被审批拦下未发 | `pipeline.md` · `sales.md` |
+| 2026-10-08 | **Co-founder 本机** | 英 A 首跟 **3** `#412` `#413` `#414` From `leewingqi16@gmail.com` · 新写法 · 同附 `email-hero-kamado.jpg` 原图 · Stage 保持 Contacted · 首跟队列清空 | `pipeline.md` · `sales.md` |
+| 2026-10-08 | **Co-founder 本机** | **补A** `#492–#506`（15 · 全英 A · **未发信**）；英 A 213→**228**；全库 **506**；停英新冷邮维持；英 A Contacted 仍 **124** | `pipeline.md` · `sales.md` · `buyer-class-summary.md` |
+| 2026-10-07 | **Co-founder 本机** | 英 A 首跟 **15/15** `#392–#400` `#402` `#403` `#407` `#408` `#410` `#411` From `leewingqi16@gmail.com` · 新写法 · 同附 `email-hero-kamado.jpg` 原图 · 跳过 `#401`（禁补附件包）与 `#404` `#405` `#406` `#409`（9/26 冷邮重复两封）· Stage 保持 Contacted | `pipeline.md` · `sales.md` |
+| 2026-10-07 | **Co-founder 本机** | **补A** `#477–#491`（15 · 全英 A · **未发信**）；英 A 198→**213**；全库 **491**；停英新冷邮维持；英 A Contacted 仍 **124** | `pipeline.md` · `sales.md` · `buyer-class-summary.md` |
+| 2026-10-06 | **Co-founder 本机** | 英 A 首跟 **15/15** `#377–#391` From `leewingqi16@gmail.com` · 新写法（短正文+一句对方业务方向+一个 YES）· 同附 `email-hero-kamado.jpg` 原图 · Stage 保持 Contacted | `pipeline.md` · `sales.md` · `cofounder.md` |
+| 2026-10-06 | **Co-founder 本机** | **补A** `#462–#476`（15 · 全英 A · **未发信**）；英 A 183→**198**；全库 **476**；停英新冷邮维持；英 A Contacted 仍 **124** | `pipeline.md` · `sales.md` · `buyer-class-summary.md` |
+| 2026-10-05 | **Co-founder 本机** | 英 A 首跟 **15/15** From `leewingqi16@gmail.com`（`#359–#363` `#365–#368` `#371–#376`）· 同附闭盖图（240×180 压缩版）· Stage 保持 Contacted | `pipeline.md` · `sales.md` |
+| 2026-10-04 | **Co-founder 本机** | **补A** `#447–#461`（15 · 全英 A · **未发信**）；英 A 168→**183**；全库 **461**；周日不发；停英新冷邮维持；英 A Contacted 仍 **124** | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `buyer-class-summary.md` |
+| 2026-09-25 | **Co-founder 本机** | **补A** `#417–#431`（15 · 全英 A · **未发信**）；英 A 138→**153**；英 A Lead 20→**35**；全库 **431**；停英新冷邮维持 | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `buyer-class-summary.md` · `today.md` done |
+| 2026-09-24 | **Co-founder 本机** | **中秋祝福 117/117**（英A+澳询盘；前34旧邮不管；后83 claire 已校验）；Stage 不变 | `pipeline.md` · `today.md` · `cofounder.md` |
+| 2026-09-24 | **Co-founder 拍板** | 旧邮又能用 → **选项 1**（**2026-10-04 已取代**）：当时发信仍 `claireleebalance`；`leewingqi16` 只收不发 | `cofounder.md` |
+| 2026-09-23 | **Co-founder 本机** | **澳实拍+报价** `#147` `#132` `#169` **3/3**（破禁催 · +JPG · 跳过 `#41`）；Stage 保持 Replied | `pipeline.md` · `outreach-drafts.md` · `today.md` · `sales.md` |
+| 2026-09-23 | **Co-founder 本机** | 痛点跟进 **15/15**（选项1 · `#293 #294 #295 #299 #288 #291 #301 #307 #314 #323 #287 #302 #308 #312 #313`）；不发新补A；停英新冷邮维持 | `pipeline.md` · `outreach-drafts.md` · `today.md` done |
+| 2026-09-23 | **Co-founder 本机** | 「发邮」英 Contacted 跟进 **15/15**（`#290 #296–#298 #300 #303–#305 #279 #281 #283 #284 #286 #289 #292`）；From `claireleebalance`；漏斗 Contacted 不变；停英新冷邮维持 | `pipeline.md` · `outreach-drafts.md` · `today.md` done |
+| 2026-09-23 | **Co-founder 本机** | **补A** `#401–#416`（16 · 全英 A · **未发信**）；英 A 122→**138**；英 A Lead 4→**20**；全库 **416**；停英新冷邮维持 | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `buyer-class-summary.md` · `today.md` done |
+| 2026-09-22 | **Co-founder 本机** | 「发邮件」**15/15** `#386–#400`；英 Contacted 97→**112**；英 A Lead 19→**4**（Bounce）；全库 Contacted **368**；**英 Contacted≥100 → 停英新冷邮** | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `buyer-class-summary.md` · `today.md` done |
+| 2026-09-22 | **Co-founder 本机** | **回信户 v2 跟进**（非日配额）：实发 3 封 `#285` `1a0c909d565731c1` · `#169` `1a0c90a9267ebe18`（**显式授权破「#169 不催」**）· `#342` `1a0c90b229030f8f`；Stage 全保持 Replied、**漏斗数不变**；`#369` 暂缓；澳 `#132` `#147` `#41` 未发。改法=**反转谁先动**（依 `lessons.md` 4 条热线索全死在「请你先选」）+ **LCL 最低计费 1 CBM → 默认 2 台**。同日读 TÜV 报告发现 **工厂实为肇庆福宝、悦富为佛山销售名（同一老板）**，`our own plant in Foshan` 口径作废 | `pipeline.md` · `outreach-drafts.md` · `today.md` · `lessons.md` · `templates/outreach.md` · `product.md` · `product-summary.md` · `supplier-inquiry.md` done |
+| 2026-09-21 | **Co-founder 本机** | 「今天发」**15/15** `#371–#385`；英 Contacted 82→**97**；英 A Lead 19→**4**（Bounce）；全库 Contacted **353**；可发冷池空 | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `buyer-class-summary.md` · `today.md` done |
+| 2026-09-20 | **Co-founder 本机** | 「补A并发冷邮」**15/15** `#356–#370`；英 Contacted 70→**85**；英 A 77→**92**；全库 **370** / Contacted **341**；冷池空 | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `buyer-class-summary.md` · `today.md` done |
+| 2026-09-19 | **Co-founder 本机** | 「今日发」**15/15**：冷 7 + 跟进 8；英 Contacted 66→**71**；英 A Lead 7→**2**（`#282` `#341` Bounce）；`#342` Replied；全库 Contacted **327**；冷池空 | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `buyer-class-summary.md` · `today.md` done |
+| 2026-09-15 | **Co-founder 本机** | 「今日发」**15/15**：P3 冷 9 + 首跟 6；英 Contacted 41→**50**；英 A Lead 10→**1**（仅 `#282`）；全库 Contacted **306** | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `buyer-class-summary.md` · `today.md` done |
 | 2026-09-14 | **Co-founder 本机** | 「今天发」**15/15** Wave-1 P2：冷 10（hero+one-pager）+ 跟进 5；英 Contacted 31→**41**；英 A Lead 20→**10**；全库 Contacted **297**；护栏改为首封 2 附件 | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `buyer-class-summary.md` · `cofounder.md` · `today.md` done |
 | 2026-09-12 | **Co-founder 本机** | 「按方案发」**15/15** Wave-1：冷 `#329 #330 #315`（+hero）+ 跟进 12；英 Contacted 28→**31**；英 A Lead 23→**20**；全库 Contacted **287** | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `buyer-class-summary.md` · `today.md` done |
 | 2026-09-12 | **Sales Wave-1** | 入账 `#329` Kama Gear · `#330` HEX · 重排英发信序 · 英 A **52** · 全库 **330** | `pipeline.md` · `outreach-drafts.md` · `buyer-class-summary.md` · `sales.md` · `uk-buyer-pool-wave1-*.md` |
@@ -252,6 +296,18 @@
 ---
 
 ## 每周复盘（Founder Agent 主持）
+
+### 2026-10-20 · Founder复盘（英线 9/09–10/20 · W4 第 2 周）
+
+- **漏斗:** 英首封投递约 **141** · 真人回复 **8**（有兴趣 5 + 拒 3 · 约 5.7%；澳 1.6%）· Qualified **0** · 报价单 **0** · 英 A Lead 库存 **101**
+- **热线索:** `#369` Atom（最深询盘 · 9/20 后未再回）· `#285` Vision（要 1–2 台 21" 样品 · 9/16 FOB 报价后沉默）· `#357` Stone Bake（软兴趣）· `#298` Urban（仅说进垃圾箱）· `#342` Inferno（佣金代卖）
+- **本周结论:**
+  1. 换英正确 —— 获客端达合格线；卡点在 Replied → Qualified
+  2. 主因是报价结构（FOB + 1×40HQ + 自找货代）与英国小厂体量不匹配，非文案
+  3. 热线索过度触达、发信身份频繁切换、Git 5 周未提交、10/10 起账本断档
+- **决策（已拍板 2026-10-20）:** 维持「Qualified 后才问厂试单量价」；热线索最后一触（春节前排产截止 · 不报新价 · 待授权发）后停追；域名邮箱待拍板（待决策 #6）；复盘落盘 + push
+- **下两周唯一指标:** Qualified 数
+- **写入 lessons:** `lessons.md` 2026-10-20
 
 ### 2026-09-09 · Founder复盘（提前于 9/16）
 

@@ -84,14 +84,18 @@
 
 | # | 公司 | 城市 | 类型 | 产品 | 出口 | 认证 | 状态 | 详情 |
 |---|------|------|------|------|------|------|------|------|
-| 1 | YUEFU BBQ | 佛山 | 工厂（父亲朋友） | Kamado 13"-24" | 美欧澳等 | EN1860-1, FDA, LFGB | 已收目录，**未报价；有回复后再议价** | [`workspace/suppliers/yuefu-bbq/`](../workspace/suppliers/yuefu-bbq/) |
+| 1 | YUEFU BBQ（悦富）= 对外销售/出口口，**佛山**；肇庆福宝 `Fubao(Zhaoqing) Household Oven Technology Co., Ltd` = **实际生产工厂**，**肇庆**高要 —— **同一老板**（Co-founder 2026-09-22 确认） | 佛山（销售）/ 肇庆（生产） | 工厂（父亲朋友） | Kamado 13"-24" | 美欧澳等 | EN1860-1, FDA, LFGB | 已收目录 + **2026-09-21 报价表** | [`workspace/suppliers/yuefu-bbq/`](../workspace/suppliers/yuefu-bbq/) |
+
+> **对外口径（2026-09-22 起强制）：** 工厂在**肇庆**，佛山是销售与出口主体，同一所有人。**禁止**写 `our own plant in Foshan`。TÜV 报告 Manufacturer 印的是 Fubao(Zhaoqing) —— **主动说明，让报告印证我方说法**。细节与待确认项见 [`supplier-inquiry.md`](../workspace/suppliers/yuefu-bbq/supplier-inquiry.md) 2026-09-22 记录。
+>
+> **厂站（2026-09-23）：** `https://www.yuefubbq.com` — 对外可作工厂可信背书链接；站上联系人是 Lynn/Sarah，**无 Kit Lee**。外联用法见 [`outreach-playbook.md`](../workspace/buyers/outreach-playbook.md) §三.8。
 
 ### 定价策略（Co-founder 确认）
 
 - **模式：** 先找买家验证需求 → 有具体询盘后再向工厂谈价
 - **原因：** 厂价灵活；Co-founder 角色是帮工厂开市场，非单纯倒货
 - **W3 外联定价（2026-07-16 统一口径）：** 冷邮件**默认**写 **indicative market FOB**（当前锚点：21" 主流 **USD $255–316**；来源 Alibaba 公开区间，见 [`competitor-benchmark.md`](../workspace/markets/competitor-benchmark.md)）。必须标明 *indicative / not locked / firm against spec & MOQ*。**不得**写成 YUEFU 锁价或正式 PI。
-- **正式 / 精确 FOB：** 买家进入 Qualified **且** 已向工厂询价后，由 Quoting 出单。
+- **正式 / 精确 FOB：** 买家进入 Qualified **且** 已向工厂询价后，由 Quoting 出单。**厂报价表 2026-09-21 已到手**（FOB 深圳盐田 18" US$150 / 21" US$186，MOQ 1×40HQ；见 [`supplier-inquiry.md`](../workspace/suppliers/yuefu-bbq/supplier-inquiry.md)），热线索回盘可直接用；柜下试单量价、付款方式仍待厂确认。
 - **风险管控：** 至少在有 1 个认真询盘前，向父亲朋友要一个**内部参考价区间**（不必书面报价），避免报价离谱
 - **署名：** 外联一律 **Kit Lee** · Export — YUEFU BBQ, Foshan, China · **WhatsApp: +86 137 9461 3243**（号码与触达政策见 `cofounder.md`）
 

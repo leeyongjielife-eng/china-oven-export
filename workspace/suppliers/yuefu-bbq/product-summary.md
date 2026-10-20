@@ -2,13 +2,15 @@
 
 > 来源：`2025-catalog-of-kamado.pdf`（2025 版）
 > 公司：YUEFU BBQ，佛山（珠三角）
+>
+> **⚠️ 2026-09-22 主体更正（Co-founder 确认）：** 本页「所在地/厂房/产能/设备」均来自**目录自述**。实际结构是 **肇庆福宝 `Fubao(Zhaoqing) Household Oven Technology Co., Ltd`（肇庆高要）＝生产工厂**，**悦富 YUEFU（佛山南海）＝对外销售与出口名称**，**同一老板**。故下表厂区数据**推定指肇庆厂**，未经厂面确认，**对买家引用时勿称「佛山的工厂」**。依据：TÜV Rheinland 报告 `CN25WUJJ 003/005` Manufacturer 栏 + 检测地点 ZHAOQING。对外口径见 [`../../../company/product.md`](../../../company/product.md) 供应商摘要。
 
 ## 公司概况
 
 | 项目 | 信息 |
 |------|------|
 | 品牌 | YUEFU BBQ / YUTFUBG |
-| 所在地 | 佛山，广东（Foshan·China） |
+| 所在地 | 销售/出口：佛山南海 · **生产：肇庆高要（福宝）** |
 | 定位 | 珠三角首家 Kamado Grill 制造商 |
 | 厂房面积 | 15,000 ㎡ |
 | 员工 | 100+ 人 |
