@@ -159,7 +159,7 @@
 | 3 | **#17 / #126 Bounce** | 救 ICP | ⏳ #17 待定；**#126 无可用邮箱**（公开邮箱=死域名；仅电话 03 9889 6542 / 0418 551 520）· 2026-08-04 查毕 · 不改发 |
 | 4 | Research Reset / 是否换英 | 第一市场 | ✅ **2026-09-09 确认换英**；2026-09-10 英 A **50/50** → **`W3_OUTREACH`** |
 | 5 | 8/4 日配额 | A Lead `#139–#154` | ✅ 15/15 已发（2026-08-04） |
-| 6 | **企业域名邮箱**（2026-10-20 评估） | 送达率 / 可信度 | ⏳ 待拍板。`yuefubbq.com` MX = **阿里云企业邮**，SPF 已配、**无 DMARC**。① **推荐** 请厂开 `kit@yuefubbq.com`，在 Gmail「以其他地址发送」挂阿里云 SMTP —— 与厂站/目录/TÜV 主体一致，现有 Gmail MCP 流程基本不变；需厂配合（顺带建议厂加 DMARC `p=none`）。② 自购域名 + Google Workspace（约 US$7/人·月）—— 自主可控，但新域名需 2–4 周预热，且与厂站不同名。③ 维持 `leewingqi16@gmail.com`。**任一切换都不再发「换邮箱通知」**；改 `cofounder.md` 发信政策须 Co-founder 拍板 |
+| 6 | **企业域名邮箱**（2026-10-20 评估） | 送达率 / 可信度 | ✅ **2026-10-20 Co-founder：维持 `leewingqi16@gmail.com`，不换。** 评估留档：`yuefubbq.com` MX = **阿里云企业邮**，SPF 已配、**无 DMARC**。① **推荐** 请厂开 `kit@yuefubbq.com`，在 Gmail「以其他地址发送」挂阿里云 SMTP —— 与厂站/目录/TÜV 主体一致，现有 Gmail MCP 流程基本不变；需厂配合（顺带建议厂加 DMARC `p=none`）。② 自购域名 + Google Workspace（约 US$7/人·月）—— 自主可控，但新域名需 2–4 周预热，且与厂站不同名。③ 维持 `leewingqi16@gmail.com`。**任一切换都不再发「换邮箱通知」**；改 `cofounder.md` 发信政策须 Co-founder 拍板 |
 
 ---
 
@@ -167,6 +167,7 @@
 
 | 日期 | 调度 | 任务 | 结果写回 |
 |------|------|------|----------|
+| 2026-10-20 | **Co-founder 本机** | 收件箱核查：10/09 起无买家真人回复、10/10–10/19 无发信；热线索最后一触 **3/3** `#285` `#369` `#357`（软化版 · 不写死日期）；**暂停补A**；10/20–11/03 唯一指标 Qualified；发信邮箱维持 `leewingqi16`；英国到门报价待上述完成后再议 | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `phases.md` · `strategy.md` · `founder.md` |
 | 2026-10-20 | **Founder复盘** | 英线 9/09–10/20 复盘（见下「每周复盘」）；Co-founder 拍板：维持 Qualified 后才问厂试单价；起草 `#369` `#285` `#357` 最后一触（**未发**）；评估域名邮箱（待决策 #6）；`_send_payload/` 进 `.gitignore`；本机 9/14 起积压改动一次 commit + push | `lessons.md` · `founder.md` · `outreach-drafts.md` · `.gitignore` |
 | 2026-10-04 | **Co-founder 拍板** | 新邮 From / 署名改回 `leewingqi16@gmail.com`；`user-gmail` 实发；`plugin-gmail`（claire）不再发新信。历史已发不回改。one-pager PDF 页脚仍印 claire | `cofounder.md` · `templates/outreach.md` |
 | 2026-10-09 | **Co-founder 本机** | 英新冷邮 **10/10** `#415–#424` From `leewingqi16@gmail.com` · hero + one-pager · 英 A Contacted 123→**133** · 英 A Lead **101** · 今日 15/15 用满 · `#420` 审批拦 + 网络中断，核实未发后重发 | `pipeline.md` · `sales.md` · `buyer-class-summary.md` |
