@@ -167,6 +167,7 @@
 
 | 日期 | 调度 | 任务 | 结果写回 |
 |------|------|------|----------|
+| 2026-10-22 | **Co-founder 拍板** | `#285` Vision → **Qualified**（首个；2×21" 样品 · Rotherham）。`phases.md`「≥1 Qualified → 触发 Quoting/Supplier」已满足：Supplier = Co-founder 问厂陶瓷脚/棕绿/去架样品价/出货天数；Quoting = 数字齐后一封回盘。冷邮继续（W4 规则不变），正文待 Co-founder 改版后再发 | `pipeline.md` · `sales.md` · `founder.md` |
 | 2026-10-20 | **Co-founder 本机** | 收件箱核查：10/09 起无买家真人回复、10/10–10/19 无发信；热线索最后一触 **3/3** `#285` `#369` `#357`（软化版 · 不写死日期）；**暂停补A**；10/20–11/03 唯一指标 Qualified；发信邮箱维持 `leewingqi16`；英国到门报价待上述完成后再议 | `pipeline.md` · `outreach-drafts.md` · `sales.md` · `phases.md` · `strategy.md` · `founder.md` |
 | 2026-10-20 | **Founder复盘** | 英线 9/09–10/20 复盘（见下「每周复盘」）；Co-founder 拍板：维持 Qualified 后才问厂试单价；起草 `#369` `#285` `#357` 最后一触（**未发**）；评估域名邮箱（待决策 #6）；`_send_payload/` 进 `.gitignore`；本机 9/14 起积压改动一次 commit + push | `lessons.md` · `founder.md` · `outreach-drafts.md` · `.gitignore` |
 | 2026-10-04 | **Co-founder 拍板** | 新邮 From / 署名改回 `leewingqi16@gmail.com`；`user-gmail` 实发；`plugin-gmail`（claire）不再发新信。历史已发不回改。one-pager PDF 页脚仍印 claire | `cofounder.md` · `templates/outreach.md` |

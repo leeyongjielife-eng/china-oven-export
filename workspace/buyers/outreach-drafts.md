@@ -14737,3 +14737,40 @@ Kit Lee
 Export — YUEFU BBQ, Foshan, China
 leewingqi16@gmail.com
 WhatsApp: +86 137 9461 3243
+
+---
+
+## 2026-10-22 · `#285` Paul 回盘：2×21" 样品（去架去侧台 · 陶瓷脚 · 黑 + 棕/绿）
+
+> **状态：** 草稿 v2（2026-10-22 晚）· 价格已定（产品 +12% · 运费原价 · 成本表见 `workspace/quotes/285-vision-sample-quote-2026-10-22.md`）· **仍缺颜色现货 + 出货天数（[ ] 处）**，未填齐不发。授权词：「回 #285」。
+> **长河海运 40–50 天 · 信云达卡车 20–25 天 · 2 台运费为推算，发前向长河确认实际总价。**
+> **他的原话（msg `1a15dbc6b8841a1e` · 2026-10-21）：** 2×21" 样品看是否适配厨房台面 · 不要车架/木侧台 · 要全部内件+烤网 · 要 porcelain feet · 一黑、一棕或绿 · best solution / price。
+> **SSOT 已有：** 21" 整机样品 RMB 2,000 ≈ US$280（与大货同款，含车架+侧台）· 大货 FOB：整机 186 / 有架无侧台 178 / 仅炉体 137（车架 −41、侧台 −8）· 2×21" 到门估算 海 US$300–550（6–8 周）/ 空 US$450–700（1–2 周），estimate 非报价，据实转收，不含 duty+VAT · 样品费抵首单。
+> **SSOT 缺（须问厂）：** ① 有没有陶瓷脚、单价 ② 棕/绿是否现成釉色 ③ 去车架+侧台、加陶瓷脚后的**样品单价** ④ 样品做好要几天 ⑤ 去架后外箱尺寸（影响运费）。
+> **形式：** 回同线程 `Re: Your 21" samples` · To `paul@gboutdoorliving.co.uk` · 无附件（或附 1 张所选颜色实拍）· 一个 CTA：选 A 海运 / B 空运 + 颜色。
+
+**To:** paul@gboutdoorliving.co.uk  
+**Subject:** Re: Your 21" samples  
+**Thread:** `1a11fb5e80b9cd68`
+
+Hi Paul,
+
+Yes, we can do exactly that: two 21" kamados without the cart or side shelves, sitting on three ceramic feet each, with all the internals included (firebox, fire ring, cast-iron charcoal grate, stainless cooking grid, thermometer, top vent and draft door).
+
+- Price: US$245 each, US$490 for the pair (≈ £375)
+- Colours: one black, one [green / brown]
+- Ready to ship: about [N] days after you confirm
+
+Delivered to Rotherham, UK duty and VAT paid — pick one:
+A) Sea, 40–50 days door to door: about US$280 freight → US$770 total (≈ £590)
+B) Truck, 20–25 days: about US$520 freight → US$1,010 total (≈ £775)
+
+Freight is passed through at cost; I'll confirm the exact figure with the forwarder before you pay. The sample cost comes off your first order. Prices valid to 30 November.
+
+Just reply A or B, plus green or brown, and I'll send the proforma.
+
+Best,
+Kit Lee
+Export — YUEFU BBQ, Foshan, China
+leewingqi16@gmail.com
+WhatsApp: +86 137 9461 3243
